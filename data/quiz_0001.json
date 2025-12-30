@@ -1,0 +1,18 @@
+{
+  "quizId": 1,
+  "date": "2025-01-01",
+  "participants": ["Cumber", "時雨", "かなくり"],
+  "songs": [
+    {
+      "order": 21,
+      "videoId": "sm0000001",
+      "title": "Little Traveler",
+      "artist": "ジミーサムP",
+      "answers": [
+        { "user": "Cumber", "result": "wrong" },
+        { "user": "時雨", "result": "wrong" },
+        { "user": "かなくり", "result": "correct" }
+      ]
+    }
+  ]
+}

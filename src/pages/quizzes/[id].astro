@@ -1,0 +1,23 @@
+---
+import quiz from "../../../data/quiz_0001.json";
+---
+
+<h1>第{quiz.quizId}回 イントロクイズ</h1>
+
+{
+    quiz.songs.map((song) => (
+        <section>
+            <h2>
+                {song.order}. {song.title}
+            </h2>
+
+            <ol>
+                {song.answers.map((a) => (
+                    <li>
+                        {a.result === "correct" ? "⭕" : "❌"} {a.user}
+                    </li>
+                ))}
+            </ol>
+        </section>
+    ))
+}

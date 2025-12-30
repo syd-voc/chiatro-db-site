@@ -1,8 +1,8 @@
 ---
-
+import quiz from "../../data/quiz_0001.json";
 ---
 
-<html lang="en">
+<html lang="ja">
 	<head>
 		<meta charset="utf-8" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -11,6 +11,19 @@
 		<title>Astro</title>
 	</head>
 	<body>
-		<h1>My Astro Site</h1>
+		<h1>イントロクイズ（試作）</h1>
+
+		<p>第{quiz.quizId}回</p>
+		<p>参加者：{quiz.participants.join(" / ")}</p>
+
+		<ul>
+			{
+				quiz.songs.map((song) => (
+					<li>
+						{song.order}. {song.title}
+					</li>
+				))
+			}
+		</ul>
 	</body>
 </html>
