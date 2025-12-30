@@ -1,18 +1,21 @@
 ---
 import quiz from "../../../data/quiz_0001.json";
+import BaseLayout from "../../layouts/BaseLayout.astro";
 
 const song = quiz.songs[0];
 ---
 
-<h1>{song.title}</h1>
-<p>作曲：{song.artist}</p>
+<BaseLayout title={song.title}>
+    <h1>{song.title}</h1>
+    <p>作曲：{song.artist}</p>
 
-<ol>
-    {
-        song.answers.map((a, i) => (
-            <li>
-                {i + 1}人目：{a.user}（{a.result}）
-            </li>
-        ))
-    }
-</ol>
+    <ol>
+        {
+            song.answers.map((a, i) => (
+                <li>
+                    {i + 1}人目：{a.user}（{a.result}）
+                </li>
+            ))
+        }
+    </ol>
+</BaseLayout>
