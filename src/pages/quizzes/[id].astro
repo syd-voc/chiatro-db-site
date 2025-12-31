@@ -1,0 +1,43 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import type { Quiz, StaticPath } from "../../types/quiz";
+
+export async function getStaticPaths(): Promise<StaticPath[]> {
+    // getStaticPaths は別スコープで呼ばれるため、ここでデータを読み込む
+    // import.meta.glob を eager モードで使い、ビルド時に JSON モジュールを同期的に取得する
+    const modules = import.meta.glob("../../../data/quiz_*.json", {
+        eager: true,
+    }) as Record<string, { default: Quiz }>;
+    // import.meta.glob({ eager: true }) はパス -> モジュール オブジェクトのマップを返す
+    const quizzes: Quiz[] = Object.values(modules).map((m) => m.default);
+
+    return quizzes.map((q: Quiz) => ({
+        params: { id: String(q.quizId) },
+        props: { quiz: q },
+    }));
+}
+
+const { quiz } = Astro.props as { quiz: Quiz };
+---
+
+<BaseLayout title={`第${quiz.quizId}回 イントロクイズ`}>
+    <h1>第{quiz.quizId}回 イントロクイズ</h1>
+
+    {
+        quiz.songs.map((song) => (
+            <section>
+                <h2>
+                    {song.order}. {song.title}
+                </h2>
+
+                <ol>
+                    {song.answers.map((a) => (
+                        <li>
+                            {a.result === "correct" ? "⭕" : "❌"} {a.user}
+                        </li>
+                    ))}
+                </ol>
+            </section>
+        ))
+    }
+</BaseLayout>

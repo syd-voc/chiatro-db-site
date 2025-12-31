@@ -1,5 +1,10 @@
 ---
-import quiz from "../../data/quiz_0001.json";
+import type { Quiz } from "../types/quiz";
+// import.meta.glob を eager で使い、ビルド時に JSON モジュールを同期取得する
+const modules = import.meta.glob("../../data/quiz_*.json", {
+	eager: true,
+}) as Record<string, { default: Quiz }>;
+const quizzes: Quiz[] = Object.values(modules).map((m) => m.default);
 ---
 
 <html lang="ja">
@@ -12,15 +17,13 @@ import quiz from "../../data/quiz_0001.json";
 	</head>
 	<body>
 		<h1>イントロクイズ（試作）</h1>
-
-		<p>第{quiz.quizId}回</p>
-		<p>参加者：{quiz.participants.join(" / ")}</p>
-
 		<ul>
 			{
-				quiz.songs.map((song) => (
+				quizzes.map((quiz) => (
 					<li>
-						{song.order}. {song.title}
+						<a href={`/quizzes/${quiz.quizId}`}>
+							第{quiz.quizId}回（{quiz.date}）
+						</a>
 					</li>
 				))
 			}
