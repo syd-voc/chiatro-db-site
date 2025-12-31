@@ -1,7 +1,7 @@
 ---
 import type { Quiz } from "../types/quiz";
 // import.meta.glob を eager で使い、ビルド時に JSON モジュールを同期取得する
-const modules = import.meta.glob("../../data/quiz_*.json", {
+const modules = import.meta.glob("../../data/quizzes/quiz_*.json", {
 	eager: true,
 }) as Record<string, { default: Quiz }>;
 const quizzes: Quiz[] = Object.values(modules).map((m) => m.default);

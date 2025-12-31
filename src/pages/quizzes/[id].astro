@@ -2,12 +2,17 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import type { Quiz, StaticPath } from "../../types/quiz";
 
+const songModules = import.meta.glob("../../../data/songs/*.json", {
+    eager: true,
+}) as Record<string, { default: { videoId: string; title: string } }>;
+
 export async function getStaticPaths(): Promise<StaticPath[]> {
     // getStaticPaths は別スコープで呼ばれるため、ここでデータを読み込む
     // import.meta.glob を eager モードで使い、ビルド時に JSON モジュールを同期的に取得する
-    const modules = import.meta.glob("../../../data/quiz_*.json", {
+    const modules = import.meta.glob("../../../data/quizzes/quiz_*.json", {
         eager: true,
     }) as Record<string, { default: Quiz }>;
+
     // import.meta.glob({ eager: true }) はパス -> モジュール オブジェクトのマップを返す
     const quizzes: Quiz[] = Object.values(modules).map((m) => m.default);
 
@@ -24,20 +29,29 @@ const { quiz } = Astro.props as { quiz: Quiz };
     <h1>第{quiz.quizId}回 イントロクイズ</h1>
 
     {
-        quiz.songs.map((song) => (
-            <section>
-                <h2>
-                    {song.order}. {song.title}
-                </h2>
+        quiz.songs.map((song) => {
+            const songData = Object.values(songModules)
+                .map((m) => m.default)
+                .find((s) => s.videoId === song.videoId);
 
-                <ol>
-                    {song.answers.map((a) => (
-                        <li>
-                            {a.result === "correct" ? "⭕" : "❌"} {a.user}
-                        </li>
-                    ))}
-                </ol>
-            </section>
-        ))
+            return (
+                <section>
+                    <h2>
+                        {song.order}.{" "}
+                        <a href={`/songs/${song.videoId}`}>
+                            {songData?.title ?? song.videoId}
+                        </a>
+                    </h2>
+
+                    <ol>
+                        {song.answers.map((a) => (
+                            <li>
+                                {a.result === "correct" ? "⭕" : "❌"} {a.user}
+                            </li>
+                        ))}
+                    </ol>
+                </section>
+            );
+        })
     }
 </BaseLayout>
