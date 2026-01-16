@@ -4,7 +4,7 @@ from pathlib import Path
 # ===== パス設定 =====
 SONGS_DIR = Path("data/songs")
 SNAPSHOT_DIR = Path("data/snapshot")
-LOG_FILE = Path("data/snapshot_missing_songs.log")
+LOG_FILE = Path("data/missing_songs.log")
 
 # ===== snapshot 側をすべて読み込み、contentId で統合 =====
 snapshot_by_id = {}
