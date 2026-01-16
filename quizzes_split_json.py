@@ -5,10 +5,10 @@ from pathlib import Path
 from collections import defaultdict
 
 # ===== 設定 =====
-TSV_PATH = Path("quizzes_data.tsv")
+INPUT_TSV = "quizzes_data.tsv"
 SONGS_DIR = Path("data/songs")
 QUIZZES_DIR = Path("data/quizzes")
-LOG_PATH = Path("unmatched_quizzes.log")
+LOG_PATH = Path("data/unmatched_quizzes.log")
 
 MAX_ARTISTS = 6
 
@@ -55,7 +55,7 @@ for path in SONGS_DIR.glob("*.json"):
 quizzes = {}
 unmatched_logs = []
 
-with open(TSV_PATH, encoding="utf-8") as f:
+with open(INPUT_TSV, encoding="utf-8") as f:
     reader = csv.reader(f, delimiter="\t")
 
     for row_no, row in enumerate(reader, start=1):
@@ -107,6 +107,10 @@ with open(TSV_PATH, encoding="utf-8") as f:
         for i in range(0, len(answers_raw), 2):
             user = answers_raw[i].strip() if i < len(answers_raw) else ""
             result = answers_raw[i + 1].strip() if i + 1 < len(answers_raw) else ""
+            
+            if not user and not result:
+                continue
+            
             answers.append({
                 "user": user,
                 "result": result
