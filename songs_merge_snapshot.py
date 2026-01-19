@@ -6,12 +6,24 @@ SONGS_DIR = Path("data/songs")
 SNAPSHOT_DIR = Path("data/snapshot")
 LOG_FILE = Path("data/missing_songs.log")
 
+# ===== JSON 安全ロード関数 =====
+def load_json(path: Path):
+    try:
+        with path.open(encoding="utf-8") as f:
+            return json.load(f)
+    except json.JSONDecodeError as e:
+        print("===================================")
+        print("JSONDecodeError が発生しました")
+        print(f"ファイル: {path}")
+        print(f"内容: {e}")
+        print("===================================")
+        raise  # どこで止まったか分かるように再送出
+
 # ===== snapshot 側をすべて読み込み、contentId で統合 =====
 snapshot_by_id = {}
 
 for snapshot_file in SNAPSHOT_DIR.glob("snapshot_*.json"):
-    with snapshot_file.open(encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_json(snapshot_file)
 
     # snapshot は配列
     for item in data:
@@ -32,8 +44,7 @@ for snapshot_file in SNAPSHOT_DIR.glob("snapshot_*.json"):
 missing_in_snapshot = []
 
 for song_file in SONGS_DIR.glob("*.json"):
-    with song_file.open(encoding="utf-8") as f:
-        song_data = json.load(f)
+    song_data = load_json(song_file)
 
     cid = song_data.get("contentId")
     if not cid:
@@ -48,7 +59,7 @@ for song_file in SONGS_DIR.glob("*.json"):
             **snapshot_data
         }
 
-        # ★ data/songs に上書き保存
+        # data/songs に上書き保存
         with song_file.open("w", encoding="utf-8") as f:
             json.dump(merged, f, ensure_ascii=False, indent=2)
 
@@ -69,6 +80,6 @@ with LOG_FILE.open("w", encoding="utf-8") as f:
             f"{item.get('song','')}\t{item.get('title','')}\n"
         )
 
-print(f"songs 上書き更新完了")
+print("songs 上書き更新完了")
 print(f"snapshot に存在しなかった曲: {len(missing_in_snapshot)}")
 print(f"ログ出力先: {LOG_FILE}")
