@@ -1,55 +1,66 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import type { Quiz, StaticPath } from "../../types/quiz";
+import type { Quiz, Song } from "../../types/quiz";
 
-const songModules = import.meta.glob("../../../data/songs/*.json", {
-    eager: true,
-}) as Record<string, { default: { videoId: string; title: string } }>;
-
-export async function getStaticPaths(): Promise<StaticPath[]> {
-    // getStaticPaths は別スコープで呼ばれるため、ここでデータを読み込む
-    // import.meta.glob を eager モードで使い、ビルド時に JSON モジュールを同期的に取得する
+export async function getStaticPaths() {
     const modules = import.meta.glob("../../../data/quizzes/quiz_*.json", {
         eager: true,
     }) as Record<string, { default: Quiz }>;
 
-    // import.meta.glob({ eager: true }) はパス -> モジュール オブジェクトのマップを返す
-    const quizzes: Quiz[] = Object.values(modules).map((m) => m.default);
-
-    return quizzes.map((q: Quiz) => ({
-        params: { id: String(q.quizId) },
-        props: { quiz: q },
+    return Object.values(modules).map((m) => ({
+        params: { id: `${m.default.quiz_no}${m.default.group}` },
+        props: { quiz: m.default },
     }));
 }
 
 const { quiz } = Astro.props as { quiz: Quiz };
+
+const songModules = import.meta.glob("../../../data/songs/*.json", {
+    eager: true,
+}) as Record<string, { default: Song }>;
+
+const songs = Object.values(songModules).map((m) => m.default);
 ---
 
-<BaseLayout title={`第${quiz.quizId}回 イントロクイズ`}>
-    <h1>第{quiz.quizId}回 イントロクイズ</h1>
+<BaseLayout title={`第${quiz.quiz_no}${quiz.group}回`}>
+    <h1>第{quiz.quiz_no}{quiz.group}回</h1>
+    <p>{quiz.date}</p>
 
     {
-        quiz.songs.map((song) => {
-            const songData = Object.values(songModules)
-                .map((m) => m.default)
-                .find((s) => s.videoId === song.videoId);
+        quiz.songs.map((qs) => {
+            const song = songs.find((s) => s.contentId === qs.contentId);
+            const winner = qs.answers.find(
+                (a) => a.result === "OK" || a.result === "WIN",
+            );
 
             return (
                 <section>
                     <h2>
-                        {song.order}.{" "}
-                        <a href={`/songs/${song.videoId}`}>
-                            {songData?.title ?? song.videoId}
+                        {qs.order}.{" "}
+                        <a href={`/songs/${qs.contentId}`}>
+                            {song?.song ?? qs.contentId}
                         </a>
                     </h2>
 
-                    <ol>
-                        {song.answers.map((a) => (
+                    <p>
+                        結果：
+                        {winner ? (
+                            <a href={`/users/${winner.user}`}>{winner.user}</a>
+                        ) : (
+                            "SKIP"
+                        )}
+                    </p>
+
+                    <ul>
+                        {qs.answers.map((a) => (
                             <li>
-                                {a.result === "correct" ? "⭕" : "❌"} {a.user}
+                                [{a.result}]{" "}
+                                {a.user && (
+                                    <a href={`/users/${a.user}`}>{a.user}</a>
+                                )}
                             </li>
                         ))}
-                    </ol>
+                    </ul>
                 </section>
             );
         })

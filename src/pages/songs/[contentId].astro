@@ -1,0 +1,66 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import type { Quiz, Song } from "../../types/quiz";
+
+export async function getStaticPaths() {
+    const modules = import.meta.glob("../../../data/songs/*.json", {
+        eager: true,
+    }) as Record<string, { default: Song }>;
+
+    return Object.values(modules).map((m) => ({
+        params: { contentId: m.default.contentId },
+        props: { song: m.default },
+    }));
+}
+
+const { song } = Astro.props as { song: Song };
+
+const quizModules = import.meta.glob("../../../data/quizzes/quiz_*.json", {
+    eager: true,
+}) as Record<string, { default: Quiz }>;
+
+const appearances = Object.values(quizModules)
+    .map((m) => m.default)
+    .flatMap((quiz) =>
+        quiz.songs
+            .filter((qs) => qs.contentId === song.contentId)
+            .map((qs) => ({
+                quiz_no: quiz.quiz_no,
+                group: quiz.group,
+                order: qs.order,
+                winner: qs.answers.find(
+                    (a) => a.result === "OK" || a.result === "WIN",
+                ),
+            })),
+    );
+---
+
+<BaseLayout title={song.song}>
+    <h1>{song.song}</h1>
+
+    <p>
+        アーティスト：
+        {song.artist.map((a) => <a href={`/artists/${a}`}>{a}</a>)}
+    </p>
+
+    <h2>出題履歴</h2>
+
+    <ul>
+        {
+            appearances.map((a) => (
+                <li>
+                    <a href={`/quizzes/${a.quiz_no}${a.group}`}>
+                        第{a.quiz_no}
+                        {a.group}回
+                    </a>
+                    （{a.order}問目）：
+                    {a.winner ? (
+                        <a href={`/users/${a.winner.user}`}>{a.winner.user}</a>
+                    ) : (
+                        "SKIP"
+                    )}
+                </li>
+            ))
+        }
+    </ul>
+</BaseLayout>

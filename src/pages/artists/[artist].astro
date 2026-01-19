@@ -1,0 +1,106 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import type { Quiz, Song } from "../../types/quiz";
+
+/* =========================
+   静的パス生成
+========================= */
+export async function getStaticPaths() {
+    // 曲データからアーティスト一覧を作る
+    const songModules = import.meta.glob("../../../data/songs/*.json", {
+        eager: true,
+    }) as Record<string, { default: Song }>;
+
+    const artistSet = new Set<string>();
+
+    Object.values(songModules).forEach((m) => {
+        m.default.artist.forEach((a) => artistSet.add(a));
+    });
+
+    return Array.from(artistSet).map((artist) => ({
+        params: { artist }, // ← ★ ファイル名と一致させる
+    }));
+}
+
+/* =========================
+   データ読み込み
+========================= */
+const { artist } = Astro.params;
+
+// 曲
+const songModules = import.meta.glob("../../../data/songs/*.json", {
+    eager: true,
+}) as Record<string, { default: Song }>;
+
+const songs = Object.values(songModules)
+    .map((m) => m.default)
+    .filter((s) => s.artist.includes(artist));
+
+// クイズ（出題履歴用）
+const quizModules = import.meta.glob("../../../data/quizzes/quiz_*.json", {
+    eager: true,
+}) as Record<string, { default: Quiz }>;
+
+const quizzes = Object.values(quizModules).map((m) => m.default);
+---
+
+<BaseLayout title={`アーティスト：${artist}`}>
+    <h1>アーティスト：{artist}</h1>
+
+    <section>
+        <h2>登録楽曲（{songs.length} 曲）</h2>
+        <ul>
+            {
+                songs.map((song) => (
+                    <li>
+                        <a href={`/songs/${song.contentId}`}>{song.song}</a>
+                    </li>
+                ))
+            }
+        </ul>
+    </section>
+
+    <hr />
+
+    <section>
+        <h2>出題履歴</h2>
+
+        {
+            songs.map((song) => {
+                const appearances = quizzes.flatMap((q) =>
+                    q.songs
+                        .filter((s) => s.contentId === song.contentId)
+                        .map((s) => ({
+                            quizNo: q.quiz_no,
+                            group: q.group,
+                            order: s.order,
+                        })),
+                );
+
+                return (
+                    <section>
+                        <h3>{song.song}</h3>
+
+                        {appearances.length === 0 ? (
+                            <p>この曲はまだ出題されていません。</p>
+                        ) : (
+                            <ul>
+                                {appearances.map((a) => (
+                                    <li>
+                                        <a
+                                            href={`/quizzes/${a.quizNo}${a.group}`}
+                                        >
+                                            第{a.quizNo}
+                                            {a.group}回
+                                        </a>
+                                        ：{a.order}問目
+                                    </li>
+                                ))}
+                            </ul>
+                        )}
+                    </section>
+                );
+            })
+        }
+    </section>
+</BaseLayout>

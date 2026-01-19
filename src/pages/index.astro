@@ -1,32 +1,101 @@
 ---
-import type { Quiz } from "../types/quiz";
-// import.meta.glob を eager で使い、ビルド時に JSON モジュールを同期取得する
-const modules = import.meta.glob("../../data/quizzes/quiz_*.json", {
+import BaseLayout from "../layouts/BaseLayout.astro";
+import type { Quiz, Song } from "../types/quiz";
+
+/* =========================
+   データ読み込み
+========================= */
+
+// クイズ一覧
+const quizModules = import.meta.glob("../../data/quizzes/quiz_*.json", {
 	eager: true,
 }) as Record<string, { default: Quiz }>;
-const quizzes: Quiz[] = Object.values(modules).map((m) => m.default);
+
+const quizzes = Object.values(quizModules)
+	.map((m) => m.default)
+	.sort((a, b) => {
+		// 新しい回を上に
+		if (a.date === b.date) {
+			return a.group.localeCompare(b.group);
+		}
+		return a.date < b.date ? 1 : -1;
+	});
+
+// 曲数カウント用
+const songModules = import.meta.glob("../../data/songs/*.json", {
+	eager: true,
+}) as Record<string, { default: Song }>;
+
+const songCount = Object.keys(songModules).length;
+
+// ユーザー数（ログから抽出）
+const users = new Set<string>();
+quizzes.forEach((quiz) =>
+	quiz.songs.forEach((s) =>
+		s.answers.forEach((a) => a.user && users.add(a.user)),
+	),
+);
+
+const userCount = users.size;
 ---
 
-<html lang="ja">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>イントロクイズ（試作）</h1>
+<BaseLayout title="イントロクイズデータベース">
+	<h1>イントロクイズ データベース</h1>
+
+	<p>
+		ニコニコ動画の楽曲を用いた早押しイントロクイズの
+		<strong>結果ログ・統計閲覧サイト</strong>です。
+	</p>
+
+	<hr />
+
+	<section>
+		<h2>サイト概要</h2>
+		<ul>
+			<li>クイズ回数：{quizzes.length} 回</li>
+			<li>登録楽曲数：{songCount} 曲</li>
+			<li>参加ユーザー数：{userCount} 人</li>
+		</ul>
+	</section>
+
+	<hr />
+
+	<section>
+		<h2>クイズ一覧</h2>
+
 		<ul>
 			{
 				quizzes.map((quiz) => (
 					<li>
-						<a href={`/quizzes/${quiz.quizId}`}>
-							第{quiz.quizId}回（{quiz.date}）
+						<a href={`/quizzes/${quiz.quiz_no}${quiz.group}`}>
+							第{quiz.quiz_no}
+							{quiz.group}回
 						</a>
+						（{quiz.date}） – 出題数 {quiz.songs.length} 問
 					</li>
 				))
 			}
 		</ul>
-	</body>
-</html>
+	</section>
+
+	<hr />
+
+	<section>
+		<h2>ページ案内</h2>
+		<ul>
+			<li>
+				<strong>クイズページ</strong>：
+				各回の出題曲・解答ログ・勝者を確認
+			</li>
+			<li>
+				<strong>曲ページ</strong>： 楽曲情報・出題履歴・正解者
+			</li>
+			<li>
+				<strong>ユーザーページ</strong>： 個人成績・勝ち抜け履歴
+			</li>
+			<li>
+				<strong>アーティストページ</strong>： 使用楽曲一覧
+			</li>
+		</ul>
+	</section>
+</BaseLayout>

@@ -1,0 +1,74 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import type { Quiz } from "../../types/quiz";
+
+export async function getStaticPaths() {
+    const modules = import.meta.glob("../../../data/quizzes/quiz_*.json", {
+        eager: true,
+    }) as Record<string, { default: Quiz }>;
+
+    const users = new Set<string>();
+
+    Object.values(modules).forEach((m) =>
+        m.default.songs.forEach((s) =>
+            s.answers.forEach((a) => a.user && users.add(a.user)),
+        ),
+    );
+
+    return [...users].map((user) => ({
+        params: { user },
+        props: { user },
+    }));
+}
+
+const { user } = Astro.props as { user: string };
+
+const quizModules = import.meta.glob("../../../data/quizzes/quiz_*.json", {
+    eager: true,
+}) as Record<string, { default: Quiz }>;
+
+const logs = Object.values(quizModules)
+    .map((m) => m.default)
+    .flatMap((quiz) =>
+        quiz.songs.flatMap((song) =>
+            song.answers
+                .filter((a) => a.user === user)
+                .map((a) => ({
+                    quiz_no: quiz.quiz_no,
+                    group: quiz.group,
+                    contentId: song.contentId,
+                    order: song.order,
+                    result: a.result,
+                })),
+        ),
+    );
+
+const correct = logs.filter((l) => l.result === "OK" || l.result === "WIN");
+const win = logs.filter((l) => l.result === "WIN");
+---
+
+<BaseLayout title={`${user} の成績`}>
+    <h1>{user}</h1>
+
+    <p>
+        解答数：{logs.length} / 正解数：{correct.length} / 勝ち抜け：{
+            win.length
+        }
+    </p>
+
+    <ul>
+        {
+            logs.map((l) => (
+                <li>
+                    <a href={`/quizzes/${l.quiz_no}${l.group}`}>
+                        第{l.quiz_no}
+                        {l.group}回
+                    </a>
+                    ：{l.order}問目
+                    <a href={`/songs/${l.contentId}`}>{l.contentId}</a>[
+                    {l.result}]
+                </li>
+            ))
+        }
+    </ul>
+</BaseLayout>
