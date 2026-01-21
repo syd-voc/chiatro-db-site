@@ -62,13 +62,13 @@ with open(INPUT_TSV, encoding="utf-8") as f:
         if not row:
             continue
 
-        song_raw = row[0]
+        song_raw = row[1]
         song_n = normalize(song_raw)
 
-        artists_raw = row[1:1 + MAX_ARTISTS]
+        artists_raw = row[2:2 + MAX_ARTISTS]
         artists_n = [normalize(a) for a in artists_raw if a.strip()]
 
-        idx = 1 + MAX_ARTISTS
+        idx = 2 + MAX_ARTISTS
         quiz_no = int(row[idx])
         group = row[idx + 1]
         date = row[idx + 2].replace("/", "-")
