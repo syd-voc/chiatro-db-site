@@ -5,7 +5,7 @@
   "songs": [
     {
       "order": 1,
-      "contentId": "sm18008293",
+      "contentId": "nm4605293",
       "answers": [
         {
           "user": "",
@@ -15,6 +15,16 @@
     },
     {
       "order": 2,
+      "contentId": "sm18008293",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 3,
       "contentId": "sm13252011",
       "answers": [
         {
@@ -24,7 +34,7 @@
       ]
     },
     {
-      "order": 3,
+      "order": 4,
       "contentId": "sm39722490",
       "answers": [
         {
@@ -34,7 +44,7 @@
       ]
     },
     {
-      "order": 4,
+      "order": 5,
       "contentId": "sm36054608",
       "answers": [
         {
@@ -44,7 +54,7 @@
       ]
     },
     {
-      "order": 5,
+      "order": 6,
       "contentId": "sm17094691",
       "answers": [
         {
@@ -54,7 +64,7 @@
       ]
     },
     {
-      "order": 6,
+      "order": 7,
       "contentId": "sm19451487",
       "answers": [
         {
@@ -64,7 +74,7 @@
       ]
     },
     {
-      "order": 7,
+      "order": 8,
       "contentId": "sm41857979",
       "answers": [
         {
@@ -74,7 +84,7 @@
       ]
     },
     {
-      "order": 8,
+      "order": 9,
       "contentId": "sm19889871",
       "answers": [
         {
@@ -84,7 +94,7 @@
       ]
     },
     {
-      "order": 9,
+      "order": 10,
       "contentId": "sm33972704",
       "answers": [
         {
@@ -94,7 +104,7 @@
       ]
     },
     {
-      "order": 10,
+      "order": 11,
       "contentId": "sm41728811",
       "answers": [
         {
@@ -104,7 +114,7 @@
       ]
     },
     {
-      "order": 11,
+      "order": 12,
       "contentId": "sm10444862",
       "answers": [
         {
@@ -114,7 +124,7 @@
       ]
     },
     {
-      "order": 12,
+      "order": 13,
       "contentId": "sm39771984",
       "answers": [
         {
@@ -124,7 +134,7 @@
       ]
     },
     {
-      "order": 13,
+      "order": 14,
       "contentId": "sm11519178",
       "answers": [
         {
@@ -134,7 +144,7 @@
       ]
     },
     {
-      "order": 14,
+      "order": 15,
       "contentId": "sm29788563",
       "answers": [
         {
@@ -148,7 +158,7 @@
       ]
     },
     {
-      "order": 15,
+      "order": 16,
       "contentId": "sm41915354",
       "answers": [
         {
@@ -166,7 +176,7 @@
       ]
     },
     {
-      "order": 16,
+      "order": 17,
       "contentId": "sm33596424",
       "answers": [
         {
@@ -176,7 +186,7 @@
       ]
     },
     {
-      "order": 17,
+      "order": 18,
       "contentId": "sm7863371",
       "answers": [
         {
@@ -186,7 +196,7 @@
       ]
     },
     {
-      "order": 18,
+      "order": 19,
       "contentId": "sm10933505",
       "answers": [
         {
@@ -196,7 +206,21 @@
       ]
     },
     {
-      "order": 19,
+      "order": 20,
+      "contentId": "sm40772073",
+      "answers": [
+        {
+          "user": "もわし",
+          "result": "NG"
+        },
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 21,
       "contentId": "sm9032932",
       "answers": [
         {
@@ -210,7 +234,7 @@
       ]
     },
     {
-      "order": 20,
+      "order": 22,
       "contentId": "sm32891453",
       "answers": [
         {
@@ -220,7 +244,7 @@
       ]
     },
     {
-      "order": 21,
+      "order": 23,
       "contentId": "sm38300091",
       "answers": [
         {
@@ -234,7 +258,17 @@
       ]
     },
     {
-      "order": 22,
+      "order": 24,
+      "contentId": "sm20140381",
+      "answers": [
+        {
+          "user": "もわし",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 25,
       "contentId": "sm38352936",
       "answers": [
         {
@@ -244,7 +278,7 @@
       ]
     },
     {
-      "order": 23,
+      "order": 26,
       "contentId": "sm21028340",
       "answers": [
         {
@@ -254,7 +288,7 @@
       ]
     },
     {
-      "order": 24,
+      "order": 27,
       "contentId": "sm35586514",
       "answers": [
         {
@@ -264,7 +298,7 @@
       ]
     },
     {
-      "order": 25,
+      "order": 28,
       "contentId": "sm41175261",
       "answers": [
         {
@@ -274,7 +308,7 @@
       ]
     },
     {
-      "order": 26,
+      "order": 29,
       "contentId": "sm32454881",
       "answers": [
         {
@@ -288,7 +322,7 @@
       ]
     },
     {
-      "order": 27,
+      "order": 30,
       "contentId": "sm36153076",
       "answers": [
         {
@@ -298,7 +332,7 @@
       ]
     },
     {
-      "order": 28,
+      "order": 31,
       "contentId": "sm20096569",
       "answers": [
         {
@@ -308,7 +342,7 @@
       ]
     },
     {
-      "order": 29,
+      "order": 32,
       "contentId": "sm26676296",
       "answers": [
         {
@@ -318,7 +352,7 @@
       ]
     },
     {
-      "order": 30,
+      "order": 33,
       "contentId": "sm5666270",
       "answers": [
         {
@@ -340,7 +374,7 @@
       ]
     },
     {
-      "order": 31,
+      "order": 34,
       "contentId": "sm33481720",
       "answers": [
         {
@@ -350,7 +384,7 @@
       ]
     },
     {
-      "order": 32,
+      "order": 35,
       "contentId": "sm33965071",
       "answers": [
         {
@@ -360,7 +394,7 @@
       ]
     },
     {
-      "order": 33,
+      "order": 36,
       "contentId": "sm34871494",
       "answers": [
         {
@@ -370,7 +404,7 @@
       ]
     },
     {
-      "order": 34,
+      "order": 37,
       "contentId": "sm40833850",
       "answers": [
         {
@@ -380,7 +414,7 @@
       ]
     },
     {
-      "order": 35,
+      "order": 38,
       "contentId": "sm39617753",
       "answers": [
         {
@@ -398,7 +432,7 @@
       ]
     },
     {
-      "order": 36,
+      "order": 39,
       "contentId": "sm35669777",
       "answers": [
         {
@@ -408,7 +442,7 @@
       ]
     },
     {
-      "order": 37,
+      "order": 40,
       "contentId": "sm13677516",
       "answers": [
         {
@@ -422,7 +456,7 @@
       ]
     },
     {
-      "order": 38,
+      "order": 41,
       "contentId": "sm1583280",
       "answers": [
         {
@@ -432,7 +466,7 @@
       ]
     },
     {
-      "order": 39,
+      "order": 42,
       "contentId": "sm41284024",
       "answers": [
         {
@@ -442,7 +476,7 @@
       ]
     },
     {
-      "order": 40,
+      "order": 43,
       "contentId": "sm1050729",
       "answers": [
         {
@@ -452,7 +486,7 @@
       ]
     },
     {
-      "order": 41,
+      "order": 44,
       "contentId": "sm32149780",
       "answers": [
         {
@@ -462,7 +496,7 @@
       ]
     },
     {
-      "order": 42,
+      "order": 45,
       "contentId": "sm26885931",
       "answers": [
         {
@@ -472,7 +506,7 @@
       ]
     },
     {
-      "order": 43,
+      "order": 46,
       "contentId": "sm31394907",
       "answers": [
         {
@@ -482,7 +516,7 @@
       ]
     },
     {
-      "order": 44,
+      "order": 47,
       "contentId": "sm20332495",
       "answers": [
         {
@@ -496,7 +530,7 @@
       ]
     },
     {
-      "order": 45,
+      "order": 48,
       "contentId": "sm26901097",
       "answers": [
         {
@@ -506,7 +540,7 @@
       ]
     },
     {
-      "order": 46,
+      "order": 49,
       "contentId": "sm15945573",
       "answers": [
         {
@@ -516,7 +550,7 @@
       ]
     },
     {
-      "order": 47,
+      "order": 50,
       "contentId": "sm33546451",
       "answers": [
         {
@@ -526,7 +560,7 @@
       ]
     },
     {
-      "order": 48,
+      "order": 51,
       "contentId": "sm20094772",
       "answers": [
         {
@@ -536,7 +570,7 @@
       ]
     },
     {
-      "order": 49,
+      "order": 52,
       "contentId": "sm24179428",
       "answers": [
         {
@@ -546,7 +580,7 @@
       ]
     },
     {
-      "order": 50,
+      "order": 53,
       "contentId": "sm11641089",
       "answers": [
         {
@@ -556,7 +590,7 @@
       ]
     },
     {
-      "order": 51,
+      "order": 54,
       "contentId": "sm13272434",
       "answers": [
         {
@@ -566,7 +600,7 @@
       ]
     },
     {
-      "order": 52,
+      "order": 55,
       "contentId": "sm32012728",
       "answers": [
         {
@@ -576,7 +610,7 @@
       ]
     },
     {
-      "order": 53,
+      "order": 56,
       "contentId": "sm25275605",
       "answers": [
         {
@@ -586,7 +620,7 @@
       ]
     },
     {
-      "order": 54,
+      "order": 57,
       "contentId": "sm21027040",
       "answers": [
         {
@@ -596,7 +630,7 @@
       ]
     },
     {
-      "order": 55,
+      "order": 58,
       "contentId": "sm24555945",
       "answers": [
         {
@@ -614,7 +648,7 @@
       ]
     },
     {
-      "order": 56,
+      "order": 59,
       "contentId": "sm30920751",
       "answers": [
         {
@@ -624,7 +658,7 @@
       ]
     },
     {
-      "order": 57,
+      "order": 60,
       "contentId": "sm39053581",
       "answers": [
         {
@@ -634,7 +668,7 @@
       ]
     },
     {
-      "order": 58,
+      "order": 61,
       "contentId": "sm21702752",
       "answers": [
         {
@@ -644,7 +678,7 @@
       ]
     },
     {
-      "order": 59,
+      "order": 62,
       "contentId": "sm29910955",
       "answers": [
         {
@@ -654,7 +688,7 @@
       ]
     },
     {
-      "order": 60,
+      "order": 63,
       "contentId": "sm33322316",
       "answers": [
         {
@@ -668,7 +702,7 @@
       ]
     },
     {
-      "order": 61,
+      "order": 64,
       "contentId": "sm32611388",
       "answers": [
         {
@@ -678,7 +712,7 @@
       ]
     },
     {
-      "order": 62,
+      "order": 65,
       "contentId": "sm33295924",
       "answers": [
         {
@@ -688,7 +722,7 @@
       ]
     },
     {
-      "order": 63,
+      "order": 66,
       "contentId": "sm36068728",
       "answers": [
         {
@@ -698,7 +732,7 @@
       ]
     },
     {
-      "order": 64,
+      "order": 67,
       "contentId": "sm4133656",
       "answers": [
         {
@@ -708,7 +742,7 @@
       ]
     },
     {
-      "order": 65,
+      "order": 68,
       "contentId": "sm40227712",
       "answers": [
         {
@@ -718,7 +752,7 @@
       ]
     },
     {
-      "order": 66,
+      "order": 69,
       "contentId": "sm33115376",
       "answers": [
         {
@@ -728,7 +762,7 @@
       ]
     },
     {
-      "order": 67,
+      "order": 70,
       "contentId": "sm20690188",
       "answers": [
         {
@@ -738,7 +772,7 @@
       ]
     },
     {
-      "order": 68,
+      "order": 71,
       "contentId": "sm3133304",
       "answers": [
         {
@@ -756,7 +790,7 @@
       ]
     },
     {
-      "order": 69,
+      "order": 72,
       "contentId": "sm33454146",
       "answers": [
         {
@@ -766,7 +800,7 @@
       ]
     },
     {
-      "order": 70,
+      "order": 73,
       "contentId": "sm12514413",
       "answers": [
         {
@@ -776,7 +810,7 @@
       ]
     },
     {
-      "order": 71,
+      "order": 74,
       "contentId": "sm27529228",
       "answers": [
         {
@@ -786,7 +820,7 @@
       ]
     },
     {
-      "order": 72,
+      "order": 75,
       "contentId": "sm40324633",
       "answers": [
         {
@@ -796,7 +830,7 @@
       ]
     },
     {
-      "order": 73,
+      "order": 76,
       "contentId": "sm19577010",
       "answers": [
         {
@@ -810,7 +844,7 @@
       ]
     },
     {
-      "order": 74,
+      "order": 77,
       "contentId": "sm9604972",
       "answers": [
         {
@@ -820,7 +854,7 @@
       ]
     },
     {
-      "order": 75,
+      "order": 78,
       "contentId": "sm38419315",
       "answers": [
         {
@@ -830,7 +864,17 @@
       ]
     },
     {
-      "order": 76,
+      "order": 79,
+      "contentId": "sm18330534",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 80,
       "contentId": "sm22744325",
       "answers": [
         {
@@ -840,7 +884,7 @@
       ]
     },
     {
-      "order": 77,
+      "order": 81,
       "contentId": "sm30836414",
       "answers": [
         {
@@ -854,7 +898,7 @@
       ]
     },
     {
-      "order": 78,
+      "order": 82,
       "contentId": "sm41954564",
       "answers": [
         {
@@ -864,7 +908,7 @@
       ]
     },
     {
-      "order": 79,
+      "order": 83,
       "contentId": "sm1657814",
       "answers": [
         {
@@ -874,7 +918,7 @@
       ]
     },
     {
-      "order": 80,
+      "order": 84,
       "contentId": "sm22626781",
       "answers": [
         {
@@ -884,7 +928,7 @@
       ]
     },
     {
-      "order": 81,
+      "order": 85,
       "contentId": "sm16573689",
       "answers": [
         {
@@ -898,7 +942,7 @@
       ]
     },
     {
-      "order": 82,
+      "order": 86,
       "contentId": "sm25472218",
       "answers": [
         {
@@ -908,7 +952,7 @@
       ]
     },
     {
-      "order": 83,
+      "order": 87,
       "contentId": "sm29182723",
       "answers": [
         {
@@ -918,7 +962,7 @@
       ]
     },
     {
-      "order": 84,
+      "order": 88,
       "contentId": "sm39067316",
       "answers": [
         {
@@ -928,7 +972,7 @@
       ]
     },
     {
-      "order": 85,
+      "order": 89,
       "contentId": "sm31571703",
       "answers": [
         {
@@ -938,7 +982,7 @@
       ]
     },
     {
-      "order": 86,
+      "order": 90,
       "contentId": "sm33485782",
       "answers": [
         {
@@ -948,7 +992,7 @@
       ]
     },
     {
-      "order": 87,
+      "order": 91,
       "contentId": "sm33897535",
       "answers": [
         {
@@ -958,7 +1002,7 @@
       ]
     },
     {
-      "order": 88,
+      "order": 92,
       "contentId": "sm24205476",
       "answers": [
         {
@@ -968,7 +1012,7 @@
       ]
     },
     {
-      "order": 89,
+      "order": 93,
       "contentId": "sm7155972",
       "answers": [
         {
@@ -978,7 +1022,7 @@
       ]
     },
     {
-      "order": 90,
+      "order": 94,
       "contentId": "sm40901829",
       "answers": [
         {
@@ -988,7 +1032,7 @@
       ]
     },
     {
-      "order": 91,
+      "order": 95,
       "contentId": "sm7610111",
       "answers": [
         {
@@ -998,7 +1042,7 @@
       ]
     },
     {
-      "order": 92,
+      "order": 96,
       "contentId": "sm24626484",
       "answers": [
         {
@@ -1008,7 +1052,7 @@
       ]
     },
     {
-      "order": 93,
+      "order": 97,
       "contentId": "sm37083473",
       "answers": [
         {
@@ -1018,7 +1062,7 @@
       ]
     },
     {
-      "order": 94,
+      "order": 98,
       "contentId": "sm35755698",
       "answers": [
         {

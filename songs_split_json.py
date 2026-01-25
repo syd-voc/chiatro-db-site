@@ -1,30 +1,11 @@
 import csv
 import json
 from pathlib import Path
-from datetime import datetime
 
 INPUT_TSV = "songs_data.tsv"
 OUTPUT_DIR = Path("data/songs")
-LOG_FILE = OUTPUT_DIR / "diff_log.tsv"
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-
-def load_json(path: Path):
-    with open(path, encoding="utf-8") as f:
-        return json.load(f)
-
-def save_json(path: Path, data: dict):
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-
-def write_log(rows):
-    """ rows: list[list[str]] """
-    is_new = not LOG_FILE.exists()
-    with open(LOG_FILE, "a", encoding="utf-8", newline="") as f:
-        writer = csv.writer(f, delimiter="\t")
-        if is_new:
-            writer.writerow(["timestamp", "contentId", "field", "base_value", "new_value"])
-        writer.writerows(rows)
 
 with open(INPUT_TSV, newline="", encoding="utf-8") as f:
     reader = csv.DictReader(f, delimiter="\t")
@@ -34,71 +15,44 @@ with open(INPUT_TSV, newline="", encoding="utf-8") as f:
         if not content_id:
             continue
 
-        timestamp = datetime.now().isoformat(timespec="seconds")
+        data = {}
+        artist = []
+        sub_artist = []
+        sub_song = []
+        tags = []
 
-        song = row.get("song")
+        for key, value in row.items():
+            if not value:
+                continue
 
-        artists = [
-            v for k, v in row.items()
-            if k.startswith("artist.") and v
-        ]
+            if key == "song":
+                data["song"] = value
 
-        tags = [
-            v for k, v in row.items()
-            if k.startswith("tags.") and v
-        ]
+            elif key.startswith("sub_song."):
+                sub_song.append(value)
 
-        json_path = OUTPUT_DIR / f"{content_id}.json"
-        log_rows = []
+            elif key.startswith("artist."):
+                artist.append(value)
 
-        # ===== 新規 =====
-        if not json_path.exists():
-            data = {
-                k: v for k, v in row.items()
-                if v and not (
-                    k.startswith("artist.") or k.startswith("tags.")
-                )
-            }
-            data["song"] = song
-            data["artist"] = artists
+            elif key.startswith("sub_artist."):
+                sub_artist.append(value)
+
+            elif key.startswith("tags."):
+                tags.append(value)
+
+            else:
+                data[key] = value
+
+        # 配列は存在する場合のみ入れる
+        if artist:
+            data["artist"] = artist
+        if sub_artist:
+            data["sub_artist"] = sub_artist
+        if sub_song:
+            data["sub_song"] = sub_song
+        if tags:
             data["tags"] = tags
-            save_json(json_path, data)
-            continue
 
-        # ===== 既存あり =====
-        data = load_json(json_path)
-
-        # --- song 差分 ---
-        if song and song != data.get("song"):
-            data.setdefault("sub_song", [])
-            if song not in data["sub_song"]:
-                data["sub_song"].append(song)
-                log_rows.append([
-                    timestamp,
-                    content_id,
-                    "sub_song",
-                    data.get("song"),
-                    song
-                ])
-
-        # --- artist 差分 ---
-        base_artists = set(data.get("artist", []))
-        diff_artists = [a for a in artists if a not in base_artists]
-
-        if diff_artists:
-            data.setdefault("sub_artist", [])
-            for a in diff_artists:
-                if a not in data["sub_artist"]:
-                    data["sub_artist"].append(a)
-                    log_rows.append([
-                        timestamp,
-                        content_id,
-                        "sub_artist",
-                        ",".join(sorted(base_artists)),
-                        a
-                    ])
-
-        save_json(json_path, data)
-
-        if log_rows:
-            write_log(log_rows)
+        output_path = OUTPUT_DIR / f"{content_id}.json"
+        with open(output_path, "w", encoding="utf-8") as out:
+            json.dump(data, out, ensure_ascii=False, indent=2)
