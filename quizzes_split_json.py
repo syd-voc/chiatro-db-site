@@ -8,7 +8,7 @@ from collections import defaultdict
 INPUT_TSV = "quizzes_data.tsv"
 SONGS_DIR = Path("data/songs")
 QUIZZES_DIR = Path("data/quizzes")
-LOG_PATH = Path("data/unmatched_quizzes.log")
+UNMATCHED_LOG = Path("data/unmatched_quizzes.log")
 
 MAX_ARTISTS = 6
 
@@ -130,10 +130,14 @@ for key, data in quizzes.items():
 
 # ===== ログ出力 =====
 if unmatched_logs:
-    with open(LOG_PATH, "w", encoding="utf-8") as f:
-        for item in unmatched_logs:
-            f.write(
-                f"row={item['row']}\t"
-                f"song={item['song']}\t"
-                f"artists={','.join(item['artists'])}\n"
-            )
+    with open(UNMATCHED_LOG, "w", encoding="utf-8", newline="") as f:
+        # ヘッダー
+        headers = ["row", "song"] + [f"artists.{i}" for i in range(MAX_ARTISTS)]
+        f.write("\t".join(headers) + "\n")
+
+        for u in unmatched_logs:
+            row = [str(u["row"]), u["song"]]
+            artists = u["artists"][:MAX_ARTISTS]
+            artists += [""] * (MAX_ARTISTS - len(artists))
+            row.extend(artists)
+            f.write("\t".join(row) + "\n")

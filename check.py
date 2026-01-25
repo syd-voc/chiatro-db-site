@@ -38,7 +38,7 @@ PHASES = [
     },
 ]
 
-CHECK_START = 210
+CHECK_START = 21
 CHECK_END = 283
 
 # ===== ファイル名解析 =====
