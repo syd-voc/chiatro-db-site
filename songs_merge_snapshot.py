@@ -4,7 +4,7 @@ from pathlib import Path
 # ===== パス設定 =====
 SONGS_DIR = Path("data/songs")
 SNAPSHOT_DIR = Path("data/snapshot")
-LOG_FILE = Path("data/missing_songs.log")
+LOG_FILE = Path("data/missing_songs.tsv")
 
 # ===== JSON 安全ロード関数 =====
 def load_json(path: Path):
