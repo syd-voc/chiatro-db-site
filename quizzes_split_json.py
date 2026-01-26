@@ -8,7 +8,7 @@ from collections import defaultdict
 INPUT_TSV = "quizzes_data.tsv"
 SONGS_DIR = Path("data/songs")
 QUIZZES_DIR = Path("data/quizzes")
-UNMATCHED_LOG = Path("data/unmatched_quizzes.log")
+UNMATCHED_LOG = Path("data/unmatched_quizzes.tsv")
 
 MAX_ARTISTS = 6
 

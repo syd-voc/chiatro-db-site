@@ -3,7 +3,7 @@ import csv
 from pathlib import Path
 
 SONGS_DIR = Path("data/songs")
-OUTPUT_TSV = "songs_data.tsv"
+OUTPUT_TSV = "songs_all.tsv"
 
 json_files = list(SONGS_DIR.glob("*.json"))
 rows = []
