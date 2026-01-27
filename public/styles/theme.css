@@ -1,0 +1,146 @@
+:root {
+    /* ===== Theme Colors ===== */
+    --color-primary: rgb(31, 156, 239);
+    /* #1F9CEF */
+    --color-primary-light: rgba(31, 156, 239, 0.15);
+    --color-primary-dark: rgb(18, 120, 190);
+
+    /* ===== Neutral ===== */
+    --color-bg: #ffffff;
+    --color-text: #222222;
+    --color-muted: #666666;
+    --color-border: #dddddd;
+
+    /* ===== Status ===== */
+    --color-ok: #2ecc71;
+    --color-ng: #e74c3c;
+    --color-skip: #95a5a6;
+}
+
+/* =========================
+   Global
+========================= */
+
+html {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont,
+        "Segoe UI", sans-serif;
+    background-color: var(--color-bg);
+    color: var(--color-text);
+}
+
+body {
+    margin: 0;
+    line-height: 1.7;
+}
+
+/* =========================
+   Headings
+========================= */
+
+h1,
+h2,
+h3 {
+    color: var(--color-primary-dark);
+}
+
+h1 {
+    border-bottom: 3px solid var(--color-primary);
+    padding-bottom: 0.3em;
+}
+
+h2 {
+    border-left: 6px solid var(--color-primary);
+    padding-left: 0.6em;
+}
+
+/* =========================
+   Links
+========================= */
+
+a {
+    color: var(--color-primary);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* =========================
+   Lists
+========================= */
+
+ul,
+ol {
+    padding-left: 1.4em;
+}
+
+li {
+    margin: 0.3em 0;
+}
+
+/* =========================
+   Sections / Cards
+========================= */
+
+section {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+}
+
+section>h2:first-child,
+section>h3:first-child {
+    margin-top: 0;
+}
+
+/* =========================
+   Quiz Result Styles
+========================= */
+
+.result-ok {
+    color: var(--color-ok);
+    font-weight: bold;
+}
+
+.result-ng {
+    color: var(--color-ng);
+}
+
+.result-skip {
+    color: var(--color-skip);
+    font-style: italic;
+}
+
+/* =========================
+   Tables (future use)
+========================= */
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    background: var(--color-primary-light);
+    text-align: left;
+}
+
+th,
+td {
+    border: 1px solid var(--color-border);
+    padding: 0.5em;
+}
+
+/* =========================
+   Footer
+========================= */
+
+footer {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--color-border);
+    color: var(--color-muted);
+    font-size: 0.9em;
+}

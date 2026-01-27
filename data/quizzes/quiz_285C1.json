@@ -1,0 +1,939 @@
+{
+  "quiz_no": 285,
+  "group": "C1",
+  "date": "2026-01-23",
+  "songs": [
+    {
+      "order": 1,
+      "contentId": "sm40115004",
+      "answers": [
+        {
+          "user": "手下",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "contentId": "sm38590294",
+      "answers": [
+        {
+          "user": "クスノキ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "contentId": "sm14878945",
+      "answers": [
+        {
+          "user": "ぴーなっつ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "contentId": "sm43829868",
+      "answers": [
+        {
+          "user": "フリスク",
+          "result": "NG"
+        },
+        {
+          "user": "手下",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "contentId": "sm37297428",
+      "answers": [
+        {
+          "user": "Abbey",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "contentId": "sm17755574",
+      "answers": [
+        {
+          "user": "手下",
+          "result": "NG"
+        },
+        {
+          "user": "クロ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "contentId": "sm40349791",
+      "answers": [
+        {
+          "user": "フリスク",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "contentId": "sm25223315",
+      "answers": [
+        {
+          "user": "くちば",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "contentId": "sm34301496",
+      "answers": [
+        {
+          "user": "きぐな",
+          "result": "NG"
+        },
+        {
+          "user": "クロ",
+          "result": "NG"
+        },
+        {
+          "user": "手下",
+          "result": "NG"
+        },
+        {
+          "user": "くちば",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "contentId": "sm2041740",
+      "answers": [
+        {
+          "user": "ぴーなっつ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "contentId": "sm45317637",
+      "answers": [
+        {
+          "user": "フリスク",
+          "result": "NG"
+        },
+        {
+          "user": "クスノキ",
+          "result": "NG"
+        },
+        {
+          "user": "きぐな",
+          "result": "NG"
+        },
+        {
+          "user": "くちば",
+          "result": "NG"
+        },
+        {
+          "user": "クロ",
+          "result": "NG"
+        },
+        {
+          "user": "レイ",
+          "result": "NG"
+        },
+        {
+          "user": "しゃい",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "contentId": "nm17598063",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "contentId": "sm18511216",
+      "answers": [
+        {
+          "user": "レイ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "contentId": "sm36423088",
+      "answers": [
+        {
+          "user": "レイ",
+          "result": "NG"
+        },
+        {
+          "user": "クロ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "contentId": "sm42577641",
+      "answers": [
+        {
+          "user": "フリスク",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "contentId": "sm35773476",
+      "answers": [
+        {
+          "user": "尾白もち",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "contentId": "sm43406814",
+      "answers": [
+        {
+          "user": "フリスク",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 18,
+      "contentId": "sm43435422",
+      "answers": [
+        {
+          "user": "フリスク",
+          "result": "NG"
+        },
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 19,
+      "contentId": "sm20470051",
+      "answers": [
+        {
+          "user": "しゃい",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 20,
+      "contentId": "sm30328276",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 21,
+      "contentId": "sm32374213",
+      "answers": [
+        {
+          "user": "くちば",
+          "result": "NG"
+        },
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 22,
+      "contentId": "sm31791630",
+      "answers": [
+        {
+          "user": "フリスク",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 23,
+      "contentId": "sm11480547",
+      "answers": [
+        {
+          "user": "しゃい",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 24,
+      "contentId": "sm21914169",
+      "answers": [
+        {
+          "user": "クロ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 25,
+      "contentId": "sm41180205",
+      "answers": [
+        {
+          "user": "フリスク",
+          "result": "NG"
+        },
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 26,
+      "contentId": "sm36424703",
+      "answers": [
+        {
+          "user": "手下",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 27,
+      "contentId": "sm7767386",
+      "answers": [
+        {
+          "user": "Abbey",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 28,
+      "contentId": "sm22932041",
+      "answers": [
+        {
+          "user": "手下",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 29,
+      "contentId": "sm35474514",
+      "answers": [
+        {
+          "user": "尾白もち",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 30,
+      "contentId": "sm18172311",
+      "answers": [
+        {
+          "user": "そい",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 31,
+      "contentId": "sm5992615",
+      "answers": [
+        {
+          "user": "レイ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 32,
+      "contentId": "sm42574489",
+      "answers": [
+        {
+          "user": "レイ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 33,
+      "contentId": "sm20433562",
+      "answers": [
+        {
+          "user": "クロ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 34,
+      "contentId": "sm21684598",
+      "answers": [
+        {
+          "user": "そい",
+          "result": "NG"
+        },
+        {
+          "user": "トラノオ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 35,
+      "contentId": "sm24862460",
+      "answers": [
+        {
+          "user": "手下",
+          "result": "WIN"
+        }
+      ]
+    },
+    {
+      "order": 36,
+      "contentId": "sm16061957",
+      "answers": [
+        {
+          "user": "ぽんぬ",
+          "result": "NG"
+        },
+        {
+          "user": "きぐな",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 37,
+      "contentId": "sm36412545",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 38,
+      "contentId": "sm45052271",
+      "answers": [
+        {
+          "user": "フリスク",
+          "result": "WIN"
+        }
+      ]
+    },
+    {
+      "order": 39,
+      "contentId": "sm31501619",
+      "answers": [
+        {
+          "user": "しゃい",
+          "result": "NG"
+        },
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 40,
+      "contentId": "sm43570542",
+      "answers": [
+        {
+          "user": "そい",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 41,
+      "contentId": "sm44683566",
+      "answers": [
+        {
+          "user": "くちば",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 42,
+      "contentId": "sm13805781",
+      "answers": [
+        {
+          "user": "レイ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 43,
+      "contentId": "sm30676686",
+      "answers": [
+        {
+          "user": "ぴーなっつ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 44,
+      "contentId": "sm31389917",
+      "answers": [
+        {
+          "user": "クロ",
+          "result": "WIN"
+        }
+      ]
+    },
+    {
+      "order": 45,
+      "contentId": "sm41046760",
+      "answers": [
+        {
+          "user": "くちば",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 46,
+      "contentId": "sm29788563",
+      "answers": [
+        {
+          "user": "クスノキ",
+          "result": "NG"
+        },
+        {
+          "user": "しゃい",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 47,
+      "contentId": "sm39473250",
+      "answers": [
+        {
+          "user": "くちば",
+          "result": "NG"
+        },
+        {
+          "user": "尾白もち",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 48,
+      "contentId": "sm15316485",
+      "answers": [
+        {
+          "user": "しゃい",
+          "result": "WIN"
+        }
+      ]
+    },
+    {
+      "order": 49,
+      "contentId": "sm44395702",
+      "answers": [
+        {
+          "user": "クスノキ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 50,
+      "contentId": "sm43435479",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 51,
+      "contentId": "sm22020109",
+      "answers": [
+        {
+          "user": "レイ",
+          "result": "NG"
+        },
+        {
+          "user": "きぐな",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 52,
+      "contentId": "sm42546717",
+      "answers": [
+        {
+          "user": "恋ちゃん",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 53,
+      "contentId": "sm41684173",
+      "answers": [
+        {
+          "user": "きぐな",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 54,
+      "contentId": "sm43271799",
+      "answers": [
+        {
+          "user": "恋ちゃん",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 55,
+      "contentId": "sm36943926",
+      "answers": [
+        {
+          "user": "レイ",
+          "result": "NG"
+        },
+        {
+          "user": "クスノキ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 56,
+      "contentId": "sm38735257",
+      "answers": [
+        {
+          "user": "くちば",
+          "result": "WIN"
+        }
+      ]
+    },
+    {
+      "order": 57,
+      "contentId": "sm44301514",
+      "answers": [
+        {
+          "user": "きぐな",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 58,
+      "contentId": "sm42657926",
+      "answers": [
+        {
+          "user": "クスノキ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 59,
+      "contentId": "sm35824374",
+      "answers": [
+        {
+          "user": "尾白もち",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 60,
+      "contentId": "sm34434886",
+      "answers": [
+        {
+          "user": "尾白もち",
+          "result": "WIN"
+        }
+      ]
+    },
+    {
+      "order": 61,
+      "contentId": "sm16806230",
+      "answers": [
+        {
+          "user": "恋ちゃん",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 62,
+      "contentId": "sm17094691",
+      "answers": [
+        {
+          "user": "ぽんぬ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 63,
+      "contentId": "sm11217750",
+      "answers": [
+        {
+          "user": "クスノキ",
+          "result": "WIN"
+        }
+      ]
+    },
+    {
+      "order": 64,
+      "contentId": "sm3081358",
+      "answers": [
+        {
+          "user": "ぽんぬ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 65,
+      "contentId": "sm43336037",
+      "answers": [
+        {
+          "user": "トラノオ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 66,
+      "contentId": "sm5525531",
+      "answers": [
+        {
+          "user": "ぽんぬ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 67,
+      "contentId": "so26654381",
+      "answers": [
+        {
+          "user": "そい",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 68,
+      "contentId": "sm20448162",
+      "answers": [
+        {
+          "user": "ぴーなっつ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 69,
+      "contentId": "sm44397533",
+      "answers": [
+        {
+          "user": "恋ちゃん",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 70,
+      "contentId": "sm19702804",
+      "answers": [
+        {
+          "user": "そい",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 71,
+      "contentId": "sm28749686",
+      "answers": [
+        {
+          "user": "そい",
+          "result": "NG"
+        },
+        {
+          "user": "恋ちゃん",
+          "result": "WIN"
+        }
+      ]
+    },
+    {
+      "order": 72,
+      "contentId": "sm6026956",
+      "answers": [
+        {
+          "user": "きぐな",
+          "result": "WIN"
+        }
+      ]
+    },
+    {
+      "order": 73,
+      "contentId": "sm44148727",
+      "answers": [
+        {
+          "user": "Abbey",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 74,
+      "contentId": "sm9305683",
+      "answers": [
+        {
+          "user": "トラノオ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 75,
+      "contentId": "sm13774194",
+      "answers": [
+        {
+          "user": "そい",
+          "result": "WIN"
+        }
+      ]
+    },
+    {
+      "order": 76,
+      "contentId": "sm44674989",
+      "answers": [
+        {
+          "user": "トラノオ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 77,
+      "contentId": "sm44674547",
+      "answers": [
+        {
+          "user": "トラノオ",
+          "result": "WIN"
+        }
+      ]
+    },
+    {
+      "order": 78,
+      "contentId": "sm36053074",
+      "answers": [
+        {
+          "user": "レイ",
+          "result": "WIN"
+        }
+      ]
+    },
+    {
+      "order": 79,
+      "contentId": "sm26432700",
+      "answers": [
+        {
+          "user": "ぴーなっつ",
+          "result": "WIN"
+        }
+      ]
+    },
+    {
+      "order": 80,
+      "contentId": "sm18161909",
+      "answers": [
+        {
+          "user": "Abbey",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 81,
+      "contentId": "sm21993386",
+      "answers": [
+        {
+          "user": "Abbey",
+          "result": "WIN"
+        }
+      ]
+    },
+    {
+      "order": 82,
+      "contentId": "sm20755687",
+      "answers": [
+        {
+          "user": "ぽんぬ",
+          "result": "OK"
+        }
+      ]
+    },
+    {
+      "order": 83,
+      "contentId": "sm35430723",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 84,
+      "contentId": "sm30450081",
+      "answers": [
+        {
+          "user": "ぽんぬ",
+          "result": "WIN"
+        }
+      ]
+    }
+  ]
+}
