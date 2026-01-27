@@ -1,15 +1,28 @@
 ---
-const { title = "イントロクイズ" } = Astro.props;
+import Header from "../components/Header.astro";
+import Sidebar from "../components/Sidebar.astro";
+
+const { title } = Astro.props;
 ---
 
+<!doctype html>
 <html lang="ja">
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width" />
-        <link rel="stylesheet" href="/styles/theme.css" />
         <title>{title}</title>
+        <link rel="stylesheet" href="/styles/theme.css" />
     </head>
+
     <body>
-        <slot />
+        <Header />
+
+        <div class="layout">
+            <Sidebar />
+
+            <main class="content">
+                <slot />
+            </main>
+        </div>
     </body>
 </html>

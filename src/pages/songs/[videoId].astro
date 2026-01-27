@@ -1,0 +1,186 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import type { Song, SongHistory, Quiz } from "../../types/quiz";
+
+export async function getStaticPaths() {
+    const songModules = import.meta.glob("../../../data/songs/*.json", {
+        eager: true,
+    }) as Record<string, { default: Song }>;
+
+    return Object.values(songModules).map((m) => ({
+        params: { videoId: m.default.contentId },
+        props: { song: m.default },
+    }));
+}
+
+const { song } = Astro.props as { song: Song };
+
+// ===== クイズ読み込み =====
+const quizModules = import.meta.glob("../../../data/quizzes/quiz_*.json", {
+    eager: true,
+}) as Record<string, { default: Quiz }>;
+
+const quizzes = Object.values(quizModules).map((m) => m.default);
+
+// ===== 出題履歴生成 =====
+const histories: SongHistory[] = quizzes.flatMap((q) =>
+    q.songs
+        .filter((s) => s.contentId === song.contentId)
+        .map((s) => {
+            const winnerAnswer = s.answers.find(
+                (a) => a.result === "OK" || a.result === "WIN",
+            );
+
+            return {
+                date: q.date,
+                quizNo: q.quiz_no,
+                group: q.group || undefined,
+                order: s.order,
+                winner: winnerAnswer?.user,
+            };
+        }),
+);
+
+// ===== ソート（新しい順）=====
+const sortedHistories = [...histories].sort(
+    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime(),
+);
+
+// ===== 集計 =====
+const appearanceCount = histories.length;
+const correctCount = histories.filter((h) => h.winner).length;
+const accuracy =
+    appearanceCount === 0
+        ? 0
+        : Math.round((correctCount / appearanceCount) * 100);
+
+// ===== 投稿日時 =====
+const postedAt = song.startTime
+    ? new Date(song.startTime).toLocaleString("ja-JP")
+    : "不明";
+---
+
+<BaseLayout title={song.song}>
+    <section>
+        <h1>{song.song}</h1>
+    </section>
+
+    <section>
+        <h2>動画</h2>
+
+        <script
+            type="application/javascript"
+            src={"https://embed.nicovideo.jp/watch/" +
+                song.contentId +
+                "/script"}></script>
+
+        <iframe
+            src={"https://ext.nicovideo.jp/thumb/" + song.contentId}
+            width="312"
+            height="176"
+            frameborder="0"></iframe>
+    </section>
+
+    <section>
+        <h2>アーティスト</h2>
+        <ul>
+            {
+                song.artist.map((a) => (
+                    <li>
+                        <a href={"/artists/" + a}>{a}</a>
+                    </li>
+                ))
+            }
+        </ul>
+    </section>
+
+    <section>
+        <h2>情報</h2>
+
+        <table class="info-table">
+            <tbody>
+                <tr>
+                    <th>投稿日時</th>
+                    <td>{postedAt}</td>
+                    <th>年別順位</th>
+                    <td>{song.rank ?? "―"}</td>
+                </tr>
+                <tr>
+                    <th>再生数</th>
+                    <td>{song.viewCounter?.toLocaleString() ?? "―"}</td>
+                    <th>コメント数</th>
+                    <td>{song.commentCounter?.toLocaleString() ?? "―"}</td>
+                </tr>
+                <tr>
+                    <th>いいね！数</th>
+                    <td>{song.likeCounter?.toLocaleString() ?? "―"}</td>
+                    <th>マイリスト数</th>
+                    <td>{song.mylistCounter?.toLocaleString() ?? "―"}</td>
+                </tr>
+                <tr>
+                    <th>タグ</th>
+                    <td colspan="3">
+                        <ul class="tag-list">
+                            {song.tags?.map((tag) => <li>{tag}</li>)}
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <section>
+        <h2>曲データ</h2>
+        <ul>
+            <li>出題回数：{appearanceCount} 回</li>
+            <li>正解回数：{correctCount} 回</li>
+            <li>正解率：{accuracy} %</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>出題履歴</h2>
+
+        {
+            sortedHistories.length === 0 ? (
+                <p>この曲はまだ出題されていません。</p>
+            ) : (
+                <table>
+                    <thead>
+                        <tr>
+                            <th>日付</th>
+                            <th>回</th>
+                            <th>問</th>
+                            <th>正解者</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {sortedHistories.map((h) => (
+                            <tr>
+                                <td>{h.date}</td>
+                                <td>
+                                    <a
+                                        href={`/quizzes/${h.quizNo}${h.group ?? ""}`}
+                                    >
+                                        {h.quizNo}
+                                        {h.group}
+                                    </a>
+                                </td>
+                                <td>{h.order}</td>
+                                <td>
+                                    {h.winner ? (
+                                        <a href={`/users/${h.winner}`}>
+                                            {h.winner}
+                                        </a>
+                                    ) : (
+                                        "SKIP"
+                                    )}
+                                </td>
+                            </tr>
+                        ))}
+                    </tbody>
+                </table>
+            )
+        }
+    </section>
+</BaseLayout>

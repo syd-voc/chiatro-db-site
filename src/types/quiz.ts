@@ -1,22 +1,22 @@
-/* =========================
-   共通
-========================= */
-
 export type AnswerResult = "OK" | "NG" | "SKIP" | "WIN" | "LOSE";
 
-/* =========================
-   Quiz（ログ）
-========================= */
+export type SongHistory = {
+    date: string;
+    quizNo: number;
+    group?: string;
+    order: number;
+    winner?: string;
+};
 
-export interface AnswerLog {
-    user: string;          // SKIP の場合 ""
+export interface Answer {
+    user: string;
     result: AnswerResult;
 }
 
 export interface QuizSong {
     order: number;
     contentId: string;
-    answers: AnswerLog[];
+    answers: Answer[];
 }
 
 export interface Quiz {
@@ -26,26 +26,21 @@ export interface Quiz {
     songs: QuizSong[];
 }
 
-/* =========================
-   Song（マスタ）
-========================= */
-
 export interface Song {
-    song: string;          // 表示用短縮名
-    title: string;         // 正式タイトル
+    song: string;
     contentId: string;
+    title: string;
     artist: string[];
     tags: string[];
 
-    userId?: number | null;
-    channelId?: number | null;
-    thumbnailUrl?: string;
     startTime?: string;
-    lengthSeconds?: number;
 
     viewCounter?: number;
     commentCounter?: number;
-    mylistCounter?: number;
     likeCounter?: number;
+    mylistCounter?: number;
+    lengthSeconds?: number;
     rank?: number;
+
+    thumbnailUrl?: string;
 }

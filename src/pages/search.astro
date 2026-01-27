@@ -1,0 +1,166 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import type { Song, Quiz } from "../types/quiz";
+export const prerender = false;
+
+const q = Astro.url.searchParams.get("q") ?? "";
+const nq = normalize(q);
+
+// ===== 正規化 =====
+function normalize(str?: string): string {
+  if (!str) return "";
+  return str
+    .toLowerCase()
+    .normalize("NFKC")
+    .replace(/[ァ-ン]/g, (s) =>
+      String.fromCharCode(s.charCodeAt(0) - 0x60)
+    );
+}
+
+// ===== マッチ度合い =====
+function matchScore(text: string, query: string): number {
+  if (text === query) return 0;                 // 完全一致
+  if (text.startsWith(query)) return 1;         // 前方一致
+  if (text.includes(query)) return 2;           // 部分一致
+  return 999;                                   // 不一致
+}
+
+// ===== 曲データ =====
+const songModules = import.meta.glob("../../data/songs/*.json", {
+  eager: true,
+}) as Record<string, { default: Song }>;
+
+const songs = Object.values(songModules).map((m) => m.default);
+
+// ===== クイズデータ =====
+const quizModules = import.meta.glob("../../data/quizzes/quiz_*.json", {
+  eager: true,
+}) as Record<string, { default: Quiz }>;
+
+const quizzes = Object.values(quizModules).map((m) => m.default);
+
+// ===== 曲検索 =====
+const matchedSongs = nq
+  ? songs
+      .map((s) => {
+        const scores = [
+          matchScore(normalize(s.song), nq),
+          matchScore(normalize(s.contentId), nq),
+        ];
+
+        const score = Math.min(...scores);
+
+        return { song: s, score };
+      })
+      .filter((x) => x.score < 999)
+      .sort((a, b) => a.score - b.score)
+      .map((x) => x.song)
+  : [];
+
+
+// ===== ユーザー抽出 =====
+const users = Array.from(
+  new Set(
+    quizzes.flatMap((q) =>
+      q.songs.flatMap((s) =>
+        s.answers.map((a) => a.user).filter(Boolean)
+      )
+    )
+  )
+);
+
+// ===== ユーザー検索 =====
+const matchedUsers = nq
+  ? users
+      .map((name) => ({
+        name,
+        score: matchScore(normalize(name), nq),
+      }))
+      .filter((x) => x.score < 999)
+      .sort((a, b) => a.score - b.score)
+      .map((x) => x.name)
+  : [];
+
+
+// ===== アーティスト抽出 =====
+const artists = Array.from(
+  new Set(songs.flatMap((s) => s.artist))
+);
+
+// ===== アーティスト検索 =====
+const matchedArtists = nq
+  ? artists
+      .map((name) => ({
+        name,
+        score: matchScore(normalize(name), nq),
+      }))
+      .filter((x) => x.score < 999)
+      .sort((a, b) => a.score - b.score)
+      .map((x) => x.name)
+  : [];
+
+---
+
+<BaseLayout title="検索結果">
+  <h2>検索結果</h2>
+
+  {q === "" ? (
+    <p>検索ワードを入力してください。</p>
+  ) : (
+    <>
+      <p>
+        検索ワード：<strong>{q}</strong>
+      </p>
+
+      <!-- 曲 -->
+      <section>
+        <h3>曲</h3>
+        {matchedSongs.length === 0 ? (
+          <p>該当なし</p>
+        ) : (
+          <ul>
+            {matchedSongs.map((s) => (
+              <li>
+                <a href={`/songs/${s.contentId}`}>
+                  {s.song} / {s.artist.join(", ")}
+                </a>
+              </li>
+            ))}
+          </ul>
+        )}
+      </section>
+
+      <!-- ユーザー -->
+      <section>
+        <h3>参加者</h3>
+        {matchedUsers.length === 0 ? (
+          <p>該当なし</p>
+        ) : (
+          <ul>
+            {matchedUsers.map((u) => (
+              <li>
+                <a href={`/users/${u}`}>{u}</a>
+              </li>
+            ))}
+          </ul>
+        )}
+      </section>
+
+      <!-- アーティスト -->
+      <section>
+        <h3>アーティスト</h3>
+        {matchedArtists.length === 0 ? (
+          <p>該当なし</p>
+        ) : (
+          <ul>
+            {matchedArtists.map((a) => (
+              <li>
+                <a href={`/artists/${a}`}>{a}</a>
+              </li>
+            ))}
+          </ul>
+        )}
+      </section>
+    </>
+  )}
+</BaseLayout>
