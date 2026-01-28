@@ -1,0 +1,38 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const ranges = [
+    { key: "2007-2008", label: "2007–2008" },
+    { key: "2009", label: "2009" },
+    { key: "2010", label: "2010" },
+    { key: "2011", label: "2011" },
+    { key: "2012", label: "2012" },
+    { key: "2013", label: "2013" },
+    { key: "2014", label: "2014" },
+    { key: "2015", label: "2015" },
+    { key: "2016", label: "2016" },
+    { key: "2017", label: "2017" },
+    { key: "2018", label: "2018" },
+    { key: "2019", label: "2019" },
+    { key: "2020", label: "2020" },
+    { key: "2021", label: "2021" },
+    { key: "2022", label: "2022" },
+    { key: "2023", label: "2023" },
+    { key: "2024", label: "2024" },
+    { key: "2025-", label: "2025–" },
+];
+---
+
+<BaseLayout title="楽曲一覧">
+    <h1>楽曲一覧</h1>
+
+    <ul>
+        {
+            ranges.map((r) => (
+                <li>
+                    <a href={`/songs/${r.key}`}>{r.label}</a>
+                </li>
+            ))
+        }
+    </ul>
+</BaseLayout>

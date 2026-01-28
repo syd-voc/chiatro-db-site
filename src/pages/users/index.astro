@@ -1,0 +1,53 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import type { Quiz } from "../../types/quiz";
+
+const quizModules = import.meta.glob("../../../data/quizzes/quiz_*.json", {
+    eager: true,
+}) as Record<string, { default: Quiz }>;
+
+const quizzes = Object.values(quizModules).map((m) => m.default);
+
+// user → WIN数
+const winMap = new Map<string, number>();
+
+quizzes.forEach((q) => {
+    q.songs.forEach((song) => {
+        song.answers.forEach((a) => {
+            if (a.result === "WIN") {
+                winMap.set(a.user, (winMap.get(a.user) ?? 0) + 1);
+            }
+        });
+    });
+});
+
+// 表示用配列に変換 & ソート
+const users = Array.from(winMap.entries())
+    .map(([user, winCount]) => ({ user, winCount }))
+    .sort((a, b) => b.winCount - a.winCount);
+---
+
+<BaseLayout title="Users">
+    <h1>参加者一覧</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>ユーザー</th>
+                <th>勝ち抜け数</th>
+            </tr>
+        </thead>
+        <tbody>
+            {
+                users.map((u) => (
+                    <tr>
+                        <td>
+                            <a href={`/users/${u.user}`}>{u.user}</a>
+                        </td>
+                        <td>{u.winCount}</td>
+                    </tr>
+                ))
+            }
+        </tbody>
+    </table>
+</BaseLayout>

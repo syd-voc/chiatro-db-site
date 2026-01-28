@@ -1,0 +1,40 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import type { Quiz } from "../../types/quiz";
+
+const quizModules = import.meta.glob("../../../data/quizzes/quiz_*.json", {
+    eager: true,
+}) as Record<string, { default: Quiz }>;
+
+const quizzes = Object.values(quizModules)
+    .map((m) => m.default)
+    .sort((a, b) => b.quiz_no - a.quiz_no);
+---
+
+<BaseLayout title="クイズ一覧">
+    <h1>クイズ一覧</h1>
+
+    <table class="quiz-table">
+        <thead>
+            <tr>
+                <th>回</th>
+                <th>日付</th>
+            </tr>
+        </thead>
+        <tbody>
+            {
+                quizzes.map((q) => (
+                    <tr>
+                        <td>
+                            <a href={`/quizzes/${q.quiz_no}${q.group}`}>
+                                第{q.quiz_no}
+                                {q.group}回
+                            </a>
+                        </td>
+                        <td>{q.date}</td>
+                    </tr>
+                ))
+            }
+        </tbody>
+    </table>
+</BaseLayout>

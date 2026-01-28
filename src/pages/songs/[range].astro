@@ -1,0 +1,103 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import type { Song, Quiz } from "../../types/quiz";
+
+export function getStaticPaths() {
+    const RANGES = [
+        { key: "2007-2008", label: "2007–2008", from: 2007, to: 2008 },
+        { key: "2009", label: "2009", from: 2009, to: 2009 },
+        { key: "2010", label: "2010", from: 2010, to: 2010 },
+        { key: "2011", label: "2011", from: 2011, to: 2011 },
+        { key: "2012", label: "2012", from: 2012, to: 2012 },
+        { key: "2013", label: "2013", from: 2013, to: 2013 },
+        { key: "2014", label: "2014", from: 2014, to: 2014 },
+        { key: "2015", label: "2015", from: 2015, to: 2015 },
+        { key: "2016", label: "2016", from: 2016, to: 2016 },
+        { key: "2017", label: "2017", from: 2017, to: 2017 },
+        { key: "2018", label: "2018", from: 2018, to: 2018 },
+        { key: "2019", label: "2019", from: 2019, to: 2019 },
+        { key: "2020", label: "2020", from: 2020, to: 2020 },
+        { key: "2021", label: "2021", from: 2021, to: 2021 },
+        { key: "2022", label: "2022", from: 2022, to: 2022 },
+        { key: "2023", label: "2023", from: 2023, to: 2023 },
+        { key: "2024", label: "2024", from: 2024, to: 2024 },
+        { key: "2025-", label: "2025–", from: 2025, to: 3000 },
+    ];
+    return RANGES.map((r) => ({
+        params: { range: r.key },
+        props: { range: r },
+    }));
+}
+
+const { range } = Astro.props as {
+    range: { key: string; label: string; from: number; to: number };
+};
+
+const songModules = import.meta.glob("../../../data/songs/*.json", {
+    eager: true,
+}) as Record<string, { default: Song }>;
+
+const quizModules = import.meta.glob("../../../data/quizzes/quiz_*.json", {
+    eager: true,
+}) as Record<string, { default: Quiz }>;
+
+const quizzes = Object.values(quizModules).map((m) => m.default);
+
+const songs = Object.values(songModules)
+    .map((m) => m.default)
+    .filter((s) => {
+        if (!s.startTime) return false;
+        const year = new Date(s.startTime).getFullYear();
+        return year >= range.from && year <= range.to;
+    });
+
+const stats = songs.map((song) => {
+    const count = quizzes.reduce(
+        (acc, q) =>
+            acc + q.songs.filter((s) => s.contentId === song.contentId).length,
+        0,
+    );
+
+    return { ...song, count };
+});
+
+stats.sort((a, b) => b.count - a.count);
+---
+
+<BaseLayout title={`楽曲一覧 ${range.label}`}>
+    <h1>楽曲一覧（{range.label}）</h1>
+
+    <p>
+        <a href="/songs">← 年別一覧に戻る</a>
+    </p>
+
+    <table>
+        <thead>
+            <tr>
+                <th>曲名</th>
+                <th>アーティスト</th>
+                <th>出題回数</th>
+            </tr>
+        </thead>
+        <tbody>
+            {
+                stats.map((s) => (
+                    <tr>
+                        <td>
+                            <a href={`/songs/${s.contentId}`}>{s.song}</a>
+                        </td>
+                        <td>
+                            {s.artist.map((a, i) => (
+                                <>
+                                    {i > 0 && " "}
+                                    <a href={`/artists/${a}`}>{a}</a>
+                                </>
+                            ))}
+                        </td>
+                        <td>{s.count}</td>
+                    </tr>
+                ))
+            }
+        </tbody>
+    </table>
+</BaseLayout>

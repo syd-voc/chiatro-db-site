@@ -34,18 +34,42 @@ body {
 }
 
 .site-header {
-    height: 44px;
+    min-height: 44px;
+    height: auto;
+    position: relative;
     background: rgb(31, 156, 239);
     display: flex;
     align-items: center;
     padding: 0 16px;
+    color: #fff;
 }
 
+.header-main {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.header-meta {
+    position: absolute;
+    right: 12px;
+    bottom: 4px;
+    font-size: 11px;
+    opacity: 0.8;
+    white-space: nowrap;
+}
+
+
 .site-header .logo {
-    font-size: 16px;
+    margin: 0;
+    font-size: 30px;
     font-weight: 600;
+    line-height: 2;
+}
+
+.site-header .logo a {
     color: white;
-    text-decoration: none;
+    display: block;
 }
 
 .layout {
@@ -87,7 +111,7 @@ body {
 }
 
 .search-box input {
-    width: 100%;
+    width: 95%;
     padding: 6px 8px;
     font-size: 14px;
     border: 1px solid #ccc;
@@ -162,6 +186,25 @@ section>h3:first-child {
 }
 
 /* =========================
+   Video Player Styles
+========================= */
+
+.player {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%;
+}
+
+.player iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+
+/* =========================
    Quiz Result Styles
 ========================= */
 
@@ -185,7 +228,7 @@ section>h3:first-child {
 
 table {
     border-collapse: collapse;
-    width: 100%;
+    width: auto;
     margin: 1rem 0;
 }
 
@@ -193,12 +236,14 @@ th,
 td {
     border: 1px solid #000;
     padding: 0.4rem 0.6rem;
-    vertical-align: top;
+    vertical-align: middle;
+    line-height: 1.4;
 }
 
 th {
     background: #f5f5f5;
-    white-space: nowrap;
+    font-weight: 600;
+    text-align: left;
 }
 
 .info-table th {
@@ -224,6 +269,158 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.song-table th {
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+    padding-right: 1.2em;
+}
+
+.song-table th:hover {
+    background: #e8f2fd;
+}
+
+.song-table th[data-active="true"] {
+    background: #dbeeff;
+}
+
+.sort-icon {
+    position: absolute;
+    right: 0.6em;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 0.7em;
+    opacity: 0.6;
+    width: 0.8em;
+    text-align: center;
+}
+
+th[data-sort-state="asc"] .sort-icon::after {
+    content: "▲";
+}
+
+th[data-sort-state="desc"] .sort-icon::after {
+    content: "▼";
+}
+
+/* =========================
+   Quiz Song Items
+========================= */
+.quiz-song {
+    display: grid;
+    grid-template-columns: 120px 1fr;
+    gap: 16px;
+    padding: 12px 0;
+    border-bottom: 1px solid #ddd;
+    align-items: center;
+}
+
+/* --- Thumbnail --- */
+.thumb img {
+    width: 120px;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border-radius: 6px;
+}
+
+.thumb-placeholder {
+    width: 120px;
+    aspect-ratio: 16 / 9;
+    background: #eee;
+    border-radius: 6px;
+}
+
+/* --- Song info --- */
+.info .title {
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+
+/* --- Result line --- */
+.result-line {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.95rem;
+}
+
+/* ユーザー（× / ① / ★(n) + 名前） */
+.result-line .user {
+    display: inline-flex;
+    align-items: center;
+    gap: 2px;
+    white-space: nowrap;
+}
+
+.result-line .user a {
+    text-decoration: none;
+}
+
+.result-line .user a:hover {
+    text-decoration: underline;
+}
+
+/* NG / LOSE（××想定） */
+.result-line .user.ng {
+    color: #b00020;
+}
+
+/* 区切り文字（→、・スルー など） */
+.result-line .sep {
+    margin: 0 2px;
+    white-space: nowrap;
+}
+
+/* =========================
+   Win Ranking Styles
+========================= */
+
+.win-ranking {
+    margin: 1rem 0 1.5rem;
+    padding: 0.5rem 1rem;
+    border-left: 4px solid rgb(31, 156, 239);
+    background: #f6fbff;
+}
+
+.win-ranking h2 {
+    margin: 0 0 0.4rem;
+    font-size: 1rem;
+}
+
+/* ← ここ重要：リスト記号完全除去 */
+.win-ranking ul {
+    margin: 0;
+    padding-left: 0;
+    list-style: none;
+}
+
+.win-ranking li {
+    line-height: 1.6;
+}
+
+/* 他ページで ::before を使っていても無効化 */
+.win-ranking li::before {
+    content: none !important;
+}
+
+/* 1st / 2nd / 3rd */
+.win-ranking .rank {
+    font-weight: bold;
+    margin-right: 0.4em;
+}
+
+/* ユーザーリンク */
+.win-ranking a {
+    text-decoration: none;
+}
+
+.win-ranking a:hover {
+    text-decoration: underline;
+}
+
 
 /* =========================
    Footer

@@ -1,7 +1,10 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import type { Quiz, Song } from "../../types/quiz";
+import type { Quiz, Song, QuizSong } from "../../types/quiz";
 
+/* =========================
+   静的パス
+========================= */
 export async function getStaticPaths() {
     const modules = import.meta.glob("../../../data/quizzes/quiz_*.json", {
         eager: true,
@@ -13,6 +16,9 @@ export async function getStaticPaths() {
     }));
 }
 
+/* =========================
+   データ
+========================= */
 const { quiz } = Astro.props as { quiz: Quiz };
 
 const songModules = import.meta.glob("../../../data/songs/*.json", {
@@ -20,47 +26,225 @@ const songModules = import.meta.glob("../../../data/songs/*.json", {
 }) as Record<string, { default: Song }>;
 
 const songs = Object.values(songModules).map((m) => m.default);
+
+/* =========================
+   正解数・勝ち抜け管理（ページ単位で初期化）
+========================= */
+const userCorrectCount = new Map<string, number>();
+const winOrderMap = new Map<string, number>();
+let winIndex = 1;
+
+/* =========================
+   表示用ユーティリティ
+========================= */
+function circledNumber(n: number) {
+    // ① = 9312
+    return n >= 1 && n <= 20 ? String.fromCharCode(9311 + n) : `(${n})`;
+}
+
+function winLabel(n: number) {
+    return `★(${n})`;
+}
+
+function incCorrect(user: string) {
+    const next = (userCorrectCount.get(user) ?? 0) + 1;
+    userCorrectCount.set(user, next);
+    return next;
+}
+
+/* =========================
+   回答 → 表示トークン変換
+========================= */
+type Token =
+    | { type: "user"; prefix: string; user: string }
+    | { type: "text"; value: string };
+
+function buildTokens(answers: QuizSong["answers"]): Token[] {
+    if (answers.length === 1 && answers[0].result === "SKIP") {
+        return [{ type: "text", value: "・スルー" }];
+    }
+
+    const tokens: Token[] = [];
+
+    answers.forEach((a, i) => {
+        if (i > 0) {
+            tokens.push({ type: "text", value: "→" });
+        }
+
+        if (a.result === "SKIP") {
+            tokens.push({ type: "text", value: "・スルー" });
+            return;
+        }
+
+        if (a.result === "NG") {
+            tokens.push({
+                type: "user",
+                prefix: "×",
+                user: a.user,
+            });
+            return;
+        }
+
+        if (a.result === "LOSE") {
+            tokens.push({
+                type: "user",
+                prefix: "××",
+                user: a.user,
+            });
+            return;
+        }
+
+        if (a.result === "OK") {
+            const n = incCorrect(a.user);
+            tokens.push({
+                type: "user",
+                prefix: circledNumber(n),
+                user: a.user,
+            });
+            return;
+        }
+
+        if (a.result === "WIN") {
+            const n = incCorrect(a.user);
+
+            if (!winOrderMap.has(a.user)) {
+                winOrderMap.set(a.user, winIndex++);
+            }
+
+            tokens.push({
+                type: "user",
+                prefix: winLabel(winOrderMap.get(a.user)!),
+                user: a.user,
+            });
+            return;
+        }
+    });
+
+    return tokens;
+}
+
+/* =========================
+   WIN ランキング生成
+========================= */
+type WinEntry = {
+    order: number;
+    user: string;
+};
+
+const winRanking: WinEntry[] = [];
+
+// quiz.songs を先に一周して WIN を確定させる
+quiz.songs.forEach((qs) => {
+    qs.answers.forEach((a) => {
+        if (a.result === "WIN") {
+            // incCorrect は既存ロジックを使う
+            incCorrect(a.user);
+
+            if (!winOrderMap.has(a.user)) {
+                winOrderMap.set(a.user, winIndex++);
+                winRanking.push({
+                    order: winOrderMap.get(a.user)!,
+                    user: a.user,
+                });
+            }
+        }
+    });
+});
+
+// 念のため順番でソート
+winRanking.sort((a, b) => a.order - b.order);
 ---
 
 <BaseLayout title={`第${quiz.quiz_no}${quiz.group}回`}>
-    <h1>第{quiz.quiz_no}{quiz.group}回</h1>
-    <p>{quiz.date}</p>
+    <h1>
+        第{quiz.quiz_no}{quiz.group}回（{quiz.date}）
+    </h1>
+    {
+        winRanking.length > 0 && (
+            <section class="win-ranking">
+                <h2>勝ち抜け</h2>
+                <ul>
+                    {winRanking.map((w) => {
+                        const suffix =
+                            w.order === 1
+                                ? "st"
+                                : w.order === 2
+                                  ? "nd"
+                                  : w.order === 3
+                                    ? "rd"
+                                    : "th";
+
+                        return (
+                            <li>
+                                <span class="rank">
+                                    {`${w.order}${suffix}`}
+                                </span>{" "}
+                                <a href={`/users/${w.user}`}>{w.user}</a>
+                            </li>
+                        );
+                    })}
+                </ul>
+            </section>
+        )
+    }
 
     {
         quiz.songs.map((qs) => {
             const song = songs.find((s) => s.contentId === qs.contentId);
-            const winner = qs.answers.find(
-                (a) => a.result === "OK" || a.result === "WIN",
-            );
+
+            const tokens = buildTokens(qs.answers);
 
             return (
-                <section>
-                    <h2>
-                        {qs.order}.{" "}
-                        <a href={`/songs/${qs.contentId}`}>
-                            {song?.song ?? qs.contentId}
-                        </a>
-                    </h2>
-
-                    <p>
-                        結果：
-                        {winner ? (
-                            <a href={`/users/${winner.user}`}>{winner.user}</a>
+                <section class="quiz-song">
+                    {/* サムネ */}
+                    <div class="thumb">
+                        {song?.thumbnailUrl ? (
+                            <img
+                                src={song.thumbnailUrl}
+                                alt={song.song}
+                                loading="lazy"
+                            />
                         ) : (
-                            "SKIP"
+                            <div class="thumb-placeholder" />
                         )}
-                    </p>
+                    </div>
 
-                    <ul>
-                        {qs.answers.map((a) => (
-                            <li>
-                                [{a.result}]{" "}
-                                {a.user && (
-                                    <a href={`/users/${a.user}`}>{a.user}</a>
-                                )}
-                            </li>
-                        ))}
-                    </ul>
+                    {/* 情報 */}
+                    <div class="info">
+                        <div class="title">
+                            {qs.order}.{" "}
+                            <a href={`/songs/${qs.contentId}`}>
+                                {song?.song ?? qs.contentId}
+                            </a>
+                            {song?.artist?.length ? (
+                                <>
+                                    {" "}
+                                    /{" "}
+                                    {song.artist.map((a, i) => (
+                                        <>
+                                            {i > 0 && " "}
+                                            <a href={`/artists/${a}`}>{a}</a>
+                                        </>
+                                    ))}
+                                </>
+                            ) : null}
+                        </div>
+
+                        <div class="result-line">
+                            {tokens.map((t) =>
+                                t.type === "text" ? (
+                                    <span class="sep">{t.value}</span>
+                                ) : (
+                                    <span class="user">
+                                        {t.prefix}
+                                        <a href={`/users/${t.user}`}>
+                                            {t.user}
+                                        </a>
+                                    </span>
+                                ),
+                            )}
+                        </div>
+                    </div>
                 </section>
             );
         })

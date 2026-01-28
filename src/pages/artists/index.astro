@@ -1,0 +1,47 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import type { Song } from "../../types/quiz";
+
+const songModules = import.meta.glob("../../../data/songs/*.json", {
+    eager: true,
+}) as Record<string, { default: Song }>;
+
+const songs = Object.values(songModules).map((m) => m.default);
+
+const artistMap = new Map<string, number>();
+
+songs.forEach((s) => {
+    s.artist.forEach((a) => {
+        artistMap.set(a, (artistMap.get(a) ?? 0) + 1);
+    });
+});
+
+const artists = Array.from(artistMap.entries())
+    .map(([name, count]) => ({ name, count }))
+    .sort((a, b) => b.count - a.count);
+---
+
+<BaseLayout title="アーティスト一覧">
+    <h1>アーティスト一覧</h1>
+
+    <table class="song-table">
+        <thead>
+            <tr>
+                <th>アーティスト</th>
+                <th>曲数</th>
+            </tr>
+        </thead>
+        <tbody>
+            {
+                artists.map((a) => (
+                    <tr>
+                        <td>
+                            <a href={`/artists/${a.name}`}>{a.name}</a>
+                        </td>
+                        <td>{a.count}</td>
+                    </tr>
+                ))
+            }
+        </tbody>
+    </table>
+</BaseLayout>

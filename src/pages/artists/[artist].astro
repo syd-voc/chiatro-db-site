@@ -6,7 +6,6 @@ import type { Quiz, Song } from "../../types/quiz";
    静的パス生成
 ========================= */
 export async function getStaticPaths() {
-    // 曲データからアーティスト一覧を作る
     const songModules = import.meta.glob("../../../data/songs/*.json", {
         eager: true,
     }) as Record<string, { default: Song }>;
@@ -18,7 +17,7 @@ export async function getStaticPaths() {
     });
 
     return Array.from(artistSet).map((artist) => ({
-        params: { artist }, // ← ★ ファイル名と一致させる
+        params: { artist },
     }));
 }
 
@@ -32,75 +31,244 @@ const songModules = import.meta.glob("../../../data/songs/*.json", {
     eager: true,
 }) as Record<string, { default: Song }>;
 
-const songs = Object.values(songModules)
-    .map((m) => m.default)
-    .filter((s) => s.artist.includes(artist));
+const allSongs = Object.values(songModules).map((m) => m.default);
 
-// クイズ（出題履歴用）
+const songs = allSongs.filter((s) => s.artist.includes(artist));
+
+// クイズ
 const quizModules = import.meta.glob("../../../data/quizzes/quiz_*.json", {
     eager: true,
 }) as Record<string, { default: Quiz }>;
 
 const quizzes = Object.values(quizModules).map((m) => m.default);
+
+const artistSongIds = new Set(songs.map((s) => s.contentId));
+
+const userCorrectMap = new Map<string, number>();
+
+quizzes.forEach((quiz) => {
+    quiz.songs.forEach((song) => {
+        if (!artistSongIds.has(song.contentId)) return;
+
+        song.answers.forEach((a) => {
+            if (a.result === "OK" || a.result === "WIN") {
+                userCorrectMap.set(
+                    a.user,
+                    (userCorrectMap.get(a.user) ?? 0) + 1,
+                );
+            }
+        });
+    });
+});
+
+const topUsers = Array.from(userCorrectMap.entries())
+    .map(([user, count]) => ({ user, count }))
+    .sort((a, b) => b.count - a.count)
+    .slice(0, 10);
+
+/* =========================
+   曲ごとの出題回数集計
+========================= */
+const songStats = songs.map((song) => {
+    const appearances = quizzes.flatMap((q) =>
+        q.songs.filter((s) => s.contentId === song.contentId),
+    );
+
+    return {
+        contentId: song.contentId,
+        title: song.song,
+        count: appearances.length,
+        startTime: song.startTime ?? null,
+    };
+});
+
+// デフォルト：出題回数多い順
+songStats.sort((a, b) => b.count - a.count);
+
+function formatDateTime(iso?: string) {
+    if (!iso) return "―";
+    const d = new Date(iso);
+    return `${d.getFullYear()}/${String(d.getMonth() + 1).padStart(
+        2,
+        "0",
+    )}/${String(d.getDate()).padStart(2, "0")} ${String(d.getHours()).padStart(
+        2,
+        "0",
+    )}:${String(d.getMinutes()).padStart(2, "0")}`;
+}
 ---
 
 <BaseLayout title={`アーティスト：${artist}`}>
     <h1>アーティスト：{artist}</h1>
 
     <section>
-        <h2>登録楽曲（{songs.length} 曲）</h2>
-        <ul>
-            {
-                songs.map((song) => (
-                    <li>
-                        <a href={`/songs/${song.contentId}`}>{song.song}</a>
-                    </li>
-                ))
-            }
-        </ul>
+        <h2>楽曲一覧（{songStats.length} 曲）</h2>
+
+        <table class="song-table">
+            <thead>
+                <tr>
+                    <th role="button" tabindex="0" data-sort-key="title">
+                        曲名
+                        <span class="sort-icon"></span>
+                    </th>
+                    <th role="button" tabindex="0" data-sort-key="startTime">
+                        投稿日時
+                        <span class="sort-icon"></span>
+                    </th>
+                    <th role="button" tabindex="0" data-sort-key="count">
+                        出題回数
+                        <span class="sort-icon"></span>
+                    </th>
+                </tr>
+            </thead>
+            <tbody id="song-table-body">
+                {
+                    songStats.map((s) => (
+                        <tr
+                            data-title={s.title}
+                            data-count={s.count}
+                            data-start-time={s.startTime ?? ""}
+                        >
+                            <td>
+                                <a href={`/songs/${s.contentId}`}>{s.title}</a>
+                            </td>
+                            <td>
+                                {s.startTime
+                                    ? (() => {
+                                          const d = new Date(s.startTime);
+                                          const yyyy = d.getFullYear();
+                                          const mm = String(
+                                              d.getMonth() + 1,
+                                          ).padStart(2, "0");
+                                          const dd = String(
+                                              d.getDate(),
+                                          ).padStart(2, "0");
+                                          const hh = String(
+                                              d.getHours(),
+                                          ).padStart(2, "0");
+                                          const min = String(
+                                              d.getMinutes(),
+                                          ).padStart(2, "0");
+                                          return `${yyyy}/${mm}/${dd} ${hh}:${min}`;
+                                      })()
+                                    : "―"}
+                            </td>
+                            <td>{s.count}</td>
+                        </tr>
+                    ))
+                }
+            </tbody>
+        </table>
     </section>
 
-    <hr />
-
     <section>
-        <h2>出題履歴</h2>
+        <h2>正解数 TOP10</h2>
 
         {
-            songs.map((song) => {
-                const appearances = quizzes.flatMap((q) =>
-                    q.songs
-                        .filter((s) => s.contentId === song.contentId)
-                        .map((s) => ({
-                            quizNo: q.quiz_no,
-                            group: q.group,
-                            order: s.order,
-                        })),
-                );
-
-                return (
-                    <section>
-                        <h3>{song.song}</h3>
-
-                        {appearances.length === 0 ? (
-                            <p>この曲はまだ出題されていません。</p>
-                        ) : (
-                            <ul>
-                                {appearances.map((a) => (
-                                    <li>
-                                        <a
-                                            href={`/quizzes/${a.quizNo}${a.group}`}
-                                        >
-                                            第{a.quizNo}
-                                            {a.group}回
-                                        </a>
-                                        ：{a.order}問目
-                                    </li>
-                                ))}
-                            </ul>
-                        )}
-                    </section>
-                );
-            })
+            topUsers.length === 0 ? (
+                <p>正解者がまだいません。</p>
+            ) : (
+                <table>
+                    <thead>
+                        <tr>
+                            <th>ユーザー</th>
+                            <th class="count">正解数</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {topUsers.map((u) => (
+                            <tr>
+                                <td>
+                                    <a href={`/users/${u.user}`}>{u.user}</a>
+                                </td>
+                                <td class="count">{u.count}</td>
+                            </tr>
+                        ))}
+                    </tbody>
+                </table>
+            )
         }
     </section>
 </BaseLayout>
+
+<script is:inline>
+    const tbody = document.getElementById("song-table-body");
+    const rows = Array.from(tbody.children);
+    const headers = document.querySelectorAll("th[data-sort-key]");
+
+    let currentSort = {
+        key: "count",
+        asc: false,
+    };
+
+    function updateIcons(activeKey) {
+        headers.forEach((th) => {
+            th.removeAttribute("data-sort-state");
+            if (th.dataset.sortKey === activeKey) {
+                th.setAttribute(
+                    "data-sort-state",
+                    currentSort.asc ? "asc" : "desc",
+                );
+            }
+        });
+    }
+
+    function sortRows(key) {
+        if (currentSort.key === key) {
+            currentSort.asc = !currentSort.asc;
+        } else {
+            currentSort.key = key;
+            // 投稿日・出題回数は新しい順が自然
+            currentSort.asc = key === "title";
+        }
+
+        const sorted = [...rows].sort((a, b) => {
+            if (key === "title") {
+                const res = a.dataset.title.localeCompare(
+                    b.dataset.title,
+                    "ja",
+                );
+                return currentSort.asc ? res : -res;
+            }
+
+            if (key === "count") {
+                const res = Number(a.dataset.count) - Number(b.dataset.count);
+                return currentSort.asc ? res : -res;
+            }
+
+            if (key === "startTime") {
+                const ta = a.dataset.startTime;
+                const tb = b.dataset.startTime;
+
+                // 不明は常に最後
+                if (!ta && !tb) return 0;
+                if (!ta) return 1;
+                if (!tb) return -1;
+
+                const res = new Date(ta).getTime() - new Date(tb).getTime();
+                return currentSort.asc ? res : -res;
+            }
+
+            return 0;
+        });
+
+        sorted.forEach((row) => tbody.appendChild(row));
+        updateIcons(key);
+    }
+
+    headers.forEach((th) => {
+        th.addEventListener("click", () => {
+            sortRows(th.dataset.sortKey);
+        });
+
+        th.addEventListener("keydown", (e) => {
+            if (e.key === "Enter" || e.key === " ") {
+                e.preventDefault();
+                sortRows(th.dataset.sortKey);
+            }
+        });
+    });
+
+    // 初期状態：出題回数 多い順
+    updateIcons("count");
+</script>

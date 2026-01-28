@@ -68,12 +68,11 @@ const postedAt = song.startTime
     <section>
         <h2>動画</h2>
 
-        <script
-            type="application/javascript"
-            src={"https://embed.nicovideo.jp/watch/" +
-                song.contentId +
-                "/script"}></script>
-
+        <div class="player">
+            <iframe
+                src={`https://embed.nicovideo.jp/watch/${song.contentId}`}
+                allowfullscreen></iframe>
+        </div>
         <iframe
             src={"https://ext.nicovideo.jp/thumb/" + song.contentId}
             width="312"
@@ -173,7 +172,7 @@ const postedAt = song.startTime
                                             {h.winner}
                                         </a>
                                     ) : (
-                                        "SKIP"
+                                        "・スルー"
                                     )}
                                 </td>
                             </tr>
