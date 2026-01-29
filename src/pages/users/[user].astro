@@ -1,74 +1,148 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import type { Quiz } from "../../types/quiz";
+import type { Quiz, Song } from "../../types/quiz";
 
+/* =========================
+   型補助
+========================= */
+type QuizSong = Quiz["songs"][number];
+type QuizAnswer = QuizSong["answers"][number];
+
+type JoinedQuiz = {
+    quiz: Quiz;
+    songs: QuizSong[];
+};
+
+/* =========================
+   Static paths
+========================= */
 export async function getStaticPaths() {
-    const modules = import.meta.glob("../../../data/quizzes/quiz_*.json", {
+    const quizModules = import.meta.glob("../../../data/quizzes/quiz_*.json", {
         eager: true,
     }) as Record<string, { default: Quiz }>;
 
     const users = new Set<string>();
 
-    Object.values(modules).forEach((m) =>
-        m.default.songs.forEach((s) =>
-            s.answers.forEach((a) => a.user && users.add(a.user)),
-        ),
-    );
+    Object.values(quizModules).forEach(({ default: quiz }) => {
+        quiz.songs.forEach((qs: QuizSong) => {
+            qs.answers.forEach((a: QuizAnswer) => {
+                if (a.user) users.add(a.user);
+            });
+        });
+    });
 
-    return [...users].map((user) => ({
+    return Array.from(users).map((user) => ({
         params: { user },
-        props: { user },
     }));
 }
 
-const { user } = Astro.props as { user: string };
+const { user } = Astro.params as { user: string };
 
+/* =========================
+   Load data
+========================= */
 const quizModules = import.meta.glob("../../../data/quizzes/quiz_*.json", {
     eager: true,
 }) as Record<string, { default: Quiz }>;
 
-const logs = Object.values(quizModules)
-    .map((m) => m.default)
-    .flatMap((quiz) =>
-        quiz.songs.flatMap((song) =>
-            song.answers
-                .filter((a) => a.user === user)
-                .map((a) => ({
-                    quiz_no: quiz.quiz_no,
-                    group: quiz.group,
-                    contentId: song.contentId,
-                    order: song.order,
-                    result: a.result,
-                })),
-        ),
-    );
+const songModules = import.meta.glob("../../../data/songs/*.json", {
+    eager: true,
+}) as Record<string, { default: Song }>;
 
-const correct = logs.filter((l) => l.result === "OK" || l.result === "WIN");
-const win = logs.filter((l) => l.result === "WIN");
+const quizzes: Quiz[] = Object.values(quizModules).map((m) => m.default);
+const songs: Song[] = Object.values(songModules).map((m) => m.default);
+
+/* =========================
+   ユーザー参加回抽出
+========================= */
+const joinedQuizzes: JoinedQuiz[] = quizzes
+    .map((quiz): JoinedQuiz | null => {
+        const hitSongs = quiz.songs.filter((qs: QuizSong) =>
+            qs.answers.some((a: QuizAnswer) => a.user === user),
+        );
+
+        if (hitSongs.length === 0) return null;
+
+        return {
+            quiz,
+            songs: hitSongs,
+        };
+    })
+    .filter((v): v is JoinedQuiz => v !== null)
+    .sort((a, b) => Number(b.quiz.quiz_no) - Number(a.quiz.quiz_no));
+
+/* =========================
+   util
+========================= */
+function findSong(contentId: string): Song | undefined {
+    return songs.find((s) => s.contentId === contentId);
+}
 ---
 
 <BaseLayout title={`${user} の成績`}>
     <h1>{user}</h1>
 
-    <p>
-        解答数：{logs.length} / 正解数：{correct.length} / 勝ち抜け：{
-            win.length
-        }
-    </p>
+    <p>参加回数：{joinedQuizzes.length}</p>
 
-    <ul>
+    <section class="user-quizzes">
         {
-            logs.map((l) => (
-                <li>
-                    <a href={`/quizzes/${l.quiz_no}${l.group}`}>
-                        第{l.quiz_no}
-                        {l.group}回
-                    </a>
-                    ：{l.order}問目
-                    <a href={`/songs/${l.contentId}`}>{l.contentId}</a>[
-                    {l.result}]
-                </li>
+            joinedQuizzes.map(({ quiz, songs: quizSongs }) => (
+                <details class="quiz-block">
+                    <summary>
+                        <a href={`/quiz/${quiz.quiz_no}${quiz.group}`}>
+                            第{quiz.quiz_no}
+                            {quiz.group}回
+                        </a>
+                        （{quiz.date}）
+                    </summary>
+
+                    <div class="quiz-songs">
+                        {quizSongs.map((qs: QuizSong) => {
+                            const song = findSong(qs.contentId);
+
+                            const answer = qs.answers.find(
+                                (a: QuizAnswer) => a.user === user,
+                            );
+
+                            if (!answer) return null;
+
+                            return (
+                                <div class="quiz-song">
+                                    <div class="title">
+                                        {qs.order}.{" "}
+                                        <a href={`/songs/${qs.contentId}`}>
+                                            {song?.song ?? qs.contentId}
+                                        </a>
+                                        {song?.artist?.length ? (
+                                            <> / {song.artist.join(" ")}</>
+                                        ) : null}
+                                    </div>
+
+                                    <div class="result-line">
+                                        {answer.result === "WIN" && (
+                                            <span class="win">★</span>
+                                        )}
+
+                                        {(answer.result === "OK" ||
+                                            answer.result === "WIN") && (
+                                            <span class="ok">①</span>
+                                        )}
+
+                                        {(answer.result === "NG" ||
+                                            answer.result === "LOSE") && (
+                                            <span class="ng">×</span>
+                                        )}
+
+                                        {answer.result === "SKIP" && (
+                                            <span class="skip">・スルー</span>
+                                        )}
+                                    </div>
+                                </div>
+                            );
+                        })}
+                    </div>
+                </details>
             ))
         }
-    </ul>
+    </section>
 </BaseLayout>
