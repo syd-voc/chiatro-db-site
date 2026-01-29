@@ -1,9 +1,9 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import type { Quiz, Song, QuizSong } from "../../types/quiz";
+import type { Quiz, Song } from "../../types/quiz";
 
 /* =========================
-   静的パス
+   static paths
 ========================= */
 export async function getStaticPaths() {
     const modules = import.meta.glob("../../../data/quizzes/quiz_*.json", {
@@ -16,11 +16,11 @@ export async function getStaticPaths() {
     }));
 }
 
-/* =========================
-   データ
-========================= */
 const { quiz } = Astro.props as { quiz: Quiz };
 
+/* =========================
+   songs
+========================= */
 const songModules = import.meta.glob("../../../data/songs/*.json", {
     eager: true,
 }) as Record<string, { default: Song }>;
@@ -28,137 +28,83 @@ const songModules = import.meta.glob("../../../data/songs/*.json", {
 const songs = Object.values(songModules).map((m) => m.default);
 
 /* =========================
-   正解数・勝ち抜け管理（ページ単位で初期化）
+   helpers
 ========================= */
-const userCorrectCount = new Map<string, number>();
-const winOrderMap = new Map<string, number>();
-let winIndex = 1;
+const circled = (n: number) => "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮"[n - 1] ?? n;
 
-/* =========================
-   表示用ユーティリティ
-========================= */
-function circledNumber(n: number) {
-    // ① = 9312
-    return n >= 1 && n <= 20 ? String.fromCharCode(9311 + n) : `(${n})`;
-}
+function buildTokens(answers: Quiz["songs"][number]["answers"]) {
+    const tokens = [];
+    let first = true;
 
-function winLabel(n: number) {
-    return `★(${n})`;
-}
-
-function incCorrect(user: string) {
-    const next = (userCorrectCount.get(user) ?? 0) + 1;
-    userCorrectCount.set(user, next);
-    return next;
-}
-
-/* =========================
-   回答 → 表示トークン変換
-========================= */
-type Token =
-    | { type: "user"; prefix: string; user: string }
-    | { type: "text"; value: string };
-
-function buildTokens(answers: QuizSong["answers"]): Token[] {
-    if (answers.length === 1 && answers[0].result === "SKIP") {
-        return [{ type: "text", value: "・スルー" }];
-    }
-
-    const tokens: Token[] = [];
-
-    answers.forEach((a, i) => {
-        if (i > 0) {
-            tokens.push({ type: "text", value: "→" });
-        }
+    for (const a of answers) {
+        if (!first) tokens.push({ type: "sep", value: "→" });
+        first = false;
 
         if (a.result === "SKIP") {
-            tokens.push({ type: "text", value: "・スルー" });
-            return;
+            tokens.push({ type: "sep", value: "・スルー" });
+            break;
+        }
+
+        if (a.result.startsWith("OK")) {
+            const n = Number(a.result.slice(2));
+            tokens.push({
+                type: "user",
+                user: a.user,
+                prefix: circled(n),
+            });
+            break;
+        }
+
+        if (a.result.startsWith("WIN")) {
+            const n = Number(a.result.slice(3));
+            tokens.push({
+                type: "user",
+                user: a.user,
+                prefix: `★(${n})`,
+            });
+            break;
         }
 
         if (a.result === "NG") {
             tokens.push({
                 type: "user",
+                user: a.user,
                 prefix: "×",
-                user: a.user,
             });
-            return;
+            continue;
         }
 
-        if (a.result === "LOSE") {
+        if (a.result.startsWith("LOSE")) {
             tokens.push({
                 type: "user",
+                user: a.user,
                 prefix: "××",
-                user: a.user,
             });
-            return;
         }
-
-        if (a.result === "OK") {
-            const n = incCorrect(a.user);
-            tokens.push({
-                type: "user",
-                prefix: circledNumber(n),
-                user: a.user,
-            });
-            return;
-        }
-
-        if (a.result === "WIN") {
-            const n = incCorrect(a.user);
-
-            if (!winOrderMap.has(a.user)) {
-                winOrderMap.set(a.user, winIndex++);
-            }
-
-            tokens.push({
-                type: "user",
-                prefix: winLabel(winOrderMap.get(a.user)!),
-                user: a.user,
-            });
-            return;
-        }
-    });
+    }
 
     return tokens;
 }
 
 /* =========================
-   WIN ランキング生成
+   win ranking（WINのみ抽出）
 ========================= */
-type WinEntry = {
-    order: number;
-    user: string;
-};
-
-const winRanking: WinEntry[] = [];
-
-// quiz.songs を先に一周して WIN を確定させる
-quiz.songs.forEach((qs) => {
-    qs.answers.forEach((a) => {
-        if (a.result === "WIN") {
-            // incCorrect は既存ロジックを使う
-            incCorrect(a.user);
-
-            if (!winOrderMap.has(a.user)) {
-                winOrderMap.set(a.user, winIndex++);
-                winRanking.push({
-                    order: winOrderMap.get(a.user)!,
-                    user: a.user,
-                });
-            }
-        }
-    });
-});
-
-// 念のため順番でソート
-winRanking.sort((a, b) => a.order - b.order);
+const winRanking = quiz.songs
+    .flatMap((qs) =>
+        qs.answers
+            .filter((a) => a.result?.startsWith("WIN"))
+            .map((a) => ({
+                user: a.user,
+                order: Number(a.result.slice(3)),
+            })),
+    )
+    .sort((a, b) => a.order - b.order);
 ---
 
 <BaseLayout title={`第${quiz.quiz_no}${quiz.group}回`}>
-    <h1>
-        第{quiz.quiz_no}{quiz.group}回（{quiz.date}）
-    </h1>
+    <h1>第{quiz.quiz_no}{quiz.group}回（{quiz.date}）</h1>
+
+    {/* 勝ち抜け */}
     {
         winRanking.length > 0 && (
             <section class="win-ranking">
@@ -178,7 +124,7 @@ winRanking.sort((a, b) => a.order - b.order);
                             <li>
                                 <span class="rank">
                                     {`${w.order}${suffix}`}
-                                </span>{" "}
+                                </span>
                                 <a href={`/users/${w.user}`}>{w.user}</a>
                             </li>
                         );
@@ -188,15 +134,14 @@ winRanking.sort((a, b) => a.order - b.order);
         )
     }
 
+    {/* 本編 */}
     {
         quiz.songs.map((qs) => {
             const song = songs.find((s) => s.contentId === qs.contentId);
-
             const tokens = buildTokens(qs.answers);
 
             return (
                 <section class="quiz-song">
-                    {/* サムネ */}
                     <div class="thumb">
                         {song?.thumbnailUrl ? (
                             <img
@@ -209,17 +154,15 @@ winRanking.sort((a, b) => a.order - b.order);
                         )}
                     </div>
 
-                    {/* 情報 */}
                     <div class="info">
                         <div class="title">
                             {qs.order}.{" "}
                             <a href={`/songs/${qs.contentId}`}>
                                 {song?.song ?? qs.contentId}
                             </a>
-                            {song?.artist?.length ? (
+                            {song?.artist?.length && (
                                 <>
-                                    {" "}
-                                    /{" "}
+                                    {" / "}
                                     {song.artist.map((a, i) => (
                                         <>
                                             {i > 0 && " "}
@@ -227,12 +170,12 @@ winRanking.sort((a, b) => a.order - b.order);
                                         </>
                                     ))}
                                 </>
-                            ) : null}
+                            )}
                         </div>
 
                         <div class="result-line">
                             {tokens.map((t) =>
-                                t.type === "text" ? (
+                                t.type === "sep" ? (
                                     <span class="sep">{t.value}</span>
                                 ) : (
                                     <span class="user">

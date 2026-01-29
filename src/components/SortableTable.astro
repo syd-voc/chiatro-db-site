@@ -1,0 +1,164 @@
+---
+export type SortType = "string" | "number" | "date";
+
+export interface Column<T> {
+    key: keyof T;
+    label: string;
+    sortable?: boolean;
+    type?: SortType;
+    render?: (row: T) => string;
+}
+
+export interface SortableTableProps<T> {
+    columns: Column<T>[];
+    rows: T[];
+    defaultSortKey: keyof T;
+    defaultSortOrder?: "asc" | "desc";
+}
+
+const {
+    columns,
+    rows,
+    defaultSortKey,
+    defaultSortOrder = "desc",
+} = Astro.props as SortableTableProps<any>;
+---
+
+<table
+    class="sortable-table"
+    data-default-key={String(defaultSortKey)}
+    data-default-order={defaultSortOrder}
+>
+    <thead>
+        <tr>
+            {
+                columns.map((col) => (
+                    <th
+                        data-key={String(col.key)}
+                        data-sortable={col.sortable ? "true" : "false"}
+                        data-type={col.type ?? "string"}
+                    >
+                        <span class="th-label">{col.label}</span>
+                        <span class="sort-icon" />
+                    </th>
+                ))
+            }
+        </tr>
+    </thead>
+
+    <tbody>
+        {
+            rows.map((row) => (
+                <tr>
+                    {columns.map((col) => (
+                        <td
+                            data-key={String(col.key)}
+                            data-value={String(row[col.key] ?? "")}
+                            set:html={
+                                col.render
+                                    ? col.render(row)
+                                    : String(row[col.key] ?? "")
+                            }
+                        />
+                    ))}
+                </tr>
+            ))
+        }
+    </tbody>
+</table>
+
+<script defer>
+    (() => {
+        function initSortableTable(table) {
+            if (!table || table.dataset.initialized === "true") return;
+            table.dataset.initialized = "true";
+
+            const tbody = table.querySelector("tbody");
+            const headers = Array.from(table.querySelectorAll("th"));
+
+            let currentKey = table.dataset.defaultKey;
+            let currentOrder = table.dataset.defaultOrder || "desc";
+
+            const clearIcons = () => {
+                headers.forEach((th) => {
+                    th.removeAttribute("data-sort-state");
+                    th.removeAttribute("data-active");
+                });
+            };
+
+            const setIcon = (th, order) => {
+                th.setAttribute("data-sort-state", order);
+                th.setAttribute("data-active", "true");
+            };
+
+            const getCellValue = (tr, key, type) => {
+                const td = tr.querySelector(`td[data-key="${key}"]`);
+                if (!td) return "";
+
+                const value = td.dataset.value || td.textContent || "";
+
+                if (type === "number") return Number(value) || 0;
+                if (type === "date") return Date.parse(value) || 0;
+                return value;
+            };
+
+            const sortRows = (key, order, type) => {
+                const rows = Array.from(tbody.querySelectorAll("tr"));
+
+                rows.sort((a, b) => {
+                    const av = getCellValue(a, key, type);
+                    const bv = getCellValue(b, key, type);
+
+                    if (typeof av === "number" && typeof bv === "number") {
+                        return order === "asc" ? av - bv : bv - av;
+                    }
+
+                    return order === "asc"
+                        ? String(av).localeCompare(String(bv), "ja")
+                        : String(bv).localeCompare(String(av), "ja");
+                });
+
+                rows.forEach((r) => tbody.appendChild(r));
+            };
+
+            headers.forEach((th) => {
+                if (th.dataset.sortable !== "true") return;
+
+                th.addEventListener("click", () => {
+                    const key = th.dataset.key;
+                    const type = th.dataset.type;
+
+                    currentOrder =
+                        currentKey === key && currentOrder === "desc"
+                            ? "asc"
+                            : "desc";
+
+                    currentKey = key;
+
+                    clearIcons();
+                    setIcon(th, currentOrder);
+                    sortRows(key, currentOrder, type);
+                });
+            });
+
+            // 初期ソート
+            const defaultTh = headers.find((h) => h.dataset.key === currentKey);
+            if (defaultTh) {
+                clearIcons();
+                setIcon(defaultTh, currentOrder);
+                sortRows(currentKey, currentOrder, defaultTh.dataset.type);
+            }
+        }
+
+        // ⭐ グローバル公開（タブJSから呼ぶ）
+        window.initSortableTable = initSortableTable;
+
+        // ⭐ 初期表示されているテーブルだけ即初期化
+        document
+            .querySelectorAll(".sortable-table:not([data-initialized])")
+            .forEach((table) => {
+                if (table.closest("[hidden]")) return;
+                initSortableTable(table);
+            });
+    })();
+</script>

@@ -14,7 +14,7 @@ const winMap = new Map<string, number>();
 quizzes.forEach((q) => {
     q.songs.forEach((song) => {
         song.answers.forEach((a) => {
-            if (a.result === "WIN") {
+            if (a.result?.startsWith("WIN")) {
                 winMap.set(a.user, (winMap.get(a.user) ?? 0) + 1);
             }
         });
@@ -27,7 +27,7 @@ const users = Array.from(winMap.entries())
     .sort((a, b) => b.winCount - a.winCount);
 ---
 
-<BaseLayout title="Users">
+<BaseLayout title="参加者一覧">
     <h1>参加者一覧</h1>
 
     <table>

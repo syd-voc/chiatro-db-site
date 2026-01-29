@@ -51,7 +51,7 @@ quizzes.forEach((quiz) => {
         if (!artistSongIds.has(song.contentId)) return;
 
         song.answers.forEach((a) => {
-            if (a.result === "OK" || a.result === "WIN") {
+            if (a.result?.startsWith("OK") || a.result?.startsWith("WIN")) {
                 userCorrectMap.set(
                     a.user,
                     (userCorrectMap.get(a.user) ?? 0) + 1,
@@ -99,7 +99,7 @@ function formatDateTime(iso?: string) {
 ---
 
 <BaseLayout title={`アーティスト：${artist}`}>
-    <h1>アーティスト：{artist}</h1>
+    <h1>{artist}</h1>
 
     <section>
         <h2>楽曲一覧（{songStats.length} 曲）</h2>

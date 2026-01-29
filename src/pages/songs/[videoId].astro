@@ -2,6 +2,9 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import type { Song, SongHistory, Quiz } from "../../types/quiz";
 
+/* =========================
+   static paths
+========================= */
 export async function getStaticPaths() {
     const songModules = import.meta.glob("../../../data/songs/*.json", {
         eager: true,
@@ -15,20 +18,25 @@ export async function getStaticPaths() {
 
 const { song } = Astro.props as { song: Song };
 
-// ===== クイズ読み込み =====
+/* =========================
+   quizzes
+========================= */
 const quizModules = import.meta.glob("../../../data/quizzes/quiz_*.json", {
     eager: true,
 }) as Record<string, { default: Quiz }>;
 
 const quizzes = Object.values(quizModules).map((m) => m.default);
 
-// ===== 出題履歴生成 =====
+/* =========================
+   出題履歴生成
+========================= */
 const histories: SongHistory[] = quizzes.flatMap((q) =>
     q.songs
         .filter((s) => s.contentId === song.contentId)
         .map((s) => {
             const winnerAnswer = s.answers.find(
-                (a) => a.result === "OK" || a.result === "WIN",
+                (a) =>
+                    a.result?.startsWith("OK") || a.result?.startsWith("WIN"),
             );
 
             return {
@@ -41,12 +49,16 @@ const histories: SongHistory[] = quizzes.flatMap((q) =>
         }),
 );
 
-// ===== ソート（新しい順）=====
+/* =========================
+   ソート（新しい順）
+========================= */
 const sortedHistories = [...histories].sort(
     (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime(),
 );
 
-// ===== 集計 =====
+/* =========================
+   集計
+========================= */
 const appearanceCount = histories.length;
 const correctCount = histories.filter((h) => h.winner).length;
 const accuracy =
@@ -54,7 +66,9 @@ const accuracy =
         ? 0
         : Math.round((correctCount / appearanceCount) * 100);
 
-// ===== 投稿日時 =====
+/* =========================
+   投稿日時
+========================= */
 const postedAt = song.startTime
     ? new Date(song.startTime).toLocaleString("ja-JP")
     : "不明";
@@ -73,6 +87,7 @@ const postedAt = song.startTime
                 src={`https://embed.nicovideo.jp/watch/${song.contentId}`}
                 allowfullscreen></iframe>
         </div>
+
         <iframe
             src={"https://ext.nicovideo.jp/thumb/" + song.contentId}
             width="312"
@@ -86,7 +101,7 @@ const postedAt = song.startTime
             {
                 song.artist.map((a) => (
                     <li>
-                        <a href={"/artists/" + a}>{a}</a>
+                        <a href={`/artists/${a}`}>{a}</a>
                     </li>
                 ))
             }

@@ -270,22 +270,28 @@ a:hover {
     text-decoration: underline;
 }
 
-.song-table th {
+/* =========================
+   SortableTable 共通
+========================= */
+
+.sortable-table th {
     cursor: pointer;
     user-select: none;
     position: relative;
-    padding-right: 1.2em;
+    padding-right: 1.4em;
+    white-space: nowrap;
 }
 
-.song-table th:hover {
+.sortable-table th:hover {
     background: #e8f2fd;
 }
 
-.song-table th[data-active="true"] {
+.sortable-table th[data-sort-state] {
     background: #dbeeff;
 }
 
-.sort-icon {
+/* ▲▼ アイコン */
+.sortable-table .sort-icon {
     position: absolute;
     right: 0.6em;
     top: 50%;
@@ -296,13 +302,53 @@ a:hover {
     text-align: center;
 }
 
-th[data-sort-state="asc"] .sort-icon::after {
+.sortable-table th[data-sort-state="asc"] .sort-icon::after {
     content: "▲";
 }
 
-th[data-sort-state="desc"] .sort-icon::after {
+.sortable-table th[data-sort-state="desc"] .sort-icon::after {
     content: "▼";
 }
+
+/* =========================
+   User Page Tabs
+========================= */
+
+.user-tabs {
+    display: flex;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 1rem;
+}
+
+.user-tabs button {
+    appearance: none;
+    border: 1px solid #ccc;
+    border-bottom: none;
+    background: #f1f3f4;
+    padding: 0.5em 1.2em;
+    margin-right: 0.3em;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    cursor: pointer;
+    font-size: 0.95em;
+    color: #444;
+}
+
+.user-tabs button:hover {
+    background: #e8eaed;
+}
+
+.user-tabs button.active {
+    background: #fff;
+    color: #000;
+    border-bottom: 1px solid #fff;
+    font-weight: 600;
+}
+
+.tab-panel {
+    padding-top: 0.5rem;
+}
+
 
 /* =========================
    Quiz Song Items
