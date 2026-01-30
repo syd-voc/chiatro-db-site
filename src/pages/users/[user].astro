@@ -2,6 +2,8 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import type { Quiz, Song } from "../../types/quiz";
 import SortableTable from "../../components/SortableTable.astro";
+import EraCorrectChart from "../../components/EraCorrectChart";
+import ViewCorrectChart from "../../components/ViewCorrectChart";
 
 /* =========================
    型補助
@@ -40,6 +42,41 @@ type ArtistStatRow = {
     correctCount: number;
     correctSongCount: number;
 };
+
+type Era =
+    | "2007-2008"
+    | "2009"
+    | "2010"
+    | "2011"
+    | "2012"
+    | "2013"
+    | "2014"
+    | "2015"
+    | "2016"
+    | "2017"
+    | "2018"
+    | "2019"
+    | "2020"
+    | "2021"
+    | "2022"
+    | "2023"
+    | "2024"
+    | "2025-";
+
+export const VIEW_RANGES = [
+    { order: 0, key: "-1万", min: 0, max: 9_999 },
+    { order: 1, key: "1万-10万", min: 10_000, max: 99_999 },
+    { order: 2, key: "10万-30万", min: 100_000, max: 299_999 },
+    { order: 3, key: "30万-50万", min: 300_000, max: 499_999 },
+    { order: 4, key: "50万-100万", min: 500_000, max: 999_999 },
+    { order: 5, key: "100万-200万", min: 1_000_000, max: 1_999_999 },
+    { order: 6, key: "200万-300万", min: 2_000_000, max: 2_999_999 },
+    { order: 7, key: "300万-500万", min: 3_000_000, max: 4_999_999 },
+    { order: 8, key: "500万-1000万", min: 5_000_000, max: 9_999_999 },
+    { order: 9, key: "1000万-", min: 10_000_000, max: Infinity },
+];
+
+export type ViewRangeKey = (typeof VIEW_RANGES)[number]["key"];
 
 /* =========================
    Static paths
@@ -124,6 +161,23 @@ function summarizeUserResult(quizSongs: QuizSong[], user: string) {
 
 function isCorrect(result: string): boolean {
     return result.startsWith("OK") || result.startsWith("WIN");
+}
+
+function getEra(startTime?: string): Era | null {
+    if (!startTime) return null;
+
+    const year = new Date(startTime).getFullYear();
+
+    if (year <= 2008) return "2007-2008";
+    if (year >= 2025) return "2025-";
+    return String(year) as Era;
+}
+
+function getViewRange(viewCount: number): ViewRangeKey | null {
+    const range = VIEW_RANGES.find(
+        (r) => viewCount >= r.min && viewCount <= r.max,
+    );
+    return range?.key ?? null;
 }
 
 /* =========================
@@ -269,7 +323,90 @@ const artistStats = Array.from(artistMap.values()).map((a) => ({
 }));
 
 /* =========================
-   表示用データ生成
+   年別集計
+========================= */
+
+type EraStat = {
+    era: Era;
+    correctCount: number; // 延べ正解回数
+    songSet: Set<string>; // 正解した曲ID
+};
+
+const eraMap = new Map<Era, EraStat>();
+
+quizzes.forEach((quiz) => {
+    quiz.songs.forEach((qs) => {
+        const song = findSong(qs.contentId);
+        if (!song) return;
+
+        const era = getEra(song.startTime);
+        if (!era) return;
+
+        const correctAnswers = qs.answers.filter(
+            (a) => a.user === user && isCorrect(a.result),
+        );
+
+        if (correctAnswers.length === 0) return;
+
+        if (!eraMap.has(era)) {
+            eraMap.set(era, {
+                era,
+                correctCount: 0,
+                songSet: new Set(),
+            });
+        }
+
+        const stat = eraMap.get(era)!;
+        stat.correctCount += correctAnswers.length;
+        stat.songSet.add(song.contentId);
+    });
+});
+
+/* =========================
+   再生回数別集計
+========================= */
+
+type ViewRangeStat = {
+    range: ViewRangeKey;
+    correctCount: number; // 延べ正解回数
+    songSet: Set<string>; // 正解した曲ID
+};
+
+const viewMap = new Map<ViewRangeKey, ViewRangeStat>();
+
+quizzes.forEach((quiz) => {
+    quiz.songs.forEach((qs) => {
+        const song = findSong(qs.contentId);
+        if (!song) return;
+
+        const viewCount = song.viewCounter;
+        if (typeof viewCount !== "number") return;
+
+        const range = getViewRange(viewCount);
+        if (!range) return;
+
+        const correctAnswers = qs.answers.filter(
+            (a) => a.user === user && isCorrect(a.result),
+        );
+
+        if (correctAnswers.length === 0) return;
+
+        if (!viewMap.has(range)) {
+            viewMap.set(range, {
+                range,
+                correctCount: 0,
+                songSet: new Set(),
+            });
+        }
+
+        const stat = viewMap.get(range)!;
+        stat.correctCount += correctAnswers.length;
+        stat.songSet.add(song.contentId);
+    });
+});
+
+/* =========================
+   曲表示用データ生成
 ========================= */
 
 const correctSongRows: CorrectSongRow[] = correctSongs.map(
@@ -328,6 +465,10 @@ const correctSongColumns = [
     },
 ];
 
+/* =========================
+   アーティスト表示用データ生成
+========================= */
+
 const artistRows: ArtistStatRow[] = artistStats.map((a) => ({
     artist: a.artist,
     correctCount: a.correctCount,
@@ -356,6 +497,83 @@ const artistColumns = [
         type: "number",
     },
 ];
+
+/* =========================
+   年別表示用データ生成
+========================= */
+
+const eraRows = Array.from(eraMap.values()).map((e) => ({
+    era: e.era,
+    correctCount: e.correctCount,
+    correctSongCount: e.songSet.size,
+}));
+const eraColumns = [
+    {
+        key: "era",
+        label: "投稿年",
+        sortable: true,
+        type: "string",
+    },
+    {
+        key: "correctCount",
+        label: "正解回数",
+        sortable: true,
+        type: "number",
+    },
+    {
+        key: "correctSongCount",
+        label: "正解曲数",
+        sortable: true,
+        type: "number",
+    },
+] as const;
+
+const eraChartData = eraRows.map((r) => ({
+    era: r.era,
+    songCount: r.correctSongCount,
+    extraCorrect: Math.max(0, r.correctCount - r.correctSongCount),
+}));
+
+/* =========================
+   再生数帯別表示用データ生成
+========================= */
+const viewRows = VIEW_RANGES.map((r) => {
+    const stat = viewMap.get(r.key);
+    return {
+        range: r.key, // 表示用
+        rangeOrder: r.order, // ソート用
+        correctCount: stat?.correctCount ?? 0,
+        correctSongCount: stat?.songSet.size ?? 0,
+    };
+});
+
+const viewColumns = [
+    {
+        key: "range",
+        label: "再生数帯",
+        sortable: true,
+        type: "number",
+        sortKey: "rangeOrder",
+    },
+    {
+        key: "correctSongCount",
+        label: "正解曲数",
+        sortable: true,
+        type: "number",
+    },
+    {
+        key: "correctCount",
+        label: "正解回数",
+        sortable: true,
+        type: "number",
+    },
+] as const;
+
+const viewChartData = viewRows.map((r) => ({
+    range: r.range,
+    songCount: r.correctSongCount,
+    extraCorrect: Math.max(0, r.correctCount - r.correctSongCount),
+}));
 ---
 
 <BaseLayout title={`${user}`}>
@@ -365,6 +583,8 @@ const artistColumns = [
         <button data-tab="quizzes" class="active">参加回</button>
         <button data-tab="songs">正解曲一覧</button>
         <button data-tab="artists">アーティスト別</button>
+        <button data-tab="eras">投稿年別</button>
+        <button data-tab="views">再生数帯別</button>
     </nav>
 
     <section class="tab-panel" data-tab-panel="quizzes">
@@ -373,7 +593,7 @@ const artistColumns = [
             joinedQuizzes.map(({ quiz, songs: quizSongs }) => (
                 <details class="quiz-block">
                     <summary>
-                        <a href={`/quiz/${quiz.quiz_no}${quiz.group}`}>
+                        <a href={`/quizzes/${quiz.quiz_no}${quiz.group}`}>
                             第{quiz.quiz_no}
                             {quiz.group}回
                         </a>
@@ -486,6 +706,36 @@ const artistColumns = [
             columns={artistColumns}
             rows={artistRows}
             defaultSortKey="correctCount"
+            defaultSortOrder="desc"
+        />
+    </section>
+
+    <section class="tab-panel" data-tab-panel="eras" hidden>
+        <h2>投稿年別 正解集計</h2>
+
+        <div class="era-chart">
+            <EraCorrectChart client:only="react" data={eraChartData} />
+        </div>
+
+        <SortableTable
+            columns={eraColumns}
+            rows={eraRows}
+            defaultSortKey="era"
+            defaultSortOrder="asc"
+        />
+    </section>
+
+    <section class="tab-panel" data-tab-panel="views" hidden>
+        <h2>再生数帯別 正解集計</h2>
+
+        <div class="view-chart">
+            <ViewCorrectChart client:only="react" data={viewChartData} />
+        </div>
+
+        <SortableTable
+            columns={viewColumns}
+            rows={viewRows}
+            defaultSortKey="rangeOrder"
             defaultSortOrder="desc"
         />
     </section>

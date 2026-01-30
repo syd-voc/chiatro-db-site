@@ -349,6 +349,17 @@ a:hover {
     padding-top: 0.5rem;
 }
 
+/* =========================
+    Chart Styles
+========================= */
+.era-chart {
+    margin: 1.5rem 0 2rem;
+    padding: 1rem;
+    background: #fafafa;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
 
 /* =========================
    Quiz Song Items
