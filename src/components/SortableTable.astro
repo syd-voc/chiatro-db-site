@@ -126,7 +126,7 @@ const {
 
                 th.addEventListener("click", () => {
                     const key = th.dataset.key;
-                    const type = th.dataset.type;
+                    const type = th.dataset.type || "string"; // ⭐ 追加
 
                     currentOrder =
                         currentKey === key && currentOrder === "desc"

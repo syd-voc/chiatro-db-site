@@ -4,6 +4,8 @@ import type { Quiz, Song } from "../../types/quiz";
 import SortableTable from "../../components/SortableTable.astro";
 import EraCorrectChart from "../../components/EraCorrectChart";
 import ViewCorrectChart from "../../components/ViewCorrectChart";
+import type { Column } from "../../components/SortableTable.astro";
+import ScatterCorrectChart from "../../components/ScatterCorrectChart";
 
 /* =========================
    型補助
@@ -34,6 +36,7 @@ type CorrectSongRow = {
     startTime: string;
     correctCount: number;
     contentId: string;
+    viewCounter: number | undefined;
     artistList: string[];
 };
 
@@ -65,14 +68,14 @@ type Era =
 
 export const VIEW_RANGES = [
     { order: 0, key: "-1万", min: 0, max: 9_999 },
-    { order: 1, key: "1万-10万", min: 10_000, max: 99_999 },
-    { order: 2, key: "10万-30万", min: 100_000, max: 299_999 },
-    { order: 3, key: "30万-50万", min: 300_000, max: 499_999 },
-    { order: 4, key: "50万-100万", min: 500_000, max: 999_999 },
-    { order: 5, key: "100万-200万", min: 1_000_000, max: 1_999_999 },
-    { order: 6, key: "200万-300万", min: 2_000_000, max: 2_999_999 },
-    { order: 7, key: "300万-500万", min: 3_000_000, max: 4_999_999 },
-    { order: 8, key: "500万-1000万", min: 5_000_000, max: 9_999_999 },
+    { order: 1, key: "1-10万", min: 10_000, max: 99_999 },
+    { order: 2, key: "10-30万", min: 100_000, max: 299_999 },
+    { order: 3, key: "30-50万", min: 300_000, max: 499_999 },
+    { order: 4, key: "50-100万", min: 500_000, max: 999_999 },
+    { order: 5, key: "100-200万", min: 1_000_000, max: 1_999_999 },
+    { order: 6, key: "200-300万", min: 2_000_000, max: 2_999_999 },
+    { order: 7, key: "300-500万", min: 3_000_000, max: 4_999_999 },
+    { order: 8, key: "500-1000万", min: 5_000_000, max: 9_999_999 },
     { order: 9, key: "1000万-", min: 10_000_000, max: Infinity },
 ];
 
@@ -178,6 +181,22 @@ function getViewRange(viewCount: number): ViewRangeKey | null {
         (r) => viewCount >= r.min && viewCount <= r.max,
     );
     return range?.key ?? null;
+}
+
+function percent(part: number, total: number): number {
+    if (total === 0) return 0;
+    return (part / total) * 100;
+}
+
+function median(values: number[]): number | null {
+    if (values.length === 0) return null;
+
+    const sorted = [...values].sort((a, b) => a - b);
+    const mid = Math.floor(sorted.length / 2);
+
+    return sorted.length % 2
+        ? sorted[mid]
+        : Math.round((sorted[mid - 1] + sorted[mid]) / 2);
 }
 
 /* =========================
@@ -406,6 +425,107 @@ quizzes.forEach((quiz) => {
 });
 
 /* =========================
+   ユーザー統計
+========================= */
+
+let totalAnswers = 0;
+let okAnswers = 0;
+let ngAnswers = 0;
+
+let participatedQuizCount = 0;
+let winQuizCount = 0;
+let loseQuizCount = 0;
+
+const correctSongViews: number[] = [];
+
+joinedQuizzes.forEach(({ songs }) => {
+    let hasWin = false;
+    let hasLose = false;
+    let participated = false;
+
+    songs.forEach((qs) => {
+        const song = findSong(qs.contentId);
+
+        qs.answers.forEach((a) => {
+            if (a.user !== user) return;
+
+            participated = true;
+            totalAnswers++;
+
+            if (a.result.startsWith("OK")) {
+                okAnswers++;
+                if (song?.viewCounter != null) {
+                    correctSongViews.push(song.viewCounter);
+                }
+            }
+
+            if (a.result.startsWith("WIN")) {
+                okAnswers++;
+                hasWin = true;
+            }
+
+            if (a.result === "NG") {
+                ngAnswers++;
+            }
+
+            if (a.result === "LOSE") {
+                hasLose = true;
+            }
+        });
+    });
+
+    if (participated) {
+        participatedQuizCount++;
+
+        if (hasWin) winQuizCount++;
+        if (hasLose) loseQuizCount++;
+    }
+});
+
+const medianViews = median(correctSongViews);
+
+/* =========================
+   散布図用データ生成
+========================= */
+
+type ScatterPoint = {
+    title: string;
+    contentId: string;
+    startTime: number;
+    viewCounter: number;
+};
+
+const scatterData: ScatterPoint[] = [];
+
+quizzes.forEach((quiz) => {
+    quiz.songs.forEach((qs) => {
+        const song = findSong(qs.contentId);
+        if (!song) return;
+
+        if (!song.startTime || typeof song.viewCounter !== "number") return;
+
+        const isCorrectForUser = qs.answers.some(
+            (a) => a.user === user && isCorrect(a.result),
+        );
+
+        if (!isCorrectForUser) return;
+
+        const ts = new Date(song.startTime).getTime();
+        if (!Number.isFinite(ts)) {
+            console.log("bad startTime", song.startTime);
+            return;
+        }
+
+        scatterData.push({
+            title: song.song,
+            contentId: song.contentId,
+            startTime: Date.parse(song.startTime),
+            viewCounter: song.viewCounter,
+        });
+    });
+});
+
+/* =========================
    曲表示用データ生成
 ========================= */
 
@@ -416,6 +536,7 @@ const correctSongRows: CorrectSongRow[] = correctSongs.map(
         startTime: song.startTime ?? "",
         correctCount,
         contentId: song.contentId,
+        viewCounter: song.viewCounter,
         artistList: song.artist ?? [],
     }),
 );
@@ -456,6 +577,16 @@ const correctSongColumns = [
             const min = String(d.getMinutes()).padStart(2, "0");
             return `${yyyy}/${mm}/${dd} ${hh}:${min}`;
         },
+    },
+    {
+        key: "viewCounter",
+        label: "再生数",
+        sortable: true,
+        type: "number",
+        render: (row: CorrectSongRow) =>
+            typeof row.viewCounter === "number"
+                ? row.viewCounter.toLocaleString()
+                : "―",
     },
     {
         key: "correctCount",
@@ -507,12 +638,37 @@ const eraRows = Array.from(eraMap.values()).map((e) => ({
     correctCount: e.correctCount,
     correctSongCount: e.songSet.size,
 }));
-const eraColumns = [
+const totalEraCorrect = eraRows.reduce((sum, r) => sum + r.correctCount, 0);
+
+const totalEraSongs = eraRows.reduce((sum, r) => sum + r.correctSongCount, 0);
+
+const eraRowsWithPercent = eraRows.map((r) => ({
+    ...r,
+    correctPercent: percent(r.correctCount, totalEraCorrect),
+    songPercent: percent(r.correctSongCount, totalEraSongs),
+}));
+
+type EraRow = (typeof eraRowsWithPercent)[number];
+
+const eraColumns: Column<EraRow>[] = [
     {
         key: "era",
         label: "投稿年",
         sortable: true,
         type: "string",
+    },
+    {
+        key: "correctSongCount",
+        label: "正解曲数",
+        sortable: true,
+        type: "number",
+    },
+    {
+        key: "songPercent",
+        label: "曲数%",
+        sortable: true,
+        type: "number",
+        render: (row) => `${row.songPercent.toFixed(1)}%`,
     },
     {
         key: "correctCount",
@@ -521,12 +677,13 @@ const eraColumns = [
         type: "number",
     },
     {
-        key: "correctSongCount",
-        label: "正解曲数",
+        key: "correctPercent",
+        label: "回数%",
         sortable: true,
         type: "number",
+        render: (row) => `${row.correctPercent.toFixed(1)}%`,
     },
-] as const;
+];
 
 const eraChartData = eraRows.map((r) => ({
     era: r.era,
@@ -537,23 +694,46 @@ const eraChartData = eraRows.map((r) => ({
 /* =========================
    再生数帯別表示用データ生成
 ========================= */
-const viewRows = VIEW_RANGES.map((r) => {
+
+type ViewRow = {
+    range: ViewRangeKey;
+    rangeOrder: number;
+    correctCount: number;
+    correctSongCount: number;
+};
+
+const viewRows: ViewRow[] = VIEW_RANGES.map((r) => {
     const stat = viewMap.get(r.key);
+
     return {
-        range: r.key, // 表示用
-        rangeOrder: r.order, // ソート用
+        range: r.key,
+        rangeOrder: r.order,
         correctCount: stat?.correctCount ?? 0,
         correctSongCount: stat?.songSet.size ?? 0,
     };
 });
+const totalViewCorrect = viewRows.reduce((sum, r) => sum + r.correctCount, 0);
 
-const viewColumns = [
+const totalViewSongs = viewRows.reduce((sum, r) => sum + r.correctSongCount, 0);
+
+type ViewRowWithPercent = ViewRow & {
+    correctPercent: number;
+    songPercent: number;
+};
+
+const viewRowsWithPercent: ViewRowWithPercent[] = viewRows.map((r) => ({
+    ...r,
+    correctPercent: percent(r.correctCount, totalViewCorrect),
+    songPercent: percent(r.correctSongCount, totalViewSongs),
+}));
+
+const viewColumns: Column<ViewRowWithPercent>[] = [
     {
-        key: "range",
+        key: "rangeOrder",
         label: "再生数帯",
         sortable: true,
         type: "number",
-        sortKey: "rangeOrder",
+        render: (row) => row.range,
     },
     {
         key: "correctSongCount",
@@ -562,12 +742,26 @@ const viewColumns = [
         type: "number",
     },
     {
+        key: "songPercent",
+        label: "曲数%",
+        sortable: true,
+        type: "number",
+        render: (row) => `${row.songPercent.toFixed(1)}%`,
+    },
+    {
         key: "correctCount",
         label: "正解回数",
         sortable: true,
         type: "number",
     },
-] as const;
+    {
+        key: "correctPercent",
+        label: "回数%",
+        sortable: true,
+        type: "number",
+        render: (row) => `${row.correctPercent.toFixed(1)}%`,
+    },
+];
 
 const viewChartData = viewRows.map((r) => ({
     range: r.range,
@@ -585,6 +779,8 @@ const viewChartData = viewRows.map((r) => ({
         <button data-tab="artists">アーティスト別</button>
         <button data-tab="eras">投稿年別</button>
         <button data-tab="views">再生数帯別</button>
+        <button data-tab="scatter">散布図</button>
+        <button data-tab="stats">統計</button>
     </nav>
 
     <section class="tab-panel" data-tab-panel="quizzes">
@@ -719,7 +915,7 @@ const viewChartData = viewRows.map((r) => ({
 
         <SortableTable
             columns={eraColumns}
-            rows={eraRows}
+            rows={eraRowsWithPercent}
             defaultSortKey="era"
             defaultSortOrder="asc"
         />
@@ -734,10 +930,73 @@ const viewChartData = viewRows.map((r) => ({
 
         <SortableTable
             columns={viewColumns}
-            rows={viewRows}
+            rows={viewRowsWithPercent}
             defaultSortKey="rangeOrder"
             defaultSortOrder="desc"
         />
+    </section>
+
+    <section class="tab-panel" data-tab-panel="scatter" hidden>
+        <h2>正解曲 散布図</h2>
+
+        <ScatterCorrectChart client:only="react" data={scatterData} />
+    </section>
+
+    <section class="tab-panel" data-tab-panel="stats" hidden>
+        <h2>ユーザー統計</h2>
+
+        <table class="stats-table">
+            <tbody>
+                <tr>
+                    <th>正答率</th>
+                    <td>
+                        {okAnswers} / {totalAnswers}
+                        （{percent(okAnswers, totalAnswers).toFixed(1)}%）
+                    </td>
+                </tr>
+
+                <tr>
+                    <th>誤答率</th>
+                    <td>
+                        {ngAnswers} / {totalAnswers}
+                        （{percent(ngAnswers, totalAnswers).toFixed(1)}%）
+                    </td>
+                </tr>
+
+                <tr>
+                    <th>勝ち抜け率</th>
+                    <td>
+                        {winQuizCount} / {participatedQuizCount}
+                        （{
+                            percent(
+                                winQuizCount,
+                                participatedQuizCount,
+                            ).toFixed(1)
+                        }%）
+                    </td>
+                </tr>
+
+                <tr>
+                    <th>失格率</th>
+                    <td>
+                        {loseQuizCount} / {participatedQuizCount}
+                        （{
+                            percent(
+                                loseQuizCount,
+                                participatedQuizCount,
+                            ).toFixed(1)
+                        }%）
+                    </td>
+                </tr>
+
+                <tr>
+                    <th>正解曲 再生数中央値</th>
+                    <td>
+                        {medianViews ? medianViews.toLocaleString() : "―"}
+                    </td>
+                </tr>
+            </tbody>
+        </table>
     </section>
 </BaseLayout>
 

@@ -53,8 +53,8 @@ body {
 .header-meta {
     position: absolute;
     right: 12px;
-    bottom: 4px;
-    font-size: 11px;
+    bottom: 1px;
+    font-size: 10px;
     opacity: 0.8;
     white-space: nowrap;
 }
@@ -81,6 +81,8 @@ body {
     width: 160px;
     background: #f4f6f8;
     padding: 16px;
+    transform: translateX(0);
+    transition: transform 0.25s;
 }
 
 .sidebar ul {
@@ -99,6 +101,11 @@ body {
 
 .sidebar a:hover {
     color: rgb(31, 156, 239);
+}
+
+
+.sidebar.closed {
+    transform: translateX(-100%);
 }
 
 .content {
@@ -310,6 +317,11 @@ a:hover {
     content: "▼";
 }
 
+.sortable-table {
+    overflow-x: auto;
+}
+
+
 /* =========================
    User Page Tabs
 ========================= */
@@ -318,6 +330,12 @@ a:hover {
     display: flex;
     border-bottom: 1px solid #ccc;
     margin-bottom: 1rem;
+    overflow-x: auto;
+    scrollbar-width: none;
+}
+
+.user-tabs::-webkit-scrollbar {
+    display: none;
 }
 
 .user-tabs button {
@@ -360,6 +378,19 @@ a:hover {
     border-radius: 8px;
 }
 
+.scatter-tooltip {
+    background: white;
+    border: 1px solid #ccc;
+    padding: 0.5rem 0.7rem;
+    border-radius: 6px;
+    font-size: 0.9rem;
+}
+
+.scatter-tooltip .title {
+    font-weight: bold;
+    margin-bottom: 0.2rem;
+}
+
 
 /* =========================
    Quiz Song Items
@@ -367,7 +398,7 @@ a:hover {
 .quiz-song {
     display: grid;
     grid-template-columns: 120px 1fr;
-    gap: 16px;
+    gap: 12px;
     padding: 12px 0;
     border-bottom: 1px solid #ddd;
     align-items: center;
@@ -438,7 +469,6 @@ a:hover {
 .win-ranking {
     margin: 1rem 0 1.5rem;
     padding: 0.5rem 1rem;
-    border-left: 4px solid rgb(31, 156, 239);
     background: #f6fbff;
 }
 
@@ -489,4 +519,82 @@ footer {
     border-top: 1px solid var(--color-border);
     color: var(--color-muted);
     font-size: 0.9em;
+}
+
+/* =========================
+   Responsive Design
+========================= */
+
+@media (max-width: 768px) {
+
+    .sortable-table th,
+    .sortable-table td {
+        padding: 0.3em 0.4em;
+        font-size: 0.9rem;
+    }
+}
+
+.hamburger {
+    display: none;
+    font-size: 1.5rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-right: 0.6rem;
+}
+
+@media (max-width: 768px) {
+
+    .sidebar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 100vh;
+        width: 240px;
+
+        background: white;
+        z-index: 1000;
+        box-shadow: 2px 0 12px rgba(0, 0, 0, 0.15);
+
+        transform: translateX(-100%);
+        transition: transform 0.25s ease;
+    }
+
+    .sidebar.open {
+        transform: translateX(0);
+    }
+
+    .hamburger {
+        display: block;
+    }
+}
+
+.sidebar-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.3);
+
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s;
+
+    z-index: 900;
+}
+
+.sidebar-overlay.show {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+@media (min-width: 769px) {
+
+    .sidebar {
+        position: static;
+        transform: none !important;
+        height: auto;
+    }
+
+    .sidebar-overlay {
+        display: none;
+    }
 }

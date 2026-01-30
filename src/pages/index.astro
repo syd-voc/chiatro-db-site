@@ -58,43 +58,24 @@ const userCount = users.size;
 		</ul>
 	</section>
 
-	<hr />
-
-	<section>
-		<h2>クイズ一覧</h2>
-
-		<ul>
-			{
-				quizzes.map((quiz) => (
-					<li>
-						<a href={`/quizzes/${quiz.quiz_no}${quiz.group}`}>
-							第{quiz.quiz_no}
-							{quiz.group}回
-						</a>
-						（{quiz.date}） – 出題数 {quiz.songs.length} 問
-					</li>
-				))
-			}
-		</ul>
-	</section>
-
-	<hr />
-
 	<section>
 		<h2>ページ案内</h2>
 		<ul>
 			<li>
-				<strong>クイズページ</strong>：
-				各回の出題曲・解答ログ・勝者を確認
+				<a href="/quizzes/"><strong>クイズ一覧</strong></a>：
+				各回の出題曲・解答ログ・勝ち抜け者
 			</li>
 			<li>
-				<strong>曲ページ</strong>： 楽曲情報・出題履歴・正解者
+				<a href="/songs/"><strong>楽曲一覧</strong></a>：
+				楽曲情報・出題履歴・正解者一覧
 			</li>
 			<li>
-				<strong>ユーザーページ</strong>： 個人成績・勝ち抜け履歴
+				<a href="/artists/"><strong>アーティスト一覧</strong></a>：
+				使用楽曲一覧
 			</li>
 			<li>
-				<strong>アーティストページ</strong>： 使用楽曲一覧
+				<a href="/users/"><strong>参加者一覧</strong></a>：
+				個人成績・各種統計情報
 			</li>
 		</ul>
 	</section>

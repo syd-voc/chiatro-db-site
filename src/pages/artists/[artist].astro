@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import type { Quiz, Song } from "../../types/quiz";
+import SortableTable from "../../components/SortableTable.astro";
 
 /* =========================
    静的パス生成
@@ -79,87 +80,76 @@ const songStats = songs.map((song) => {
         title: song.song,
         count: appearances.length,
         startTime: song.startTime ?? null,
+        viewCounter: song.viewCounter ?? null,
     };
 });
 
 // デフォルト：出題回数多い順
 songStats.sort((a, b) => b.count - a.count);
 
-function formatDateTime(iso?: string) {
-    if (!iso) return "―";
-    const d = new Date(iso);
-    return `${d.getFullYear()}/${String(d.getMonth() + 1).padStart(
-        2,
-        "0",
-    )}/${String(d.getDate()).padStart(2, "0")} ${String(d.getHours()).padStart(
-        2,
-        "0",
-    )}:${String(d.getMinutes()).padStart(2, "0")}`;
-}
+type SongRow = {
+    contentId: string;
+    title: string;
+    count: number;
+    startTime: string | null;
+    viewCounter: number | null;
+};
+
+const songRows: SongRow[] = songStats.map((s) => ({
+    contentId: s.contentId,
+    title: s.title,
+    count: s.count,
+    startTime: s.startTime,
+    viewCounter: s.viewCounter,
+}));
+
+const songColumns = [
+    {
+        label: "曲名",
+        key: "title",
+        sortable: true,
+        type: "string",
+        render: (row: SongRow) =>
+            `<a href="/songs/${row.contentId}">${row.title}</a>`,
+    },
+    {
+        label: "投稿日時",
+        key: "startTime",
+        sortable: true,
+        type: "date",
+        render: (row: SongRow) =>
+            row.startTime
+                ? (() => {
+                      const d = new Date(row.startTime!);
+                      const yyyy = d.getFullYear();
+                      const mm = String(d.getMonth() + 1).padStart(2, "0");
+                      const dd = String(d.getDate()).padStart(2, "0");
+                      const hh = String(d.getHours()).padStart(2, "0");
+                      const min = String(d.getMinutes()).padStart(2, "0");
+                      return `${yyyy}/${mm}/${dd} ${hh}:${min}`;
+                  })()
+                : "―",
+    },
+    {
+        label: "再生数",
+        key: "viewCounter",
+        sortable: true,
+        type: "number",
+        render: (row: SongRow) =>
+            row.viewCounter !== null ? row.viewCounter.toLocaleString() : "―",
+    },
+    {
+        label: "回数",
+        key: "count",
+        sortable: true,
+        type: "number",
+        render: (row: SongRow) => String(row.count),
+    },
+];
 ---
 
 <BaseLayout title={`アーティスト：${artist}`}>
     <h1>{artist}</h1>
-
-    <section>
-        <h2>楽曲一覧（{songStats.length} 曲）</h2>
-
-        <table class="song-table">
-            <thead>
-                <tr>
-                    <th role="button" tabindex="0" data-sort-key="title">
-                        曲名
-                        <span class="sort-icon"></span>
-                    </th>
-                    <th role="button" tabindex="0" data-sort-key="startTime">
-                        投稿日時
-                        <span class="sort-icon"></span>
-                    </th>
-                    <th role="button" tabindex="0" data-sort-key="count">
-                        出題回数
-                        <span class="sort-icon"></span>
-                    </th>
-                </tr>
-            </thead>
-            <tbody id="song-table-body">
-                {
-                    songStats.map((s) => (
-                        <tr
-                            data-title={s.title}
-                            data-count={s.count}
-                            data-start-time={s.startTime ?? ""}
-                        >
-                            <td>
-                                <a href={`/songs/${s.contentId}`}>{s.title}</a>
-                            </td>
-                            <td>
-                                {s.startTime
-                                    ? (() => {
-                                          const d = new Date(s.startTime);
-                                          const yyyy = d.getFullYear();
-                                          const mm = String(
-                                              d.getMonth() + 1,
-                                          ).padStart(2, "0");
-                                          const dd = String(
-                                              d.getDate(),
-                                          ).padStart(2, "0");
-                                          const hh = String(
-                                              d.getHours(),
-                                          ).padStart(2, "0");
-                                          const min = String(
-                                              d.getMinutes(),
-                                          ).padStart(2, "0");
-                                          return `${yyyy}/${mm}/${dd} ${hh}:${min}`;
-                                      })()
-                                    : "―"}
-                            </td>
-                            <td>{s.count}</td>
-                        </tr>
-                    ))
-                }
-            </tbody>
-        </table>
-    </section>
 
     <section>
         <h2>正解数 TOP10</h2>
@@ -188,87 +178,22 @@ function formatDateTime(iso?: string) {
                 </table>
             )
         }
+
+        <h2>楽曲一覧（{songStats.length} 曲）</h2>
+
+        {
+            songStats.length === 0 ? (
+                <p>該当する楽曲がありません。</p>
+            ) : (
+                <div class="table-wrap">
+                    <SortableTable
+                        columns={songColumns}
+                        rows={songRows}
+                        defaultSortKey="count"
+                        defaultSortOrder="desc"
+                    />
+                </div>
+            )
+        }
     </section>
 </BaseLayout>
-
-<script is:inline>
-    const tbody = document.getElementById("song-table-body");
-    const rows = Array.from(tbody.children);
-    const headers = document.querySelectorAll("th[data-sort-key]");
-
-    let currentSort = {
-        key: "count",
-        asc: false,
-    };
-
-    function updateIcons(activeKey) {
-        headers.forEach((th) => {
-            th.removeAttribute("data-sort-state");
-            if (th.dataset.sortKey === activeKey) {
-                th.setAttribute(
-                    "data-sort-state",
-                    currentSort.asc ? "asc" : "desc",
-                );
-            }
-        });
-    }
-
-    function sortRows(key) {
-        if (currentSort.key === key) {
-            currentSort.asc = !currentSort.asc;
-        } else {
-            currentSort.key = key;
-            // 投稿日・出題回数は新しい順が自然
-            currentSort.asc = key === "title";
-        }
-
-        const sorted = [...rows].sort((a, b) => {
-            if (key === "title") {
-                const res = a.dataset.title.localeCompare(
-                    b.dataset.title,
-                    "ja",
-                );
-                return currentSort.asc ? res : -res;
-            }
-
-            if (key === "count") {
-                const res = Number(a.dataset.count) - Number(b.dataset.count);
-                return currentSort.asc ? res : -res;
-            }
-
-            if (key === "startTime") {
-                const ta = a.dataset.startTime;
-                const tb = b.dataset.startTime;
-
-                // 不明は常に最後
-                if (!ta && !tb) return 0;
-                if (!ta) return 1;
-                if (!tb) return -1;
-
-                const res = new Date(ta).getTime() - new Date(tb).getTime();
-                return currentSort.asc ? res : -res;
-            }
-
-            return 0;
-        });
-
-        sorted.forEach((row) => tbody.appendChild(row));
-        updateIcons(key);
-    }
-
-    headers.forEach((th) => {
-        th.addEventListener("click", () => {
-            sortRows(th.dataset.sortKey);
-        });
-
-        th.addEventListener("keydown", (e) => {
-            if (e.key === "Enter" || e.key === " ") {
-                e.preventDefault();
-                sortRows(th.dataset.sortKey);
-            }
-        });
-    });
-
-    // 初期状態：出題回数 多い順
-    updateIcons("count");
-</script>
