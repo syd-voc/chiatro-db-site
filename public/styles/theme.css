@@ -253,6 +253,10 @@ th {
     text-align: left;
 }
 
+.info-table {
+    width: 540px;
+}
+
 .info-table th {
     width: 6rem;
 }
