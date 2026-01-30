@@ -550,9 +550,9 @@ footer {
         top: 0;
         left: 0;
         height: 100vh;
-        width: 240px;
+        width: 150px;
 
-        background: white;
+        background: #f4f6f8;
         z-index: 1000;
         box-shadow: 2px 0 12px rgba(0, 0, 0, 0.15);
 
