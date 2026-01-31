@@ -238,66 +238,6 @@ const joinedQuizzes = quizzes
     .sort((a, b) => Number(b.quiz.quiz_no) - Number(a.quiz.quiz_no));
 
 /* =========================
-   ユーザー統計
-========================= */
-
-// let totalAnswers = 0;
-// let okAnswers = 0;
-// let ngAnswers = 0;
-
-// let participatedQuizCount = 0;
-// let winQuizCount = 0;
-// let loseQuizCount = 0;
-
-// const correctSongViews: number[] = [];
-
-// joinedQuizzes.forEach(({ songs }) => {
-//     let hasWin = false;
-//     let hasLose = false;
-//     let participated = false;
-
-//     songs.forEach((qs) => {
-//         const song = findSong(qs.contentId);
-
-//         qs.answers.forEach((a) => {
-//             if (a.user !== user) return;
-
-//             participated = true;
-//             totalAnswers++;
-
-//             if (a.result.startsWith("OK")) {
-//                 okAnswers++;
-//                 if (song?.viewCounter != null) {
-//                     correctSongViews.push(song.viewCounter);
-//                 }
-//             }
-
-//             if (a.result.startsWith("WIN")) {
-//                 okAnswers++;
-//                 hasWin = true;
-//             }
-
-//             if (a.result === "NG") {
-//                 ngAnswers++;
-//             }
-
-//             if (a.result === "LOSE") {
-//                 hasLose = true;
-//             }
-//         });
-//     });
-
-//     if (participated) {
-//         participatedQuizCount++;
-
-//         if (hasWin) winQuizCount++;
-//         if (hasLose) loseQuizCount++;
-//     }
-// });
-
-// const medianViews = median(correctSongViews);
-
-/* =========================
    散布図用データ生成
 ========================= */
 

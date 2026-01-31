@@ -10,7 +10,7 @@
         "samfree"
       ],
       "startTime": "2009-02-12T01:46:25+09:00",
-      "viewCounter": 6567955,
+      "viewCounter": 6573599,
       "correctCount": 1
     },
     {
@@ -21,7 +21,7 @@
         "cosMo@暴走P"
       ],
       "startTime": "2010-07-09T18:00:09+09:00",
-      "viewCounter": 2958091,
+      "viewCounter": 2959524,
       "correctCount": 1
     },
     {
@@ -32,7 +32,7 @@
         "Misumi"
       ],
       "startTime": "2019-08-16T18:00:00+09:00",
-      "viewCounter": 1782947,
+      "viewCounter": 1784120,
       "correctCount": 1
     },
     {
@@ -43,7 +43,7 @@
         "cosMo@暴走P"
       ],
       "startTime": "2024-08-24T19:03:00+09:00",
-      "viewCounter": 200557,
+      "viewCounter": 201010,
       "correctCount": 1
     },
     {
@@ -54,7 +54,62 @@
         "kemu"
       ],
       "startTime": "2011-11-07T23:33:22+09:00",
-      "viewCounter": 4732994,
+      "viewCounter": 4734026,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm43084181",
+      "title": "ボルテッカー",
+      "artist": "DECO*27",
+      "artistList": [
+        "DECO*27"
+      ],
+      "startTime": "2023-12-01T18:39:00+09:00",
+      "viewCounter": 1072395,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm30788596",
+      "title": "帝国少女",
+      "artist": "R Sound Design",
+      "artistList": [
+        "R Sound Design"
+      ],
+      "startTime": "2017-03-09T19:00:00+09:00",
+      "viewCounter": 5536808,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm38667465",
+      "title": "アイディスマイル",
+      "artist": "とあ",
+      "artistList": [
+        "とあ"
+      ],
+      "startTime": "2021-05-02T01:00:00+09:00",
+      "viewCounter": 1674157,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm18100389",
+      "title": "こちら、幸福安心委員会です。",
+      "artist": "うたたP",
+      "artistList": [
+        "うたたP"
+      ],
+      "startTime": "2012-06-15T16:26:26+09:00",
+      "viewCounter": 4911984,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm33510542",
+      "title": "劣等上等",
+      "artist": "ギガ",
+      "artistList": [
+        "ギガ"
+      ],
+      "startTime": "2018-07-13T19:00:00+09:00",
+      "viewCounter": 7749903,
       "correctCount": 1
     }
   ],
@@ -76,6 +131,31 @@
     },
     {
       "artist": "kemu",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "DECO*27",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "R Sound Design",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "とあ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "うたたP",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ギガ",
       "correctCount": 1,
       "correctSongCount": 1
     }
@@ -103,6 +183,31 @@
     },
     {
       "era": "2011",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2023",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2017",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2021",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2012",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2018",
       "correctCount": 1,
       "correctSongCount": 1
     }
@@ -141,8 +246,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "range": "200-300万",
@@ -153,14 +258,14 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "range": "1000万-",
@@ -174,40 +279,70 @@
       "title": "ルカルカ★ナイトフィーバー",
       "contentId": "sm6119955",
       "startTime": 1234370785000,
-      "viewCounter": 6567955
+      "viewCounter": 6573599
     },
     {
       "title": "初音ミクの激唱",
       "contentId": "sm11328911",
       "startTime": 1278666009000,
-      "viewCounter": 2958091
+      "viewCounter": 2959524
     },
     {
       "title": "オルターエゴ",
       "contentId": "sm35546354",
       "startTime": 1565946000000,
-      "viewCounter": 1782947
+      "viewCounter": 1784120
     },
     {
       "title": "コぇちっちゃ<てゴ×ンネ",
       "contentId": "sm44014186",
       "startTime": 1724493780000,
-      "viewCounter": 200557
+      "viewCounter": 201010
     },
     {
       "title": "人生リセットボタン",
       "contentId": "sm16110005",
       "startTime": 1320676402000,
-      "viewCounter": 4732994
+      "viewCounter": 4734026
+    },
+    {
+      "title": "ボルテッカー",
+      "contentId": "sm43084181",
+      "startTime": 1701423540000,
+      "viewCounter": 1072395
+    },
+    {
+      "title": "帝国少女",
+      "contentId": "sm30788596",
+      "startTime": 1489053600000,
+      "viewCounter": 5536808
+    },
+    {
+      "title": "アイディスマイル",
+      "contentId": "sm38667465",
+      "startTime": 1619884800000,
+      "viewCounter": 1674157
+    },
+    {
+      "title": "こちら、幸福安心委員会です。",
+      "contentId": "sm18100389",
+      "startTime": 1339745186000,
+      "viewCounter": 4911984
+    },
+    {
+      "title": "劣等上等",
+      "contentId": "sm33510542",
+      "startTime": 1531476000000,
+      "viewCounter": 7749903
     }
   ],
   "summary": {
-    "totalAnswers": 5,
-    "okAnswers": 5,
-    "ngAnswers": 0,
-    "participatedQuizCount": 1,
-    "winQuizCount": 1,
+    "totalAnswers": 12,
+    "okAnswers": 10,
+    "ngAnswers": 2,
+    "participatedQuizCount": 2,
+    "winQuizCount": 2,
     "loseQuizCount": 0,
-    "medianViews": 2370519
+    "medianViews": 2371822
   }
 }

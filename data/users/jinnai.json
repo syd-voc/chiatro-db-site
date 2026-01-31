@@ -10,7 +10,7 @@
         "DECO*27"
       ],
       "startTime": "2023-08-31T00:00:00+09:00",
-      "viewCounter": 511043,
+      "viewCounter": 511826,
       "correctCount": 1
     },
     {
@@ -21,7 +21,7 @@
         "香椎モイミ"
       ],
       "startTime": "2021-07-17T18:00:00+09:00",
-      "viewCounter": 2998212,
+      "viewCounter": 3000915,
       "correctCount": 1
     },
     {
@@ -32,7 +32,7 @@
         "柊マグネタイト"
       ],
       "startTime": "2024-11-08T22:10:00+09:00",
-      "viewCounter": 4692715,
+      "viewCounter": 4706469,
       "correctCount": 1
     },
     {
@@ -43,7 +43,7 @@
         "カンザキイオリ"
       ],
       "startTime": "2017-08-06T17:32:14+09:00",
-      "viewCounter": 4500321,
+      "viewCounter": 4502222,
       "correctCount": 1
     },
     {
@@ -54,7 +54,7 @@
         "はるふり"
       ],
       "startTime": "2015-01-04T16:35:05+09:00",
-      "viewCounter": 1714633,
+      "viewCounter": 1715373,
       "correctCount": 1
     },
     {
@@ -65,7 +65,7 @@
         "まふまふ"
       ],
       "startTime": "2013-12-20T18:19:37+09:00",
-      "viewCounter": 1035632,
+      "viewCounter": 1035744,
       "correctCount": 1
     },
     {
@@ -76,7 +76,7 @@
         "doriko"
       ],
       "startTime": "2009-04-06T05:56:10+09:00",
-      "viewCounter": 10985097,
+      "viewCounter": 10989983,
       "correctCount": 1
     },
     {
@@ -87,7 +87,7 @@
         "バルーン"
       ],
       "startTime": "2016-12-14T20:00:00+09:00",
-      "viewCounter": 2595786,
+      "viewCounter": 2596982,
       "correctCount": 1
     }
   ],
@@ -215,14 +215,14 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 1,
+      "correctSongCount": 1
     },
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "range": "500-1000万",
@@ -242,49 +242,49 @@
       "title": "ブループラネット",
       "contentId": "sm42657926",
       "startTime": 1693407600000,
-      "viewCounter": 511043
+      "viewCounter": 511826
     },
     {
       "title": "キャットラビング",
       "contentId": "sm39034813",
       "startTime": 1626512400000,
-      "viewCounter": 2998212
+      "viewCounter": 3000915
     },
     {
       "title": "テトリス",
       "contentId": "sm44301514",
       "startTime": 1731071400000,
-      "viewCounter": 4692715
+      "viewCounter": 4706469
     },
     {
       "title": "命に嫌われている。",
       "contentId": "sm31700140",
       "startTime": 1502008334000,
-      "viewCounter": 4500321
+      "viewCounter": 4502222
     },
     {
       "title": "右に曲ガール",
       "contentId": "sm25275605",
       "startTime": 1420356905000,
-      "viewCounter": 1714633
+      "viewCounter": 1715373
     },
     {
       "title": "すーぱーぬこわーるど",
       "contentId": "sm22491239",
       "startTime": 1387531177000,
-      "viewCounter": 1035632
+      "viewCounter": 1035744
     },
     {
       "title": "ロミオとシンデレラ",
       "contentId": "sm6666016",
       "startTime": 1238964970000,
-      "viewCounter": 10985097
+      "viewCounter": 10989983
     },
     {
       "title": "メーベル",
       "contentId": "sm30225611",
       "startTime": 1481713200000,
-      "viewCounter": 2595786
+      "viewCounter": 2596982
     }
   ],
   "summary": {
@@ -294,6 +294,6 @@
     "participatedQuizCount": 2,
     "winQuizCount": 1,
     "loseQuizCount": 0,
-    "medianViews": 2998212
+    "medianViews": 3000915
   }
 }

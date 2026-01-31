@@ -1,0 +1,169 @@
+{
+  "queries": {
+    "default": {
+      "description": "デフォルトクエリ",
+      "query": "VOCALOID OR UTAU OR SynthesizerV OR VoiSona OR CeVIO_AI OR VOCALOIDオリジナル曲 OR UTAUオリジナル曲 OR ボカロオリジナル曲 OR VoiSonaオリジナル曲 OR CeVIOオリジナル曲 OR NEUTRINOオリジナル曲 OR VOICEROIDオリジナル曲 OR A.I.Voiceオリジナル曲 OR SynthesizerVオリジナル曲 OR SynthVオリジナル曲 OR VOICEVOXオリジナル曲 OR 歌うA.I.Voice OR 歌うボイスロイド -ニコカラ -ニコカラDB -ニコニコカラオケDB -ボカロカラオケDB -歌ってみた -踊ってみた -PVつけてみた -VOCALOIDアレンジ曲 -remix -マッシュアップ -VOCALOIDカバー曲 -UTAUカバー曲 -SynthesizerVカバー曲 -SynthVカバー曲 -CeVIOカバー曲 -CeVIO_AIカバー曲 -VoiSonaカバー曲 -NEUTRINOカバー曲 -VOICEROIDカバー曲 -A.I.VOICEカバー曲 -VOICEVOXカバー曲 -VOCALOID→VOCALOIDカバー -VOCALOID→UTAUカバー曲 -VOCALOID→CeVIOカバー曲 -VOCALOID→SynthVカバー -VOCALOID→SynthesizerVカバー曲 -VOCALOID→VOICEROIDカバー曲 -VOCALOID→A.I.VOICEカバー曲 -VOCALOID→NEUTRINOカバー曲 -UTAU→UTAUカバー曲 -UTAU→VOCALOIDカバー曲 -CeVIO→VOCALOIDカバー曲 -VOCALOID名カバー曲リンク -VOCALOIDアニソン -VOCALOIDアニソンカバー曲 -UTAUアニソンカバー -VOCALOIDメドレー -作業用BGM -クロスフェード -アルバムクロスフェード -VOCALOID-CDデモ -クロスフェードデモ -ボカロライブ -VOICEROID劇場 -CeVIO劇場 -VOICEVOX劇場 -VOICEROID実況プレイ -CeVIO実況プレイ -VOICEVOX実況プレイ -VOICEROID解説 -CeVIO解説 -VOICEVOX解説 -MikuMikuDance -VOCALOIDランキング",
+      "config": {
+        "OUTPUT_MODE": "year",
+        "MERGE_2007_2008": true,
+        "MAX_PER_PERIOD": 800,
+        "OUTPUT_FORMAT": "tsv",
+        "SLEEP_BETWEEN_REQUESTS": true,
+        "SLEEP_SECONDS": 1.0
+      }
+    },
+    "vocaloid_all": {
+      "description": "VOCALOID全曲（アレンジ・カバー含む）",
+      "query": "VOCALOID OR UTAU OR CeVIO OR NEUTRINO(歌声合成エンジン) OR SynthesizerV OR VoiSona OR CeVIO_AI OR VOCALOIDオリジナル曲 OR UTAUオリジナル曲 OR ボカロオリジナル曲 OR VoiSonaオリジナル曲 OR CeVIOオリジナル曲 OR NEUTRINOオリジナル曲 OR VOICEROIDオリジナル曲 OR A.I.Voiceオリジナル曲 OR SynthesizerVオリジナル曲 OR SynthVオリジナル曲 OR VOICEVOXオリジナル曲 OR 歌うA.I.Voice OR 歌うボイスロイド OR VOCALOIDアレンジ曲 OR remix OR マッシュアップ OR VOCALOIDカバー曲 OR UTAUカバー曲 OR SynthesizerVカバー曲 OR SynthVカバー曲 OR CeVIOカバー曲 OR CeVIO_AIカバー曲 OR VoiSonaカバー曲 OR NEUTRINOカバー曲 OR VOICEROIDカバー曲 OR A.I.VOICEカバー曲 OR VOICEVOXカバー曲 OR VOCALOID→VOCALOIDカバー OR VOCALOID→UTAUカバー曲 OR VOCALOID→CeVIOカバー曲 OR VOCALOID→SynthVカバー OR VOCALOID→SynthesizerVカバー曲 OR VOCALOID→VOICEROIDカバー曲 OR VOCALOID→A.I.VOICEカバー曲 OR VOCALOID→NEUTRINOカバー曲 OR UTAU→UTAUカバー曲 OR UTAU→VOCALOIDカバー曲 OR CeVIO→VOCALOIDカバー曲 OR VOCALOID名カバー曲リンク OR VOCALOIDアニソン OR VOCALOIDアニソンカバー曲 OR UTAUアニソンカバー -VOCALOIDメドレー -クロスフェード -アルバムクロスフェード -VOCALOID-CDデモ -クロスフェードデモ  -VOICEROID劇場 -CeVIO劇場 -VOICEVOX劇場 -VOICEROID実況プレイ -CeVIO実況プレイ -VOICEVOX実況プレイ -VOICEROID解説 -CeVIO解説 -VOICEVOX解説 -VOCALOIDランキング -ニコカラ -ニコカラDB -ニコニコカラオケDB -ボカロカラオケDB",
+      "config": {
+        "OUTPUT_MODE": "month",
+        "MAX_PER_PERIOD": 100000
+      }
+    },
+    "snapshot": {
+      "description": "ちあトロ用",
+      "query": "VOCALOID OR UTAU OR CeVIOオリジナル曲 OR NEUTRINO(歌声合成エンジン) OR NEUTRINOオリジナル曲 OR VOICEROIDオリジナル曲 OR A.I.Voiceオリジナル曲 OR SynthesizerV OR SynthesizerVオリジナル曲 OR SynthVオリジナル曲 OR ソフトウェアシンガー OR VOCALOIDオリジナル曲 OR ミクオリジナル曲 OR リンオリジナル曲 OR レンオリジナル曲 OR ルカオリジナル曲 OR KAITOオリジナル曲 OR MEIKOオリジナル曲 OR GUMIオリジナル曲 OR UTAUオリジナル曲 OR ボカロオリジナル曲 OR 可不オリジナル曲 OR AIきりたんオリジナル曲 OR 知声 OR 知声(CeVIO) OR 星界 OR VOCALOID新曲リンク OR VOCALOID殿堂入り OR プロセカ公式 -ニコカラ -ニコニコカラオケDB -ボカロカラオケDB -歌ってみた -踊ってみた -PVつけてみた -VOCALOIDカバー曲 -UTAUカバー曲 -VOCALOID→VOCALOIDカバー -VOCALOID→UTAUカバー曲 -SynthesizerVカバー曲 -CeVIOカバー曲 -VOICEROIDカバー曲 -NEUTRINOカバー曲 -VOCAMASH -VOCALOIDメドレー",
+      "config": {
+        "OUTPUT_MODE": "year",
+        "ENABLE_RANK": true,
+        "OUTPUT_FORMAT": "json",
+        "MAX_PER_PERIOD": 3000,
+        "SLEEP_SECONDS": 1.5
+      }
+    },
+    "test": {
+      "description": "テスト用クエリ",
+      "query": "初音ミクオリジナル曲",
+      "config": {
+        "OUTPUT_MODE": "all",
+        "OUTPUT_FORMAT": "json",
+        "ENABLE_RANK": true,
+        "MAX_PER_PERIOD": 200
+      }
+    },
+    "avogado6_main": {
+      "description": "アボガド6 メイン 全曲",
+      "query": "UTAU OR VOCALOID OR UTAUオリジナル曲 OR VOCALOIDオリジナル曲 OR VOICEROIDオリジナル曲 OR NEUTRINOオリジナル曲 OR CeVIOオリジナル曲 OR SynthesizerV OR 歌うa.i.voice OR A.I.VOICEオリジナル曲 OR 歌うボイスロイド OR ボカロオリジナル曲 OR ソフトウェアシンガー OR cevio新曲リンク OR CeVIO処女作 OR neutrino(歌声合成エンジン) OR 歌うVOICEVOX OR SynthesizerVオリジナル曲 OR 歌うSeirenVoice OR VOCALOIDと歌ってみた OR voicevoxオリジナル曲 OR voicevoxハミング OR coeiroinkオリジナル曲 OR 歌うCOEIROINK OR 歌うa.i.voice",
+      "config": {
+        "OUTPUT_MODE": "month",
+        "MAX_PER_PERIOD": 100000
+      }
+    },
+    "avogado6_sub_1": {
+      "description": "アボガド6 サブ1",
+      "query": "初音ミク OR 鏡音リン OR 鏡音レン OR KAITO OR MEIKO OR flower OR 結月ゆかり OR 東北ずん子 OR 音街ウナ OR 東北イタコ OR 紲星あかり OR 東北きりたん OR 琴葉葵 OR 琴葉茜 OR 弦巻マキ OR ついなちゃん OR 伊織弓鶴 OR 桜乃そら OR 京町セイカ OR 巡音ルカ OR 水奈瀬コウ OR 月読ショウタ オリジナル曲 -VOCALOID -UTAU",
+      "config": {
+        "OUTPUT_MODE": "all",
+        "MAX_PER_PERIOD": 100000
+      }
+    },
+    "avogado6_sub_2": {
+      "description": "アボガド6 サブ2",
+      "query": "月読アイ OR VY2 OR VY1 OR Lily OR IA OR Megpoid OR Sinsy OR v_flower オリジナル曲 -VOCALOID -UTAU",
+      "config": {
+        "OUTPUT_MODE": "all",
+        "MAX_PER_PERIOD": 100000
+      }
+    },
+    "avogado6_sub_3": {
+      "description": "アボガド6 サブ3",
+      "query": "ラピスオリジナル曲 OR あきこロイドちゃんオリジナル曲 OR ネルオリジナル曲 OR 杏音オリジナル曲 OR 杏音鳥音オリジナル曲 OR アルスロイドオリジナル曲 OR 言和オリジナル曲 OR ピコオリジナル曲 OR Avannaオリジナル曲 OR AZUKIオリジナル曲 OR BIG-ALオリジナル曲 OR BRUNOオリジナル曲 OR Chikaオリジナル曲 OR CLARAオリジナル曲 OR CULオリジナル曲 -VOCALOID -UTAU",
+      "config": {
+        "OUTPUT_MODE": "all",
+        "MAX_PER_PERIOD": 100000
+      }
+    },
+    "avogado6_sub_4": {
+      "description": "アボガド6 サブ4",
+      "query": "CYBER_DIVAオリジナル曲 OR 乐正绫オリジナル曲 OR 乐正龙牙オリジナル曲 OR ゆかりオリジナル曲 OR ユニティちゃんオリジナル曲 OR ネムオリジナル曲 OR ハクオリジナル曲 OR リングオリジナル曲 OR 洛天依オリジナル曲 OR ガチャポオリジナル曲 OR ギャラ子オリジナル曲 OR シテヤンヨオリジナル曲 OR 星尘オリジナル曲 OR 心華オリジナル曲 OR たこルカオリジナル曲 OR ずん子オリジナル曲 OR りおんオリジナル曲 -VOCALOID -UTAU",
+      "config": {
+        "OUTPUT_MODE": "all",
+        "MAX_PER_PERIOD": 100000
+      }
+    },
+    "avogado6_sub_5": {
+      "description": "アボガド6 サブ5",
+      "query": "ウナオリジナル曲 OR ユキオリジナル曲 OR リンオリジナル曲 OR レンオリジナル曲 OR 鏡音オリジナル曲 OR がくぽオリジナル曲 OR 鳥音オリジナル曲 OR がくこオリジナル曲 -VOCALOID -UTAU",
+      "config": {
+        "OUTPUT_MODE": "all",
+        "MAX_PER_PERIOD": 100000
+      }
+    },
+    "avogado6_sub_6": {
+      "description": "アボガド6 サブ6",
+      "query": "いろはオリジナル曲 OR ミクオリジナル曲 OR ルイオリジナル曲 OR キヨテルオリジナル曲 OR マクネナナオリジナル曲 OR ミクダヨーオリジナル曲 OR ルカオリジナル曲 OR メルリオリジナル曲 -VOCALOID -UTAU",
+      "config": {
+        "OUTPUT_MODE": "all",
+        "MAX_PER_PERIOD": 100000
+      }
+    },
+    "avogado6_sub_7": {
+      "description": "アボガド6 サブ7",
+      "query": "CYBER_SONGMANオリジナル曲 OR DAINAオリジナル曲 OR Dexオリジナル曲 OR Fukaseオリジナル曲 OR IAオリジナル曲 OR KAITOオリジナル曲 OR kokoneオリジナル曲 OR KYOオリジナル曲 -VOCALOID -UTAU",
+      "config": {
+        "OUTPUT_MODE": "all",
+        "MAX_PER_PERIOD": 100000
+      }
+    },
+    "avogado6_sub_8": {
+      "description": "アボガド6 サブ8",
+      "query": "LEONオリジナル曲 OR Lilyオリジナル曲 OR LOLAオリジナル曲 OR LUMiオリジナル曲 OR MAIKAオリジナル曲 OR MATCHAオリジナル曲 OR MAYUオリジナル曲 OR GUMIオリジナル曲 -VOCALOID -UTAU",
+      "config": {
+        "OUTPUT_MODE": "all",
+        "MAX_PER_PERIOD": 100000
+      }
+    },
+    "avogado6_sub_9": {
+      "description": "アボガド6 サブ9",
+      "query": "MEIKOオリジナル曲 OR Mewオリジナル曲 OR MIRIAMオリジナル曲 OR Oliverオリジナル曲 OR Primaオリジナル曲 OR Ranaオリジナル曲 OR Sachikoオリジナル曲 OR SeeUオリジナル曲 OR mikiオリジナル曲 OR SONIKAオリジナル曲 OR SweetAnnオリジナル曲 OR TONIOオリジナル曲 OR UNIオリジナル曲 OR flowerオリジナル曲 OR v_flowerオリジナル曲 OR VY1オリジナル曲 OR VY2オリジナル曲 -VOCALOID -UTAU",
+      "config": {
+        "OUTPUT_MODE": "all",
+        "MAX_PER_PERIOD": 100000
+      }
+    },
+    "avogado6_sub_10": {
+      "description": "アボガド6 サブ10",
+      "query": "WILオリジナル曲 OR YOHIOloidオリジナル曲 OR YUUオリジナル曲 OR ZOLAオリジナル曲 OR VOCALOID&UTAUオリジナル曲 OR 小春六花オリジナル曲 OR ソフトウェアシンガー OR aiきりたんオリジナル曲 -VOCALOID -UTAU",
+      "config": {
+        "OUTPUT_MODE": "all",
+        "MAX_PER_PERIOD": 100000
+      }
+    },
+    "avogado6_sub_11": {
+      "description": "アボガド6 サブ11",
+      "query": "UTAU新曲リンク OR 可不オリジナル曲 OR vocaloid新曲リンク OR CeVIO新曲リンク OR めろうオリジナル曲 OR タカハシオリジナル曲 OR 茜・葵オリジナル曲 OR A.I.VOICEオリジナル曲 OR 伊織弓鶴オリジナル曲 OR 歌うa.i.voice OR AmadeuSY -VOCALOID -UTAU",
+      "config": {
+        "OUTPUT_MODE": "all",
+        "MAX_PER_PERIOD": 100000
+      }
+    },
+    "avogado6_sub_12": {
+      "description": "アボガド6 サブ12",
+      "query": "ささらオリジナル曲 OR LaLaVoice OR CeVIO_Pro OR 知声オリジナル曲 OR VoiSona OR ACEバーチャルシンガー OR AIシンガー OR 星界オリジナル曲 OR emvoiceone OR 歌うCOEIROINK -VOCALOID -UTAU",
+      "config": {
+        "OUTPUT_MODE": "all",
+        "MAX_PER_PERIOD": 100000
+      }
+    }
+  },
+  "batches": {
+    "avogado6_sub": {
+      "description": "アボガド6サブ",
+      "enabled": true,
+      "run": [
+        "avogado6_sub_1",
+        "avogado6_sub_2",
+        "avogado6_sub_3",
+        "avogado6_sub_4",
+        "avogado6_sub_5",
+        "avogado6_sub_6",
+        "avogado6_sub_7",
+        "avogado6_sub_8",
+        "avogado6_sub_9",
+        "avogado6_sub_10",
+        "avogado6_sub_11",
+        "avogado6_sub_12"
+      ]
+    }
+  }
+}
