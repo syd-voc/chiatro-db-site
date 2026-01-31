@@ -36,7 +36,9 @@ const artists = Array.from(artistMap.entries())
                 artists.map((a) => (
                     <tr>
                         <td>
-                            <a href={`/artists/${a.name}`}>{a.name}</a>
+                            <a href={`/artists/${encodeURIComponent(a.name)}`}>
+                                {a.name}
+                            </a>
                         </td>
                         <td>{a.count}</td>
                     </tr>

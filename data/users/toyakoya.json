@@ -1,0 +1,194 @@
+{
+  "user": "とやこや",
+  "slug": "toyakoya",
+  "correctSongs": [
+    {
+      "contentId": "sm42603880",
+      "title": "東京舞踊",
+      "artist": "KyoTa",
+      "artistList": [
+        "KyoTa"
+      ],
+      "viewCounter": null,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35909360",
+      "title": "アンチサイクロン",
+      "artist": "稲葉曇",
+      "artistList": [
+        "稲葉曇"
+      ],
+      "startTime": "2019-11-04T20:00:00+09:00",
+      "viewCounter": 328423,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39875678",
+      "title": "蛍はいなかった",
+      "artist": "はるまきごはん",
+      "artistList": [
+        "はるまきごはん"
+      ],
+      "startTime": "2022-01-09T19:00:00+09:00",
+      "viewCounter": 262425,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm18198019",
+      "title": "地球最後の告白を",
+      "artist": "kemu",
+      "artistList": [
+        "kemu"
+      ],
+      "startTime": "2012-06-26T19:01:32+09:00",
+      "viewCounter": 5374848,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm36589496",
+      "title": "ナイトメア・レイヴィーナス",
+      "artist": "2kino",
+      "artistList": [
+        "2kino"
+      ],
+      "viewCounter": null,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "KyoTa",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "稲葉曇",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "はるまきごはん",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "kemu",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "2kino",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2019",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2022",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2012",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "アンチサイクロン",
+      "contentId": "sm35909360",
+      "startTime": 1572865200000,
+      "viewCounter": 328423
+    },
+    {
+      "title": "蛍はいなかった",
+      "contentId": "sm39875678",
+      "startTime": 1641722400000,
+      "viewCounter": 262425
+    },
+    {
+      "title": "地球最後の告白を",
+      "contentId": "sm18198019",
+      "startTime": 1340704892000,
+      "viewCounter": 5374848
+    }
+  ],
+  "summary": {
+    "totalAnswers": 8,
+    "okAnswers": 5,
+    "ngAnswers": 3,
+    "participatedQuizCount": 4,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 328423
+  }
+}

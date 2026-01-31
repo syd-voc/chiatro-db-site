@@ -3,6 +3,14 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import type { Quiz, Song } from "../../types/quiz";
 import SortableTable from "../../components/SortableTable.astro";
 
+import userSlugMapRaw from "../../../data/users_slug.json";
+
+const userSlugMap = userSlugMapRaw as Record<string, string>;
+
+function userToSlug(name: string) {
+    return userSlugMap[name] ?? encodeURIComponent(name);
+}
+
 /* =========================
    静的パス生成
 ========================= */
@@ -149,7 +157,7 @@ const songColumns = [
 ---
 
 <BaseLayout title={`アーティスト：${artist}`}>
-    <h1>{artist}</h1>
+    <h1>{decodeURIComponent(artist)}</h1>
 
     <section>
         <h2>正解数 TOP10</h2>
@@ -169,7 +177,9 @@ const songColumns = [
                         {topUsers.map((u) => (
                             <tr>
                                 <td>
-                                    <a href={`/users/${u.user}`}>{u.user}</a>
+                                    <a href={`/users/${userToSlug(u.user)}`}>
+                                        {u.user}
+                                    </a>
                                 </td>
                                 <td class="count">{u.count}</td>
                             </tr>

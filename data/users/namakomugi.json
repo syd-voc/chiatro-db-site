@@ -1,0 +1,191 @@
+{
+  "user": "なまこむぎ",
+  "slug": "namakomugi",
+  "correctSongs": [
+    {
+      "contentId": "sm20470051",
+      "title": "ロスタイムメモリー",
+      "artist": "じん",
+      "artistList": [
+        "じん"
+      ],
+      "startTime": "2013-03-30T02:27:23+09:00",
+      "viewCounter": 6521035,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm31082554",
+      "title": "インターネッツ・ディスコ",
+      "artist": "buzzG",
+      "artistList": [
+        "buzzG"
+      ],
+      "startTime": "2017-04-23T20:00:00+09:00",
+      "viewCounter": 303428,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm24056707",
+      "title": "クイーンオブハート",
+      "artist": "奏音69",
+      "artistList": [
+        "奏音69"
+      ],
+      "startTime": "2014-07-21T20:18:28+09:00",
+      "viewCounter": 756975,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm26661454",
+      "title": "アイラ",
+      "artist": "n-buna",
+      "artistList": [
+        "n-buna"
+      ],
+      "startTime": "2015-07-08T19:00:00+09:00",
+      "viewCounter": 4623513,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "じん",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "buzzG",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "奏音69",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "n-buna",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2013",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2017",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2014",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2015",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "ロスタイムメモリー",
+      "contentId": "sm20470051",
+      "startTime": 1364578043000,
+      "viewCounter": 6521035
+    },
+    {
+      "title": "インターネッツ・ディスコ",
+      "contentId": "sm31082554",
+      "startTime": 1492945200000,
+      "viewCounter": 303428
+    },
+    {
+      "title": "クイーンオブハート",
+      "contentId": "sm24056707",
+      "startTime": 1405941508000,
+      "viewCounter": 756975
+    },
+    {
+      "title": "アイラ",
+      "contentId": "sm26661454",
+      "startTime": 1436349600000,
+      "viewCounter": 4623513
+    }
+  ],
+  "summary": {
+    "totalAnswers": 8,
+    "okAnswers": 4,
+    "ngAnswers": 4,
+    "participatedQuizCount": 2,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 2690244
+  }
+}

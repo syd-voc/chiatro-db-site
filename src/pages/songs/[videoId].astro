@@ -2,6 +2,14 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import type { Song, SongHistory, Quiz } from "../../types/quiz";
 
+import userSlugMapRaw from "../../../data/users_slug.json";
+
+const userSlugMap = userSlugMapRaw as Record<string, string>;
+
+function userToSlug(name: string) {
+    return userSlugMap[name] ?? encodeURIComponent(name);
+}
+
 /* =========================
    static paths
 ========================= */
@@ -181,7 +189,9 @@ const postedAt = song.startTime
                                 <td>{h.order}</td>
                                 <td>
                                     {h.winner ? (
-                                        <a href={`/users/${h.winner}`}>
+                                        <a
+                                            href={`/users/${userToSlug(h.winner)}`}
+                                        >
                                             {h.winner}
                                         </a>
                                     ) : (

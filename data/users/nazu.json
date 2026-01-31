@@ -1,0 +1,137 @@
+{
+  "user": "なず",
+  "slug": "nazu",
+  "correctSongs": [
+    {
+      "contentId": "sm30746050",
+      "title": "東京ディスコミュニケーション",
+      "artist": "Virgin Noize",
+      "artistList": [
+        "Virgin Noize"
+      ],
+      "startTime": "2017-03-03T03:33:00+09:00",
+      "viewCounter": 172510,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm33965071",
+      "title": "愛言葉Ⅲ",
+      "artist": "DECO*27",
+      "artistList": [
+        "DECO*27"
+      ],
+      "startTime": "2018-10-08T19:00:00+09:00",
+      "viewCounter": 2749957,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "Virgin Noize",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "DECO*27",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2017",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2018",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "東京ディスコミュニケーション",
+      "contentId": "sm30746050",
+      "startTime": 1488479580000,
+      "viewCounter": 172510
+    },
+    {
+      "title": "愛言葉Ⅲ",
+      "contentId": "sm33965071",
+      "startTime": 1538992800000,
+      "viewCounter": 2749957
+    }
+  ],
+  "summary": {
+    "totalAnswers": 3,
+    "okAnswers": 2,
+    "ngAnswers": 1,
+    "participatedQuizCount": 2,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 1461234
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "user": "れんげ",
+  "slug": "renge",
+  "correctSongs": [
+    {
+      "contentId": "sm15938520",
+      "title": "Breath of mechanical",
+      "artist": "ジミーサムP",
+      "artistList": [
+        "ジミーサムP"
+      ],
+      "startTime": "2011-10-20T21:32:22+09:00",
+      "viewCounter": 241257,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm38941010",
+      "title": "私のドッペルゲンガー",
+      "artist": "DIVELA",
+      "artistList": [
+        "DIVELA"
+      ],
+      "startTime": "2021-06-26T20:00:00+09:00",
+      "viewCounter": 186218,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm19218102",
+      "title": "告白予行練習",
+      "artist": "HoneyWorks",
+      "artistList": [
+        "HoneyWorks"
+      ],
+      "startTime": "2012-10-27T23:05:51+09:00",
+      "viewCounter": 2241479,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm38740074",
+      "title": "第三の心臓",
+      "artist": "はるまきごはん",
+      "artistList": [
+        "はるまきごはん"
+      ],
+      "startTime": "2021-05-15T19:00:00+09:00",
+      "viewCounter": 348734,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "ジミーサムP",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "DIVELA",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "HoneyWorks",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "はるまきごはん",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2011",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2021",
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "era": "2012",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "Breath of mechanical",
+      "contentId": "sm15938520",
+      "startTime": 1319113942000,
+      "viewCounter": 241257
+    },
+    {
+      "title": "私のドッペルゲンガー",
+      "contentId": "sm38941010",
+      "startTime": 1624705200000,
+      "viewCounter": 186218
+    },
+    {
+      "title": "告白予行練習",
+      "contentId": "sm19218102",
+      "startTime": 1351346751000,
+      "viewCounter": 2241479
+    },
+    {
+      "title": "第三の心臓",
+      "contentId": "sm38740074",
+      "startTime": 1621072800000,
+      "viewCounter": 348734
+    }
+  ],
+  "summary": {
+    "totalAnswers": 4,
+    "okAnswers": 4,
+    "ngAnswers": 0,
+    "participatedQuizCount": 1,
+    "winQuizCount": 1,
+    "loseQuizCount": 0,
+    "medianViews": 241257
+  }
+}

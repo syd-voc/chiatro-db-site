@@ -32,13 +32,6 @@ const songModules = import.meta.glob("../../data/songs/*.json", {
 
 const songs = Object.values(songModules).map((m) => m.default);
 
-// ===== クイズデータ =====
-const quizModules = import.meta.glob("../../data/quizzes/quiz_*.json", {
-  eager: true,
-}) as Record<string, { default: Quiz }>;
-
-const quizzes = Object.values(quizModules).map((m) => m.default);
-
 // ===== 曲検索 =====
 const matchedSongs = nq
   ? songs
@@ -58,29 +51,30 @@ const matchedSongs = nq
   : [];
 
 
-// ===== ユーザー抽出 =====
-const users = Array.from(
-  new Set(
-    quizzes.flatMap((q) =>
-      q.songs.flatMap((s) =>
-        s.answers.map((a) => a.user).filter(Boolean)
-      )
-    )
-  )
-);
+// ===== ユーザーデータ =====
+const userModules = import.meta.glob("../../data/users/*.json", {
+  eager: true,
+}) as Record<string, { default: any }>;
+
+const users = Object.values(userModules).map((m) => {
+  const u = m.default;
+  return {
+    name: u.user,
+    slug: u.slug ?? encodeURIComponent(u.user),
+  };
+});
+
 
 // ===== ユーザー検索 =====
 const matchedUsers = nq
   ? users
-      .map((name) => ({
-        name,
-        score: matchScore(normalize(name), nq),
+      .map((u) => ({
+        ...u,
+        score: matchScore(normalize(u.name), nq),
       }))
       .filter((x) => x.score < 999)
       .sort((a, b) => a.score - b.score)
-      .map((x) => x.name)
   : [];
-
 
 // ===== アーティスト抽出 =====
 const artists = Array.from(
@@ -139,7 +133,9 @@ const matchedArtists = nq
           <ul>
             {matchedUsers.map((u) => (
               <li>
-                <a href={`/users/${u}`}>{u}</a>
+                <a href={`/users/${u.slug}`}>
+                  {u.name}
+                </a>
               </li>
             ))}
           </ul>

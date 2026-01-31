@@ -18,18 +18,6 @@ type JoinedQuiz = {
     songs: QuizSong[];
 };
 
-type CorrectSongStat = {
-    contentId: string;
-    song: Song;
-    correctCount: number;
-};
-
-type ArtistStat = {
-    artist: string;
-    correctCount: number; // 正解回数（延べ）
-    songSet: Set<string>; // 正解した曲（重複排除用）
-};
-
 type CorrectSongRow = {
     title: string;
     artist: string;
@@ -45,26 +33,6 @@ type ArtistStatRow = {
     correctCount: number;
     correctSongCount: number;
 };
-
-type Era =
-    | "2007-2008"
-    | "2009"
-    | "2010"
-    | "2011"
-    | "2012"
-    | "2013"
-    | "2014"
-    | "2015"
-    | "2016"
-    | "2017"
-    | "2018"
-    | "2019"
-    | "2020"
-    | "2021"
-    | "2022"
-    | "2023"
-    | "2024"
-    | "2025-";
 
 export const VIEW_RANGES = [
     { order: 0, key: "-1万", min: 0, max: 9_999 },
@@ -85,26 +53,40 @@ export type ViewRangeKey = (typeof VIEW_RANGES)[number]["key"];
    Static paths
 ========================= */
 export async function getStaticPaths() {
-    const quizModules = import.meta.glob("../../../data/quizzes/quiz_*.json", {
+    const userModules = import.meta.glob("../../../data/users/*.json", {
         eager: true,
-    }) as Record<string, { default: Quiz }>;
+    }) as Record<string, { default: any }>;
 
-    const users = new Set<string>();
-
-    Object.values(quizModules).forEach(({ default: quiz }) => {
-        quiz.songs.forEach((qs) => {
-            qs.answers.forEach((a) => {
-                if (a.user) users.add(a.user);
-            });
-        });
-    });
-
-    return Array.from(users).map((user) => ({
-        params: { user },
+    return Object.values(userModules).map(({ default: u }) => ({
+        params: {
+            user: u.slug ?? encodeURIComponent(u.user),
+        },
     }));
 }
 
-const { user } = Astro.params as { user: string };
+const userModules = import.meta.glob("../../../data/users/*.json", {
+    eager: true,
+}) as Record<string, { default: any }>;
+
+const { user: slug } = Astro.params as { user: string };
+
+const userData = Object.values(userModules)
+    .map((m) => m.default)
+    .find((u) => (u.slug ?? encodeURIComponent(u.user)) === slug);
+
+if (!userData) {
+    throw new Error(`User JSON not found: ${slug}`);
+}
+
+const {
+    user,
+    correctSongs,
+    artistStats,
+    eraStats,
+    viewStats,
+    scatter,
+    summary,
+} = userData;
 
 /* =========================
    Load data
@@ -164,23 +146,6 @@ function summarizeUserResult(quizSongs: QuizSong[], user: string) {
 
 function isCorrect(result: string): boolean {
     return result.startsWith("OK") || result.startsWith("WIN");
-}
-
-function getEra(startTime?: string): Era | null {
-    if (!startTime) return null;
-
-    const year = new Date(startTime).getFullYear();
-
-    if (year <= 2008) return "2007-2008";
-    if (year >= 2025) return "2025-";
-    return String(year) as Era;
-}
-
-function getViewRange(viewCount: number): ViewRangeKey | null {
-    const range = VIEW_RANGES.find(
-        (r) => viewCount >= r.min && viewCount <= r.max,
-    );
-    return range?.key ?? null;
 }
 
 function percent(part: number, total: number): number {
@@ -273,216 +238,64 @@ const joinedQuizzes = quizzes
     .sort((a, b) => Number(b.quiz.quiz_no) - Number(a.quiz.quiz_no));
 
 /* =========================
-   正解曲一覧集計
-========================= */
-const correctSongMap = new Map<string, CorrectSongStat>();
-
-joinedQuizzes.forEach(({ songs: quizSongs }) => {
-    quizSongs.forEach((qs) => {
-        const answer = qs.answers.find((a) => a.user === user);
-        if (!answer) return;
-
-        if (answer.result.startsWith("OK") || answer.result.startsWith("WIN")) {
-            const song = findSong(qs.contentId);
-            if (!song) return;
-
-            const current = correctSongMap.get(qs.contentId);
-
-            if (current) {
-                current.correctCount++;
-            } else {
-                correctSongMap.set(qs.contentId, {
-                    contentId: qs.contentId,
-                    song,
-                    correctCount: 1,
-                });
-            }
-        }
-    });
-});
-
-const correctSongs = Array.from(correctSongMap.values());
-
-/* =========================
-   アーティスト別集計
-========================= */
-const artistMap = new Map<string, ArtistStat>();
-
-quizzes.forEach((quiz) => {
-    quiz.songs.forEach((qs) => {
-        const song = findSong(qs.contentId);
-        if (!song) return;
-
-        const correctAnswers = qs.answers.filter(
-            (a) => a.user === user && isCorrect(a.result),
-        );
-
-        if (correctAnswers.length === 0) return;
-
-        song.artist.forEach((artist) => {
-            if (!artistMap.has(artist)) {
-                artistMap.set(artist, {
-                    artist,
-                    correctCount: 0,
-                    songSet: new Set(),
-                });
-            }
-
-            const stat = artistMap.get(artist)!;
-            stat.correctCount += correctAnswers.length;
-            stat.songSet.add(song.contentId);
-        });
-    });
-});
-
-const artistStats = Array.from(artistMap.values()).map((a) => ({
-    artist: a.artist,
-    correctCount: a.correctCount,
-    correctSongCount: a.songSet.size,
-}));
-
-/* =========================
-   年別集計
-========================= */
-
-type EraStat = {
-    era: Era;
-    correctCount: number; // 延べ正解回数
-    songSet: Set<string>; // 正解した曲ID
-};
-
-const eraMap = new Map<Era, EraStat>();
-
-quizzes.forEach((quiz) => {
-    quiz.songs.forEach((qs) => {
-        const song = findSong(qs.contentId);
-        if (!song) return;
-
-        const era = getEra(song.startTime);
-        if (!era) return;
-
-        const correctAnswers = qs.answers.filter(
-            (a) => a.user === user && isCorrect(a.result),
-        );
-
-        if (correctAnswers.length === 0) return;
-
-        if (!eraMap.has(era)) {
-            eraMap.set(era, {
-                era,
-                correctCount: 0,
-                songSet: new Set(),
-            });
-        }
-
-        const stat = eraMap.get(era)!;
-        stat.correctCount += correctAnswers.length;
-        stat.songSet.add(song.contentId);
-    });
-});
-
-/* =========================
-   再生回数別集計
-========================= */
-
-type ViewRangeStat = {
-    range: ViewRangeKey;
-    correctCount: number; // 延べ正解回数
-    songSet: Set<string>; // 正解した曲ID
-};
-
-const viewMap = new Map<ViewRangeKey, ViewRangeStat>();
-
-quizzes.forEach((quiz) => {
-    quiz.songs.forEach((qs) => {
-        const song = findSong(qs.contentId);
-        if (!song) return;
-
-        const viewCount = song.viewCounter;
-        if (typeof viewCount !== "number") return;
-
-        const range = getViewRange(viewCount);
-        if (!range) return;
-
-        const correctAnswers = qs.answers.filter(
-            (a) => a.user === user && isCorrect(a.result),
-        );
-
-        if (correctAnswers.length === 0) return;
-
-        if (!viewMap.has(range)) {
-            viewMap.set(range, {
-                range,
-                correctCount: 0,
-                songSet: new Set(),
-            });
-        }
-
-        const stat = viewMap.get(range)!;
-        stat.correctCount += correctAnswers.length;
-        stat.songSet.add(song.contentId);
-    });
-});
-
-/* =========================
    ユーザー統計
 ========================= */
 
-let totalAnswers = 0;
-let okAnswers = 0;
-let ngAnswers = 0;
+// let totalAnswers = 0;
+// let okAnswers = 0;
+// let ngAnswers = 0;
 
-let participatedQuizCount = 0;
-let winQuizCount = 0;
-let loseQuizCount = 0;
+// let participatedQuizCount = 0;
+// let winQuizCount = 0;
+// let loseQuizCount = 0;
 
-const correctSongViews: number[] = [];
+// const correctSongViews: number[] = [];
 
-joinedQuizzes.forEach(({ songs }) => {
-    let hasWin = false;
-    let hasLose = false;
-    let participated = false;
+// joinedQuizzes.forEach(({ songs }) => {
+//     let hasWin = false;
+//     let hasLose = false;
+//     let participated = false;
 
-    songs.forEach((qs) => {
-        const song = findSong(qs.contentId);
+//     songs.forEach((qs) => {
+//         const song = findSong(qs.contentId);
 
-        qs.answers.forEach((a) => {
-            if (a.user !== user) return;
+//         qs.answers.forEach((a) => {
+//             if (a.user !== user) return;
 
-            participated = true;
-            totalAnswers++;
+//             participated = true;
+//             totalAnswers++;
 
-            if (a.result.startsWith("OK")) {
-                okAnswers++;
-                if (song?.viewCounter != null) {
-                    correctSongViews.push(song.viewCounter);
-                }
-            }
+//             if (a.result.startsWith("OK")) {
+//                 okAnswers++;
+//                 if (song?.viewCounter != null) {
+//                     correctSongViews.push(song.viewCounter);
+//                 }
+//             }
 
-            if (a.result.startsWith("WIN")) {
-                okAnswers++;
-                hasWin = true;
-            }
+//             if (a.result.startsWith("WIN")) {
+//                 okAnswers++;
+//                 hasWin = true;
+//             }
 
-            if (a.result === "NG") {
-                ngAnswers++;
-            }
+//             if (a.result === "NG") {
+//                 ngAnswers++;
+//             }
 
-            if (a.result === "LOSE") {
-                hasLose = true;
-            }
-        });
-    });
+//             if (a.result === "LOSE") {
+//                 hasLose = true;
+//             }
+//         });
+//     });
 
-    if (participated) {
-        participatedQuizCount++;
+//     if (participated) {
+//         participatedQuizCount++;
 
-        if (hasWin) winQuizCount++;
-        if (hasLose) loseQuizCount++;
-    }
-});
+//         if (hasWin) winQuizCount++;
+//         if (hasLose) loseQuizCount++;
+//     }
+// });
 
-const medianViews = median(correctSongViews);
+// const medianViews = median(correctSongViews);
 
 /* =========================
    散布図用データ生成
@@ -495,51 +308,29 @@ type ScatterPoint = {
     viewCounter: number;
 };
 
-const scatterData: ScatterPoint[] = [];
+const scatterData: ScatterPoint[] = (scatter ?? [])
+    .map((s: any) => {
+        const ts =
+            typeof s.startTime === "number"
+                ? s.startTime
+                : Date.parse(s.startTime);
 
-quizzes.forEach((quiz) => {
-    quiz.songs.forEach((qs) => {
-        const song = findSong(qs.contentId);
-        if (!song) return;
+        if (!Number.isFinite(ts)) return null;
 
-        if (!song.startTime || typeof song.viewCounter !== "number") return;
-
-        const isCorrectForUser = qs.answers.some(
-            (a) => a.user === user && isCorrect(a.result),
-        );
-
-        if (!isCorrectForUser) return;
-
-        const ts = new Date(song.startTime).getTime();
-        if (!Number.isFinite(ts)) {
-            console.log("bad startTime", song.startTime);
-            return;
-        }
-
-        scatterData.push({
-            title: song.song,
-            contentId: song.contentId,
-            startTime: Date.parse(song.startTime),
-            viewCounter: song.viewCounter,
-        });
-    });
-});
+        return {
+            title: s.title,
+            contentId: s.contentId,
+            startTime: ts,
+            viewCounter: Number(s.viewCounter),
+        };
+    })
+    .filter(Boolean) as ScatterPoint[];
 
 /* =========================
    曲表示用データ生成
 ========================= */
 
-const correctSongRows: CorrectSongRow[] = correctSongs.map(
-    ({ song, correctCount }) => ({
-        title: song.song,
-        artist: song.artist?.join(" ") ?? "",
-        startTime: song.startTime ?? "",
-        correctCount,
-        contentId: song.contentId,
-        viewCounter: song.viewCounter,
-        artistList: song.artist ?? [],
-    }),
-);
+const correctSongRows: CorrectSongRow[] = correctSongs;
 
 const correctSongColumns = [
     {
@@ -600,11 +391,7 @@ const correctSongColumns = [
    アーティスト表示用データ生成
 ========================= */
 
-const artistRows: ArtistStatRow[] = artistStats.map((a) => ({
-    artist: a.artist,
-    correctCount: a.correctCount,
-    correctSongCount: a.correctSongCount,
-}));
+const artistRows: ArtistStatRow[] = artistStats;
 
 const artistColumns = [
     {
@@ -630,25 +417,37 @@ const artistColumns = [
 ];
 
 /* =========================
-   年別表示用データ生成
+年別表示用データ生成（user.json 使用）
 ========================= */
 
-const eraRows = Array.from(eraMap.values()).map((e) => ({
+type EraRow = {
+    era: string;
+    correctCount: number;
+    correctSongCount: number;
+    correctPercent: number;
+    songPercent: number;
+};
+
+const eraRowsBase = eraStats.map((e: any) => ({
     era: e.era,
     correctCount: e.correctCount,
-    correctSongCount: e.songSet.size,
+    correctSongCount: e.correctSongCount,
 }));
-const totalEraCorrect = eraRows.reduce((sum, r) => sum + r.correctCount, 0);
 
-const totalEraSongs = eraRows.reduce((sum, r) => sum + r.correctSongCount, 0);
+const totalEraCorrect = eraRowsBase.reduce(
+    (sum: number, r: EraRow) => sum + r.correctCount,
+    0,
+);
+const totalEraSongs = eraRowsBase.reduce(
+    (sum: number, r: EraRow) => sum + r.correctSongCount,
+    0,
+);
 
-const eraRowsWithPercent = eraRows.map((r) => ({
+const eraRowsWithPercent: EraRow[] = eraRowsBase.map((r: EraRow) => ({
     ...r,
     correctPercent: percent(r.correctCount, totalEraCorrect),
     songPercent: percent(r.correctSongCount, totalEraSongs),
 }));
-
-type EraRow = (typeof eraRowsWithPercent)[number];
 
 const eraColumns: Column<EraRow>[] = [
     {
@@ -685,43 +484,46 @@ const eraColumns: Column<EraRow>[] = [
     },
 ];
 
-const eraChartData = eraRows.map((r) => ({
+const eraChartData = eraRowsBase.map((r: EraRow) => ({
     era: r.era,
     songCount: r.correctSongCount,
     extraCorrect: Math.max(0, r.correctCount - r.correctSongCount),
 }));
 
 /* =========================
-   再生数帯別表示用データ生成
+再生数帯別表示用データ生成（user.json 使用）
 ========================= */
 
-type ViewRow = {
-    range: ViewRangeKey;
+type ViewRowBase = {
+    range: string;
     rangeOrder: number;
     correctCount: number;
     correctSongCount: number;
 };
 
-const viewRows: ViewRow[] = VIEW_RANGES.map((r) => {
-    const stat = viewMap.get(r.key);
+const viewRowsBase: ViewRowBase[] = viewStats.map((v: any, i: number) => ({
+    range: v.range,
+    rangeOrder: v.rangeOrder ?? i,
+    correctCount: v.correctCount,
+    correctSongCount: v.correctSongCount,
+}));
 
-    return {
-        range: r.key,
-        rangeOrder: r.order,
-        correctCount: stat?.correctCount ?? 0,
-        correctSongCount: stat?.songSet.size ?? 0,
-    };
-});
-const totalViewCorrect = viewRows.reduce((sum, r) => sum + r.correctCount, 0);
+const totalViewCorrect = viewRowsBase.reduce(
+    (sum, r) => sum + r.correctCount,
+    0,
+);
 
-const totalViewSongs = viewRows.reduce((sum, r) => sum + r.correctSongCount, 0);
+const totalViewSongs = viewRowsBase.reduce(
+    (sum, r) => sum + r.correctSongCount,
+    0,
+);
 
-type ViewRowWithPercent = ViewRow & {
+type ViewRowWithPercent = ViewRowBase & {
     correctPercent: number;
     songPercent: number;
 };
 
-const viewRowsWithPercent: ViewRowWithPercent[] = viewRows.map((r) => ({
+const viewRowsWithPercent: ViewRowWithPercent[] = viewRowsBase.map((r) => ({
     ...r,
     correctPercent: percent(r.correctCount, totalViewCorrect),
     songPercent: percent(r.correctSongCount, totalViewSongs),
@@ -763,7 +565,7 @@ const viewColumns: Column<ViewRowWithPercent>[] = [
     },
 ];
 
-const viewChartData = viewRows.map((r) => ({
+const viewChartData = viewRowsBase.map((r) => ({
     range: r.range,
     songCount: r.correctSongCount,
     extraCorrect: Math.max(0, r.correctCount - r.correctSongCount),
@@ -950,27 +752,37 @@ const viewChartData = viewRows.map((r) => ({
                 <tr>
                     <th>正答率</th>
                     <td>
-                        {okAnswers} / {totalAnswers}
-                        （{percent(okAnswers, totalAnswers).toFixed(1)}%）
+                        {summary.okAnswers} / {summary.totalAnswers}
+                        （{
+                            percent(
+                                summary.okAnswers,
+                                summary.totalAnswers,
+                            ).toFixed(1)
+                        }%）
                     </td>
                 </tr>
 
                 <tr>
                     <th>誤答率</th>
                     <td>
-                        {ngAnswers} / {totalAnswers}
-                        （{percent(ngAnswers, totalAnswers).toFixed(1)}%）
+                        {summary.ngAnswers} / {summary.totalAnswers}
+                        （{
+                            percent(
+                                summary.ngAnswers,
+                                summary.totalAnswers,
+                            ).toFixed(1)
+                        }%）
                     </td>
                 </tr>
 
                 <tr>
                     <th>勝ち抜け率</th>
                     <td>
-                        {winQuizCount} / {participatedQuizCount}
+                        {summary.winQuizCount} / {summary.participatedQuizCount}
                         （{
                             percent(
-                                winQuizCount,
-                                participatedQuizCount,
+                                summary.winQuizCount,
+                                summary.participatedQuizCount,
                             ).toFixed(1)
                         }%）
                     </td>
@@ -979,11 +791,13 @@ const viewChartData = viewRows.map((r) => ({
                 <tr>
                     <th>失格率</th>
                     <td>
-                        {loseQuizCount} / {participatedQuizCount}
+                        {summary.loseQuizCount} / {
+                            summary.participatedQuizCount
+                        }
                         （{
                             percent(
-                                loseQuizCount,
-                                participatedQuizCount,
+                                summary.loseQuizCount,
+                                summary.participatedQuizCount,
                             ).toFixed(1)
                         }%）
                     </td>
@@ -992,7 +806,11 @@ const viewChartData = viewRows.map((r) => ({
                 <tr>
                     <th>正解曲 再生数中央値</th>
                     <td>
-                        {medianViews ? medianViews.toLocaleString() : "―"}
+                        {
+                            summary.medianViews !== null
+                                ? summary.medianViews.toLocaleString()
+                                : "―"
+                        }
                     </td>
                 </tr>
             </tbody>

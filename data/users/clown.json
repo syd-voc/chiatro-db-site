@@ -1,0 +1,218 @@
+{
+  "user": "くらうん",
+  "slug": "clown",
+  "correctSongs": [
+    {
+      "contentId": "sm7882150",
+      "title": "孤独の果て",
+      "artist": "光収容",
+      "artistList": [
+        "光収容"
+      ],
+      "startTime": "2009-08-09T08:17:10+09:00",
+      "viewCounter": 1343739,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm31791630",
+      "title": "アンノウン・マザーグース",
+      "artist": "wowaka",
+      "artistList": [
+        "wowaka"
+      ],
+      "startTime": "2017-08-22T17:00:00+09:00",
+      "viewCounter": 14241611,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35649401",
+      "title": "EgoもIdも単純に",
+      "artist": "ユリイ・カノン",
+      "artistList": [
+        "ユリイ・カノン"
+      ],
+      "startTime": "2019-09-07T19:02:00+09:00",
+      "viewCounter": 280254,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm24736617",
+      "title": "さよなら両片想",
+      "artist": "HoneyWorks",
+      "artistList": [
+        "HoneyWorks"
+      ],
+      "startTime": "2014-10-20T23:50:21+09:00",
+      "viewCounter": 372784,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm16773398",
+      "title": "心臓デモクラシー",
+      "artist": "みきとP",
+      "artistList": [
+        "みきとP"
+      ],
+      "startTime": "2012-01-23T20:59:54+09:00",
+      "viewCounter": 1107440,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "光収容",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "wowaka",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ユリイ・カノン",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "HoneyWorks",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "みきとP",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2009",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2017",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2019",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2014",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2012",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "scatter": [
+    {
+      "title": "孤独の果て",
+      "contentId": "sm7882150",
+      "startTime": 1249773430000,
+      "viewCounter": 1343739
+    },
+    {
+      "title": "アンノウン・マザーグース",
+      "contentId": "sm31791630",
+      "startTime": 1503388800000,
+      "viewCounter": 14241611
+    },
+    {
+      "title": "EgoもIdも単純に",
+      "contentId": "sm35649401",
+      "startTime": 1567850520000,
+      "viewCounter": 280254
+    },
+    {
+      "title": "さよなら両片想",
+      "contentId": "sm24736617",
+      "startTime": 1413816621000,
+      "viewCounter": 372784
+    },
+    {
+      "title": "心臓デモクラシー",
+      "contentId": "sm16773398",
+      "startTime": 1327319994000,
+      "viewCounter": 1107440
+    }
+  ],
+  "summary": {
+    "totalAnswers": 8,
+    "okAnswers": 5,
+    "ngAnswers": 3,
+    "participatedQuizCount": 4,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 1107440
+  }
+}

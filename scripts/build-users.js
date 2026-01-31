@@ -8,6 +8,7 @@ import path from "path";
 const QUIZ_DIR = "data/quizzes";
 const SONG_DIR = "data/songs";
 const OUTPUT_DIR = "data/users";
+const SLUG_MAP_PATH = "data/users_slug.json";
 
 fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 
@@ -343,13 +344,46 @@ for (const user of users) {
         });
     });
 
+    /* ---------- load slug map ---------- */
+    let slugMap = {};
+    if (fs.existsSync(SLUG_MAP_PATH)) {
+        slugMap = JSON.parse(fs.readFileSync(SLUG_MAP_PATH, "utf-8"));
+    }
+
+    const usedSlugs = new Set();
+
+    function getSlug(user) {
+        let slug = slugMap[user];
+
+        if (!slug) {
+            slug = user
+                .toLowerCase()
+                .replace(/[^\w]+/g, "-")
+                .replace(/^-+|-+$/g, "");
+        }
+
+        let original = slug;
+        let counter = 2;
+
+        while (usedSlugs.has(slug)) {
+            slug = `${original}-${counter++}`;
+        }
+
+        usedSlugs.add(slug);
+        return slug;
+    }
+
+
+    const slug = getSlug(user);
+
     /* ---------- output ---------- */
 
     fs.writeFileSync(
-        path.join(OUTPUT_DIR, `${user}.json`),
+        path.join(OUTPUT_DIR, `${slug}.json`),
         JSON.stringify(
             {
                 user,
+                slug,
                 correctSongs,
                 artistStats,
                 eraStats,

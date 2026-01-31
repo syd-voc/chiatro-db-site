@@ -90,7 +90,11 @@ stats.sort((a, b) => b.count - a.count);
                             {s.artist.map((a, i) => (
                                 <>
                                     {i > 0 && " "}
-                                    <a href={`/artists/${a}`}>{a}</a>
+                                    <a
+                                        href={`/artists/${encodeURIComponent(a)}`}
+                                    >
+                                        {a}
+                                    </a>
                                 </>
                             ))}
                         </td>

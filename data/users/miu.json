@@ -1,0 +1,213 @@
+{
+  "user": "みう",
+  "slug": "miu",
+  "correctSongs": [
+    {
+      "contentId": "sm35787546",
+      "title": "#インターネットやめろ",
+      "artist": "青屋夏生",
+      "artistList": [
+        "青屋夏生"
+      ],
+      "startTime": "2019-10-09T18:00:00+09:00",
+      "viewCounter": 68377,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm16020694",
+      "title": "リセット",
+      "artist": "164",
+      "artistList": [
+        "164"
+      ],
+      "startTime": "2011-10-29T21:00:15+09:00",
+      "viewCounter": 392156,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm22261113",
+      "title": "僕の名前は",
+      "artist": "DECO*27",
+      "artistList": [
+        "DECO*27"
+      ],
+      "startTime": "2013-11-15T21:43:47+09:00",
+      "viewCounter": 449534,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm34658886",
+      "title": "15歳の主張",
+      "artist": "傘村トータ",
+      "artistList": [
+        "傘村トータ"
+      ],
+      "startTime": "2019-02-19T20:00:00+09:00",
+      "viewCounter": 435776,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm23229863",
+      "title": "被害妄想携帯女子(笑)",
+      "artist": "ギガ",
+      "artistList": [
+        "ギガ"
+      ],
+      "startTime": "2014-04-01T18:00:00+09:00",
+      "viewCounter": 2197888,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "青屋夏生",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "164",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "DECO*27",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "傘村トータ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ギガ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2019",
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "era": "2011",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2013",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2014",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 3,
+      "correctSongCount": 3
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "#インターネットやめろ",
+      "contentId": "sm35787546",
+      "startTime": 1570611600000,
+      "viewCounter": 68377
+    },
+    {
+      "title": "リセット",
+      "contentId": "sm16020694",
+      "startTime": 1319889615000,
+      "viewCounter": 392156
+    },
+    {
+      "title": "僕の名前は",
+      "contentId": "sm22261113",
+      "startTime": 1384519427000,
+      "viewCounter": 449534
+    },
+    {
+      "title": "15歳の主張",
+      "contentId": "sm34658886",
+      "startTime": 1550574000000,
+      "viewCounter": 435776
+    },
+    {
+      "title": "被害妄想携帯女子(笑)",
+      "contentId": "sm23229863",
+      "startTime": 1396342800000,
+      "viewCounter": 2197888
+    }
+  ],
+  "summary": {
+    "totalAnswers": 7,
+    "okAnswers": 5,
+    "ngAnswers": 2,
+    "participatedQuizCount": 1,
+    "winQuizCount": 1,
+    "loseQuizCount": 0,
+    "medianViews": 413966
+  }
+}
