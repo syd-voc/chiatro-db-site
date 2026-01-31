@@ -1,0 +1,136 @@
+{
+  "user": "ぽっくる",
+  "correctSongs": [
+    {
+      "contentId": "sm37143419",
+      "title": "ユージュアル・サスペクツ",
+      "artist": "appy",
+      "artistList": [
+        "appy"
+      ],
+      "startTime": "2020-07-05T19:01:03+09:00",
+      "viewCounter": 72624,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm32855820",
+      "title": "ヨヒラ",
+      "artist": "n-buna",
+      "artistList": [
+        "n-buna"
+      ],
+      "startTime": "2018-03-09T18:00:00+09:00",
+      "viewCounter": 1166675,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "appy",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "n-buna",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2020",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2018",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "ユージュアル・サスペクツ",
+      "contentId": "sm37143419",
+      "startTime": 1593943263000,
+      "viewCounter": 72624
+    },
+    {
+      "title": "ヨヒラ",
+      "contentId": "sm32855820",
+      "startTime": 1520586000000,
+      "viewCounter": 1166675
+    }
+  ],
+  "summary": {
+    "totalAnswers": 3,
+    "okAnswers": 2,
+    "ngAnswers": 1,
+    "participatedQuizCount": 3,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 619650
+  }
+}

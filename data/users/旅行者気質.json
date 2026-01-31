@@ -1,0 +1,190 @@
+{
+  "user": "旅行者気質",
+  "correctSongs": [
+    {
+      "contentId": "sm33841308",
+      "title": "ヘイトクライム",
+      "artist": "さまぐら",
+      "artistList": [
+        "さまぐら"
+      ],
+      "startTime": "2018-09-12T19:00:00+09:00",
+      "viewCounter": 101716,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm25402027",
+      "title": "ひとりぼっちとココロの本と",
+      "artist": "PIPPO",
+      "artistList": [
+        "PIPPO"
+      ],
+      "startTime": "2015-01-22T19:00:00+09:00",
+      "viewCounter": 313539,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm32149277",
+      "title": "楽園",
+      "artist": "春野",
+      "artistList": [
+        "春野"
+      ],
+      "startTime": "2017-10-24T19:00:00+09:00",
+      "viewCounter": 213917,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm13452778",
+      "title": "神曲",
+      "artist": "おにゅうP",
+      "artistList": [
+        "おにゅうP"
+      ],
+      "startTime": "2011-01-30T22:04:42+09:00",
+      "viewCounter": 1025886,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "さまぐら",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "PIPPO",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "春野",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "おにゅうP",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2018",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2015",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2017",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2011",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "ヘイトクライム",
+      "contentId": "sm33841308",
+      "startTime": 1536746400000,
+      "viewCounter": 101716
+    },
+    {
+      "title": "ひとりぼっちとココロの本と",
+      "contentId": "sm25402027",
+      "startTime": 1421920800000,
+      "viewCounter": 313539
+    },
+    {
+      "title": "楽園",
+      "contentId": "sm32149277",
+      "startTime": 1508839200000,
+      "viewCounter": 213917
+    },
+    {
+      "title": "神曲",
+      "contentId": "sm13452778",
+      "startTime": 1296392682000,
+      "viewCounter": 1025886
+    }
+  ],
+  "summary": {
+    "totalAnswers": 6,
+    "okAnswers": 4,
+    "ngAnswers": 2,
+    "participatedQuizCount": 1,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 263728
+  }
+}

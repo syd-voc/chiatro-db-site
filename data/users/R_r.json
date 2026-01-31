@@ -1,0 +1,136 @@
+{
+  "user": "R_r",
+  "correctSongs": [
+    {
+      "contentId": "sm16866804",
+      "title": "細菌汚染 - Bacterial Contamination -",
+      "artist": "かにみそP",
+      "artistList": [
+        "かにみそP"
+      ],
+      "startTime": "2012-02-03T20:53:51+09:00",
+      "viewCounter": 1143093,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm42962169",
+      "title": "ピトフーイ",
+      "artist": "ナナホシ管弦楽団",
+      "artistList": [
+        "ナナホシ管弦楽団"
+      ],
+      "startTime": "2023-10-31T19:00:00+09:00",
+      "viewCounter": 79658,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "かにみそP",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ナナホシ管弦楽団",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2012",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2023",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "細菌汚染 - Bacterial Contamination -",
+      "contentId": "sm16866804",
+      "startTime": 1328270031000,
+      "viewCounter": 1143093
+    },
+    {
+      "title": "ピトフーイ",
+      "contentId": "sm42962169",
+      "startTime": 1698746400000,
+      "viewCounter": 79658
+    }
+  ],
+  "summary": {
+    "totalAnswers": 4,
+    "okAnswers": 2,
+    "ngAnswers": 2,
+    "participatedQuizCount": 1,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 611376
+  }
+}

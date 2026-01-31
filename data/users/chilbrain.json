@@ -1,0 +1,109 @@
+{
+  "user": "chilbrain",
+  "correctSongs": [
+    {
+      "contentId": "sm5180053",
+      "title": "Chaining Intention",
+      "artist": "Treow",
+      "artistList": [
+        "Treow"
+      ],
+      "startTime": "2008-11-08T07:25:30+09:00",
+      "viewCounter": 872656,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "Treow",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2007-2008",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "Chaining Intention",
+      "contentId": "sm5180053",
+      "startTime": 1226096730000,
+      "viewCounter": 872656
+    }
+  ],
+  "summary": {
+    "totalAnswers": 1,
+    "okAnswers": 1,
+    "ngAnswers": 0,
+    "participatedQuizCount": 1,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 872656
+  }
+}

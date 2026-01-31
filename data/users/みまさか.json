@@ -1,0 +1,213 @@
+{
+  "user": "みまさか",
+  "correctSongs": [
+    {
+      "contentId": "sm8639738",
+      "title": "カムパネルラ",
+      "artist": "sasakure.UK",
+      "artistList": [
+        "sasakure.UK"
+      ],
+      "startTime": "2009-10-28T16:20:50+09:00",
+      "viewCounter": 1548130,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm7706816",
+      "title": "Paranoid Doll",
+      "artist": "natsuP",
+      "artistList": [
+        "natsuP"
+      ],
+      "startTime": "2009-07-22T05:07:15+09:00",
+      "viewCounter": 1142339,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm6793193",
+      "title": "ハイセンスナンセンス",
+      "artist": "盛るP",
+      "artistList": [
+        "盛るP"
+      ],
+      "startTime": "2009-04-19T14:56:02+09:00",
+      "viewCounter": 1430947,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35199260",
+      "title": "MUTE",
+      "artist": "40mP",
+      "artistList": [
+        "40mP"
+      ],
+      "startTime": "2019-05-31T19:00:00+09:00",
+      "viewCounter": 262894,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm40350149",
+      "title": "88☆彡",
+      "artist": "kemu, まらしぃ",
+      "artistList": [
+        "kemu",
+        "まらしぃ"
+      ],
+      "startTime": "2022-04-21T19:28:02+09:00",
+      "viewCounter": 921789,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "sasakure.UK",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "natsuP",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "盛るP",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "40mP",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "kemu",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "まらしぃ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2009",
+      "correctCount": 3,
+      "correctSongCount": 3
+    },
+    {
+      "era": "2019",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2022",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 3,
+      "correctSongCount": 3
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "カムパネルラ",
+      "contentId": "sm8639738",
+      "startTime": 1256714450000,
+      "viewCounter": 1548130
+    },
+    {
+      "title": "Paranoid Doll",
+      "contentId": "sm7706816",
+      "startTime": 1248206835000,
+      "viewCounter": 1142339
+    },
+    {
+      "title": "ハイセンスナンセンス",
+      "contentId": "sm6793193",
+      "startTime": 1240120562000,
+      "viewCounter": 1430947
+    },
+    {
+      "title": "MUTE",
+      "contentId": "sm35199260",
+      "startTime": 1559296800000,
+      "viewCounter": 262894
+    },
+    {
+      "title": "88☆彡",
+      "contentId": "sm40350149",
+      "startTime": 1650536882000,
+      "viewCounter": 921789
+    }
+  ],
+  "summary": {
+    "totalAnswers": 5,
+    "okAnswers": 5,
+    "ngAnswers": 0,
+    "participatedQuizCount": 1,
+    "winQuizCount": 1,
+    "loseQuizCount": 0,
+    "medianViews": 1286643
+  }
+}

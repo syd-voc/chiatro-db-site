@@ -1,0 +1,190 @@
+{
+  "user": "たかな",
+  "correctSongs": [
+    {
+      "contentId": "sm39963104",
+      "title": "さよならプリンセス",
+      "artist": "Kai",
+      "artistList": [
+        "Kai"
+      ],
+      "startTime": "2022-01-29T19:05:02+09:00",
+      "viewCounter": 1506951,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm38907008",
+      "title": "トンデモワンダーズ",
+      "artist": "sasakure.UK",
+      "artistList": [
+        "sasakure.UK"
+      ],
+      "startTime": "2021-06-19T21:47:33+09:00",
+      "viewCounter": 4110015,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm42574530",
+      "title": "クワイエット",
+      "artist": "szri",
+      "artistList": [
+        "szri"
+      ],
+      "startTime": "2023-08-04T19:00:00+09:00",
+      "viewCounter": 213460,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm37944844",
+      "title": "1000年生きてる",
+      "artist": "いよわ",
+      "artistList": [
+        "いよわ"
+      ],
+      "startTime": "2020-12-11T21:00:00+09:00",
+      "viewCounter": 5553430,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "Kai",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "sasakure.UK",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "szri",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "いよわ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2022",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2021",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2023",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2020",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "さよならプリンセス",
+      "contentId": "sm39963104",
+      "startTime": 1643450702000,
+      "viewCounter": 1506951
+    },
+    {
+      "title": "トンデモワンダーズ",
+      "contentId": "sm38907008",
+      "startTime": 1624106853000,
+      "viewCounter": 4110015
+    },
+    {
+      "title": "クワイエット",
+      "contentId": "sm42574530",
+      "startTime": 1691143200000,
+      "viewCounter": 213460
+    },
+    {
+      "title": "1000年生きてる",
+      "contentId": "sm37944844",
+      "startTime": 1607688000000,
+      "viewCounter": 5553430
+    }
+  ],
+  "summary": {
+    "totalAnswers": 9,
+    "okAnswers": 4,
+    "ngAnswers": 5,
+    "participatedQuizCount": 2,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 2808483
+  }
+}

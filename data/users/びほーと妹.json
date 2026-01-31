@@ -1,0 +1,217 @@
+{
+  "user": "びほーと妹",
+  "correctSongs": [
+    {
+      "contentId": "sm11834233",
+      "title": "心拍数♯0822",
+      "artist": "蝶々P",
+      "artistList": [
+        "蝶々P"
+      ],
+      "startTime": "2010-08-22T00:00:14+09:00",
+      "viewCounter": 2642688,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm30233676",
+      "title": "ユニバース",
+      "artist": "夏代孝明",
+      "artistList": [
+        "夏代孝明"
+      ],
+      "startTime": "2016-12-16T20:00:00+09:00",
+      "viewCounter": 405028,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm25698086",
+      "title": "頓珍漢の宴",
+      "artist": "ピノキオピー",
+      "artistList": [
+        "ピノキオピー"
+      ],
+      "startTime": "2015-03-02T18:56:17+09:00",
+      "viewCounter": 2984228,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm20296308",
+      "title": "ブリキノダンス",
+      "artist": "日向電工",
+      "artistList": [
+        "日向電工"
+      ],
+      "startTime": "2013-03-10T17:26:53+09:00",
+      "viewCounter": 5116648,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm18406343",
+      "title": "チルドレンレコード",
+      "artist": "じん",
+      "artistList": [
+        "じん"
+      ],
+      "startTime": "2012-07-21T17:01:56+09:00",
+      "viewCounter": 7885646,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "蝶々P",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "夏代孝明",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ピノキオピー",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "日向電工",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "じん",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2010",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2016",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2015",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2013",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2012",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "心拍数♯0822",
+      "contentId": "sm11834233",
+      "startTime": 1282402814000,
+      "viewCounter": 2642688
+    },
+    {
+      "title": "ユニバース",
+      "contentId": "sm30233676",
+      "startTime": 1481886000000,
+      "viewCounter": 405028
+    },
+    {
+      "title": "頓珍漢の宴",
+      "contentId": "sm25698086",
+      "startTime": 1425290177000,
+      "viewCounter": 2984228
+    },
+    {
+      "title": "ブリキノダンス",
+      "contentId": "sm20296308",
+      "startTime": 1362904013000,
+      "viewCounter": 5116648
+    },
+    {
+      "title": "チルドレンレコード",
+      "contentId": "sm18406343",
+      "startTime": 1342857716000,
+      "viewCounter": 7885646
+    }
+  ],
+  "summary": {
+    "totalAnswers": 7,
+    "okAnswers": 5,
+    "ngAnswers": 2,
+    "participatedQuizCount": 1,
+    "winQuizCount": 1,
+    "loseQuizCount": 0,
+    "medianViews": 2813458
+  }
+}

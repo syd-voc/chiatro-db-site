@@ -1,0 +1,283 @@
+{
+  "user": "さいわい",
+  "correctSongs": [
+    {
+      "contentId": "sm22474644",
+      "title": "病名恋ワズライ",
+      "artist": "HoneyWorks",
+      "artistList": [
+        "HoneyWorks"
+      ],
+      "startTime": "2013-12-17T22:24:26+09:00",
+      "viewCounter": 1236891,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm2085047",
+      "title": "歌に形はないけれど",
+      "artist": "doriko",
+      "artistList": [
+        "doriko"
+      ],
+      "startTime": "2008-01-20T05:34:36+09:00",
+      "viewCounter": 4156915,
+      "correctCount": 1
+    },
+    {
+      "contentId": "nm6049209",
+      "title": "ダブルラリアット",
+      "artist": "アゴアニキ",
+      "artistList": [
+        "アゴアニキ"
+      ],
+      "startTime": "2009-02-05T06:18:45+09:00",
+      "viewCounter": 8685340,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm21764582",
+      "title": "妄想税",
+      "artist": "DECO*27",
+      "artistList": [
+        "DECO*27"
+      ],
+      "startTime": "2013-09-07T20:00:00+09:00",
+      "viewCounter": 5475530,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm27056499",
+      "title": "わたしのアール",
+      "artist": "和田たけあき",
+      "artistList": [
+        "和田たけあき"
+      ],
+      "startTime": "2015-08-31T19:00:00+09:00",
+      "viewCounter": 1781268,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm6328922",
+      "title": "悪食娘コンチータ",
+      "artist": "悪ノP",
+      "artistList": [
+        "悪ノP"
+      ],
+      "startTime": "2009-03-04T03:35:15+09:00",
+      "viewCounter": 2140285,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm11884641",
+      "title": "リリリリ★バーニングナイト",
+      "artist": "samfree",
+      "artistList": [
+        "samfree"
+      ],
+      "startTime": "2010-08-26T06:49:03+09:00",
+      "viewCounter": 1886863,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm19940497",
+      "title": "ダンスダンスデカダンス",
+      "artist": "カラスヤサボウ",
+      "artistList": [
+        "カラスヤサボウ"
+      ],
+      "startTime": "2013-01-28T20:00:00+09:00",
+      "viewCounter": 1427706,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "HoneyWorks",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "doriko",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "アゴアニキ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "DECO*27",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "和田たけあき",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "悪ノP",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "samfree",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "カラスヤサボウ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2013",
+      "correctCount": 3,
+      "correctSongCount": 3
+    },
+    {
+      "era": "2007-2008",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2009",
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "era": "2015",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2010",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 4,
+      "correctSongCount": 4
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "病名恋ワズライ",
+      "contentId": "sm22474644",
+      "startTime": 1387286666000,
+      "viewCounter": 1236891
+    },
+    {
+      "title": "歌に形はないけれど",
+      "contentId": "sm2085047",
+      "startTime": 1200774876000,
+      "viewCounter": 4156915
+    },
+    {
+      "title": "ダブルラリアット",
+      "contentId": "nm6049209",
+      "startTime": 1233782325000,
+      "viewCounter": 8685340
+    },
+    {
+      "title": "妄想税",
+      "contentId": "sm21764582",
+      "startTime": 1378551600000,
+      "viewCounter": 5475530
+    },
+    {
+      "title": "わたしのアール",
+      "contentId": "sm27056499",
+      "startTime": 1441015200000,
+      "viewCounter": 1781268
+    },
+    {
+      "title": "悪食娘コンチータ",
+      "contentId": "sm6328922",
+      "startTime": 1236105315000,
+      "viewCounter": 2140285
+    },
+    {
+      "title": "リリリリ★バーニングナイト",
+      "contentId": "sm11884641",
+      "startTime": 1282772943000,
+      "viewCounter": 1886863
+    },
+    {
+      "title": "ダンスダンスデカダンス",
+      "contentId": "sm19940497",
+      "startTime": 1359370800000,
+      "viewCounter": 1427706
+    }
+  ],
+  "summary": {
+    "totalAnswers": 10,
+    "okAnswers": 8,
+    "ngAnswers": 2,
+    "participatedQuizCount": 2,
+    "winQuizCount": 1,
+    "loseQuizCount": 0,
+    "medianViews": 2140285
+  }
+}

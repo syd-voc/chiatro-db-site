@@ -1,0 +1,136 @@
+{
+  "user": "けあ",
+  "correctSongs": [
+    {
+      "contentId": "sm28668522",
+      "title": "Cynic",
+      "artist": "ポリスピカデリー",
+      "artistList": [
+        "ポリスピカデリー"
+      ],
+      "startTime": "2016-04-19T16:43:11+09:00",
+      "viewCounter": 1268615,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm14934781",
+      "title": "「ヤリたいの。」",
+      "artist": "ぼいじゃあ",
+      "artistList": [
+        "ぼいじゃあ"
+      ],
+      "startTime": "2011-07-05T19:49:15+09:00",
+      "viewCounter": 317589,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "ポリスピカデリー",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ぼいじゃあ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2016",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2011",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "Cynic",
+      "contentId": "sm28668522",
+      "startTime": 1461051791000,
+      "viewCounter": 1268615
+    },
+    {
+      "title": "「ヤリたいの。」",
+      "contentId": "sm14934781",
+      "startTime": 1309862955000,
+      "viewCounter": 317589
+    }
+  ],
+  "summary": {
+    "totalAnswers": 2,
+    "okAnswers": 2,
+    "ngAnswers": 0,
+    "participatedQuizCount": 1,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 793102
+  }
+}

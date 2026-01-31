@@ -1,0 +1,217 @@
+{
+  "user": "LEII",
+  "correctSongs": [
+    {
+      "contentId": "sm14375135",
+      "title": "アブストラクト・ナンセンス",
+      "artist": "Neru",
+      "artistList": [
+        "Neru"
+      ],
+      "startTime": "2011-05-06T21:17:47+09:00",
+      "viewCounter": 1788532,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm36713449",
+      "title": "晴天を穿つ",
+      "artist": "傘村トータ",
+      "artistList": [
+        "傘村トータ"
+      ],
+      "startTime": "2020-04-20T21:06:02+09:00",
+      "viewCounter": 1131957,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm22001720",
+      "title": "いかないで",
+      "artist": "想太",
+      "artistList": [
+        "想太"
+      ],
+      "startTime": "2013-10-09T18:00:00+09:00",
+      "viewCounter": 2817456,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm19339722",
+      "title": "空想少女への恋手紙",
+      "artist": "まらしぃ",
+      "artistList": [
+        "まらしぃ"
+      ],
+      "startTime": "2012-11-12T18:56:54+09:00",
+      "viewCounter": 428698,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm28038974",
+      "title": "曖昧さ回避",
+      "artist": "ポリスピカデリー",
+      "artistList": [
+        "ポリスピカデリー"
+      ],
+      "startTime": "2016-01-19T16:27:11+09:00",
+      "viewCounter": 892381,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "Neru",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "傘村トータ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "想太",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "まらしぃ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ポリスピカデリー",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2011",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2020",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2013",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2012",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2016",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "アブストラクト・ナンセンス",
+      "contentId": "sm14375135",
+      "startTime": 1304684267000,
+      "viewCounter": 1788532
+    },
+    {
+      "title": "晴天を穿つ",
+      "contentId": "sm36713449",
+      "startTime": 1587384362000,
+      "viewCounter": 1131957
+    },
+    {
+      "title": "いかないで",
+      "contentId": "sm22001720",
+      "startTime": 1381309200000,
+      "viewCounter": 2817456
+    },
+    {
+      "title": "空想少女への恋手紙",
+      "contentId": "sm19339722",
+      "startTime": 1352714214000,
+      "viewCounter": 428698
+    },
+    {
+      "title": "曖昧さ回避",
+      "contentId": "sm28038974",
+      "startTime": 1453188431000,
+      "viewCounter": 892381
+    }
+  ],
+  "summary": {
+    "totalAnswers": 6,
+    "okAnswers": 5,
+    "ngAnswers": 1,
+    "participatedQuizCount": 6,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 1131957
+  }
+}

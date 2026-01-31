@@ -1,0 +1,163 @@
+{
+  "user": "もちほな",
+  "correctSongs": [
+    {
+      "contentId": "sm41528869",
+      "title": "また誰もいない部屋に辿りついてしまった",
+      "artist": "文月フミト",
+      "artistList": [
+        "文月フミト"
+      ],
+      "startTime": "2022-12-19T22:06:02+09:00",
+      "viewCounter": 170800,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm37987111",
+      "title": "ニジイロストーリーズ",
+      "artist": "OSTER project",
+      "artistList": [
+        "OSTER project"
+      ],
+      "startTime": "2020-12-20T19:00:00+09:00",
+      "viewCounter": 226260,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm30469574",
+      "title": "太陽系デスコ",
+      "artist": "ナユタン星人",
+      "artistList": [
+        "ナユタン星人"
+      ],
+      "startTime": "2017-01-20T21:12:00+09:00",
+      "viewCounter": 7136203,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "文月フミト",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "OSTER project",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ナユタン星人",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2022",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2020",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2017",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "また誰もいない部屋に辿りついてしまった",
+      "contentId": "sm41528869",
+      "startTime": 1671455162000,
+      "viewCounter": 170800
+    },
+    {
+      "title": "ニジイロストーリーズ",
+      "contentId": "sm37987111",
+      "startTime": 1608458400000,
+      "viewCounter": 226260
+    },
+    {
+      "title": "太陽系デスコ",
+      "contentId": "sm30469574",
+      "startTime": 1484914320000,
+      "viewCounter": 7136203
+    }
+  ],
+  "summary": {
+    "totalAnswers": 9,
+    "okAnswers": 3,
+    "ngAnswers": 6,
+    "participatedQuizCount": 2,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 226260
+  }
+}

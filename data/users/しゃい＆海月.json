@@ -1,0 +1,136 @@
+{
+  "user": "しゃい＆海月",
+  "correctSongs": [
+    {
+      "contentId": "sm10037931",
+      "title": "UNBALANCE",
+      "artist": "シグナルP",
+      "artistList": [
+        "シグナルP"
+      ],
+      "startTime": "2010-03-15T19:01:32+09:00",
+      "viewCounter": 392149,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm31724270",
+      "title": "カンタービレ×パッシオーネ",
+      "artist": "OSTER project",
+      "artistList": [
+        "OSTER project"
+      ],
+      "startTime": "2017-08-11T18:00:00+09:00",
+      "viewCounter": 1237583,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "シグナルP",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "OSTER project",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2010",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2017",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "UNBALANCE",
+      "contentId": "sm10037931",
+      "startTime": 1268647292000,
+      "viewCounter": 392149
+    },
+    {
+      "title": "カンタービレ×パッシオーネ",
+      "contentId": "sm31724270",
+      "startTime": 1502442000000,
+      "viewCounter": 1237583
+    }
+  ],
+  "summary": {
+    "totalAnswers": 5,
+    "okAnswers": 2,
+    "ngAnswers": 3,
+    "participatedQuizCount": 1,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 814866
+  }
+}
