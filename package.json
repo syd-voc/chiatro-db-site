@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
-    "prebuild": "node scripts/build-song-history-index.js",
+    "prebuild": "node scripts/build-song-pages.js && node scripts/build-quiz-pages.js && node scripts/build-users.js && node scripts/build-artists.js",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"

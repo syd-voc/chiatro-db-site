@@ -1,7 +1,6 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import type { Song, SongHistory, Quiz } from "../../types/quiz";
-
+import type { Song, SongHistory } from "../../types/quiz";
 import userSlugMapRaw from "../../../data/users_slug.json";
 import artistSlugMapRaw from "../../../data/artists_slug.json";
 
@@ -15,52 +14,39 @@ function artistToSlug(name: string) {
     return artistSlugMap[name] ?? encodeURIComponent(name);
 }
 
-/* =========================
-   static paths
-========================= */
 export async function getStaticPaths() {
-    const songModules = import.meta.glob("../../../data/songs/*.json", {
+    const pageModules = import.meta.glob("../../../data/song_pages/*.json", {
         eager: true,
-    }) as Record<string, { default: Song }>;
+    });
 
-    return Object.values(songModules).map((m) => ({
-        params: { videoId: m.default.contentId },
-        props: { song: m.default },
-    }));
+    return Object.entries(pageModules).map(([path, mod]) => {
+        const data = (mod as { default: any }).default;
+
+        const match = path.match(/([a-z]{2}\d+)\.json$/);
+        if (!match) {
+            throw new Error(`invalid path: ${path}`);
+        }
+
+        const videoId = match[1]; // ✅ string
+
+        return {
+            params: { videoId },
+            props: { page: data },
+        };
+    });
 }
 
-const { song } = Astro.props as { song: Song };
+const { page } = Astro.props as {
+    page: {
+        song: Song;
+        appearanceCount: number;
+        correctCount: number;
+        accuracy: number;
+        histories: SongHistory[];
+    };
+};
 
-/* =========================
-   quizzes
-========================= */
-const quizModules = import.meta.glob("../../../data/quizzes/quiz_*.json", {
-    eager: true,
-}) as Record<string, { default: Quiz }>;
-
-const quizzes = Object.values(quizModules).map((m) => m.default);
-
-/* =========================
-   出題履歴生成
-========================= */
-const histories: SongHistory[] = quizzes.flatMap((q) =>
-    q.songs
-        .filter((s) => s.contentId === song.contentId)
-        .map((s) => {
-            const winnerAnswer = s.answers.find(
-                (a) =>
-                    a.result?.startsWith("OK") || a.result?.startsWith("WIN"),
-            );
-
-            return {
-                date: q.date,
-                quizNo: q.quiz_no,
-                group: q.group || undefined,
-                order: s.order,
-                winner: winnerAnswer?.user,
-            };
-        }),
-);
+const { song, appearanceCount, correctCount, accuracy, histories } = page;
 
 /* =========================
    ソート（新しい順）
@@ -68,16 +54,6 @@ const histories: SongHistory[] = quizzes.flatMap((q) =>
 const sortedHistories = [...histories].sort(
     (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime(),
 );
-
-/* =========================
-   集計
-========================= */
-const appearanceCount = histories.length;
-const correctCount = histories.filter((h) => h.winner).length;
-const accuracy =
-    appearanceCount === 0
-        ? 0
-        : Math.round((correctCount / appearanceCount) * 100);
 
 /* =========================
    投稿日時
@@ -110,7 +86,7 @@ const postedAt = song.startTime
         <h2>アーティスト</h2>
         <ul>
             {
-                song.artist.map((a) => (
+                song.artist.map((a: any) => (
                     <li>
                         <a href={`/artists/${artistToSlug(a)}`}>{a}</a>
                     </li>
@@ -146,7 +122,7 @@ const postedAt = song.startTime
                     <th>タグ</th>
                     <td colspan="3">
                         <ul class="tag-list">
-                            {song.tags?.map((tag) => <li>{tag}</li>)}
+                            {song.tags?.map((tag: string) => <li>{tag}</li>)}
                         </ul>
                     </td>
                 </tr>
