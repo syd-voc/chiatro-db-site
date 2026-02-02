@@ -1,29 +1,31 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import type { Song } from "../../types/quiz";
-import artistSlugMapRaw from "../../../data/artists_slug.json";
-const artistSlugMap = artistSlugMapRaw as Record<string, string>;
 
-function artistToSlug(a: string) {
-    return artistSlugMap[a] ?? encodeURIComponent(a);
-}
+type ArtistFile = {
+    artist: string;
+    slug: string;
+    songs: {
+        contentId: string;
+        title: string;
+        startTime?: string;
+        viewCounter?: number;
+        appearanceCount?: number;
+    }[];
+    topUsers?: { user: string; count: number }[];
+};
 
-const songModules = import.meta.glob("../../../data/songs/*.json", {
+// ✅ artists JSONだけ読む（軽い）
+const artistModules = import.meta.glob("../../../data/artists/*.json", {
     eager: true,
-}) as Record<string, { default: Song }>;
+}) as Record<string, { default: ArtistFile }>;
 
-const songs = Object.values(songModules).map((m) => m.default);
-
-const artistMap = new Map<string, number>();
-
-songs.forEach((s) => {
-    s.artist.forEach((a) => {
-        artistMap.set(a, (artistMap.get(a) ?? 0) + 1);
-    });
-});
-
-const artists = Array.from(artistMap.entries())
-    .map(([name, count]) => ({ name, count }))
+const artists = Object.values(artistModules)
+    .map((m) => m.default)
+    .map((a) => ({
+        name: a.artist,
+        slug: a.slug,
+        count: a.songs?.length ?? 0,
+    }))
     .sort((a, b) => b.count - a.count);
 ---
 
@@ -42,9 +44,7 @@ const artists = Array.from(artistMap.entries())
                 artists.map((a) => (
                     <tr>
                         <td>
-                            <a href={`/artists/${artistToSlug(a.name)}`}>
-                                {a.name}
-                            </a>
+                            <a href={`/artists/${a.slug}`}>{a.name}</a>
                         </td>
                         <td>{a.count}</td>
                     </tr>

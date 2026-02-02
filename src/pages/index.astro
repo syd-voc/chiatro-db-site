@@ -1,42 +1,8 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import type { Quiz, Song } from "../types/quiz";
+import stats from "../../data/stats.json";
 
-/* =========================
-   データ読み込み
-========================= */
-
-// クイズ一覧
-const quizModules = import.meta.glob("../../data/quizzes/quiz_*.json", {
-	eager: true,
-}) as Record<string, { default: Quiz }>;
-
-const quizzes = Object.values(quizModules)
-	.map((m) => m.default)
-	.sort((a, b) => {
-		// 新しい回を上に
-		if (a.date === b.date) {
-			return a.group.localeCompare(b.group);
-		}
-		return a.date < b.date ? 1 : -1;
-	});
-
-// 曲数カウント用
-const songModules = import.meta.glob("../../data/songs/*.json", {
-	eager: true,
-}) as Record<string, { default: Song }>;
-
-const songCount = Object.keys(songModules).length;
-
-// ユーザー数（ログから抽出）
-const users = new Set<string>();
-quizzes.forEach((quiz) =>
-	quiz.songs.forEach((s) =>
-		s.answers.forEach((a) => a.user && users.add(a.user)),
-	),
-);
-
-const userCount = users.size;
+const { quizCount, songCount, userCount } = stats;
 ---
 
 <BaseLayout title="ちあトロデータベース">
@@ -52,7 +18,7 @@ const userCount = users.size;
 	<section>
 		<h2>サイト概要</h2>
 		<ul>
-			<li>クイズ回数：{quizzes.length} 回</li>
+			<li>クイズ回数：{quizCount} 回</li>
 			<li>登録楽曲数：{songCount} 曲</li>
 			<li>参加ユーザー数：{userCount} 人</li>
 		</ul>

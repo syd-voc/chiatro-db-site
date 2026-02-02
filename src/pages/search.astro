@@ -1,36 +1,6 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import type { Song } from "../types/quiz";
-
-const songModules = import.meta.glob("../../data/songs/*.json", {
-  eager: true,
-}) as Record<string, { default: Song }>;
-
-const songs = Object.values(songModules).map((m) => m.default);
-
-const userModules = import.meta.glob("../../data/users/*.json", {
-  eager: true,
-}) as Record<string, { default: any }>;
-
-const users = Object.values(userModules).map((m) => {
-  const u = m.default;
-  return {
-    name: u.user,
-    slug: u.slug ?? encodeURIComponent(u.user),
-  };
-});
-
-const artistModules = import.meta.glob("../../data/artists/*.json", {
-  eager: true,
-}) as Record<string, { default: any }>;
-
-const artists = Object.values(artistModules).map((m) => {
-  const a = m.default;
-  return {
-    name: a.artist,
-    slug: a.slug ?? encodeURIComponent(a.artist),
-  };
-});
+import searchData from "../../data/search_index.json";
 ---
 
 <BaseLayout title="検索">
@@ -39,21 +9,13 @@ const artists = Object.values(artistModules).map((m) => {
   <input id="searchBox" type="text" placeholder="検索ワード" />
   <button id="searchBtn">検索</button>
 
-  <p id="queryText"></p>
+  <ul id="results"></ul>
 
-  <h3>曲</h3>
-  <ul id="songResults"></ul>
-
-  <h3>参加者</h3>
-  <ul id="userResults"></ul>
-
-  <h3>アーティスト</h3>
-  <ul id="artistResults"></ul>
-
+  <!-- Astro → ブラウザへデータ受け渡し -->
   <script
     id="search-data"
     type="application/json"
-    set:html={JSON.stringify({ songs, users, artists })}
+    set:html={JSON.stringify(searchData)}
   />
 
   <script>
@@ -62,139 +24,115 @@ const artists = Object.values(artistModules).map((m) => {
 
     const DATA = JSON.parse(dataEl.textContent || "{}");
 
-    const searchBox = document.getElementById(
-      "searchBox",
-    ) as HTMLInputElement | null;
-
-    const searchBtn = document.getElementById("searchBtn");
-    const queryText = document.getElementById("queryText");
-    const songUL = document.getElementById("songResults");
-    const userUL = document.getElementById("userResults");
-    const artistUL = document.getElementById("artistResults");
-
+    /** @param {string} s */
     function normalize(str: string): string {
       if (!str) return "";
+
       return str
         .toLowerCase()
-        .normalize("NFKC")
-        .replace(/[ァ-ン]/g, function (s: string) {
-          return String.fromCharCode(s.charCodeAt(0) - 0x60);
-        });
+        .normalize("NFKC") // 全角半角統一
+        .replace(/[ァ-ン]/g, (s) => String.fromCharCode(s.charCodeAt(0) - 0x60)) // カナ→かな
+        .replace(/[\s\-_\/・\.]+/g, ""); // 空白・記号除去
+    }
+    function scoreMatch(text: string, q: string): number {
+      if (!text.includes(q)) return 999;
+      if (text === q) return 0;
+      if (text.startsWith(q)) return 1;
+      return 2;
     }
 
-    function matchScore(text: string, query: string): number {
-      if (text === query) return 0;
-      if (text.startsWith(query)) return 1;
-      if (text.includes(query)) return 2;
-      return 999;
-    }
-
-    function runSearch(q: string) {
-      if (!songUL || !userUL || !artistUL || !queryText) return;
-
+    /** @param {string} q */
+    function run(q: string) {
       const nq = normalize(q);
-      queryText.textContent = q ? "検索ワード：" + q : "";
 
       if (!nq) {
-        songUL.innerHTML = "";
-        userUL.innerHTML = "";
-        artistUL.innerHTML = "";
+        const results = document.getElementById(
+          "results",
+        ) as HTMLUListElement | null;
+        if (results) results.innerHTML = "";
         return;
       }
 
-      const songMatches = DATA.songs
-        .map(function (s: any) {
-          return {
-            s: s,
-            score: Math.min(
-              matchScore(normalize(s.song), nq),
-              matchScore(normalize(s.contentId), nq),
-            ),
-          };
-        })
-        .filter(function (x: any) {
-          return x.score < 999;
-        })
-        .sort(function (a: any, b: any) {
-          return a.score - b.score;
-        })
-        .map(function (x: any) {
-          return x.s;
-        });
+      type Row = { html: string; score: number };
+      const rows: Row[] = [];
 
-      songUL.innerHTML = songMatches.length
-        ? songMatches
-            .map(function (s: any) {
-              return `<li><a href="/songs/${s.contentId}">
-        ${s.song} / ${s.artist.join(", ")}
-        </a></li>`;
-            })
-            .join("")
-        : "<li>該当なし</li>";
+      /* ===== songs ===== */
+      DATA.songs.forEach((s: any) => {
+        const id = s.contentId ?? s.id ?? "";
 
-      const userMatches = DATA.users
-        .map(function (u: any) {
-          return {
-            u: u,
-            score: matchScore(normalize(u.name), nq),
-          };
-        })
-        .filter(function (x: any) {
-          return x.score < 999;
-        })
-        .sort(function (a: any, b: any) {
-          return a.score - b.score;
-        })
-        .map(function (x: any) {
-          return x.u;
-        });
+        const scores = [
+          scoreMatch(normalize(s.song), nq),
+          scoreMatch(normalize(id), nq),
+        ];
 
-      userUL.innerHTML = userMatches.length
-        ? userMatches
-            .map(function (u: any) {
-              return `<li><a href="/users/${u.slug}">${u.name}</a></li>`;
-            })
-            .join("")
-        : "<li>該当なし</li>";
-
-      const artistMatches = DATA.artists
-        .map(function (a: any) {
-          return {
-            a: a,
-            score: matchScore(normalize(a.name), nq),
-          };
-        })
-        .filter(function (x: any) {
-          return x.score < 999;
-        })
-        .sort(function (a: any, b: any) {
-          return a.score - b.score;
-        })
-        .map(function (x: any) {
-          return x.a;
-        });
-
-      artistUL.innerHTML = artistMatches.length
-        ? artistMatches
-            .map(function (a: any) {
-              return `<li><a href="/artists/${a.slug}">
-          ${a.name}
-        </a></li>`;
-            })
-            .join("")
-        : "<li>該当なし</li>";
-    }
-
-    if (searchBtn && searchBox) {
-      searchBtn.addEventListener("click", function () {
-        runSearch(searchBox.value);
-      });
-
-      searchBox.addEventListener("keydown", function (e) {
-        if (e.key === "Enter") {
-          runSearch(searchBox.value);
+        const score = Math.min(...scores);
+        if (score < 999) {
+          rows.push({
+            score,
+            html: `<li><a href="/songs/${id}">
+          ${s.song} / ${
+            Array.isArray(s.artist) ? s.artist.join(", ") : s.artist
+          }
+        </a></li>`,
+          });
         }
       });
+
+      /* ===== artists ===== */
+      DATA.artists.forEach((a: any) => {
+        const score = scoreMatch(normalize(a.name), nq);
+        if (score < 999) {
+          rows.push({
+            score,
+            html: `<li><a href="/artists/${a.slug}">
+          ${a.name}
+        </a></li>`,
+          });
+        }
+      });
+
+      /* ===== users ===== */
+      DATA.users.forEach((u: any) => {
+        const score = scoreMatch(normalize(u.name), nq);
+        if (score < 999) {
+          rows.push({
+            score,
+            html: `<li><a href="/users/${u.slug}">
+          ${u.name}
+        </a></li>`,
+          });
+        }
+      });
+
+      /* ===== ソート ===== */
+      rows.sort((a, b) => a.score - b.score);
+
+      const results = document.getElementById(
+        "results",
+      ) as HTMLUListElement | null;
+
+      if (results) {
+        results.innerHTML = rows.length
+          ? rows.map((r) => r.html).join("")
+          : "<li>該当なし</li>";
+      }
+    }
+
+    const searchBox = document.getElementById(
+      "searchBox",
+    ) as HTMLInputElement | null;
+    const searchBtn = document.getElementById(
+      "searchBtn",
+    ) as HTMLButtonElement | null;
+
+    if (searchBtn && searchBox) {
+      searchBtn.onclick = () => run(searchBox.value);
+
+      searchBox.onkeydown = (e) => {
+        if (e.key === "Enter") {
+          run(searchBox.value);
+        }
+      };
     }
   </script>
 </BaseLayout>
