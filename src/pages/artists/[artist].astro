@@ -1,8 +1,6 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import type { Quiz, Song } from "../../types/quiz";
 import SortableTable from "../../components/SortableTable.astro";
-
 import userSlugMapRaw from "../../../data/users_slug.json";
 
 const userSlugMap = userSlugMapRaw as Record<string, string>;
@@ -11,199 +9,80 @@ function userToSlug(name: string) {
     return userSlugMap[name] ?? encodeURIComponent(name);
 }
 
-/* =========================
-   静的パス生成
-========================= */
+/* ---------- static paths ---------- */
+
 export async function getStaticPaths() {
-    const songModules = import.meta.glob("../../../data/songs/*.json", {
+    const mods = import.meta.glob("../../../data/artists/*.json", {
         eager: true,
-    }) as Record<string, { default: Song }>;
-
-    const artistSet = new Set<string>();
-
-    Object.values(songModules).forEach((m) => {
-        m.default.artist.forEach((a) => artistSet.add(a));
     });
-
-    return Array.from(artistSet).map((artist) => ({
-        params: { artist },
+    return Object.values(mods).map((m: any) => ({
+        params: { artist: m.default.slug },
+        props: { artistData: m.default },
     }));
 }
 
-/* =========================
-   データ読み込み
-========================= */
-const { artist } = Astro.params;
+const { artistData } = Astro.props;
+const { artist, songs, topUsers } = artistData;
 
-// 曲
-const songModules = import.meta.glob("../../../data/songs/*.json", {
-    eager: true,
-}) as Record<string, { default: Song }>;
-
-const allSongs = Object.values(songModules).map((m) => m.default);
-
-const songs = allSongs.filter((s) => s.artist.includes(artist));
-
-// クイズ
-const quizModules = import.meta.glob("../../../data/quizzes/quiz_*.json", {
-    eager: true,
-}) as Record<string, { default: Quiz }>;
-
-const quizzes = Object.values(quizModules).map((m) => m.default);
-
-const artistSongIds = new Set(songs.map((s) => s.contentId));
-
-const userCorrectMap = new Map<string, number>();
-
-quizzes.forEach((quiz) => {
-    quiz.songs.forEach((song) => {
-        if (!artistSongIds.has(song.contentId)) return;
-
-        song.answers.forEach((a) => {
-            if (a.result?.startsWith("OK") || a.result?.startsWith("WIN")) {
-                userCorrectMap.set(
-                    a.user,
-                    (userCorrectMap.get(a.user) ?? 0) + 1,
-                );
-            }
-        });
-    });
-});
-
-const topUsers = Array.from(userCorrectMap.entries())
-    .map(([user, count]) => ({ user, count }))
-    .sort((a, b) => b.count - a.count)
-    .slice(0, 10);
-
-/* =========================
-   曲ごとの出題回数集計
-========================= */
-const songStats = songs.map((song) => {
-    const appearances = quizzes.flatMap((q) =>
-        q.songs.filter((s) => s.contentId === song.contentId),
-    );
-
-    return {
-        contentId: song.contentId,
-        title: song.song,
-        count: appearances.length,
-        startTime: song.startTime ?? null,
-        viewCounter: song.viewCounter ?? null,
-    };
-});
-
-// デフォルト：出題回数多い順
-songStats.sort((a, b) => b.count - a.count);
-
-type SongRow = {
-    contentId: string;
-    title: string;
-    count: number;
-    startTime: string | null;
-    viewCounter: number | null;
-};
-
-const songRows: SongRow[] = songStats.map((s) => ({
-    contentId: s.contentId,
-    title: s.title,
-    count: s.count,
-    startTime: s.startTime,
-    viewCounter: s.viewCounter,
-}));
+/* ---------- table ---------- */
 
 const songColumns = [
     {
-        label: "曲名",
         key: "title",
+        label: "曲名",
         sortable: true,
         type: "string",
-        render: (row: SongRow) =>
-            `<a href="/songs/${row.contentId}">${row.title}</a>`,
+        render: (r: any) => `<a href="/songs/${r.contentId}">${r.title}</a>`,
     },
     {
-        label: "投稿日時",
         key: "startTime",
+        label: "投稿日時",
         sortable: true,
         type: "date",
-        render: (row: SongRow) =>
-            row.startTime
-                ? (() => {
-                      const d = new Date(row.startTime!);
-                      const yyyy = d.getFullYear();
-                      const mm = String(d.getMonth() + 1).padStart(2, "0");
-                      const dd = String(d.getDate()).padStart(2, "0");
-                      const hh = String(d.getHours()).padStart(2, "0");
-                      const min = String(d.getMinutes()).padStart(2, "0");
-                      return `${yyyy}/${mm}/${dd} ${hh}:${min}`;
-                  })()
-                : "―",
     },
     {
-        label: "再生数",
         key: "viewCounter",
+        label: "再生数",
         sortable: true,
         type: "number",
-        render: (row: SongRow) =>
-            row.viewCounter !== null ? row.viewCounter.toLocaleString() : "―",
     },
     {
+        key: "appearanceCount",
         label: "回数",
-        key: "count",
         sortable: true,
         type: "number",
-        render: (row: SongRow) => String(row.count),
     },
 ];
 ---
 
 <BaseLayout title={`アーティスト：${artist}`}>
-    <h1>{decodeURIComponent(artist)}</h1>
+    <h1>{artist}</h1>
 
-    <section>
-        <h2>正解数 TOP10</h2>
+    <h2>正解数 TOP10</h2>
 
-        {
-            topUsers.length === 0 ? (
-                <p>正解者がまだいません。</p>
-            ) : (
-                <table>
-                    <thead>
-                        <tr>
-                            <th>ユーザー</th>
-                            <th class="count">正解数</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {topUsers.map((u) => (
-                            <tr>
-                                <td>
-                                    <a href={`/users/${userToSlug(u.user)}`}>
-                                        {u.user}
-                                    </a>
-                                </td>
-                                <td class="count">{u.count}</td>
-                            </tr>
-                        ))}
-                    </tbody>
-                </table>
-            )
-        }
+    <table>
+        <tbody>
+            {
+                topUsers.map((u: any) => (
+                    <tr>
+                        <td>
+                            <a href={`/users/${userToSlug(u.user)}`}>
+                                {u.user}
+                            </a>
+                        </td>
+                        <td>{u.count}</td>
+                    </tr>
+                ))
+            }
+        </tbody>
+    </table>
 
-        <h2>楽曲一覧（{songStats.length} 曲）</h2>
+    <h2>楽曲一覧（{songs.length}曲）</h2>
 
-        {
-            songStats.length === 0 ? (
-                <p>該当する楽曲がありません。</p>
-            ) : (
-                <div class="table-wrap">
-                    <SortableTable
-                        columns={songColumns}
-                        rows={songRows}
-                        defaultSortKey="count"
-                        defaultSortOrder="desc"
-                    />
-                </div>
-            )
-        }
-    </section>
+    <SortableTable
+        columns={songColumns}
+        rows={songs}
+        defaultSortKey="appearanceCount"
+        defaultSortOrder="desc"
+    />
 </BaseLayout>

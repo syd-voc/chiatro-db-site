@@ -1,0 +1,153 @@
+{
+  "user": "生神",
+  "slug": "GE7G94G9FGE7GA5G9E",
+  "correctSongs": [],
+  "artistStats": [],
+  "eraStats": [],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [],
+  "summary": {
+    "totalAnswers": 1,
+    "okAnswers": 0,
+    "ngAnswers": 1,
+    "participatedQuizCount": 1,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": null
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 162,
+      "group": "C",
+      "date": "2023-06-10",
+      "ok": 0,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 18,
+          "contentId": "sm7655922",
+          "title": "カラクリアゲハ",
+          "artistList": [
+            "骨盤P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7655922/7655922",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "涼水悠香"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "生神"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "テフミネ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "影山"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "クスノキ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "とりりす。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

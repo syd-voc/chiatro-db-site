@@ -133,5 +133,95 @@
     "winQuizCount": 0,
     "loseQuizCount": 0,
     "medianViews": 611605
-  }
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 281,
+      "group": "D1",
+      "date": "2025-12-20",
+      "ok": 2,
+      "ng": 2,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 23,
+          "contentId": "sm19905283",
+          "title": "過食性:アイドル症候群",
+          "artistList": [
+            "スズム"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19905283/19905283",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "R_r"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "こまる"
+            }
+          ]
+        },
+        {
+          "order": 52,
+          "contentId": "sm16866804",
+          "title": "細菌汚染 - Bacterial Contamination -",
+          "artistList": [
+            "かにみそP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16866804/16866804",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "R_r"
+            }
+          ]
+        },
+        {
+          "order": 53,
+          "contentId": "sm42962169",
+          "title": "ピトフーイ",
+          "artistList": [
+            "ナナホシ管弦楽団"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42962169/42962169.60989834",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "R_r"
+            }
+          ]
+        },
+        {
+          "order": 80,
+          "contentId": "sm6743291",
+          "title": "相愛性理論",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6743291/6743291",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "R_r"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -106,5 +106,34 @@
     "winQuizCount": 0,
     "loseQuizCount": 0,
     "medianViews": 872800
-  }
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 50,
+      "group": "",
+      "date": "2021-04-04",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 55,
+          "contentId": "sm5180053",
+          "title": "Chaining Intention",
+          "artistList": [
+            "Treow"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/5180053/5180053",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "chilbrain"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

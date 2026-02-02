@@ -106,5 +106,34 @@
     "winQuizCount": 0,
     "loseQuizCount": 0,
     "medianViews": 215485
-  }
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 21,
+      "group": "",
+      "date": "2020-09-06",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 15,
+          "contentId": "sm16371638",
+          "title": "しろくまダンス",
+          "artistList": [
+            "ラムネ(村人P)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16371638/16371638",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Sohbana"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

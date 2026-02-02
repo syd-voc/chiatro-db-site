@@ -3,11 +3,16 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import type { Song, SongHistory, Quiz } from "../../types/quiz";
 
 import userSlugMapRaw from "../../../data/users_slug.json";
+import artistSlugMapRaw from "../../../data/artists_slug.json";
 
 const userSlugMap = userSlugMapRaw as Record<string, string>;
+const artistSlugMap = artistSlugMapRaw as Record<string, string>;
 
 function userToSlug(name: string) {
     return userSlugMap[name] ?? encodeURIComponent(name);
+}
+function artistToSlug(name: string) {
+    return artistSlugMap[name] ?? encodeURIComponent(name);
 }
 
 /* =========================
@@ -107,7 +112,7 @@ const postedAt = song.startTime
             {
                 song.artist.map((a) => (
                     <li>
-                        <a href={`/artists/${a}`}>{a}</a>
+                        <a href={`/artists/${artistToSlug(a)}`}>{a}</a>
                     </li>
                 ))
             }

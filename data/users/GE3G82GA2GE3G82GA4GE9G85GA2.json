@@ -1,0 +1,182 @@
+{
+  "user": "アイ酢",
+  "slug": "GE3G82GA2GE3G82GA4GE9G85GA2",
+  "correctSongs": [
+    {
+      "contentId": "sm41732127",
+      "title": "あいでんてぃんてぃん",
+      "artist": "榊みむ",
+      "artistList": [
+        "榊みむ"
+      ],
+      "startTime": "2023-02-04T00:00:00+09:00",
+      "viewCounter": 54876,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm23881953",
+      "title": "ネクストネスト",
+      "artist": "さつき が てんこもり",
+      "artistList": [
+        "さつき が てんこもり"
+      ],
+      "startTime": "2014-06-28T17:44:11+09:00",
+      "viewCounter": 591769,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "榊みむ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "さつき が てんこもり",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2023",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2014",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "あいでんてぃんてぃん",
+      "contentId": "sm41732127",
+      "startTime": 1675436400000,
+      "viewCounter": 54876
+    },
+    {
+      "title": "ネクストネスト",
+      "contentId": "sm23881953",
+      "startTime": 1403945051000,
+      "viewCounter": 591769
+    }
+  ],
+  "summary": {
+    "totalAnswers": 2,
+    "okAnswers": 2,
+    "ngAnswers": 0,
+    "participatedQuizCount": 1,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 323323
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 212,
+      "group": "D",
+      "date": "2024-08-09",
+      "ok": 2,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 29,
+          "contentId": "sm41732127",
+          "title": "あいでんてぃんてぃん",
+          "artistList": [
+            "榊みむ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41732127/41732127.56714094",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "アイ酢"
+            }
+          ]
+        },
+        {
+          "order": 49,
+          "contentId": "sm23881953",
+          "title": "ネクストネスト",
+          "artistList": [
+            "さつき が てんこもり"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23881953/23881953",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "アイ酢"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

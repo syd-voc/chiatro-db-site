@@ -499,5 +499,366 @@
     "winQuizCount": 2,
     "loseQuizCount": 0,
     "medianViews": 404524
-  }
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 220,
+      "group": "F",
+      "date": "2024-10-04",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 95,
+          "contentId": "sm9405740",
+          "title": "可能世界のロンド",
+          "artistList": [
+            "millstones"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9405740/9405740",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "すとくら"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "suumo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 218,
+      "group": "F",
+      "date": "2024-09-20",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 12,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 20,
+          "contentId": "sm30515185",
+          "title": "ハートブレイク≒ブルース",
+          "artistList": [
+            "ケダルイ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30515185/30515185",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "suumo"
+            }
+          ]
+        },
+        {
+          "order": 35,
+          "contentId": "sm10588918",
+          "title": "わんわんお にゃんにゃんお",
+          "artistList": [
+            "猫虫"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10588918/10588918",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "suumo"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm32967411",
+          "title": "Lust Blue",
+          "artistList": [
+            "R Sound Design"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32967411/32967411",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "suumo"
+            }
+          ]
+        },
+        {
+          "order": 69,
+          "contentId": "so21684053",
+          "title": "HOME",
+          "artistList": [
+            "40mP",
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21684053/21684053",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "suumo"
+            }
+          ]
+        },
+        {
+          "order": 71,
+          "contentId": "sm23910729",
+          "title": "金曜日のおはよう",
+          "artistList": [
+            "HoneyWorks"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23910729/23910729",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(12)",
+              "user": "suumo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 216,
+      "group": "F",
+      "date": "2024-09-06",
+      "ok": 3,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 62,
+          "contentId": "sm23253673",
+          "title": "Lap Tap Love",
+          "artistList": [
+            "koyori(電ポルP)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23253673/23253673",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "suumo"
+            }
+          ]
+        },
+        {
+          "order": 75,
+          "contentId": "sm17141425",
+          "title": "一心不乱",
+          "artistList": [
+            "梅とら"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/17141425/17141425",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "suumo"
+            }
+          ]
+        },
+        {
+          "order": 101,
+          "contentId": "sm2397344",
+          "title": "恋は戦争",
+          "artistList": [
+            "ryo"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2397344/2397344",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "suumo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 215,
+      "group": "F",
+      "date": "2024-08-30",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 9,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 61,
+          "contentId": "sm31591938",
+          "title": "レントリリー",
+          "artistList": [
+            "ジグ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31591938/31591938",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "suumo"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm1697854",
+          "title": "SING＆SMILE",
+          "artistList": [
+            "Re:nG"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1697854/1697854",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "suumo"
+            }
+          ]
+        },
+        {
+          "order": 68,
+          "contentId": "sm23398318",
+          "title": "Going My Way!",
+          "artistList": [
+            "40mP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23398318/23398318",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "suumo"
+            }
+          ]
+        },
+        {
+          "order": 70,
+          "contentId": "sm9094966",
+          "title": "計画都市",
+          "artistList": [
+            "millstones"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9094966/9094966",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "suumo"
+            }
+          ]
+        },
+        {
+          "order": 78,
+          "contentId": "sm37368031",
+          "title": "ゾートロープ",
+          "artistList": [
+            "栗山夕璃(蜂屋ななし)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37368031/37368031.41366508",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(9)",
+              "user": "suumo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 212,
+      "group": "F",
+      "date": "2024-08-09",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 89,
+          "contentId": "sm13309167",
+          "title": "Cipher サイファ",
+          "artistList": [
+            "FLEET"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13309167/13309167",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "suumo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 211,
+      "group": "F",
+      "date": "2024-06-07",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 68,
+          "contentId": "sm13881621",
+          "title": "小さなその手で",
+          "artistList": [
+            "DATEKEN"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13881621/13881621",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "suumo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 210,
+      "group": "F",
+      "date": "2024-05-31",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 12,
+          "contentId": "sm5073219",
+          "title": "Eve",
+          "artistList": [
+            "ジミーサムP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/5073219/5073219",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "suumo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -1,6 +1,12 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import type { Song } from "../../types/quiz";
+import artistSlugMapRaw from "../../../data/artists_slug.json";
+const artistSlugMap = artistSlugMapRaw as Record<string, string>;
+
+function artistToSlug(a: string) {
+    return artistSlugMap[a] ?? encodeURIComponent(a);
+}
 
 const songModules = import.meta.glob("../../../data/songs/*.json", {
     eager: true,
@@ -36,7 +42,7 @@ const artists = Array.from(artistMap.entries())
                 artists.map((a) => (
                     <tr>
                         <td>
-                            <a href={`/artists/${encodeURIComponent(a.name)}`}>
+                            <a href={`/artists/${artistToSlug(a.name)}`}>
                                 {a.name}
                             </a>
                         </td>

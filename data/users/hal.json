@@ -106,5 +106,81 @@
     "winQuizCount": 0,
     "loseQuizCount": 0,
     "medianViews": 697953
-  }
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 86,
+      "group": "",
+      "date": "2021-12-10",
+      "ok": 1,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 37,
+          "contentId": "sm18571553",
+          "title": "或る化け猫の恋物語",
+          "artistList": [
+            "Nem"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18571553/18571553.91046943",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "maruma"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "yu-na*"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "hal"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 72,
+          "contentId": "sm11217750",
+          "title": "空中アクアリウム",
+          "artistList": [
+            "40mP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/11217750/11217750",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ベガ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "hal"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

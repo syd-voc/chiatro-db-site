@@ -1,22 +1,20 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import type { Quiz, Song } from "../../types/quiz";
 import SortableTable from "../../components/SortableTable.astro";
 import EraCorrectChart from "../../components/EraCorrectChart";
 import ViewCorrectChart from "../../components/ViewCorrectChart";
 import type { Column } from "../../components/SortableTable.astro";
 import ScatterCorrectChart from "../../components/ScatterCorrectChart";
+import artistSlugMapRaw from "../../../data/artists_slug.json";
+const artistSlugMap = artistSlugMapRaw as Record<string, string>;
+
+function artistToSlug(a: string) {
+    return artistSlugMap[a] ?? encodeURIComponent(a);
+}
 
 /* =========================
    型補助
 ========================= */
-type QuizSong = Quiz["songs"][number];
-type QuizAnswer = QuizSong["answers"][number];
-
-type JoinedQuiz = {
-    quiz: Quiz;
-    songs: QuizSong[];
-};
 
 type CorrectSongRow = {
     title: string;
@@ -77,141 +75,13 @@ const {
     viewStats,
     scatter,
     summary,
+    joinedQuizzes,
 } = userData;
-
-/* =========================
-   Load data
-========================= */
-const quizModules = import.meta.glob("../../../data/quizzes/quiz_*.json", {
-    eager: true,
-}) as Record<string, { default: Quiz }>;
-
-const songModules = import.meta.glob("../../../data/songs/*.json", {
-    eager: true,
-}) as Record<string, { default: Song }>;
-
-const quizzes: Quiz[] = Object.values(quizModules).map((m) => m.default);
-const songs: Song[] = Object.values(songModules).map((m) => m.default);
-
-/* =========================
-   util
-========================= */
-function findSong(contentId: string): Song | undefined {
-    return songs.find((s) => s.contentId === contentId);
-}
-
-function circle(num: number) {
-    return String.fromCharCode(9311 + num);
-}
-
-function summarizeUserResult(quizSongs: QuizSong[], user: string) {
-    let ok = 0;
-    let ng = 0;
-    let winRank: number | null = null;
-    let hasLose = false;
-
-    quizSongs.forEach((qs) => {
-        const answer = qs.answers.find((a) => a.user === user);
-        if (!answer) return;
-
-        if (answer.result.startsWith("OK")) ok++;
-        if (answer.result.startsWith("WIN")) {
-            ok++;
-            const rank = Number(answer.result.replace("WIN", ""));
-            if (!Number.isNaN(rank)) {
-                winRank = rank;
-            }
-        }
-
-        if (answer.result.startsWith("NG") || answer.result === "LOSE") {
-            ng++;
-        }
-
-        if (answer.result === "LOSE") {
-            hasLose = true;
-        }
-    });
-
-    return { ok, ng, winRank, hasLose };
-}
 
 function percent(part: number, total: number): number {
     if (total === 0) return 0;
     return (part / total) * 100;
 }
-
-/* =========================
-   build result tokens（quiz と共通構造）
-========================= */
-function buildTokens(answers: QuizAnswer[]) {
-    const tokens: {
-        type: "user" | "text";
-        value?: string;
-        prefix?: string;
-        user?: string;
-    }[] = [];
-
-    if (answers.length === 0) {
-        tokens.push({ type: "text", value: "・スルー" });
-        return tokens;
-    }
-
-    answers.forEach((a, i) => {
-        if (i > 0) tokens.push({ type: "text", value: "→" });
-
-        const num = parseInt(a.result.replace(/\D/g, ""), 10);
-
-        if (a.result.startsWith("OK")) {
-            tokens.push({
-                type: "user",
-                prefix: circle(num),
-                user: a.user,
-            });
-        } else if (a.result.startsWith("WIN")) {
-            tokens.push({
-                type: "user",
-                prefix: `★(${num})`,
-                user: a.user,
-            });
-        } else if (a.result === "NG") {
-            tokens.push({
-                type: "user",
-                prefix: "×",
-                user: a.user,
-            });
-        } else if (a.result === "LOSE") {
-            tokens.push({
-                type: "user",
-                prefix: "××",
-                user: a.user,
-            });
-        } else if (a.result === "SKIP") {
-            tokens.push({ type: "text", value: "・スルー" });
-        }
-    });
-
-    return tokens;
-}
-
-/* =========================
-   ユーザー参加回抽出
-========================= */
-const joinedQuizzes = quizzes
-    .reduce<JoinedQuiz[]>((acc, quiz) => {
-        const hitSongs = quiz.songs.filter((qs: QuizSong) =>
-            qs.answers.some((a: QuizAnswer) => a.user === user),
-        );
-
-        if (hitSongs.length === 0) return acc;
-
-        acc.push({
-            quiz,
-            songs: hitSongs,
-        });
-
-        return acc;
-    }, [])
-    .sort((a, b) => Number(b.quiz.quiz_no) - Number(a.quiz.quiz_no));
 
 /* =========================
    散布図用データ生成
@@ -265,7 +135,10 @@ const correctSongColumns = [
         render: (row: CorrectSongRow) =>
             row.artistList.length
                 ? row.artistList
-                      .map((a) => `<a href="/artists/${a}">${a}</a>`)
+                      .map(
+                          (a) =>
+                              `<a href="/artists/${artistToSlug(a)}">${a}</a>`,
+                      )
                       .join(" ")
                 : "―",
     },
@@ -316,7 +189,7 @@ const artistColumns = [
         sortable: true,
         type: "string",
         render: (row: ArtistStatRow) =>
-            `<a href="/artists/${row.artist}">${row.artist}</a>`,
+            `<a href="/artists/${artistToSlug(row.artist)}">${row.artist}</a>`,
     },
     {
         key: "correctCount",
@@ -503,65 +376,45 @@ const viewChartData = viewRowsBase.map((r) => ({
 
     <section class="tab-panel" data-tab-panel="quizzes">
         <h2>参加回一覧（全{joinedQuizzes.length}回）</h2>
+
         {
-            joinedQuizzes.map(({ quiz, songs: quizSongs }) => (
+            joinedQuizzes.map((quiz: any) => (
                 <details class="quiz-block">
                     <summary>
                         <a href={`/quizzes/${quiz.quiz_no}${quiz.group}`}>
                             第{quiz.quiz_no}
                             {quiz.group}回
                         </a>
-                        （{quiz.date}） （
-                        {(() => {
-                            const { ok, ng, winRank, hasLose } =
-                                summarizeUserResult(quizSongs, user);
-
-                            return (
-                                <>
-                                    {" "}
-                                    {ok}○{ng}×
-                                    {winRank !== null ? (
-                                        <> {winRank}th</>
-                                    ) : hasLose ? (
-                                        <> LOSE</>
-                                    ) : null}
-                                </>
-                            );
-                        })()}
+                        （{quiz.date}） （{quiz.ok}○{quiz.ng}×
+                        {quiz.winRank !== null ? (
+                            <> {quiz.winRank}th</>
+                        ) : quiz.hasLose ? (
+                            <> LOSE</>
+                        ) : null}
                         ）
                     </summary>
 
-                    {quizSongs.map((qs) => {
-                        const song = findSong(qs.contentId);
-                        const tokens = buildTokens(qs.answers);
+                    {quiz.songs.map((qs: any) => (
+                        <section class="quiz-song">
+                            <div class="thumb">
+                                {qs.thumbnailUrl ? (
+                                    <img src={qs.thumbnailUrl} loading="lazy" />
+                                ) : (
+                                    <div class="thumb-placeholder" />
+                                )}
+                            </div>
 
-                        return (
-                            <section class="quiz-song">
-                                {/* サムネ */}
-                                <div class="thumb">
-                                    {song?.thumbnailUrl ? (
-                                        <img
-                                            src={song.thumbnailUrl}
-                                            alt={song.song}
-                                            loading="lazy"
-                                        />
-                                    ) : (
-                                        <div class="thumb-placeholder" />
-                                    )}
-                                </div>
-
-                                {/* 情報 */}
-                                <div class="info">
-                                    <div class="title">
-                                        {qs.order}.{" "}
-                                        <a href={`/songs/${qs.contentId}`}>
-                                            {song?.song ?? qs.contentId}
-                                        </a>
-                                        {song?.artist?.length ? (
-                                            <>
-                                                {" "}
-                                                /{" "}
-                                                {song.artist.map((a, i) => (
+                            <div class="info">
+                                <div class="title">
+                                    {qs.order}.{" "}
+                                    <a href={`/songs/${qs.contentId}`}>
+                                        {qs.title}
+                                    </a>
+                                    {qs.artistList.length > 0 && (
+                                        <>
+                                            {" / "}
+                                            {qs.artistList.map(
+                                                (a: string, i: number) => (
                                                     <>
                                                         {i > 0 && " "}
                                                         <a
@@ -570,33 +423,29 @@ const viewChartData = viewRowsBase.map((r) => ({
                                                             {a}
                                                         </a>
                                                     </>
-                                                ))}
-                                            </>
-                                        ) : null}
-                                    </div>
-
-                                    <div class="result-line">
-                                        {tokens.map((t) =>
-                                            t.type === "text" ? (
-                                                <span class="sep">
-                                                    {t.value}
-                                                </span>
-                                            ) : (
-                                                <span class="user">
-                                                    {t.prefix}
-                                                    <a
-                                                        href={`/users/${t.user}`}
-                                                    >
-                                                        {t.user}
-                                                    </a>
-                                                </span>
-                                            ),
-                                        )}
-                                    </div>
+                                                ),
+                                            )}
+                                        </>
+                                    )}
                                 </div>
-                            </section>
-                        );
-                    })}
+
+                                <div class="result-line">
+                                    {qs.tokens.map((t: any) =>
+                                        t.type === "text" ? (
+                                            <span class="sep">{t.value}</span>
+                                        ) : (
+                                            <span class="user">
+                                                {t.prefix}
+                                                <a href={`/users/${t.user}`}>
+                                                    {t.user}
+                                                </a>
+                                            </span>
+                                        ),
+                                    )}
+                                </div>
+                            </div>
+                        </section>
+                    ))}
                 </details>
             ))
         }

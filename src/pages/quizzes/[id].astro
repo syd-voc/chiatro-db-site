@@ -2,20 +2,42 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import type { Quiz, Song } from "../../types/quiz";
 import userSlugMapRaw from "../../../data/users_slug.json";
+import artistSlugMapRaw from "../../../data/artists_slug.json";
 
 const userSlugMap = userSlugMapRaw as Record<string, string>;
+const artistSlugMap = artistSlugMapRaw as Record<string, string>;
 
 function userToSlug(name: string) {
     return userSlugMap[name] ?? encodeURIComponent(name);
 }
+function artistToSlug(name: string) {
+    return artistSlugMap[name] ?? encodeURIComponent(name);
+}
+
+type QuizPageSong = {
+    order: number;
+    contentId: string;
+    answers: any[];
+    song: string | null;
+    artist: string[];
+    thumbnailUrl: string | null;
+};
+
+type QuizPage = {
+    quiz_no: string;
+    group: string;
+    date: string;
+    id: string;
+    songs: QuizPageSong[];
+};
 
 /* =========================
    static paths
 ========================= */
 export async function getStaticPaths() {
-    const modules = import.meta.glob("../../../data/quizzes/quiz_*.json", {
+    const modules = import.meta.glob("../../../data/quiz_pages/*.json", {
         eager: true,
-    }) as Record<string, { default: Quiz }>;
+    }) as Record<string, { default: QuizPage }>;
 
     return Object.values(modules).map((m) => ({
         params: { id: `${m.default.quiz_no}${m.default.group}` },
@@ -23,16 +45,7 @@ export async function getStaticPaths() {
     }));
 }
 
-const { quiz } = Astro.props as { quiz: Quiz };
-
-/* =========================
-   songs
-========================= */
-const songModules = import.meta.glob("../../../data/songs/*.json", {
-    eager: true,
-}) as Record<string, { default: Song }>;
-
-const songs = Object.values(songModules).map((m) => m.default);
+const { quiz } = Astro.props;
 
 /* =========================
    helpers
@@ -144,18 +157,18 @@ const winRanking = quiz.songs
     }
 
     {/* 本編 */}
+
     {
         quiz.songs.map((qs) => {
-            const song = songs.find((s) => s.contentId === qs.contentId);
             const tokens = buildTokens(qs.answers);
 
             return (
                 <section class="quiz-song">
                     <div class="thumb">
-                        {song?.thumbnailUrl ? (
+                        {qs.thumbnailUrl ? (
                             <img
-                                src={song.thumbnailUrl}
-                                alt={song.song}
+                                src={qs.thumbnailUrl}
+                                alt={qs.song}
                                 loading="lazy"
                             />
                         ) : (
@@ -167,16 +180,16 @@ const winRanking = quiz.songs
                         <div class="title">
                             {qs.order}.{" "}
                             <a href={`/songs/${qs.contentId}`}>
-                                {song?.song ?? qs.contentId}
+                                {qs.song ?? qs.contentId}
                             </a>
-                            {song?.artist?.length && (
+                            {qs.artist.length > 0 && (
                                 <>
                                     {" / "}
-                                    {song.artist.map((a, i) => (
+                                    {qs.artist.map((a, i) => (
                                         <>
                                             {i > 0 && " "}
                                             <a
-                                                href={`/artists/${encodeURIComponent(a)}`}
+                                                href={`/artists/${artistToSlug(a)}`}
                                             >
                                                 {a}
                                             </a>

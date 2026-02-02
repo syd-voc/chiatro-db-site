@@ -1,0 +1,367 @@
+{
+  "user": "旅行者気質",
+  "slug": "GE6G97G85GE8GA1G8CGE8G80G85GE6GB0G97GE8GB3GAA",
+  "correctSongs": [
+    {
+      "contentId": "sm33841308",
+      "title": "ヘイトクライム",
+      "artist": "さまぐら",
+      "artistList": [
+        "さまぐら"
+      ],
+      "startTime": "2018-09-12T19:00:00+09:00",
+      "viewCounter": 101792,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm25402027",
+      "title": "ひとりぼっちとココロの本と",
+      "artist": "PIPPO",
+      "artistList": [
+        "PIPPO"
+      ],
+      "startTime": "2015-01-22T19:00:00+09:00",
+      "viewCounter": 313603,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm32149277",
+      "title": "楽園",
+      "artist": "春野",
+      "artistList": [
+        "春野"
+      ],
+      "startTime": "2017-10-24T19:00:00+09:00",
+      "viewCounter": 213964,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm13452778",
+      "title": "神曲",
+      "artist": "おにゅうP",
+      "artistList": [
+        "おにゅうP"
+      ],
+      "startTime": "2011-01-30T22:04:42+09:00",
+      "viewCounter": 1026033,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "さまぐら",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "PIPPO",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "春野",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "おにゅうP",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2018",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2015",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2017",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2011",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "ヘイトクライム",
+      "contentId": "sm33841308",
+      "startTime": 1536746400000,
+      "viewCounter": 101792
+    },
+    {
+      "title": "ひとりぼっちとココロの本と",
+      "contentId": "sm25402027",
+      "startTime": 1421920800000,
+      "viewCounter": 313603
+    },
+    {
+      "title": "楽園",
+      "contentId": "sm32149277",
+      "startTime": 1508839200000,
+      "viewCounter": 213964
+    },
+    {
+      "title": "神曲",
+      "contentId": "sm13452778",
+      "startTime": 1296392682000,
+      "viewCounter": 1026033
+    }
+  ],
+  "summary": {
+    "totalAnswers": 6,
+    "okAnswers": 4,
+    "ngAnswers": 2,
+    "participatedQuizCount": 1,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 263784
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 224,
+      "group": "F",
+      "date": "2024-11-01",
+      "ok": 4,
+      "ng": 2,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 8,
+          "contentId": "sm33841308",
+          "title": "ヘイトクライム",
+          "artistList": [
+            "さまぐら"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33841308/33841308",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "旅行者気質"
+            }
+          ]
+        },
+        {
+          "order": 16,
+          "contentId": "sm25402027",
+          "title": "ひとりぼっちとココロの本と",
+          "artistList": [
+            "PIPPO"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25402027/25402027",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "旅行者気質"
+            }
+          ]
+        },
+        {
+          "order": 17,
+          "contentId": "sm32149277",
+          "title": "楽園",
+          "artistList": [
+            "春野"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32149277/32149277",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "旅行者気質"
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "contentId": "sm19883376",
+          "title": "シティライツ",
+          "artistList": [
+            "椎名もた"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19883376/19883376",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "フリスク"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あいおい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "マグカップ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "paradoxes"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "雪にゃ〜"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "旅行者気質"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "わいえい"
+            }
+          ]
+        },
+        {
+          "order": 84,
+          "contentId": "sm13452778",
+          "title": "神曲",
+          "artistList": [
+            "おにゅうP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13452778/13452778",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "すとくら"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "旅行者気質"
+            }
+          ]
+        },
+        {
+          "order": 98,
+          "contentId": "sm31889142",
+          "title": "セカイ再信仰特区",
+          "artistList": [
+            "ろくろ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31889142/31889142",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "旅行者気質"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

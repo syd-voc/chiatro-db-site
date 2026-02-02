@@ -1,0 +1,155 @@
+{
+  "user": "まーぼ",
+  "slug": "GE3G81GBEGE3G83GBCGE3G81GBC",
+  "correctSongs": [],
+  "artistStats": [],
+  "eraStats": [],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [],
+  "summary": {
+    "totalAnswers": 2,
+    "okAnswers": 0,
+    "ngAnswers": 2,
+    "participatedQuizCount": 1,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": null
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 163,
+      "group": "C",
+      "date": "2023-06-17",
+      "ok": 0,
+      "ng": 2,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 8,
+          "contentId": "sm36954494",
+          "title": "フィフティキャリバーパニッシュメント",
+          "artistList": [
+            "八王子P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36954494/36954494.74088647",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "まーぼ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "パワ史"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "たぴお"
+            }
+          ]
+        },
+        {
+          "order": 23,
+          "contentId": "sm23355609",
+          "title": "ナイトの正夢",
+          "artistList": [
+            "清水コウ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23355609/23355609",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "まーぼ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぷれいやあ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

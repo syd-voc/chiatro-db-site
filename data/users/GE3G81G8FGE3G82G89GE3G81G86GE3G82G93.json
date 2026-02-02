@@ -1,0 +1,459 @@
+{
+  "user": "くらうん",
+  "slug": "GE3G81G8FGE3G82G89GE3G81G86GE3G82G93",
+  "correctSongs": [
+    {
+      "contentId": "sm7882150",
+      "title": "孤独の果て",
+      "artist": "光収容",
+      "artistList": [
+        "光収容"
+      ],
+      "startTime": "2009-08-09T08:17:10+09:00",
+      "viewCounter": 1343910,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm31791630",
+      "title": "アンノウン・マザーグース",
+      "artist": "wowaka",
+      "artistList": [
+        "wowaka"
+      ],
+      "startTime": "2017-08-22T17:00:00+09:00",
+      "viewCounter": 14251815,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35649401",
+      "title": "EgoもIdも単純に",
+      "artist": "ユリイ・カノン",
+      "artistList": [
+        "ユリイ・カノン"
+      ],
+      "startTime": "2019-09-07T19:02:00+09:00",
+      "viewCounter": 280321,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm24736617",
+      "title": "さよなら両片想",
+      "artist": "HoneyWorks",
+      "artistList": [
+        "HoneyWorks"
+      ],
+      "startTime": "2014-10-20T23:50:21+09:00",
+      "viewCounter": 372802,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm16773398",
+      "title": "心臓デモクラシー",
+      "artist": "みきとP",
+      "artistList": [
+        "みきとP"
+      ],
+      "startTime": "2012-01-23T20:59:54+09:00",
+      "viewCounter": 1107661,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "光収容",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "wowaka",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ユリイ・カノン",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "HoneyWorks",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "みきとP",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2009",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2017",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2019",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2014",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2012",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "scatter": [
+    {
+      "title": "孤独の果て",
+      "contentId": "sm7882150",
+      "startTime": 1249773430000,
+      "viewCounter": 1343910
+    },
+    {
+      "title": "アンノウン・マザーグース",
+      "contentId": "sm31791630",
+      "startTime": 1503388800000,
+      "viewCounter": 14251815
+    },
+    {
+      "title": "EgoもIdも単純に",
+      "contentId": "sm35649401",
+      "startTime": 1567850520000,
+      "viewCounter": 280321
+    },
+    {
+      "title": "さよなら両片想",
+      "contentId": "sm24736617",
+      "startTime": 1413816621000,
+      "viewCounter": 372802
+    },
+    {
+      "title": "心臓デモクラシー",
+      "contentId": "sm16773398",
+      "startTime": 1327319994000,
+      "viewCounter": 1107661
+    }
+  ],
+  "summary": {
+    "totalAnswers": 8,
+    "okAnswers": 5,
+    "ngAnswers": 3,
+    "participatedQuizCount": 4,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 1107661
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 139,
+      "group": "A",
+      "date": "2022-12-23",
+      "ok": 1,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 51,
+          "contentId": "sm36240751",
+          "title": "情事・色事・ん…こっち",
+          "artistList": [
+            "SLAVE.V-V-R"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36240751/36240751.8981555",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "くらうん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "おぷち"
+            }
+          ]
+        },
+        {
+          "order": 82,
+          "contentId": "sm35649401",
+          "title": "EgoもIdも単純に",
+          "artistList": [
+            "ユリイ・カノン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35649401/35649401.70860261",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "くらうん"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 131,
+      "group": "A",
+      "date": "2022-10-28",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 98,
+          "contentId": "sm31791630",
+          "title": "アンノウン・マザーグース",
+          "artistList": [
+            "wowaka"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31791630/31791630",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "くらうん"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 129,
+      "group": "B",
+      "date": "2022-10-15",
+      "ok": 1,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 34,
+          "contentId": "sm40588637",
+          "title": "でぃあくま",
+          "artistList": [
+            "Sumia"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40588637/40588637.76979409",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Abbey"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "フォルテ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゆーと"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ねこたろー"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "くらうん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "STN"
+            }
+          ]
+        },
+        {
+          "order": 51,
+          "contentId": "sm7882150",
+          "title": "孤独の果て",
+          "artistList": [
+            "光収容"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7882150/7882150",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "くらうん"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 23,
+      "group": "",
+      "date": "2020-09-20",
+      "ok": 2,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 45,
+          "contentId": "sm26464388",
+          "title": "こんな夢を見た。",
+          "artistList": [
+            "HaTa"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26464388/26464388",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ろめちゃん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "くらうん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 52,
+          "contentId": "sm24736617",
+          "title": "さよなら両片想",
+          "artistList": [
+            "HoneyWorks"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24736617/24736617",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "くらうん"
+            }
+          ]
+        },
+        {
+          "order": 56,
+          "contentId": "sm16773398",
+          "title": "心臓デモクラシー",
+          "artistList": [
+            "みきとP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16773398/16773398",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "くらうん"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

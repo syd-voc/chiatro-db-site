@@ -1,0 +1,331 @@
+{
+  "user": "水風船",
+  "slug": "GE6GB0GB4GE9GA2GA8GE8G88GB9",
+  "correctSongs": [
+    {
+      "contentId": "so44397958",
+      "title": "余花にみとれて",
+      "artist": "keeno",
+      "artistList": [
+        "keeno"
+      ],
+      "startTime": "2024-12-09T22:30:00+09:00",
+      "viewCounter": 639482,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm33485782",
+      "title": "8.32",
+      "artist": "*Luna",
+      "artistList": [
+        "*Luna"
+      ],
+      "startTime": "2018-07-07T19:00:00+09:00",
+      "viewCounter": 1305501,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm36036629",
+      "title": "幽霊東京",
+      "artist": "Ayase",
+      "artistList": [
+        "Ayase"
+      ],
+      "startTime": "2019-12-03T20:00:00+09:00",
+      "viewCounter": 2254777,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39053581",
+      "title": "シンデレラ",
+      "artist": "DECO*27",
+      "artistList": [
+        "DECO*27"
+      ],
+      "startTime": "2021-08-06T19:00:00+09:00",
+      "viewCounter": 1988606,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39889004",
+      "title": "くうになる",
+      "artist": "MIMI",
+      "artistList": [
+        "MIMI"
+      ],
+      "startTime": "2022-01-15T19:00:00+09:00",
+      "viewCounter": 1919537,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "keeno",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "*Luna",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "Ayase",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "DECO*27",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "MIMI",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2024",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2018",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2019",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2021",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2022",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 3,
+      "correctSongCount": 3
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "余花にみとれて",
+      "contentId": "so44397958",
+      "startTime": 1733751000000,
+      "viewCounter": 639482
+    },
+    {
+      "title": "8.32",
+      "contentId": "sm33485782",
+      "startTime": 1530957600000,
+      "viewCounter": 1305501
+    },
+    {
+      "title": "幽霊東京",
+      "contentId": "sm36036629",
+      "startTime": 1575370800000,
+      "viewCounter": 2254777
+    },
+    {
+      "title": "シンデレラ",
+      "contentId": "sm39053581",
+      "startTime": 1628244000000,
+      "viewCounter": 1988606
+    },
+    {
+      "title": "くうになる",
+      "contentId": "sm39889004",
+      "startTime": 1642240800000,
+      "viewCounter": 1919537
+    }
+  ],
+  "summary": {
+    "totalAnswers": 6,
+    "okAnswers": 5,
+    "ngAnswers": 1,
+    "participatedQuizCount": 1,
+    "winQuizCount": 1,
+    "loseQuizCount": 0,
+    "medianViews": 1647054
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 285,
+      "group": "D2",
+      "date": "2026-01-24",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 10,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 55,
+          "contentId": "so44397958",
+          "title": "余花にみとれて",
+          "artistList": [
+            "keeno"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44397958/44397958.92249351",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "水風船"
+            }
+          ]
+        },
+        {
+          "order": 56,
+          "contentId": "sm33485782",
+          "title": "8.32",
+          "artistList": [
+            "*Luna"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33485782/33485782.7377",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "水風船"
+            }
+          ]
+        },
+        {
+          "order": 60,
+          "contentId": "sm36036629",
+          "title": "幽霊東京",
+          "artistList": [
+            "Ayase"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36036629/36036629.66720257",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "水風船"
+            }
+          ]
+        },
+        {
+          "order": 62,
+          "contentId": "sm39053581",
+          "title": "シンデレラ",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39053581/39053581.33423101",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "水風船"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm45324037",
+          "title": "三不粘をエロい目で見るな",
+          "artistList": [
+            "山本"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45324037/45324037.47083978",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "水風船"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 64,
+          "contentId": "sm39889004",
+          "title": "くうになる",
+          "artistList": [
+            "MIMI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39889004/39889004.10137479",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(10)",
+              "user": "水風船"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

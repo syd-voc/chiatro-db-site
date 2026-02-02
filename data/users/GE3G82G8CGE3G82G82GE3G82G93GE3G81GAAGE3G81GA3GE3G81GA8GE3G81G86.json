@@ -1,0 +1,139 @@
+{
+  "user": "れもんなっとう",
+  "slug": "GE3G82G8CGE3G82G82GE3G82G93GE3G81GAAGE3G81GA3GE3G81GA8GE3G81G86",
+  "correctSongs": [
+    {
+      "contentId": "sm24994325",
+      "title": "まさに・・・まさに・・・女神サマ！！",
+      "artist": "うたたP",
+      "artistList": [
+        "うたたP"
+      ],
+      "startTime": "2014-11-26T20:00:00+09:00",
+      "viewCounter": 416802,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "うたたP",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2014",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "まさに・・・まさに・・・女神サマ！！",
+      "contentId": "sm24994325",
+      "startTime": 1416999600000,
+      "viewCounter": 416802
+    }
+  ],
+  "summary": {
+    "totalAnswers": 1,
+    "okAnswers": 1,
+    "ngAnswers": 0,
+    "participatedQuizCount": 1,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 416802
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 168,
+      "group": "D",
+      "date": "2023-07-21",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 88,
+          "contentId": "sm24994325",
+          "title": "まさに・・・まさに・・・女神サマ！！",
+          "artistList": [
+            "うたたP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24994325/24994325",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "れもんなっとう"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

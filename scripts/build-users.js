@@ -107,19 +107,129 @@ const users = [...userSet];
 console.log(`Users: ${users.length}`);
 
 /* =========================
+   Slug helper
+========================= */
+const userSlugMap = {};
+const usedSlugs = new Set();
+
+
+function makeSlug(name) {
+    let slug = encodeURIComponent(name).replaceAll("%", "G");
+
+    let base = slug;
+    let i = 2;
+
+    while (usedSlugs.has(slug)) {
+        slug = `${base}-${i++}`;
+    }
+
+    usedSlugs.add(slug);
+    return slug;
+}
+/* =========================
    Build per user
 ========================= */
 
 for (const user of users) {
     //console.log("building", user);
 
-    /* ---------- joined quizzes ---------- */
+    /* ---------- joined quizzes (page-ready) ---------- */
 
-    const joinedQuizzes = quizzes.filter((quiz) =>
-        quiz.songs.some((qs) =>
-            qs.answers.some((a) => a.user === user)
-        )
-    );
+    const joinedQuizzes = quizzes.filter((quiz) => quiz.songs.some((qs) => qs.answers.some((a) => a.user === user)));
+
+    function circle(num) {
+        return String.fromCharCode(9311 + num);
+    }
+
+    function summarizeQuizSongs(quizSongs, user) {
+        let ok = 0;
+        let ng = 0;
+        let winRank = null;
+        let hasLose = false;
+
+        quizSongs.forEach((qs) => {
+            const a = qs.answers.find((x) => x.user === user);
+            if (!a) return;
+
+            if (a.result.startsWith("OK")) ok++;
+
+            if (a.result.startsWith("WIN")) {
+                ok++;
+                const rank = Number(a.result.replace("WIN", ""));
+                if (!Number.isNaN(rank)) winRank = rank;
+            }
+
+            if (a.result === "NG") ng++;
+            if (a.result === "LOSE") hasLose = true;
+        });
+
+        return { ok, ng, winRank, hasLose };
+    }
+
+    function buildTokens(answers) {
+        const tokens = [];
+
+        if (answers.length === 0) {
+            tokens.push({ type: "text", value: "・スルー" });
+            return tokens;
+        }
+
+        answers.forEach((a, i) => {
+            if (i > 0) tokens.push({ type: "text", value: "→" });
+
+            const num = parseInt(a.result.replace(/\D/g, ""), 10);
+
+            if (a.result.startsWith("OK")) {
+                tokens.push({ type: "user", prefix: circle(num), user: a.user });
+            } else if (a.result.startsWith("WIN")) {
+                tokens.push({ type: "user", prefix: `★(${num})`, user: a.user });
+            } else if (a.result === "NG") {
+                tokens.push({ type: "user", prefix: "×", user: a.user });
+            } else if (a.result === "LOSE") {
+                tokens.push({ type: "user", prefix: "××", user: a.user });
+            }
+        });
+
+        return tokens;
+    }
+
+    const joinedQuizBlocks = quizzes
+        .map((quiz) => {
+            const hitSongs = quiz.songs.filter((qs) =>
+                qs.answers.some((a) => a.user === user)
+            );
+
+            if (!hitSongs.length) return null;
+
+            const songs = hitSongs.map((qs) => {
+                const song = songMap.get(qs.contentId);
+
+                return {
+                    order: qs.order,
+                    contentId: qs.contentId,
+                    title: song?.song ?? qs.contentId,
+                    artistList: song?.artist ?? [],
+                    thumbnailUrl: song?.thumbnailUrl ?? null,
+                    tokens: buildTokens(qs.answers),
+                };
+            });
+
+            const summary = summarizeQuizSongs(hitSongs, user);
+
+            return {
+                quiz_no: quiz.quiz_no,
+                group: quiz.group ?? "",
+                date: quiz.date,
+                ok: summary.ok,
+                ng: summary.ng,
+                winRank: summary.winRank,
+                hasLose: summary.hasLose,
+                songs,
+            };
+        })
+        .filter(Boolean)
+        .sort((a, b) => Number(b.quiz_no) - Number(a.quiz_no));
+
 
     /* ---------- correct songs ---------- */
 
@@ -344,37 +454,10 @@ for (const user of users) {
         });
     });
 
-    /* ---------- load slug map ---------- */
-    let slugMap = {};
-    if (fs.existsSync(SLUG_MAP_PATH)) {
-        slugMap = JSON.parse(fs.readFileSync(SLUG_MAP_PATH, "utf-8"));
-    }
+    /* ---------- slug map ---------- */
 
-    const usedSlugs = new Set();
-
-    function getSlug(user) {
-        let slug = slugMap[user];
-
-        if (!slug) {
-            slug = user
-                .toLowerCase()
-                .replace(/[^\w]+/g, "-")
-                .replace(/^-+|-+$/g, "");
-        }
-
-        let original = slug;
-        let counter = 2;
-
-        while (usedSlugs.has(slug)) {
-            slug = `${original}-${counter++}`;
-        }
-
-        usedSlugs.add(slug);
-        return slug;
-    }
-
-
-    const slug = getSlug(user);
+    const slug = makeSlug(user);
+    userSlugMap[user] = slug;
 
     /* ---------- output ---------- */
 
@@ -390,6 +473,7 @@ for (const user of users) {
                 viewStats,
                 scatter,
                 summary,
+                joinedQuizzes: joinedQuizBlocks,
             },
             null,
             2
@@ -398,3 +482,11 @@ for (const user of users) {
 }
 
 console.log("Done.");
+
+
+fs.writeFileSync(
+    SLUG_MAP_PATH,
+    JSON.stringify(userSlugMap, null, 2)
+);
+
+console.log("User slug map written.");

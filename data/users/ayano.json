@@ -2208,5 +2208,2482 @@
     "winQuizCount": 18,
     "loseQuizCount": 0,
     "medianViews": 483526
-  }
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 263,
+      "group": "E",
+      "date": "2025-08-16",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 10,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 4,
+          "contentId": "sm8878701",
+          "title": "カタストロフィ",
+          "artistList": [
+            "いたちまP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8878701/8878701",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "contentId": "sm7780897",
+          "title": "ボカラン詐欺",
+          "artistList": [
+            "ざにお"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7780897/7780897",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 33,
+          "contentId": "sm1647289",
+          "title": "永久に続く五線譜",
+          "artistList": [
+            "デッドボールP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1647289/1647289",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "contentId": "sm26913599",
+          "title": "アライン",
+          "artistList": [
+            "5u5h1"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26913599/26913599",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "N氏"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "すとくら"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "パム"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ayano"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 59,
+          "contentId": "sm22160856",
+          "title": "夢の空き地",
+          "artistList": [
+            "たるとP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22160856/22160856",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 86,
+          "contentId": "sm18529569",
+          "title": "おおかみは赤ずきんに恋をした",
+          "artistList": [
+            "ひとしずく",
+            "やま△"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18529569/18529569",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "パム"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "つばさ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(10)",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 210,
+      "group": "D",
+      "date": "2024-05-31",
+      "ok": 3,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 78,
+          "contentId": "sm10009443",
+          "title": "恐山ル・ヴォワール",
+          "artistList": [
+            "かぴたろう"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10009443/10009443",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 84,
+          "contentId": "sm34068407",
+          "title": "ユーベルコード",
+          "artistList": [
+            "ユリイ・カノン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34068407/34068407",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 92,
+          "contentId": "sm16896392",
+          "title": "Notebook",
+          "artistList": [
+            "buzzG"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16896392/16896392",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "チョコ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "おぷち"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 207,
+      "group": "C",
+      "date": "2024-04-27",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 6,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 44,
+          "contentId": "sm8128297",
+          "title": "Harvest",
+          "artistList": [
+            "修羅場P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8128297/8128297",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゆーと"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 49,
+          "contentId": "sm9340347",
+          "title": "文学少年の憂鬱",
+          "artistList": [
+            "ナノウ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9340347/9340347",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 53,
+          "contentId": "sm6100649",
+          "title": "Wash My Blood",
+          "artistList": [
+            "デッドボールP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6100649/6100649",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 62,
+          "contentId": "sm32386650",
+          "title": "Hatsune",
+          "artistList": [
+            "164",
+            "40mP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32386650/32386650",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 67,
+          "contentId": "sm19697286",
+          "title": "延命治療",
+          "artistList": [
+            "Neru"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19697286/19697286",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(6)",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 204,
+      "group": "C",
+      "date": "2024-04-06",
+      "ok": 3,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 86,
+          "contentId": "sm15155336",
+          "title": "ジャバヲッキー・ジャバヲッカ",
+          "artistList": [
+            "カラスヤサボウ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15155336/15155336",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 89,
+          "contentId": "sm24452865",
+          "title": "マジカルシンメトリ",
+          "artistList": [
+            "tilt-six"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24452865/24452865",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 90,
+          "contentId": "sm8292936",
+          "title": "Sweet Sweet Cendrillon Drug",
+          "artistList": [
+            "uzP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8292936/8292936",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "らぴす"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "さいわさ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 201,
+      "group": "C",
+      "date": "2024-03-16",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 11,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 21,
+          "contentId": "sm5598180",
+          "title": "園庭想空の女少",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/5598180/5598180",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 47,
+          "contentId": "nm7053908",
+          "title": "Good-Morning!",
+          "artistList": [
+            "HoneyWorks"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7053908/7053908",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 75,
+          "contentId": "sm7441402",
+          "title": "THE WORLD END UMBRELLA",
+          "artistList": [
+            "ハチ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7441402/7441402",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 82,
+          "contentId": "sm6909505",
+          "title": "magnet",
+          "artistList": [
+            "流星P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6909505/6909505",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 84,
+          "contentId": "sm23612988",
+          "title": "Inner Arts",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23612988/23612988",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(11)",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 200,
+      "group": "C",
+      "date": "2024-03-09",
+      "ok": 3,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 61,
+          "contentId": "sm36330501",
+          "title": "未来最終戦争",
+          "artistList": [
+            "DIVELA"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36330501/36330501.64796604",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 74,
+          "contentId": "sm14769855",
+          "title": "エンクロージャー",
+          "artistList": [
+            "シグナルP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14769855/14769855",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 94,
+          "contentId": "sm25466139",
+          "title": "さよならだけが人生だ",
+          "artistList": [
+            "伊東歌詞太郎"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25466139/25466139",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 199,
+      "group": "C",
+      "date": "2024-03-02",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 4,
+          "contentId": "sm14489217",
+          "title": "一丁目ゆきみ商店街",
+          "artistList": [
+            "yukkedoluce"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14489217/14489217",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 197,
+      "group": "C",
+      "date": "2024-02-17",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 10,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 5,
+          "contentId": "sm25053017",
+          "title": "心臓コネクト",
+          "artistList": [
+            "スズム"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25053017/25053017",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 38,
+          "contentId": "sm15805277",
+          "title": "グリーの退会ページに進めない",
+          "artistList": [
+            "ほぼ日P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15805277/15805277",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "はげお"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 55,
+          "contentId": "sm8824425",
+          "title": "Gravity=Reality",
+          "artistList": [
+            "samfree"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8824425/8824425",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 81,
+          "contentId": "sm33536211",
+          "title": "ばけものぐるい",
+          "artistList": [
+            "ユリイ・カノン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33536211/33536211",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 88,
+          "contentId": "sm4271779",
+          "title": "VOiCE",
+          "artistList": [
+            "ラヴリーP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/4271779/4271779",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(10)",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 196,
+      "group": "C",
+      "date": "2024-02-10",
+      "ok": 4,
+      "ng": 1,
+      "winRank": 18,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 86,
+          "contentId": "sm41740620",
+          "title": "With you",
+          "artistList": [
+            "バーミーズ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41740620/41740620.41906039",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ayano"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "防虫剤"
+            }
+          ]
+        },
+        {
+          "order": 93,
+          "contentId": "sm39046046",
+          "title": "Beat Eater",
+          "artistList": [
+            "ポリスピカデリー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39046046/39046046.25243403",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 94,
+          "contentId": "sm15155336",
+          "title": "ジャバヲッキー・ジャバヲッカ",
+          "artistList": [
+            "カラスヤサボウ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15155336/15155336",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 96,
+          "contentId": "sm10700738",
+          "title": "Flightless Bird",
+          "artistList": [
+            "無力P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10700738/10700738",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 101,
+          "contentId": "sm3645817",
+          "title": "ブラック★ロックシューター",
+          "artistList": [
+            "ryo"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/3645817/3645817",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(18)",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 195,
+      "group": "C",
+      "date": "2024-02-03",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 13,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 36,
+          "contentId": "sm4350462",
+          "title": "Set Up Hurry",
+          "artistList": [
+            "サ骨"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/4350462/4350462",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "contentId": "sm25308401",
+          "title": "ショパンと氷の白鍵",
+          "artistList": [
+            "まふまふ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25308401/25308401",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 50,
+          "contentId": "sm33385805",
+          "title": "瞬間劇的ニンゲン革命",
+          "artistList": [
+            "Mizu"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33385805/33385805",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 88,
+          "contentId": "sm1204327",
+          "title": "celluloid",
+          "artistList": [
+            "baker"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1204327/1204327",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(13)",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 194,
+      "group": "C",
+      "date": "2024-01-27",
+      "ok": 2,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 90,
+          "contentId": "sm20252366",
+          "title": "ヤンキーボーイ・ヤンキーガール",
+          "artistList": [
+            "トーマ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20252366/20252366",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 102,
+          "contentId": "sm6237621",
+          "title": "Fake Lover",
+          "artistList": [
+            "ジミーサムP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6237621/6237621",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 186,
+      "group": "C",
+      "date": "2023-11-25",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 9,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 22,
+          "contentId": "nm10406690",
+          "title": "オマーン湖",
+          "artistList": [
+            "乙P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10406690/10406690",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 39,
+          "contentId": "sm5995985",
+          "title": "Bitter×Sweet",
+          "artistList": [
+            "19's Sound Factory"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/5995985/5995985",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ayano"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 44,
+          "contentId": "sm6529016",
+          "title": "From Y To Y",
+          "artistList": [
+            "ジミーサムP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6529016/6529016",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 64,
+          "contentId": "sm34068407",
+          "title": "ユーベルコード",
+          "artistList": [
+            "ユリイ・カノン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34068407/34068407",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "777"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 81,
+          "contentId": "sm7620150",
+          "title": "僕のサイノウ",
+          "artistList": [
+            "wowaka"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7620150/7620150",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 82,
+          "contentId": "sm13560654",
+          "title": "BadBye",
+          "artistList": [
+            "koma'n"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13560654/13560654",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(9)",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 185,
+      "group": "C",
+      "date": "2023-11-18",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 10,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 13,
+          "contentId": "sm10700738",
+          "title": "Flightless Bird",
+          "artistList": [
+            "無力P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10700738/10700738",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "777"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "contentId": "sm10684009",
+          "title": "S・K・Y",
+          "artistList": [
+            "ライブP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10684009/10684009.15892305",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 46,
+          "contentId": "sm20648615",
+          "title": "ヤバイと思ったが性欲を抑えきれなかった",
+          "artistList": [
+            "ほぼ日P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20648615/20648615",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 75,
+          "contentId": "sm6529016",
+          "title": "From Y To Y",
+          "artistList": [
+            "ジミーサムP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6529016/6529016",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(10)",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 183,
+      "group": "C",
+      "date": "2023-11-04",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 7,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 23,
+          "contentId": "sm2500648",
+          "title": "ココロ",
+          "artistList": [
+            "トラボルタ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2500648/2500648",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 31,
+          "contentId": "sm20944785",
+          "title": "へたくそユートピア政策",
+          "artistList": [
+            "スズム"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20944785/20944785",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 35,
+          "contentId": "sm17049469",
+          "title": "午前2時の記憶喪失",
+          "artistList": [
+            "デッドボールP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/17049469/17049469",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 45,
+          "contentId": "sm6983288",
+          "title": "ユートピア",
+          "artistList": [
+            "ハヤシケイ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6983288/6983288",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 61,
+          "contentId": "sm37447987",
+          "title": "ディジーディジー",
+          "artistList": [
+            "栗山夕璃(蜂屋ななし)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37447987/37447987.38063133",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(7)",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 182,
+      "group": "C",
+      "date": "2023-10-28",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 10,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 17,
+          "contentId": "sm1750914",
+          "title": "シュークリームのうた",
+          "artistList": [
+            "デッドボールP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1750914/1750914",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゆーと"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 50,
+          "contentId": "sm15937681",
+          "title": "Glorious World",
+          "artistList": [
+            "蝶々P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15937681/15937681",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 55,
+          "contentId": "sm17064620",
+          "title": "アカツキアライヴァル",
+          "artistList": [
+            "Last Note."
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/17064620/17064620",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 65,
+          "contentId": "sm42577322",
+          "title": "いえすかちゅうか",
+          "artistList": [
+            "はかめ"
+          ],
+          "thumbnailUrl": null,
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "終了"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "八神猪熊"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "クスノキ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "たかそう"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "りりく"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ayano"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(6)",
+              "user": "ハガネ"
+            }
+          ]
+        },
+        {
+          "order": 83,
+          "contentId": "sm6529016",
+          "title": "From Y To Y",
+          "artistList": [
+            "ジミーサムP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6529016/6529016",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 87,
+          "contentId": "sm6115924",
+          "title": "いろは唄",
+          "artistList": [
+            "銀サク"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6115924/6115924",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(10)",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 181,
+      "group": "C",
+      "date": "2023-10-21",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 10,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 49,
+          "contentId": "sm31883007",
+          "title": "ファイヴ",
+          "artistList": [
+            "Omoi"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31883007/31883007",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 74,
+          "contentId": "sm22138447",
+          "title": "ドーナツホール",
+          "artistList": [
+            "ハチ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22138447/22138447",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 76,
+          "contentId": "sm14301091",
+          "title": "一方通行",
+          "artistList": [
+            "ゆちゃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14301091/14301091",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "クスノキ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ayano"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 82,
+          "contentId": "sm17367688",
+          "title": "Black Board",
+          "artistList": [
+            "蝶々P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/17367688/17367688",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 84,
+          "contentId": "sm34533917",
+          "title": "ランウェイのファンタジスタ",
+          "artistList": [
+            "TOKOTOKO（西沢さんP）"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34533917/34533917.81850",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "かぷちゃん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬゅら"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 98,
+          "contentId": "sm7037889",
+          "title": "heavenly blue",
+          "artistList": [
+            "164"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7037889/7037889",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(10)",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 180,
+      "group": "C",
+      "date": "2023-10-14",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 6,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 6,
+          "contentId": "sm16104322",
+          "title": "拘束プレイ",
+          "artistList": [
+            "ぼいじゃあ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16104322/16104322",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 31,
+          "contentId": "sm8292936",
+          "title": "Sweet Sweet Cendrillon Drug",
+          "artistList": [
+            "uzP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8292936/8292936",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゆーと"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "八神猪熊"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 53,
+          "contentId": "sm22937799",
+          "title": "我楽多イノセンス",
+          "artistList": [
+            "Last Note."
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22937799/22937799",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 59,
+          "contentId": "sm32688081",
+          "title": "懺悔参り",
+          "artistList": [
+            "羽生まゐご"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32688081/32688081",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(6)",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 179,
+      "group": "C",
+      "date": "2023-10-07",
+      "ok": 4,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 37,
+          "contentId": "sm9301676",
+          "title": "空想パレット",
+          "artistList": [
+            "ゆちゃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9301676/9301676",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 64,
+          "contentId": "sm1091180",
+          "title": "おしえて！ だぁりん",
+          "artistList": [
+            "ソレナンテP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1091180/1091180",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 73,
+          "contentId": "sm1686727",
+          "title": "雲の遺跡",
+          "artistList": [
+            "yanagi"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1686727/1686727",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 87,
+          "contentId": "sm19480453",
+          "title": "放課後ストライド",
+          "artistList": [
+            "Last Note."
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19480453/19480453",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 178,
+      "group": "C",
+      "date": "2023-09-30",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 12,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 29,
+          "contentId": "sm5228589",
+          "title": "World's Crying",
+          "artistList": [
+            "otetsu"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/5228589/5228589",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 52,
+          "contentId": "sm1433429",
+          "title": "消えない記憶",
+          "artistList": [
+            "消えないP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1433429/1433429",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 60,
+          "contentId": "sm9621047",
+          "title": "Pierrot",
+          "artistList": [
+            "ジミーサムP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9621047/9621047",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 82,
+          "contentId": "sm24606671",
+          "title": "ハートアラモード",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24606671/24606671",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 92,
+          "contentId": "sm33550626",
+          "title": "エンドロール",
+          "artistList": [
+            "夏代孝明"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33550626/33550626",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(12)",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 177,
+      "group": "C",
+      "date": "2023-09-23",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 6,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 6,
+          "contentId": "sm23467829",
+          "title": "みずいろギターロケット",
+          "artistList": [
+            "色白"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23467829/23467829",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 10,
+          "contentId": "sm9092949",
+          "title": "ラブアトミック・トランスファー",
+          "artistList": [
+            "蝶々P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9092949/9092949",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "八神猪熊"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 61,
+          "contentId": "sm1639267",
+          "title": "卑怯戦隊うろたんだー",
+          "artistList": [
+            "シンP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1639267/1639267",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とりりす。"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 62,
+          "contentId": "sm24205476",
+          "title": "林檎花火とソーダの海",
+          "artistList": [
+            "まふまふ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24205476/24205476",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 67,
+          "contentId": "sm6183148",
+          "title": "トエト",
+          "artistList": [
+            "トラボルタ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6183148/6183148",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(6)",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 176,
+      "group": "C",
+      "date": "2023-09-16",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 6,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 28,
+          "contentId": "sm31985801",
+          "title": "ハウリング・マイハート",
+          "artistList": [
+            "のぼる↑"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31985801/31985801",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 45,
+          "contentId": "sm9092949",
+          "title": "ラブアトミック・トランスファー",
+          "artistList": [
+            "蝶々P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9092949/9092949",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 55,
+          "contentId": "sm31068232",
+          "title": "URUSaaA愛",
+          "artistList": [
+            "YM"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31068232/31068232",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 62,
+          "contentId": "sm42505311",
+          "title": "演劇",
+          "artistList": [
+            "ナノウ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42505311/42505311.14633985",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "トラノオ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm20944785",
+          "title": "へたくそユートピア政策",
+          "artistList": [
+            "スズム"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20944785/20944785",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(6)",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 175,
+      "group": "C",
+      "date": "2023-09-09",
+      "ok": 3,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 78,
+          "contentId": "sm22730034",
+          "title": "スノウドライヴ(01.23)",
+          "artistList": [
+            "Omoi"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22730034/22730034",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "防虫剤"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "フリスク"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 87,
+          "contentId": "sm4271779",
+          "title": "VOiCE",
+          "artistList": [
+            "ラヴリーP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/4271779/4271779",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 95,
+          "contentId": "sm36685972",
+          "title": "セカイはまだ始まってすらいない",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36685972/36685972.65846820",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 165,
+      "group": "C",
+      "date": "2023-07-01",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 8,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 2,
+          "contentId": "sm23514243",
+          "title": "心とかいう名前の未発見の臓器の機能についての考察",
+          "artistList": [
+            "adstlaxy"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23514243/23514243",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 43,
+          "contentId": "sm16092405",
+          "title": "RUN",
+          "artistList": [
+            "ぼーかりおどP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16092405/16092405",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 72,
+          "contentId": "sm3718300",
+          "title": "StargazeR",
+          "artistList": [
+            "骨盤P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/3718300/3718300",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 79,
+          "contentId": "sm17171418",
+          "title": "プロパガンダ",
+          "artistList": [
+            "カラスヤサボウ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/17171418/17171418",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(8)",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 164,
+      "group": "C",
+      "date": "2023-06-24",
+      "ok": 3,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 88,
+          "contentId": "sm24438970",
+          "title": "EveR ∞ LastinG ∞ NighT",
+          "artistList": [
+            "ひとしずく",
+            "やま△"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24438970/24438970",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 89,
+          "contentId": "sm19480453",
+          "title": "放課後ストライド",
+          "artistList": [
+            "Last Note."
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19480453/19480453",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 93,
+          "contentId": "sm2700265",
+          "title": "Soar",
+          "artistList": [
+            "流星P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2700265/2700265",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 163,
+      "group": "C",
+      "date": "2023-06-17",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 11,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 13,
+          "contentId": "sm14175555",
+          "title": "ラストエフェクト",
+          "artistList": [
+            "Last Note."
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14175555/14175555",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 31,
+          "contentId": "sm33860671",
+          "title": "午前零時にまた会おう",
+          "artistList": [
+            "成田淋"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33860671/33860671",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 90,
+          "contentId": "sm1237688",
+          "title": "saturation",
+          "artistList": [
+            "fatP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1237688/1237688",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 101,
+          "contentId": "sm1235385",
+          "title": "Dreaming Leaf -ユメミルコトノハ-",
+          "artistList": [
+            "OSTER project"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1235385/1235385",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(11)",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 162,
+      "group": "C",
+      "date": "2023-06-10",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 16,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 16,
+          "contentId": "sm36243343",
+          "title": "Convenient Singer",
+          "artistList": [
+            "ワカバ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36243343/36243343.1333066",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 93,
+          "contentId": "sm28399590",
+          "title": "星屑オーケストラ",
+          "artistList": [
+            "ハヤブサ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28399590/28399590.71878984",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "たかそう"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "涼水悠香"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 101,
+          "contentId": "sm17335542",
+          "title": "気になるあいつは怪獣少年",
+          "artistList": [
+            "触媒ファントムガール"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/17335542/17335542",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 113,
+          "contentId": "sm12441199",
+          "title": "ネトゲ廃人シュプレヒコール",
+          "artistList": [
+            "さつき が てんこもり"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12441199/12441199",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "りん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "777"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(16)",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 156,
+      "group": "A",
+      "date": "2023-04-28",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 75,
+          "contentId": "sm5066725",
+          "title": "赤い実はじけた",
+          "artistList": [
+            "samfree"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/5066725/5066725",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 100,
+      "group": "A",
+      "date": "2022-03-25",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 46,
+          "contentId": "sm1657814",
+          "title": "ストロボナイツ",
+          "artistList": [
+            "kz"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1657814/1657814",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "明日夏"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 96,
+      "group": "A",
+      "date": "2022-02-25",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 56,
+          "contentId": "sm21697223",
+          "title": "M.S.S.Planet",
+          "artistList": [
+            "FB777"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21697223/21697223",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ayano"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

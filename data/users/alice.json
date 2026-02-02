@@ -209,5 +209,123 @@
     "winQuizCount": 1,
     "loseQuizCount": 0,
     "medianViews": 1343963
-  }
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 176,
+      "group": "D",
+      "date": "2023-09-15",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 13,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 48,
+          "contentId": "sm13774194",
+          "title": "Mr.Music",
+          "artistList": [
+            "れるりり"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13774194/13774194",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "alice"
+            }
+          ]
+        },
+        {
+          "order": 78,
+          "contentId": "sm12589203",
+          "title": "繰り返し一粒",
+          "artistList": [
+            "猫虫"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12589203/12589203",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "alice"
+            }
+          ]
+        },
+        {
+          "order": 86,
+          "contentId": "sm19683818",
+          "title": "レンきゅんなう！",
+          "artistList": [
+            "オワタP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19683818/19683818",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "alice"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "黒岩秀太"
+            }
+          ]
+        },
+        {
+          "order": 90,
+          "contentId": "sm40435671",
+          "title": "イフ",
+          "artistList": [
+            "ユリイ・カノン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40435671/40435671.3145727",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "alice"
+            }
+          ]
+        },
+        {
+          "order": 92,
+          "contentId": "sm39972552",
+          "title": "ONESELF",
+          "artistList": [
+            "Twinfield"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39972552/39972552.26644447",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "alice"
+            }
+          ]
+        },
+        {
+          "order": 106,
+          "contentId": "sm38833751",
+          "title": "フォニイ",
+          "artistList": [
+            "ツミキ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38833751/38833751.80872787",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(13)",
+              "user": "alice"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

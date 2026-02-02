@@ -20,7 +20,17 @@ const users = Object.values(userModules).map((m) => {
   };
 });
 
-const artists = Array.from(new Set(songs.flatMap((s) => s.artist)));
+const artistModules = import.meta.glob("../../data/artists/*.json", {
+  eager: true,
+}) as Record<string, { default: any }>;
+
+const artists = Object.values(artistModules).map((m) => {
+  const a = m.default;
+  return {
+    name: a.artist,
+    slug: a.slug ?? encodeURIComponent(a.artist),
+  };
+});
 ---
 
 <BaseLayout title="検索">
@@ -150,8 +160,8 @@ const artists = Array.from(new Set(songs.flatMap((s) => s.artist)));
       const artistMatches = DATA.artists
         .map(function (a: any) {
           return {
-            name: a,
-            score: matchScore(normalize(a), nq),
+            a: a,
+            score: matchScore(normalize(a.name), nq),
           };
         })
         .filter(function (x: any) {
@@ -159,13 +169,17 @@ const artists = Array.from(new Set(songs.flatMap((s) => s.artist)));
         })
         .sort(function (a: any, b: any) {
           return a.score - b.score;
+        })
+        .map(function (x: any) {
+          return x.a;
         });
 
       artistUL.innerHTML = artistMatches.length
         ? artistMatches
             .map(function (a: any) {
-              return `<li><a href="/artists/${encodeURIComponent(a.name)}">
-        ${a.name}</a></li>`;
+              return `<li><a href="/artists/${a.slug}">
+          ${a.name}
+        </a></li>`;
             })
             .join("")
         : "<li>該当なし</li>";

@@ -1,0 +1,200 @@
+{
+  "user": "さいわさ",
+  "slug": "GE3G81G95GE3G81G84GE3G82G8FGE3G81G95",
+  "correctSongs": [],
+  "artistStats": [],
+  "eraStats": [],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [],
+  "summary": {
+    "totalAnswers": 3,
+    "okAnswers": 0,
+    "ngAnswers": 3,
+    "participatedQuizCount": 2,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": null
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 204,
+      "group": "C",
+      "date": "2024-04-06",
+      "ok": 0,
+      "ng": 2,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 90,
+          "contentId": "sm8292936",
+          "title": "Sweet Sweet Cendrillon Drug",
+          "artistList": [
+            "uzP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8292936/8292936",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "らぴす"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "さいわさ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ayano"
+            }
+          ]
+        },
+        {
+          "order": 92,
+          "contentId": "sm36532607",
+          "title": "ファンタスマゴリー市街",
+          "artistList": [
+            "HaTa"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36532607/36532607.15129407",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "防虫剤"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "さいわさ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "777"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 108,
+      "group": "B",
+      "date": "2022-05-21",
+      "ok": 0,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 58,
+          "contentId": "sm27764146",
+          "title": "よだかの星",
+          "artistList": [
+            "伊東歌詞太郎"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27764146/27764146",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "さいわさ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "アイス"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

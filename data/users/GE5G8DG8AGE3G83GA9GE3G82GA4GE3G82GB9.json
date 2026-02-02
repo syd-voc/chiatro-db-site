@@ -1,0 +1,463 @@
+{
+  "user": "半ライス",
+  "slug": "GE5G8DG8AGE3G83GA9GE3G82GA4GE3G82GB9",
+  "correctSongs": [
+    {
+      "contentId": "sm23910729",
+      "title": "金曜日のおはよう",
+      "artist": "HoneyWorks",
+      "artistList": [
+        "HoneyWorks"
+      ],
+      "startTime": "2014-07-02T19:00:00+09:00",
+      "viewCounter": 1555700,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm33715008",
+      "title": "廃墟の国のアリス",
+      "artist": "まふまふ",
+      "artistList": [
+        "まふまふ"
+      ],
+      "startTime": "2018-08-19T18:00:00+09:00",
+      "viewCounter": 1977364,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm30305488",
+      "title": "拝啓、私の特別な人へ",
+      "artist": "キノシタ",
+      "artistList": [
+        "キノシタ"
+      ],
+      "startTime": "2016-12-26T19:00:00+09:00",
+      "viewCounter": 319264,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm24159811",
+      "title": "蝶と花と蜘蛛",
+      "artist": "ひとしずく, やま△",
+      "artistList": [
+        "ひとしずく",
+        "やま△"
+      ],
+      "startTime": "2014-08-04T20:00:00+09:00",
+      "viewCounter": 395294,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm9047689",
+      "title": "光と影の楽園",
+      "artist": "ひとしずく, やま△",
+      "artistList": [
+        "ひとしずく",
+        "やま△"
+      ],
+      "startTime": "2009-12-09T23:15:15+09:00",
+      "viewCounter": 993010,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "HoneyWorks",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "まふまふ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "キノシタ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ひとしずく",
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "artist": "やま△",
+      "correctCount": 2,
+      "correctSongCount": 2
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2014",
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "era": "2018",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2016",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2009",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "金曜日のおはよう",
+      "contentId": "sm23910729",
+      "startTime": 1404295200000,
+      "viewCounter": 1555700
+    },
+    {
+      "title": "廃墟の国のアリス",
+      "contentId": "sm33715008",
+      "startTime": 1534669200000,
+      "viewCounter": 1977364
+    },
+    {
+      "title": "拝啓、私の特別な人へ",
+      "contentId": "sm30305488",
+      "startTime": 1482746400000,
+      "viewCounter": 319264
+    },
+    {
+      "title": "蝶と花と蜘蛛",
+      "contentId": "sm24159811",
+      "startTime": 1407150000000,
+      "viewCounter": 395294
+    },
+    {
+      "title": "光と影の楽園",
+      "contentId": "sm9047689",
+      "startTime": 1260368115000,
+      "viewCounter": 993010
+    }
+  ],
+  "summary": {
+    "totalAnswers": 8,
+    "okAnswers": 5,
+    "ngAnswers": 3,
+    "participatedQuizCount": 6,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 993010
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 40,
+      "group": "",
+      "date": "2021-01-24",
+      "ok": 0,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 10,
+          "contentId": "sm31853493",
+          "title": "惜別の向日葵",
+          "artistList": [
+            "ひとしずく",
+            "やま△"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31853493/31853493",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "まつせ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "半ライス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "すべから"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 39,
+      "group": "",
+      "date": "2021-01-17",
+      "ok": 0,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 58,
+          "contentId": "sm37486337",
+          "title": "Strawberry",
+          "artistList": [
+            "香椎モイミ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37486337/37486337.83902074",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "半ライス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ホワイト"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 34,
+      "group": "",
+      "date": "2020-12-13",
+      "ok": 2,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 57,
+          "contentId": "sm24159811",
+          "title": "蝶と花と蜘蛛",
+          "artistList": [
+            "ひとしずく",
+            "やま△"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24159811/24159811",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "半ライス"
+            }
+          ]
+        },
+        {
+          "order": 70,
+          "contentId": "sm9047689",
+          "title": "光と影の楽園",
+          "artistList": [
+            "ひとしずく",
+            "やま△"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9047689/9047689",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "半ライス"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 32,
+      "group": "",
+      "date": "2020-11-22",
+      "ok": 0,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 62,
+          "contentId": "sm20906330",
+          "title": "能面島神隠し事件",
+          "artistList": [
+            "てにをは"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20906330/20906330",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "すべから"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Abbey"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "半ライス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 31,
+      "group": "",
+      "date": "2020-11-15",
+      "ok": 2,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 52,
+          "contentId": "sm33715008",
+          "title": "廃墟の国のアリス",
+          "artistList": [
+            "まふまふ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33715008/33715008",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "半ライス"
+            }
+          ]
+        },
+        {
+          "order": 79,
+          "contentId": "sm30305488",
+          "title": "拝啓、私の特別な人へ",
+          "artistList": [
+            "キノシタ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30305488/30305488",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "半ライス"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 26,
+      "group": "",
+      "date": "2020-10-11",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 8,
+          "contentId": "sm23910729",
+          "title": "金曜日のおはよう",
+          "artistList": [
+            "HoneyWorks"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23910729/23910729",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "半ライス"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

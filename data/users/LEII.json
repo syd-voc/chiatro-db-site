@@ -214,5 +214,191 @@
     "winQuizCount": 0,
     "loseQuizCount": 0,
     "medianViews": 1132782
-  }
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 109,
+      "group": "A",
+      "date": "2022-05-27",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 75,
+          "contentId": "sm22001720",
+          "title": "いかないで",
+          "artistList": [
+            "想太"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22001720/22001720",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "LEII"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 106,
+      "group": "A",
+      "date": "2022-05-06",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 78,
+          "contentId": "sm36713449",
+          "title": "晴天を穿つ",
+          "artistList": [
+            "傘村トータ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36713449/36713449.42538894",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "LEII"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 101,
+      "group": "A",
+      "date": "2022-04-01",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 75,
+          "contentId": "sm14375135",
+          "title": "アブストラクト・ナンセンス",
+          "artistList": [
+            "Neru"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14375135/14375135",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "LEII"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 99,
+      "group": "A",
+      "date": "2022-03-18",
+      "ok": 0,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 54,
+          "contentId": "sm15251529",
+          "title": "サルベージ",
+          "artistList": [
+            "osu"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15251529/15251529",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Klayn"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "うつぼっち"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "LEII"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 98,
+      "group": "A",
+      "date": "2022-03-11",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 79,
+          "contentId": "sm28038974",
+          "title": "曖昧さ回避",
+          "artistList": [
+            "ポリスピカデリー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28038974/28038974.39193810",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "LEII"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 96,
+      "group": "A",
+      "date": "2022-02-25",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 11,
+          "contentId": "sm19339722",
+          "title": "空想少女への恋手紙",
+          "artistList": [
+            "まらしぃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19339722/19339722",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "LEII"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

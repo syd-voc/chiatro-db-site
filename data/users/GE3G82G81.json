@@ -1,0 +1,191 @@
+{
+  "user": "め",
+  "slug": "GE3G82G81",
+  "correctSongs": [
+    {
+      "contentId": "sm8139134",
+      "title": "パズル",
+      "artist": "クワガタP",
+      "artistList": [
+        "クワガタP"
+      ],
+      "startTime": "2009-09-05T09:36:07+09:00",
+      "viewCounter": 1147265,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm23368297",
+      "title": "平面説",
+      "artist": "niki",
+      "artistList": [
+        "niki"
+      ],
+      "startTime": "2014-04-20T07:59:04+09:00",
+      "viewCounter": 404077,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "クワガタP",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "niki",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2009",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2014",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "パズル",
+      "contentId": "sm8139134",
+      "startTime": 1252110967000,
+      "viewCounter": 1147265
+    },
+    {
+      "title": "平面説",
+      "contentId": "sm23368297",
+      "startTime": 1397948344000,
+      "viewCounter": 404077
+    }
+  ],
+  "summary": {
+    "totalAnswers": 2,
+    "okAnswers": 2,
+    "ngAnswers": 0,
+    "participatedQuizCount": 1,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 775671
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 54,
+      "group": "",
+      "date": "2021-05-02",
+      "ok": 2,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 62,
+          "contentId": "sm8139134",
+          "title": "パズル",
+          "artistList": [
+            "クワガタP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8139134/8139134",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Abbey"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "め"
+            }
+          ]
+        },
+        {
+          "order": 71,
+          "contentId": "sm23368297",
+          "title": "平面説",
+          "artistList": [
+            "niki"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23368297/23368297",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "め"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

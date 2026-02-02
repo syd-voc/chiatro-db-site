@@ -269,5 +269,283 @@
     "winQuizCount": 0,
     "loseQuizCount": 0,
     "medianViews": 678351
-  }
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 203,
+      "group": "D",
+      "date": "2024-03-29",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 91,
+          "contentId": "sm43088340",
+          "title": "戦闘！初音ミク",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43088340/43088340.78870197",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "AGAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 202,
+      "group": "C",
+      "date": "2024-03-23",
+      "ok": 0,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 66,
+          "contentId": "sm15316380",
+          "title": "カミノコトバ",
+          "artistList": [
+            "ゆよゆっぺ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15316380/15316380",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "AGAIN"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(7)",
+              "user": "手下"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 200,
+      "group": "C",
+      "date": "2024-03-09",
+      "ok": 0,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 93,
+          "contentId": "sm35992766",
+          "title": "ルマ",
+          "artistList": [
+            "かいりきベア"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35992766/35992766.58296902",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠い人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "りん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "AGAIN"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(16)",
+              "user": "おぷち"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 199,
+      "group": "D",
+      "date": "2024-03-01",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 89,
+          "contentId": "sm38271953",
+          "title": "オーバー！",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38271953/38271953.6331807",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "AGAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 193,
+      "group": "C",
+      "date": "2024-01-20",
+      "ok": 4,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 52,
+          "contentId": "sm26253754",
+          "title": "言葉のいらない約束",
+          "artistList": [
+            "HoneyWorks"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26253754/26253754",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "AGAIN"
+            }
+          ]
+        },
+        {
+          "order": 91,
+          "contentId": "sm11398357",
+          "title": "モザイクロール",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/11398357/11398357",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "AGAIN"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬゅら"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 93,
+          "contentId": "sm42571967",
+          "title": "ヰヱロウ",
+          "artistList": [
+            "Shu"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42571967/42571967.32230450",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "AGAIN"
+            }
+          ]
+        },
+        {
+          "order": 94,
+          "contentId": "sm12098837",
+          "title": "タイムマシン",
+          "artistList": [
+            "164",
+            "40mP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12098837/12098837",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "AGAIN"
+            }
+          ]
+        },
+        {
+          "order": 96,
+          "contentId": "sm6928368",
+          "title": "右肩の蝶",
+          "artistList": [
+            "のりぴー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6928368/6928368",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "AGAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 191,
+      "group": "D",
+      "date": "2024-01-05",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 66,
+          "contentId": "sm34111863",
+          "title": "ミスリード・ミスリード",
+          "artistList": [
+            "Omoi"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34111863/34111863",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "AGAIN"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

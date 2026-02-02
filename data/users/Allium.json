@@ -954,5 +954,1240 @@
     "winQuizCount": 7,
     "loseQuizCount": 0,
     "medianViews": 1542318
-  }
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 245,
+      "group": "F",
+      "date": "2025-04-11",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 6,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 5,
+          "contentId": "sm20504537",
+          "title": "drop",
+          "artistList": [
+            "keeno"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20504537/20504537",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 19,
+          "contentId": "sm24438970",
+          "title": "EveR ∞ LastinG ∞ NighT",
+          "artistList": [
+            "ひとしずく",
+            "やま△"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24438970/24438970",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "N氏"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "8610"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Allium"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "アバタシモエラ"
+            }
+          ]
+        },
+        {
+          "order": 50,
+          "contentId": "sm16474954",
+          "title": "インビジブル",
+          "artistList": [
+            "kemu"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16474954/16474954",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 55,
+          "contentId": "sm31680050",
+          "title": "命ばっかり",
+          "artistList": [
+            "ぬゆり"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31680050/31680050",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 56,
+          "contentId": "sm9205429",
+          "title": "Unfragment",
+          "artistList": [
+            "鼻そうめんP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9205429/9205429",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "tundra"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 59,
+          "contentId": "sm40230104",
+          "title": "きみに回帰線",
+          "artistList": [
+            "稲葉曇"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40230104/40230104.42170604",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(6)",
+              "user": "Allium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 243,
+      "group": "F",
+      "date": "2025-03-28",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 5,
+          "contentId": "sm37782547",
+          "title": "ダウナーウィッチ",
+          "artistList": [
+            "廉"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37782547/37782547.21262364",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "らびっと"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "タルタル素数"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぷれいやあ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Allium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 241,
+      "group": "F",
+      "date": "2025-03-14",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 10,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 51,
+          "contentId": "sm30376326",
+          "title": "スターナイトスノウ",
+          "artistList": [
+            "n-buna",
+            "Orangestar"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30376326/30376326",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 56,
+          "contentId": "sm32234716",
+          "title": "プロトディスコ",
+          "artistList": [
+            "ぬゆり"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32234716/32234716",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Allium"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(6)",
+              "user": "L部"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm32801250",
+          "title": "ロストアンブレラ",
+          "artistList": [
+            "稲葉曇"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32801250/32801250.44542291",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Ottoooooo"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "こんこん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 64,
+          "contentId": "sm11998050",
+          "title": "般若心経ロック",
+          "artistList": [
+            "クワガタP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/11998050/11998050",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Allium"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 70,
+          "contentId": "sm9714351",
+          "title": "ローリンガール",
+          "artistList": [
+            "wowaka"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9714351/9714351",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 71,
+          "contentId": "sm9205429",
+          "title": "Unfragment",
+          "artistList": [
+            "鼻そうめんP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9205429/9205429",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 73,
+          "contentId": "sm18511216",
+          "title": "カミサマネジマキ",
+          "artistList": [
+            "kemu"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18511216/18511216",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(10)",
+              "user": "Allium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 239,
+      "group": "F",
+      "date": "2025-02-28",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 9,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 20,
+          "contentId": "sm21986543",
+          "title": "愛言葉Ⅱ",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21986543/21986543",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "8610"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Allium"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "こんこん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "アバタシモエラ"
+            }
+          ]
+        },
+        {
+          "order": 49,
+          "contentId": "sm37462050",
+          "title": "或世界消失",
+          "artistList": [
+            "柊マグネタイト"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37462050/37462050.78336815",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 50,
+          "contentId": "sm9714351",
+          "title": "ローリンガール",
+          "artistList": [
+            "wowaka"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9714351/9714351",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 64,
+          "contentId": "sm38099931",
+          "title": "霽れを待つ",
+          "artistList": [
+            "Orangestar"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38099931/38099931.4155505",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 66,
+          "contentId": "sm41540170",
+          "title": "SnowMix♪",
+          "artistList": [
+            "まらしぃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41540170/41540170.41383666",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 68,
+          "contentId": "sm33360604",
+          "title": "抜錨",
+          "artistList": [
+            "ナナホシ管弦楽団"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33360604/33360604",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(9)",
+              "user": "Allium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 234,
+      "group": "F",
+      "date": "2025-01-24",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 8,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 17,
+          "contentId": "sm31241401",
+          "title": "ナンセンス文学",
+          "artistList": [
+            "Eve"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31241401/31241401",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "tundra"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Ottoooooo"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 32,
+          "contentId": "so34711771",
+          "title": "Conqueror",
+          "artistList": [
+            "Sendra"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34711771/34711771.47431",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "りつりつ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "8610"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "パム"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 38,
+          "contentId": "sm29348475",
+          "title": "ARROW",
+          "artistList": [
+            "niki"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29348475/29348475",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 54,
+          "contentId": "sm34509853",
+          "title": "内臓ありますか",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34509853/34509853.70798",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 75,
+          "contentId": "sm14332782",
+          "title": "バビロン",
+          "artistList": [
+            "トーマ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14332782/14332782",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "パム"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(8)",
+              "user": "Allium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 233,
+      "group": "F",
+      "date": "2025-01-17",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 8,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 14,
+          "contentId": "sm30681505",
+          "title": "フリィダム ロリィタ",
+          "artistList": [
+            "ねじ式"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30681505/30681505",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 30,
+          "contentId": "sm25107796",
+          "title": "不完全な処遇",
+          "artistList": [
+            "MI8k"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25107796/25107796",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 43,
+          "contentId": "sm18821036",
+          "title": "九龍レトロ",
+          "artistList": [
+            "トーマ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18821036/18821036",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 55,
+          "contentId": "sm25658559",
+          "title": "だんだん早くなる",
+          "artistList": [
+            "40mP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25658559/25658559",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "8610"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 82,
+          "contentId": "sm10924943",
+          "title": "初音ミクの分裂→破壊",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10924943/10924943",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Allium"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "こんこん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 86,
+          "contentId": "sm982882",
+          "title": "Ievan Polkka",
+          "artistList": [
+            "Otomania"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/982882/982882",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "りつりつ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(8)",
+              "user": "Allium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 232,
+      "group": "F",
+      "date": "2025-01-10",
+      "ok": 5,
+      "ng": 4,
+      "winRank": 15,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 41,
+          "contentId": "sm43935804",
+          "title": "ニコニコ動画",
+          "artistList": [
+            "カルロス袴田(サイゼP)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43935804/43935804.39721075",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Ottoooooo"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "8610"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "りつりつ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "PlusC"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Allium"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "アバタシモエラ"
+            }
+          ]
+        },
+        {
+          "order": 51,
+          "contentId": "sm21737751",
+          "title": "サマータイムレコード",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21737751/21737751",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Allium"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "こんこん"
+            }
+          ]
+        },
+        {
+          "order": 59,
+          "contentId": "sm24438970",
+          "title": "EveR ∞ LastinG ∞ NighT",
+          "artistList": [
+            "ひとしずく",
+            "やま△"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24438970/24438970",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "こんこん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Allium"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "つばさ"
+            }
+          ]
+        },
+        {
+          "order": 71,
+          "contentId": "sm44914060",
+          "title": "キティ",
+          "artistList": [
+            "ツミキ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44914060/44914060.90420375",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 81,
+          "contentId": "sm20244918",
+          "title": "ロストワンの号哭",
+          "artistList": [
+            "Neru"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20244918/20244918",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 89,
+          "contentId": "sm42576236",
+          "title": "リレイアウター",
+          "artistList": [
+            "稲葉曇"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42576236/42576236.50709029",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 92,
+          "contentId": "sm40132412",
+          "title": "ド屑",
+          "artistList": [
+            "なきそ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40132412/40132412.18901743",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Allium"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 93,
+          "contentId": "sm38628569",
+          "title": "ヘブンズバグ",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38628569/38628569.36893530",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 94,
+          "contentId": "sm38907008",
+          "title": "トンデモワンダーズ",
+          "artistList": [
+            "sasakure.UK"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38907008/38907008.17541518",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(15)",
+              "user": "Allium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 231,
+      "group": "F",
+      "date": "2024-12-20",
+      "ok": 1,
+      "ng": 3,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 41,
+          "contentId": "sm27657095",
+          "title": "壊れぬハートが欲しいのだ",
+          "artistList": [
+            "石風呂"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27657095/27657095",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Allium"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "アバタシモエラ"
+            }
+          ]
+        },
+        {
+          "order": 65,
+          "contentId": "sm8999864",
+          "title": "ねこみみスイッチ",
+          "artistList": [
+            "daniwell"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8999864/8999864",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Allium"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(7)",
+              "user": "パム"
+            }
+          ]
+        },
+        {
+          "order": 75,
+          "contentId": "sm43430049",
+          "title": "合成するミライ",
+          "artistList": [
+            "阿修"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43430049/43430049.26853192",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 96,
+          "contentId": "sm29648328",
+          "title": "PaⅢ.SENSATION",
+          "artistList": [
+            "雄之助"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29648328/29648328",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Allium"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 229,
+      "group": "F",
+      "date": "2024-12-06",
+      "ok": 2,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 5,
+          "contentId": "sm29788563",
+          "title": "もぬけのからだ",
+          "artistList": [
+            "MI8k"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29788563/29788563",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 47,
+          "contentId": "sm35808124",
+          "title": "ジターバグ",
+          "artistList": [
+            "栗山夕璃(蜂屋ななし)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35808124/35808124.33167148",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "Allium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 228,
+      "group": "F",
+      "date": "2024-11-29",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 13,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 43,
+          "contentId": "sm21513190",
+          "title": "夕景イエスタデイ",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21513190/21513190",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 62,
+          "contentId": "sm16846374",
+          "title": "想像フォレスト",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16846374/16846374",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 74,
+          "contentId": "sm34871494",
+          "title": "アンヘル",
+          "artistList": [
+            "かいりきベア"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34871494/34871494.13055",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 81,
+          "contentId": "sm38708262",
+          "title": "シネマ",
+          "artistList": [
+            "Ayase"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38708262/38708262.38565307",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 86,
+          "contentId": "sm42554081",
+          "title": "モア！ジャンプ！モア！",
+          "artistList": [
+            "ナユタン星人"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42554081/42554081.46441458",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(13)",
+              "user": "Allium"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

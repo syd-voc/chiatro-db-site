@@ -1,0 +1,179 @@
+{
+  "user": "しろねき",
+  "slug": "GE3G81G97GE3G82G8DGE3G81GADGE3G81G8D",
+  "correctSongs": [],
+  "artistStats": [],
+  "eraStats": [],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [],
+  "summary": {
+    "totalAnswers": 2,
+    "okAnswers": 0,
+    "ngAnswers": 2,
+    "participatedQuizCount": 2,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": null
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 99,
+      "group": "A",
+      "date": "2022-03-18",
+      "ok": 0,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 3,
+          "contentId": "sm15658454",
+          "title": "おでこに生えたビワの性格が悪い",
+          "artistList": [
+            "家の裏でマンボウが死んでるP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15658454/15658454",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なごん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "しろねき"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゆーと"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 87,
+      "group": "",
+      "date": "2021-12-18",
+      "ok": 0,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 43,
+          "contentId": "sm30541494",
+          "title": "アダルトチルドレン",
+          "artistList": [
+            "buzzG"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30541494/30541494",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "すべから"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Abbey"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "しろねき"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

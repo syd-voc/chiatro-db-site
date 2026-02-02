@@ -1,0 +1,219 @@
+{
+  "user": "かのん",
+  "slug": "GE3G81G8BGE3G81GAEGE3G82G93",
+  "correctSongs": [
+    {
+      "contentId": "sm26667276",
+      "title": "ママ",
+      "artist": "HoneyWorks",
+      "artistList": [
+        "HoneyWorks"
+      ],
+      "startTime": "2015-07-09T18:00:00+09:00",
+      "viewCounter": 458920,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm26624229",
+      "title": "イジワルな出会い",
+      "artist": "HoneyWorks",
+      "artistList": [
+        "HoneyWorks"
+      ],
+      "startTime": "2015-07-03T18:00:00+09:00",
+      "viewCounter": 624230,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "HoneyWorks",
+      "correctCount": 2,
+      "correctSongCount": 2
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2015",
+      "correctCount": 2,
+      "correctSongCount": 2
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "ママ",
+      "contentId": "sm26667276",
+      "startTime": 1436432400000,
+      "viewCounter": 458920
+    },
+    {
+      "title": "イジワルな出会い",
+      "contentId": "sm26624229",
+      "startTime": 1435914000000,
+      "viewCounter": 624230
+    }
+  ],
+  "summary": {
+    "totalAnswers": 3,
+    "okAnswers": 2,
+    "ngAnswers": 1,
+    "participatedQuizCount": 1,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 541575
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 163,
+      "group": "D",
+      "date": "2023-06-16",
+      "ok": 2,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 44,
+          "contentId": "sm26667276",
+          "title": "ママ",
+          "artistList": [
+            "HoneyWorks"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26667276/26667276",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "かのん"
+            }
+          ]
+        },
+        {
+          "order": 66,
+          "contentId": "sm20565926",
+          "title": "ヤキモチの答え-another story-",
+          "artistList": [
+            "HoneyWorks"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20565926/20565926",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "しょどー"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "冬花"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "かのん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 78,
+          "contentId": "sm26624229",
+          "title": "イジワルな出会い",
+          "artistList": [
+            "HoneyWorks"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26624229/26624229",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "くま🍊"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "かのん"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

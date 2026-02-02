@@ -106,5 +106,74 @@
     "winQuizCount": 0,
     "loseQuizCount": 0,
     "medianViews": 108859
-  }
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 191,
+      "group": "D",
+      "date": "2024-01-05",
+      "ok": 0,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 63,
+          "contentId": "sm36870420",
+          "title": "篝火のように",
+          "artistList": [
+            "芳田"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36870420/36870420.76062257",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "おとまる"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Wa!ter"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 189,
+      "group": "D",
+      "date": "2023-12-15",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 66,
+          "contentId": "sm40773670",
+          "title": "サマー シンドローム",
+          "artistList": [
+            "Ray"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40773670/40773670.77776138",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Wa!ter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

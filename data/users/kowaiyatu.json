@@ -1167,5 +1167,1305 @@
     "winQuizCount": 10,
     "loseQuizCount": 0,
     "medianViews": 814726
-  }
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 286,
+      "group": "D2",
+      "date": "2026-01-31",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 6,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 22,
+          "contentId": "sm39407059",
+          "title": "デビル",
+          "artistList": [
+            "てにをは"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39407059/39407059.58223680",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 26,
+          "contentId": "sm12589203",
+          "title": "繰り返し一粒",
+          "artistList": [
+            "猫虫"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12589203/12589203",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 27,
+          "contentId": "sm42461482",
+          "title": "プロポーズ",
+          "artistList": [
+            "内緒のピアス"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42461482/42461482.15717210",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 30,
+          "contentId": "sm18783356",
+          "title": "再教育",
+          "artistList": [
+            "Neru"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18783356/18783356",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 43,
+          "contentId": "sm2651288",
+          "title": "Dear",
+          "artistList": [
+            "19's Sound Factory"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2651288/2651288",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(6)",
+              "user": "kowaiyatu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 283,
+      "group": "D2",
+      "date": "2026-01-10",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 8,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 10,
+          "contentId": "sm17566080",
+          "title": "非実在少年は眠らない",
+          "artistList": [
+            "もっふーP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/17566080/17566080",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "上海スベスベ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "kowaiyatu"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ニナ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なすの惑星"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 12,
+          "contentId": "sm8139134",
+          "title": "パズル",
+          "artistList": [
+            "クワガタP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8139134/8139134",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なすの惑星"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "涼水悠香"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "すぼ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 44,
+          "contentId": "sm12825985",
+          "title": "ハッピーシンセサイザ",
+          "artistList": [
+            "EasyPop"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12825985/12825985",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 50,
+          "contentId": "sm9952079",
+          "title": "最後のリボルバー",
+          "artistList": [
+            "悪ノP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9952079/9952079",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 51,
+          "contentId": "sm29378969",
+          "title": "いいや",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29378969/29378969",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 52,
+          "contentId": "sm43086737",
+          "title": "ポケットのモンスター",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43086737/43086737.26944605",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(8)",
+              "user": "kowaiyatu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 217,
+      "group": "D",
+      "date": "2024-09-15",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 8,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 11,
+          "contentId": "sm1656992",
+          "title": "きみをわすれない",
+          "artistList": [
+            "ryo"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1656992/1656992",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 17,
+          "contentId": "sm33503706",
+          "title": "ハッ",
+          "artistList": [
+            "かぼちゃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33503706/33503706",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "かぷちゃん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "高1"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "kowaiyatu"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm38616325",
+          "title": "ジョーク",
+          "artistList": [
+            "青屋夏生"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38616325/38616325.42685012",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 48,
+          "contentId": "sm21744668",
+          "title": "僕は空気が嫁ない",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21744668/21744668",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 64,
+          "contentId": "sm33734600",
+          "title": "プラネタリウムの真実",
+          "artistList": [
+            "夏代孝明"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33734600/33734600",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 79,
+          "contentId": "sm26819242",
+          "title": "海賊Fの肖像",
+          "artistList": [
+            "ひとしずく",
+            "やま△"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26819242/26819242",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぷーまる"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(8)",
+              "user": "kowaiyatu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 208,
+      "group": "D",
+      "date": "2024-05-03",
+      "ok": 4,
+      "ng": 2,
+      "winRank": 17,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 13,
+          "contentId": "sm17611572",
+          "title": "チェックメイト",
+          "artistList": [
+            "ゆちゃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/17611572/17611572",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "スライドポテト"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "kowaiyatu"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "グルーガン"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "あざらし"
+            }
+          ]
+        },
+        {
+          "order": 20,
+          "contentId": "sm36093941",
+          "title": "ネガティブ進化論",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36093941/36093941.98544753",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "既設定"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "時雨"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "恋ちゃん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "かげひなた"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ニナ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぽしゃぽしゃ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "グルーガン"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "レイ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 24,
+          "contentId": "sm18603564",
+          "title": "転生少女と転生少年",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18603564/18603564",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "にーも"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "kowaiyatu"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(2)",
+              "user": "クロ"
+            }
+          ]
+        },
+        {
+          "order": 75,
+          "contentId": "sm26624229",
+          "title": "イジワルな出会い",
+          "artistList": [
+            "HoneyWorks"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26624229/26624229",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "コウ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "レイ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 77,
+          "contentId": "sm13628080",
+          "title": "人造エネミー",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13628080/13628080",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 85,
+          "contentId": "sm41383081",
+          "title": "ハナタバ",
+          "artistList": [
+            "MIMI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41383081/41383081.19577756",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(17)",
+              "user": "kowaiyatu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 200,
+      "group": "D",
+      "date": "2024-03-08",
+      "ok": 4,
+      "ng": 1,
+      "winRank": 14,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 69,
+          "contentId": "sm42578042",
+          "title": "MAZE",
+          "artistList": [
+            "Noz."
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42578042/42578042.11303928",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 70,
+          "contentId": "sm6121029",
+          "title": "恋距離遠愛",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6121029/6121029",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "既設定"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 73,
+          "contentId": "sm32593186",
+          "title": "ルーシッド・ドッペルゲンガー",
+          "artistList": [
+            "NONEMU"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32593186/32593186",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "kowaiyatu"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 85,
+          "contentId": "sm36149428",
+          "title": "エゴ",
+          "artistList": [
+            "sasakure.UK"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36149428/36149428.76076127",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 87,
+          "contentId": "sm13628080",
+          "title": "人造エネミー",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13628080/13628080",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(14)",
+              "user": "kowaiyatu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 172,
+      "group": "D",
+      "date": "2023-08-18",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 3,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 3,
+          "contentId": "sm33454146",
+          "title": "スロウダウナー",
+          "artistList": [
+            "ろくろ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33454146/33454146",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "クスノキ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 23,
+          "contentId": "sm26624229",
+          "title": "イジワルな出会い",
+          "artistList": [
+            "HoneyWorks"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26624229/26624229",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 42,
+          "contentId": "sm33677965",
+          "title": "あの夏が飽和する。",
+          "artistList": [
+            "カンザキイオリ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33677965/33677965",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 47,
+          "contentId": "sm37223770",
+          "title": "愛されなくても君がいる",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37223770/37223770.96835470",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 48,
+          "contentId": "sm20212767",
+          "title": "雨とアスファルト",
+          "artistList": [
+            "40mP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20212767/20212767",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(3)",
+              "user": "kowaiyatu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 169,
+      "group": "D",
+      "date": "2023-07-28",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 3,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 6,
+          "contentId": "sm31837608",
+          "title": "夢よ未来へ",
+          "artistList": [
+            "はりーP",
+            "koyori(電ポルP)",
+            "前略P",
+            "YoP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31837608/31837608",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 13,
+          "contentId": "sm28055698",
+          "title": "のぼれ！すすめ！高い塔",
+          "artistList": [
+            "きくお"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28055698/28055698",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 30,
+          "contentId": "sm38628569",
+          "title": "ヘブンズバグ",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38628569/38628569.36893530",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "フリスク"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 31,
+          "contentId": "sm37223770",
+          "title": "愛されなくても君がいる",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37223770/37223770.96835470",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm34939379",
+          "title": "スターリースカイ☆パレード",
+          "artistList": [
+            "キノシタ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34939379/34939379.87743",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(3)",
+              "user": "kowaiyatu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 168,
+      "group": "D",
+      "date": "2023-07-21",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 1,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 4,
+          "contentId": "sm40691459",
+          "title": "星空のメロディー",
+          "artistList": [
+            "ぽりふぉ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40691459/40691459.83850516",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "contentId": "sm40247454",
+          "title": "キメラ",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40247454/40247454.26165979",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "contentId": "sm40840962",
+          "title": "ゾンビ",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40840962/40840962.15194125",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 12,
+          "contentId": "sm3789121",
+          "title": "方向音痴",
+          "artistList": [
+            "アゴアニキ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/3789121/3789121",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 14,
+          "contentId": "sm42224358",
+          "title": "ラビットホール",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42224358/42224358.70397019",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(1)",
+              "user": "kowaiyatu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 165,
+      "group": "D",
+      "date": "2023-06-30",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 3,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 12,
+          "contentId": "sm26835374",
+          "title": "トオリヨ",
+          "artistList": [
+            "テヅカ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26835374/26835374",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルンバ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "フリスク"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぷれいやあ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 21,
+          "contentId": "sm31606995",
+          "title": "砂の惑星",
+          "artistList": [
+            "ハチ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31606995/31606995",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "contentId": "sm41000600",
+          "title": "夏空へ、オーバー",
+          "artistList": [
+            "もちづき",
+            "無色透名祭公式"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41000600/41000600.25611376",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 45,
+          "contentId": "sm40350149",
+          "title": "88☆彡",
+          "artistList": [
+            "kemu",
+            "まらしぃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40350149/40350149.29980860",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 46,
+          "contentId": "sm26624229",
+          "title": "イジワルな出会い",
+          "artistList": [
+            "HoneyWorks"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26624229/26624229",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(3)",
+              "user": "kowaiyatu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 163,
+      "group": "D",
+      "date": "2023-06-16",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 5,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 24,
+          "contentId": "sm24623249",
+          "title": "戯曲とデフォルメ都市",
+          "artistList": [
+            "まふまふ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24623249/24623249",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 25,
+          "contentId": "sm35710283",
+          "title": "月光ラプソディ",
+          "artistList": [
+            "芳田"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35710283/35710283.83075725",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 29,
+          "contentId": "sm35513173",
+          "title": "サイコグラム",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35513173/35513173.49985869",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 35,
+          "contentId": "sm25793676",
+          "title": "アサガオの散る頃に",
+          "artistList": [
+            "ぷす"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25793676/25793676",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(5)",
+              "user": "kowaiyatu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 142,
+      "group": "A",
+      "date": "2023-01-20",
+      "ok": 3,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 3,
+          "contentId": "sm41182971",
+          "title": "愛するように",
+          "artistList": [
+            "MIMI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41182971/41182971.38456651",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぴーなっつ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 88,
+          "contentId": "sm39578262",
+          "title": "HappY EnD",
+          "artistList": [
+            "清水コウ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39578262/39578262.67431375",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "kowaiyatu"
+            }
+          ]
+        },
+        {
+          "order": 94,
+          "contentId": "sm33255722",
+          "title": "眠り姫",
+          "artistList": [
+            "Guiano"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33255722/33255722",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "kowaiyatu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

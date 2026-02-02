@@ -75,5 +75,56 @@
     "winQuizCount": 0,
     "loseQuizCount": 0,
     "medianViews": null
-  }
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 98,
+      "group": "A",
+      "date": "2022-03-11",
+      "ok": 0,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 42,
+          "contentId": "sm27648736",
+          "title": "セカイセイフク",
+          "artistList": [
+            "caco-2"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27648736/27648736",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "SPEED_STAR"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゆーと"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

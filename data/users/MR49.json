@@ -329,5 +329,330 @@
     "winQuizCount": 2,
     "loseQuizCount": 0,
     "medianViews": 1608226
-  }
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 178,
+      "group": "D",
+      "date": "2023-09-29",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 9,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 4,
+          "contentId": "sm33770519",
+          "title": "ディザーチューン",
+          "artistList": [
+            "DIVELA"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33770519/33770519",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "MR49"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "contentId": "sm26507117",
+          "title": "言ノ葉遊戯",
+          "artistList": [
+            "ひとしずく",
+            "やま△"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26507117/26507117",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "MR49"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "フリスク"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 25,
+          "contentId": "sm37203456",
+          "title": "Dreaming with U",
+          "artistList": [
+            "芳田"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37203456/37203456.64098457",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "MR49"
+            }
+          ]
+        },
+        {
+          "order": 28,
+          "contentId": "sm30701132",
+          "title": "スーパーマーケット☆フィーバー",
+          "artistList": [
+            "カルロス袴田(サイゼP)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30701132/30701132",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠い人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "しょどー"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "汐波諱"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "MR49"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "空調設備"
+            }
+          ]
+        },
+        {
+          "order": 64,
+          "contentId": "sm37507315",
+          "title": "テレキャスタービーボーイ",
+          "artistList": [
+            "すりぃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37507315/37507315.98820178",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "空調設備"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "MR49"
+            }
+          ]
+        },
+        {
+          "order": 72,
+          "contentId": "nm6971638",
+          "title": "1/6 -out of the gravity-",
+          "artistList": [
+            "ぼーかりおどP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6971638/6971638",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "MR49"
+            }
+          ]
+        },
+        {
+          "order": 73,
+          "contentId": "sm24536934",
+          "title": "ヒビカセ",
+          "artistList": [
+            "ギガ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24536934/24536934",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(9)",
+              "user": "MR49"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 175,
+      "group": "D",
+      "date": "2023-09-08",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 8,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 38,
+          "contentId": "sm37872936",
+          "title": "メビウス",
+          "artistList": [
+            "柊キライ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37872936/37872936.7622911",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "MR49"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ラビ"
+            }
+          ]
+        },
+        {
+          "order": 41,
+          "contentId": "sm31413058",
+          "title": "てるみい",
+          "artistList": [
+            "石風呂"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31413058/31413058",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "MR49"
+            }
+          ]
+        },
+        {
+          "order": 51,
+          "contentId": "sm23144598",
+          "title": "ストリーミングハート",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23144598/23144598",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "MR49"
+            }
+          ]
+        },
+        {
+          "order": 62,
+          "contentId": "sm39411572",
+          "title": "群青讃歌",
+          "artistList": [
+            "Eve"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39411572/39411572.5041558",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "MR49"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm35844605",
+          "title": "すすめ！さいつよ堕天使",
+          "artistList": [
+            "DIVELA"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35844605/35844605.8842802",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "MR49"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ぷーまる"
+            }
+          ]
+        },
+        {
+          "order": 67,
+          "contentId": "sm30105566",
+          "title": "水音とカーテン",
+          "artistList": [
+            "MIMI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30105566/30105566",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "MR49"
+            }
+          ]
+        },
+        {
+          "order": 68,
+          "contentId": "sm24354635",
+          "title": "8月31日",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24354635/24354635",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(8)",
+              "user": "MR49"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

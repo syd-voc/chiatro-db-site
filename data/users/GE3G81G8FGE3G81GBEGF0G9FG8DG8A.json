@@ -1,0 +1,348 @@
+{
+  "user": "くま🍊",
+  "slug": "GE3G81G8FGE3G81GBEGF0G9FG8DG8A",
+  "correctSongs": [
+    {
+      "contentId": "sm33127857",
+      "title": "ハナイロ☆シャイガール",
+      "artist": "キノシタ",
+      "artistList": [
+        "キノシタ"
+      ],
+      "startTime": "2018-04-29T19:00:00+09:00",
+      "viewCounter": 198836,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm33546188",
+      "title": "かいしんのいちげき！",
+      "artist": "天月-あまつき-",
+      "artistList": [
+        "天月-あまつき-"
+      ],
+      "startTime": "2018-07-18T18:00:00+09:00",
+      "viewCounter": 996623,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm21028340",
+      "title": "キミとボク、まわるセカイ。",
+      "artist": "19's Sound Factory",
+      "artistList": [
+        "19's Sound Factory"
+      ],
+      "startTime": "2013-06-03T17:00:00+09:00",
+      "viewCounter": 189876,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "キノシタ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "天月-あまつき-",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "19's Sound Factory",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2018",
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "era": "2013",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "ハナイロ☆シャイガール",
+      "contentId": "sm33127857",
+      "startTime": 1524996000000,
+      "viewCounter": 198836
+    },
+    {
+      "title": "かいしんのいちげき！",
+      "contentId": "sm33546188",
+      "startTime": 1531904400000,
+      "viewCounter": 996623
+    },
+    {
+      "title": "キミとボク、まわるセカイ。",
+      "contentId": "sm21028340",
+      "startTime": 1370246400000,
+      "viewCounter": 189876
+    }
+  ],
+  "summary": {
+    "totalAnswers": 6,
+    "okAnswers": 3,
+    "ngAnswers": 3,
+    "participatedQuizCount": 3,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 198836
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 166,
+      "group": "D",
+      "date": "2023-07-07",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 26,
+          "contentId": "sm21028340",
+          "title": "キミとボク、まわるセカイ。",
+          "artistList": [
+            "19's Sound Factory"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21028340/21028340",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "くま🍊"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 163,
+      "group": "D",
+      "date": "2023-06-16",
+      "ok": 2,
+      "ng": 2,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 45,
+          "contentId": "sm33127857",
+          "title": "ハナイロ☆シャイガール",
+          "artistList": [
+            "キノシタ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33127857/33127857",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "せえ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "くま🍊"
+            }
+          ]
+        },
+        {
+          "order": 78,
+          "contentId": "sm26624229",
+          "title": "イジワルな出会い",
+          "artistList": [
+            "HoneyWorks"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26624229/26624229",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "くま🍊"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "かのん"
+            }
+          ]
+        },
+        {
+          "order": 81,
+          "contentId": "sm33546188",
+          "title": "かいしんのいちげき！",
+          "artistList": [
+            "天月-あまつき-"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33546188/33546188",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "くま🍊"
+            }
+          ]
+        },
+        {
+          "order": 85,
+          "contentId": "sm23144598",
+          "title": "ストリーミングハート",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23144598/23144598",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "くま🍊"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(12)",
+              "user": "惟月"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 162,
+      "group": "C",
+      "date": "2023-06-10",
+      "ok": 0,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 36,
+          "contentId": "sm12264707",
+          "title": "嘘とダイヤモンド",
+          "artistList": [
+            "ゆちゃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12264707/12264707",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あさいん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "くま🍊"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "もやしP"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "777"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

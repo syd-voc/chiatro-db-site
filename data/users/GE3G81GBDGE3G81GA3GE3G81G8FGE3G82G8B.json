@@ -1,0 +1,242 @@
+{
+  "user": "ぽっくる",
+  "slug": "GE3G81GBDGE3G81GA3GE3G81G8FGE3G82G8B",
+  "correctSongs": [
+    {
+      "contentId": "sm37143419",
+      "title": "ユージュアル・サスペクツ",
+      "artist": "appy",
+      "artistList": [
+        "appy"
+      ],
+      "startTime": "2020-07-05T19:01:03+09:00",
+      "viewCounter": 72675,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm32855820",
+      "title": "ヨヒラ",
+      "artist": "n-buna",
+      "artistList": [
+        "n-buna"
+      ],
+      "startTime": "2018-03-09T18:00:00+09:00",
+      "viewCounter": 1166946,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "appy",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "n-buna",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2020",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2018",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "ユージュアル・サスペクツ",
+      "contentId": "sm37143419",
+      "startTime": 1593943263000,
+      "viewCounter": 72675
+    },
+    {
+      "title": "ヨヒラ",
+      "contentId": "sm32855820",
+      "startTime": 1520586000000,
+      "viewCounter": 1166946
+    }
+  ],
+  "summary": {
+    "totalAnswers": 3,
+    "okAnswers": 2,
+    "ngAnswers": 1,
+    "participatedQuizCount": 3,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 619811
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 69,
+      "group": "",
+      "date": "2021-08-14",
+      "ok": 0,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 32,
+          "contentId": "sm25654626",
+          "title": "パスポート",
+          "artistList": [
+            "青屋夏生"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25654626/25654626",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あざばて。"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぽっくる"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "しーや"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 22,
+      "group": "",
+      "date": "2020-09-13",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 53,
+          "contentId": "sm32855820",
+          "title": "ヨヒラ",
+          "artistList": [
+            "n-buna"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32855820/32855820",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ぽっくる"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 21,
+      "group": "",
+      "date": "2020-09-06",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 62,
+          "contentId": "sm37143419",
+          "title": "ユージュアル・サスペクツ",
+          "artistList": [
+            "appy"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37143419/37143419.28446188",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ぽっくる"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

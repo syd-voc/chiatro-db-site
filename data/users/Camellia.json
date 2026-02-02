@@ -106,5 +106,128 @@
     "winQuizCount": 0,
     "loseQuizCount": 0,
     "medianViews": 244847
-  }
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 212,
+      "group": "F",
+      "date": "2024-08-09",
+      "ok": 0,
+      "ng": 2,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 10,
+          "contentId": "sm32808598",
+          "title": "トモダチオーケストラ",
+          "artistList": [
+            "VICTREAM"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32808598/32808598",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Camellia"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "とちこ"
+            }
+          ]
+        },
+        {
+          "order": 86,
+          "contentId": "sm9793103",
+          "title": "ナイフ",
+          "artistList": [
+            "パワーコードP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9793103/9793103",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "paradoxes"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Camellia"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 177,
+      "group": "D",
+      "date": "2023-09-22",
+      "ok": 1,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 24,
+          "contentId": "sm38224935",
+          "title": "クローバーゲーム",
+          "artistList": [
+            "Teary Planet"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38224935/38224935.21018398",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Camellia"
+            }
+          ]
+        },
+        {
+          "order": 85,
+          "contentId": "sm20332495",
+          "title": "ヤキモチの答え",
+          "artistList": [
+            "HoneyWorks"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20332495/20332495",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぷーまる"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Camellia"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

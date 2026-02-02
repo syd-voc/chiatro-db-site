@@ -533,5 +533,450 @@
     "winQuizCount": 1,
     "loseQuizCount": 0,
     "medianViews": 1579175
-  }
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 213,
+      "group": "F",
+      "date": "2024-08-16",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 9,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 66,
+          "contentId": "sm39257413",
+          "title": "きゅうくらりん",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39257413/39257413.83676498",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "FeLL"
+            }
+          ]
+        },
+        {
+          "order": 68,
+          "contentId": "sm33189938",
+          "title": "ガランド",
+          "artistList": [
+            "ピコン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33189938/33189938",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "FeLL"
+            }
+          ]
+        },
+        {
+          "order": 70,
+          "contentId": "sm42139576",
+          "title": "サイマル的な、",
+          "artistList": [
+            "吉田夜世"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42139576/42139576.3558493",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "FeLL"
+            }
+          ]
+        },
+        {
+          "order": 71,
+          "contentId": "sm38230008",
+          "title": "不埒な喝采",
+          "artistList": [
+            "ポリスピカデリー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38230008/38230008.6045046",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "FeLL"
+            }
+          ]
+        },
+        {
+          "order": 74,
+          "contentId": "sm41087120",
+          "title": "スーパーノヴァ",
+          "artistList": [
+            "r-906"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41087120/41087120.48229659",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "世界のYAMADA"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(9)",
+              "user": "FeLL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 212,
+      "group": "F",
+      "date": "2024-08-09",
+      "ok": 3,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 49,
+          "contentId": "sm38371721",
+          "title": "ただ選択があった",
+          "artistList": [
+            "フロクロ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38371721/38371721.9524076",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "FeLL"
+            }
+          ]
+        },
+        {
+          "order": 51,
+          "contentId": "sm35992766",
+          "title": "ルマ",
+          "artistList": [
+            "かいりきベア"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35992766/35992766.58296902",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "FeLL"
+            }
+          ]
+        },
+        {
+          "order": 93,
+          "contentId": "sm39722490",
+          "title": "アニマル",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39722490/39722490.52620357",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "FeLL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 211,
+      "group": "F",
+      "date": "2024-06-07",
+      "ok": 4,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 72,
+          "contentId": "sm30957032",
+          "title": "お前がメシにありつくなど56876423年早いわ",
+          "artistList": [
+            "SLAVE.V-V-R"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30957032/30957032",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "FeLL"
+            }
+          ]
+        },
+        {
+          "order": 87,
+          "contentId": "sm30469574",
+          "title": "太陽系デスコ",
+          "artistList": [
+            "ナユタン星人"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30469574/30469574",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "FeLL"
+            }
+          ]
+        },
+        {
+          "order": 93,
+          "contentId": "sm29822304",
+          "title": "シャルル",
+          "artistList": [
+            "バルーン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29822304/29822304",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "FeLL"
+            }
+          ]
+        },
+        {
+          "order": 97,
+          "contentId": "so42899713",
+          "title": "ホン・デ・ジュ",
+          "artistList": [
+            "バーミーズ",
+            "無色透名祭公式"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42899713/42899713.32203335",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "FeLL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 210,
+      "group": "F",
+      "date": "2024-05-31",
+      "ok": 3,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 77,
+          "contentId": "sm30177801",
+          "title": "ダンスロボットダンス",
+          "artistList": [
+            "ナユタン星人"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30177801/30177801.97461989",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "FeLL"
+            }
+          ]
+        },
+        {
+          "order": 82,
+          "contentId": "sm43708803",
+          "title": "メズマライザー",
+          "artistList": [
+            "サツキ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43708803/43708803.68284955",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "FeLL"
+            }
+          ]
+        },
+        {
+          "order": 96,
+          "contentId": "sm43400125",
+          "title": "むげんのチケット",
+          "artistList": [
+            "まらしぃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43400125/43400125.24246017",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "FeLL"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "わいえい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(13)",
+              "user": "そい"
+            }
+          ]
+        },
+        {
+          "order": 100,
+          "contentId": "sm35553134",
+          "title": "パノプティコン",
+          "artistList": [
+            "r-906"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35553134/35553134.6969675",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "マグカップ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "FeLL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 202,
+      "group": "D",
+      "date": "2024-03-24",
+      "ok": 3,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 72,
+          "contentId": "sm19550230",
+          "title": "その魔王はまるで恋する乙女のように",
+          "artistList": [
+            "家の裏でマンボウが死んでるP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19550230/19550230",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "FeLL"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 84,
+          "contentId": "sm43035761",
+          "title": "ウルトラトレーラー",
+          "artistList": [
+            "マサラダ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43035761/43035761.12073",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "FeLL"
+            }
+          ]
+        },
+        {
+          "order": 91,
+          "contentId": "sm42546717",
+          "title": "オーヴァーキル",
+          "artistList": [
+            "夏山よつぎ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42546717/42546717.5011864",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "FeLL"
+            }
+          ]
+        },
+        {
+          "order": 92,
+          "contentId": "sm38508888",
+          "title": "へべれけジャンキー",
+          "artistList": [
+            "syudou"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38508888/38508888.55927529",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "FeLL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 201,
+      "group": "D",
+      "date": "2024-03-15",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 96,
+          "contentId": "sm37441963",
+          "title": "ダーリンダンス",
+          "artistList": [
+            "かいりきベア"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37441963/37441963.8827720",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "FeLL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -472,5 +472,535 @@
     "winQuizCount": 2,
     "loseQuizCount": 0,
     "medianViews": 1466082
-  }
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 238,
+      "group": "F",
+      "date": "2025-02-21",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 9,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 47,
+          "contentId": "sm43449029",
+          "title": "たびのまえ、たびのあと",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43449029/43449029.12681832",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "PlusC"
+            }
+          ]
+        },
+        {
+          "order": 52,
+          "contentId": "so44573391",
+          "title": "そこに在る、光。",
+          "artistList": [
+            "DECO*27",
+            "すりぃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44573391/44573391.53629360",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "PlusC"
+            }
+          ]
+        },
+        {
+          "order": 58,
+          "contentId": "sm44195185",
+          "title": "エンパープル",
+          "artistList": [
+            "はるまきごはん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44195185/44195185.23848231",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "PlusC"
+            }
+          ]
+        },
+        {
+          "order": 59,
+          "contentId": "sm26848673",
+          "title": "ロケットサイダー",
+          "artistList": [
+            "ナユタン星人"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26848673/26848673.62409260",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "PlusC"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm42833438",
+          "title": "NEO",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42833438/42833438.39034157",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "PlusC"
+            }
+          ]
+        },
+        {
+          "order": 64,
+          "contentId": "sm19870840",
+          "title": "自傷無色",
+          "artistList": [
+            "ササノマリイ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19870840/19870840",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(9)",
+              "user": "PlusC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 232,
+      "group": "F",
+      "date": "2025-01-10",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 14,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 18,
+          "contentId": "sm20331479",
+          "title": "しんでしまうとはなさけない！",
+          "artistList": [
+            "ワンダフル★オポチュニティ！"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20331479/20331479",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "PlusC"
+            }
+          ]
+        },
+        {
+          "order": 41,
+          "contentId": "sm43935804",
+          "title": "ニコニコ動画",
+          "artistList": [
+            "カルロス袴田(サイゼP)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43935804/43935804.39721075",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Ottoooooo"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "8610"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "りつりつ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "PlusC"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Allium"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "アバタシモエラ"
+            }
+          ]
+        },
+        {
+          "order": 75,
+          "contentId": "sm7610111",
+          "title": "ぼくらの16bit戦争",
+          "artistList": [
+            "sasakure.UK"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7610111/7610111",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "がお〜"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "PlusC"
+            }
+          ]
+        },
+        {
+          "order": 78,
+          "contentId": "sm39853779",
+          "title": "サラマンダー",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39853779/39853779.47627592",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "PlusC"
+            }
+          ]
+        },
+        {
+          "order": 82,
+          "contentId": "sm29782999",
+          "title": "乱躁滅裂ガール",
+          "artistList": [
+            "れるりり"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29782999/29782999",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "PlusC"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 85,
+          "contentId": "sm8686165",
+          "title": "くるみ☆ぽんちお",
+          "artistList": [
+            "まだ仔"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8686165/8686165",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "PlusC"
+            }
+          ]
+        },
+        {
+          "order": 88,
+          "contentId": "sm38824626",
+          "title": "ノンブレス・オブリージュ",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38824626/38824626.77353236",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(14)",
+              "user": "PlusC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 231,
+      "group": "F",
+      "date": "2024-12-20",
+      "ok": 3,
+      "ng": 2,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 49,
+          "contentId": "sm43854078",
+          "title": "ユレ弧",
+          "artistList": [
+            "原口沙輔"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43854078/43854078.54595937",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "PlusC"
+            }
+          ]
+        },
+        {
+          "order": 89,
+          "contentId": "sm11509720",
+          "title": "Nyanyanyanyanyanyanya!",
+          "artistList": [
+            "daniwell"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/11509720/11509720",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "PlusC"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "らびっと"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 97,
+          "contentId": "sm41383081",
+          "title": "ハナタバ",
+          "artistList": [
+            "MIMI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41383081/41383081.19577756",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "PlusC"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 99,
+          "contentId": "sm11809611",
+          "title": "マトリョシカ",
+          "artistList": [
+            "ハチ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/11809611/11809611",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "PlusC"
+            }
+          ]
+        },
+        {
+          "order": 100,
+          "contentId": "sm22960446",
+          "title": "ウミユリ海底譚",
+          "artistList": [
+            "n-buna"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22960446/22960446",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "PlusC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 229,
+      "group": "F",
+      "date": "2024-12-06",
+      "ok": 3,
+      "ng": 2,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 29,
+          "contentId": "sm37073901",
+          "title": "よくばり",
+          "artistList": [
+            "Ayase"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37073901/37073901.72264436",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "雪にゃ〜"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "PlusC"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ワヲンルリヤ"
+            }
+          ]
+        },
+        {
+          "order": 81,
+          "contentId": "sm33477835",
+          "title": "リコレクションエンドロウル",
+          "artistList": [
+            "ツミキ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33477835/33477835",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ワヲンルリヤ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "PlusC"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(8)",
+              "user": "パム"
+            }
+          ]
+        },
+        {
+          "order": 87,
+          "contentId": "sm33475587",
+          "title": "トーキョーゲットー",
+          "artistList": [
+            "Eve"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33475587/33475587",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "PlusC"
+            }
+          ]
+        },
+        {
+          "order": 91,
+          "contentId": "sm41951611",
+          "title": "一千光年",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41951611/41951611.65711710",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "PlusC"
+            }
+          ]
+        },
+        {
+          "order": 100,
+          "contentId": "sm40236688",
+          "title": "パジャミィ",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40236688/40236688.67994808",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "PlusC"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

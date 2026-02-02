@@ -1829,5 +1829,2114 @@
     "winQuizCount": 17,
     "loseQuizCount": 0,
     "medianViews": 1401515
-  }
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 255,
+      "group": "F",
+      "date": "2025-06-20",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 7,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 42,
+          "contentId": "sm32025594",
+          "title": "君の神様になりたい。",
+          "artistList": [
+            "カンザキイオリ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32025594/32025594",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 49,
+          "contentId": "sm30156654",
+          "title": "DAYBREAK FRONTLINE",
+          "artistList": [
+            "Orangestar"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30156654/30156654",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 50,
+          "contentId": "sm14330479",
+          "title": "アンハッピーリフレイン",
+          "artistList": [
+            "wowaka"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14330479/14330479",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 51,
+          "contentId": "sm41728811",
+          "title": "お呪い",
+          "artistList": [
+            "なきそ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41728811/41728811.12922232",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 53,
+          "contentId": "sm11713594",
+          "title": "会いたい",
+          "artistList": [
+            "シグナルP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/11713594/11713594",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(7)",
+              "user": "tundra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 253,
+      "group": "F",
+      "date": "2025-06-06",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 6,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 43,
+          "contentId": "sm32413210",
+          "title": "ポジティ部vsネガティ部",
+          "artistList": [
+            "ワンダフル★オポチュニティ！"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32413210/32413210",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ふわふわ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 54,
+          "contentId": "sm31241401",
+          "title": "ナンセンス文学",
+          "artistList": [
+            "Eve"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31241401/31241401",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 58,
+          "contentId": "sm31700140",
+          "title": "命に嫌われている。",
+          "artistList": [
+            "カンザキイオリ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31700140/31700140",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 60,
+          "contentId": "sm22942867",
+          "title": "LUVORATORRRRRY!",
+          "artistList": [
+            "ギガ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22942867/22942867",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 61,
+          "contentId": "sm29822304",
+          "title": "シャルル",
+          "artistList": [
+            "バルーン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29822304/29822304",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(6)",
+              "user": "tundra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 249,
+      "group": "F",
+      "date": "2025-05-10",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 8,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 52,
+          "contentId": "sm21443197",
+          "title": "ビバハピ",
+          "artistList": [
+            "Mitchie M"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21443197/21443197.57360564",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 55,
+          "contentId": "sm1588476",
+          "title": "ミラクルペイント",
+          "artistList": [
+            "OSTER project"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1588476/1588476",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 56,
+          "contentId": "sm29498987",
+          "title": "Sugar Guitar",
+          "artistList": [
+            "ポリスピカデリー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29498987/29498987.37576428",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 62,
+          "contentId": "sm30964600",
+          "title": "ぼくらはみんな意味不明",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30964600/30964600",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm32492001",
+          "title": "何でも言うことを聞いてくれるアカネチャン",
+          "artistList": [
+            "GYARI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32492001/32492001",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(8)",
+              "user": "tundra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 248,
+      "group": "F",
+      "date": "2025-05-03",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 6,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 59,
+          "contentId": "sm19697286",
+          "title": "延命治療",
+          "artistList": [
+            "Neru"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19697286/19697286",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 61,
+          "contentId": "sm24626484",
+          "title": "雨き声残響",
+          "artistList": [
+            "Orangestar"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24626484/24626484",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm32076378",
+          "title": "ドラマツルギー",
+          "artistList": [
+            "Eve"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32076378/32076378",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 64,
+          "contentId": "sm20286605",
+          "title": "ハウトゥー世界征服",
+          "artistList": [
+            "Neru"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20286605/20286605",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 65,
+          "contentId": "sm31314079",
+          "title": "拝啓ドッペルゲンガー",
+          "artistList": [
+            "kemu"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31314079/31314079",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(6)",
+              "user": "tundra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 245,
+      "group": "F",
+      "date": "2025-04-11",
+      "ok": 5,
+      "ng": 4,
+      "winRank": 9,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 14,
+          "contentId": "sm32488407",
+          "title": "キミペディア",
+          "artistList": [
+            "Junky"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32488407/32488407",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "tundra"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 27,
+          "contentId": "sm33260180",
+          "title": "ハローディストピア",
+          "artistList": [
+            "まふまふ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33260180/33260180",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "tundra"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "アバタシモエラ"
+            }
+          ]
+        },
+        {
+          "order": 30,
+          "contentId": "sm40663116",
+          "title": "いいねってYEAH!",
+          "artistList": [
+            "ワンダフル★オポチュニティ！"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40663116/40663116.89590145",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 31,
+          "contentId": "sm30218540",
+          "title": "ヒロイックリトル",
+          "artistList": [
+            "TOKOTOKO（西沢さんP）"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30218540/30218540",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 42,
+          "contentId": "sm3440324",
+          "title": "リグレットメッセージ",
+          "artistList": [
+            "悪ノP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/3440324/3440324",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 51,
+          "contentId": "sm31289955",
+          "title": "人間そっくり",
+          "artistList": [
+            "しじま"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31289955/31289955",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "tundra"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 56,
+          "contentId": "sm9205429",
+          "title": "Unfragment",
+          "artistList": [
+            "鼻そうめんP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9205429/9205429",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "tundra"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm4794708",
+          "title": "番凩",
+          "artistList": [
+            "仕事してP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/4794708/4794708",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 65,
+          "contentId": "sm31843582",
+          "title": "リバースユニバース",
+          "artistList": [
+            "ナユタン星人"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31843582/31843582",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "すとくら"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(9)",
+              "user": "tundra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 244,
+      "group": "F",
+      "date": "2025-04-05",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 11,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 71,
+          "contentId": "sm7696158",
+          "title": "愛言葉",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7696158/7696158",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "雪にゃ〜"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "8610"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "tundra"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "らびっと"
+            }
+          ]
+        },
+        {
+          "order": 77,
+          "contentId": "sm33854807",
+          "title": "アディショナルメモリー",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33854807/33854807",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 83,
+          "contentId": "sm15440067",
+          "title": "サイバーサンダーサイダー",
+          "artistList": [
+            "EZFG"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15440067/15440067.23229688",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 84,
+          "contentId": "sm11398357",
+          "title": "モザイクロール",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/11398357/11398357",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 88,
+          "contentId": "sm12589203",
+          "title": "繰り返し一粒",
+          "artistList": [
+            "猫虫"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12589203/12589203",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 90,
+          "contentId": "sm33891098",
+          "title": "キミノカゼニナル",
+          "artistList": [
+            "のぼる↑"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33891098/33891098",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(11)",
+              "user": "tundra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 243,
+      "group": "F",
+      "date": "2025-03-28",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 7,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 14,
+          "contentId": "sm31550770",
+          "title": "ドドド更生人生",
+          "artistList": [
+            "ぷす"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31550770/31550770",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 51,
+          "contentId": "sm7155972",
+          "title": "紅一葉",
+          "artistList": [
+            "黒うさP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7155972/7155972",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 57,
+          "contentId": "sm29021785",
+          "title": "罪の名前",
+          "artistList": [
+            "ryo"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29021785/29021785",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 66,
+          "contentId": "sm17064620",
+          "title": "アカツキアライヴァル",
+          "artistList": [
+            "Last Note."
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/17064620/17064620",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 69,
+          "contentId": "sm20503130",
+          "title": "魔法少女幸福論",
+          "artistList": [
+            "トーマ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20503130/20503130",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(7)",
+              "user": "tundra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 240,
+      "group": "F",
+      "date": "2025-03-07",
+      "ok": 5,
+      "ng": 3,
+      "winRank": 4,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 2,
+          "contentId": "sm29920831",
+          "title": "また同じ夢を見てる",
+          "artistList": [
+            "TOKOTOKO（西沢さんP）"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29920831/29920831",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "tundra"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 20,
+          "contentId": "sm25503380",
+          "title": "chocolate box",
+          "artistList": [
+            "dezzy(一億円P)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25503380/25503380",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 21,
+          "contentId": "sm25082246",
+          "title": "鬼KYOKAN",
+          "artistList": [
+            "ワンダフル★オポチュニティ！"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25082246/25082246",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 27,
+          "contentId": "sm32296100",
+          "title": "シックシックシック",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32296100/32296100",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 28,
+          "contentId": "sm19683818",
+          "title": "レンきゅんなう！",
+          "artistList": [
+            "オワタP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19683818/19683818",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "こんこん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 31,
+          "contentId": "sm27637255",
+          "title": "アイシテ",
+          "artistList": [
+            "とあ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27637255/27637255",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "tundra"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "contentId": "sm33715008",
+          "title": "廃墟の国のアリス",
+          "artistList": [
+            "まふまふ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33715008/33715008",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "N氏"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "8610"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "こんこん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "tundra"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 40,
+          "contentId": "sm29674067",
+          "title": "KSGR地獄の刑",
+          "artistList": [
+            "ワンダフル★オポチュニティ！"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29674067/29674067",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(4)",
+              "user": "tundra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 239,
+      "group": "F",
+      "date": "2025-02-28",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 10,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 56,
+          "contentId": "sm9206487",
+          "title": "鏡音八八花合戦",
+          "artistList": [
+            "モジャP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9206487/9206487",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 61,
+          "contentId": "sm15308214",
+          "title": "東京テディベア",
+          "artistList": [
+            "Neru"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15308214/15308214",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 62,
+          "contentId": "sm25013526",
+          "title": "u",
+          "artistList": [
+            "shr"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25013526/25013526",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 65,
+          "contentId": "sm33351113",
+          "title": "kick",
+          "artistList": [
+            "こめだわら"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33351113/33351113",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "tundra"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 69,
+          "contentId": "sm25379507",
+          "title": "このふざけた素晴らしき世界は、僕の為にある",
+          "artistList": [
+            "n.k"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25379507/25379507",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 70,
+          "contentId": "nm5988510",
+          "title": "星屑ユートピア",
+          "artistList": [
+            "otetsu"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/5988510/5988510",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(10)",
+              "user": "tundra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 238,
+      "group": "F",
+      "date": "2025-02-21",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 1,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 17,
+          "contentId": "sm30334052",
+          "title": "カフネ",
+          "artistList": [
+            "有機酸"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30334052/30334052",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 20,
+          "contentId": "sm10977110",
+          "title": "パンツ脱げるもん！",
+          "artistList": [
+            "ちょむP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10977110/10977110",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 22,
+          "contentId": "sm10759623",
+          "title": "ワールズエンド・ダンスホール",
+          "artistList": [
+            "wowaka"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10759623/10759623",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 24,
+          "contentId": "sm9205429",
+          "title": "Unfragment",
+          "artistList": [
+            "鼻そうめんP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9205429/9205429",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 32,
+          "contentId": "sm28676334",
+          "title": "東京モノクロ",
+          "artistList": [
+            "オワタP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28676334/28676334",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(1)",
+              "user": "tundra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 236,
+      "group": "F",
+      "date": "2025-02-07",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 4,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 26,
+          "contentId": "sm5671863",
+          "title": "Re_birthday",
+          "artistList": [
+            "悪ノP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/5671863/5671863",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "tundra"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 28,
+          "contentId": "sm30681505",
+          "title": "フリィダム ロリィタ",
+          "artistList": [
+            "ねじ式"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30681505/30681505",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 29,
+          "contentId": "sm33013085",
+          "title": "自由に捕らわれる。",
+          "artistList": [
+            "カンザキイオリ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33013085/33013085",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 30,
+          "contentId": "sm2916956",
+          "title": "悪ノ娘",
+          "artistList": [
+            "悪ノP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2916956/2916956",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm37828296",
+          "title": "ステラ",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37828296/37828296.28087819",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 36,
+          "contentId": "sm30436318",
+          "title": "セグメントエラー",
+          "artistList": [
+            "歩く人"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30436318/30436318",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(4)",
+              "user": "tundra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 235,
+      "group": "F",
+      "date": "2025-01-31",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 10,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 64,
+          "contentId": "sm3645817",
+          "title": "ブラック★ロックシューター",
+          "artistList": [
+            "ryo"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/3645817/3645817",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 68,
+          "contentId": "sm29249092",
+          "title": "マジカル☆リンちゃんなう！SSs",
+          "artistList": [
+            "オワタP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29249092/29249092",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "tundra"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "らびっと"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(9)",
+              "user": "がお〜"
+            }
+          ]
+        },
+        {
+          "order": 70,
+          "contentId": "sm31700140",
+          "title": "命に嫌われている。",
+          "artistList": [
+            "カンザキイオリ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31700140/31700140",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 72,
+          "contentId": "sm31757894",
+          "title": "マニック",
+          "artistList": [
+            "*Luna"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31757894/31757894",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 73,
+          "contentId": "sm31401854",
+          "title": "TODAY THE FUTURE",
+          "artistList": [
+            "はりーP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31401854/31401854",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 74,
+          "contentId": "sm32214623",
+          "title": "天才ロック",
+          "artistList": [
+            "カラスヤサボウ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32214623/32214623",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(10)",
+              "user": "tundra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 234,
+      "group": "F",
+      "date": "2025-01-24",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 5,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 17,
+          "contentId": "sm31241401",
+          "title": "ナンセンス文学",
+          "artistList": [
+            "Eve"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31241401/31241401",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "tundra"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Ottoooooo"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Allium"
+            }
+          ]
+        },
+        {
+          "order": 20,
+          "contentId": "sm27943541",
+          "title": "キドアイラク",
+          "artistList": [
+            "Task"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27943541/27943541",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "aq瑠璃"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "パム"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 25,
+          "contentId": "sm28113401",
+          "title": "シスター＝セクトルージュ",
+          "artistList": [
+            "nyanyannya"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28113401/28113401",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 41,
+          "contentId": "sm31421658",
+          "title": "ローファイ・タイムズ",
+          "artistList": [
+            "しーくん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31421658/31421658",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 56,
+          "contentId": "nm3883201",
+          "title": "チョコレート・トレイン",
+          "artistList": [
+            "PENGUINS PROJECT"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/3883201/3883201",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 58,
+          "contentId": "sm29054322",
+          "title": "サンセットマーチ",
+          "artistList": [
+            "けーだっしゅ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29054322/29054322",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(5)",
+              "user": "tundra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 233,
+      "group": "F",
+      "date": "2025-01-17",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 3,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 12,
+          "contentId": "sm28446746",
+          "title": "クソみたいなJ-POP",
+          "artistList": [
+            "梨本うい"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28446746/28446746",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 18,
+          "contentId": "sm31241401",
+          "title": "ナンセンス文学",
+          "artistList": [
+            "Eve"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31241401/31241401",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 24,
+          "contentId": "sm35713086",
+          "title": "チョコレートミルク",
+          "artistList": [
+            "Aqu3ra"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35713086/35713086.80799547",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 26,
+          "contentId": "sm28108489",
+          "title": "ヒトサマアレルギー",
+          "artistList": [
+            "かいりきベア"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28108489/28108489",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 29,
+          "contentId": "sm30657082",
+          "title": "大正ロマンチック",
+          "artistList": [
+            "40mP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30657082/30657082",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(3)",
+              "user": "tundra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 231,
+      "group": "F",
+      "date": "2024-12-20",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 10,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 3,
+          "contentId": "sm9305683",
+          "title": "白ノ娘",
+          "artistList": [
+            "悪ノP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9305683/9305683",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "tundra"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "アバタシモエラ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "高1"
+            }
+          ]
+        },
+        {
+          "order": 24,
+          "contentId": "sm29518960",
+          "title": "ネアの幻遊",
+          "artistList": [
+            "清水コウ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29518960/29518960",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "paradoxes"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "contentId": "sm30324029",
+          "title": "スマートを模索する",
+          "artistList": [
+            "sasakure.UK"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30324029/30324029",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 43,
+          "contentId": "sm38022736",
+          "title": "リンちゃんリリリリリ",
+          "artistList": [
+            "シーベ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38022736/38022736.28814327",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm30038738",
+          "title": "回る空うさぎ",
+          "artistList": [
+            "Orangestar"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30038738/30038738",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 73,
+          "contentId": "sm25544043",
+          "title": "七つの罪と罰",
+          "artistList": [
+            "悪ノP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25544043/25544043",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "tundra"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 77,
+          "contentId": "sm29711193",
+          "title": "玲瓏流星群",
+          "artistList": [
+            "YASUHIRO(康寛)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29711193/29711193",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(10)",
+              "user": "tundra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 229,
+      "group": "F",
+      "date": "2024-12-06",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 10,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 11,
+          "contentId": "sm29820805",
+          "title": "彼の王は泥より生まれた",
+          "artistList": [
+            "悪ノP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29820805/29820805",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あいおい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "tundra"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 44,
+          "contentId": "sm34812051",
+          "title": "あわよくばきみの眷属になりたいな",
+          "artistList": [
+            "Peg"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34812051/34812051.16232",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 52,
+          "contentId": "sm28158448",
+          "title": "追跡！家出少女の実態！",
+          "artistList": [
+            "SLAVE.V-V-R"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28158448/28158448",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 56,
+          "contentId": "so23995080",
+          "title": "セツナドライブ",
+          "artistList": [
+            "滝善充"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23995080/23995080",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 75,
+          "contentId": "sm32076378",
+          "title": "ドラマツルギー",
+          "artistList": [
+            "Eve"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32076378/32076378",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 88,
+          "contentId": "sm30681505",
+          "title": "フリィダム ロリィタ",
+          "artistList": [
+            "ねじ式"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30681505/30681505",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(10)",
+              "user": "tundra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 228,
+      "group": "F",
+      "date": "2024-11-29",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 10,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 9,
+          "contentId": "sm29363487",
+          "title": "恋愛デコレート",
+          "artistList": [
+            "あんP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29363487/29363487",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 32,
+          "contentId": "sm30218540",
+          "title": "ヒロイックリトル",
+          "artistList": [
+            "TOKOTOKO（西沢さんP）"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30218540/30218540",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あいおい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 40,
+          "contentId": "sm28956956",
+          "title": "だんだん早くなる with 伊藤園",
+          "artistList": [
+            "40mP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28956956/28956956",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "8610"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "アバタシモエラ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "tundra"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "こん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "パム"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(4)",
+              "user": "アルカリ"
+            }
+          ]
+        },
+        {
+          "order": 52,
+          "contentId": "sm25066481",
+          "title": "月光潤色ガール",
+          "artistList": [
+            "れるりり"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25066481/25066481",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 59,
+          "contentId": "sm19697286",
+          "title": "延命治療",
+          "artistList": [
+            "Neru"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19697286/19697286",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "tundra"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "翠"
+            }
+          ]
+        },
+        {
+          "order": 68,
+          "contentId": "sm31972214",
+          "title": "はきだす",
+          "artistList": [
+            "mao sasagawa"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31972214/31972214",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "tundra"
+            }
+          ]
+        },
+        {
+          "order": 69,
+          "contentId": "sm28751658",
+          "title": "脱獄",
+          "artistList": [
+            "Neru"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28751658/28751658",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(10)",
+              "user": "tundra"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

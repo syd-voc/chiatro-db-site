@@ -1,0 +1,218 @@
+{
+  "user": "なず",
+  "slug": "GE3G81GAAGE3G81G9A",
+  "correctSongs": [
+    {
+      "contentId": "sm30746050",
+      "title": "東京ディスコミュニケーション",
+      "artist": "Virgin Noize",
+      "artistList": [
+        "Virgin Noize"
+      ],
+      "startTime": "2017-03-03T03:33:00+09:00",
+      "viewCounter": 172522,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm33965071",
+      "title": "愛言葉Ⅲ",
+      "artist": "DECO*27",
+      "artistList": [
+        "DECO*27"
+      ],
+      "startTime": "2018-10-08T19:00:00+09:00",
+      "viewCounter": 2750917,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "Virgin Noize",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "DECO*27",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2017",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2018",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "東京ディスコミュニケーション",
+      "contentId": "sm30746050",
+      "startTime": 1488479580000,
+      "viewCounter": 172522
+    },
+    {
+      "title": "愛言葉Ⅲ",
+      "contentId": "sm33965071",
+      "startTime": 1538992800000,
+      "viewCounter": 2750917
+    }
+  ],
+  "summary": {
+    "totalAnswers": 3,
+    "okAnswers": 2,
+    "ngAnswers": 1,
+    "participatedQuizCount": 2,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 1461720
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 33,
+      "group": "",
+      "date": "2020-12-06",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 67,
+          "contentId": "sm33965071",
+          "title": "愛言葉Ⅲ",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33965071/33965071",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "なず"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 27,
+      "group": "",
+      "date": "2020-10-18",
+      "ok": 1,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 56,
+          "contentId": "sm30746050",
+          "title": "東京ディスコミュニケーション",
+          "artistList": [
+            "Virgin Noize"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30746050/30746050",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "なず"
+            }
+          ]
+        },
+        {
+          "order": 72,
+          "contentId": "sm36424703",
+          "title": "歌ってみせますよ",
+          "artistList": [
+            "ばらっげ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36424703/36424703.97909675",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なず"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ぺとぉせり"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

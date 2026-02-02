@@ -214,5 +214,380 @@
     "winQuizCount": 1,
     "loseQuizCount": 0,
     "medianViews": 187112
-  }
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 253,
+      "group": "F",
+      "date": "2025-06-06",
+      "ok": 5,
+      "ng": 3,
+      "winRank": 2,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 1,
+          "contentId": "sm40356976",
+          "title": "アポロ",
+          "artistList": [
+            "くりたにか"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40356976/40356976.91986355",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "itoRia"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "contentId": "sm35289644",
+          "title": "22歳の反抗",
+          "artistList": [
+            "傘村トータ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35289644/35289644.2003941",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "itoRia"
+            }
+          ]
+        },
+        {
+          "order": 9,
+          "contentId": "sm37417492",
+          "title": "洗礼",
+          "artistList": [
+            "RuLu"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37417492/37417492.8639084",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "りつりつ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "itoRia"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "らびっと"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 12,
+          "contentId": "sm32516487",
+          "title": "トウテツ",
+          "artistList": [
+            "MARETU"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32516487/32516487",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "itoRia"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "らびっと"
+            }
+          ]
+        },
+        {
+          "order": 15,
+          "contentId": "sm41711926",
+          "title": "ダウンタイム",
+          "artistList": [
+            "すりぃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41711926/41711926.41726061",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "itoRia"
+            }
+          ]
+        },
+        {
+          "order": 20,
+          "contentId": "sm44172719",
+          "title": "Summering",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44172719/44172719.40811383",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "itoRia"
+            }
+          ]
+        },
+        {
+          "order": 21,
+          "contentId": "sm35288515",
+          "title": "どうでもいいや",
+          "artistList": [
+            "ちいたな"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35288515/35288515.74325213",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "itoRia"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "おやすみ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 29,
+          "contentId": "sm39336579",
+          "title": "シャンティ",
+          "artistList": [
+            "wotaku"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39336579/39336579.42346257",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(2)",
+              "user": "itoRia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 251,
+      "group": "E",
+      "date": "2025-05-23",
+      "ok": 0,
+      "ng": 5,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 9,
+          "contentId": "so20614676",
+          "title": "蜘蛛糸モノポリー",
+          "artistList": [
+            "sasakure.UK"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20614676/20614676",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "itoRia"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ありちか"
+            }
+          ]
+        },
+        {
+          "order": 15,
+          "contentId": "sm23820438",
+          "title": "アンデッドエネミー",
+          "artistList": [
+            "ギガ",
+            "スズム"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23820438/23820438",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "itoRia"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "タルタル素数"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "paradoxes"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "8610"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 24,
+          "contentId": "sm31917694",
+          "title": "Delusion Girl",
+          "artistList": [
+            "灯油"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31917694/31917694",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "itoRia"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "つばさ"
+            }
+          ]
+        },
+        {
+          "order": 29,
+          "contentId": "sm43979857",
+          "title": "main dishが足りてない",
+          "artistList": [
+            "宮守文学"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43979857/43979857.34760219",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "paradoxes"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ニナ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "itoRia"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "こんこん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "777"
+            }
+          ]
+        },
+        {
+          "order": 40,
+          "contentId": "sm43433310",
+          "title": "もう寝なさい",
+          "artistList": [
+            "saikawa"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43433310/43433310.19255699",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なめこんぶ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "itoRia"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

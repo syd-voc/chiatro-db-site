@@ -1,0 +1,317 @@
+{
+  "user": "造朱",
+  "slug": "GE9G80GA0GE6G9CGB1",
+  "correctSongs": [
+    {
+      "contentId": "sm37950704",
+      "title": "PS5が当たらない",
+      "artist": "にっくきゆう",
+      "artistList": [
+        "にっくきゆう"
+      ],
+      "startTime": "2020-12-12T11:58:02+09:00",
+      "viewCounter": 141469,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm38412278",
+      "title": "独白、通学路にて",
+      "artist": "卯花ロク",
+      "artistList": [
+        "卯花ロク"
+      ],
+      "startTime": "2021-03-13T18:00:00+09:00",
+      "viewCounter": 74297,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm40356976",
+      "title": "アポロ",
+      "artist": "くりたにか",
+      "artistList": [
+        "くりたにか"
+      ],
+      "startTime": "2022-04-22T21:45:00+09:00",
+      "viewCounter": 214593,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "にっくきゆう",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "卯花ロク",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "くりたにか",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2020",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2021",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2022",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "PS5が当たらない",
+      "contentId": "sm37950704",
+      "startTime": 1607741882000,
+      "viewCounter": 141469
+    },
+    {
+      "title": "独白、通学路にて",
+      "contentId": "sm38412278",
+      "startTime": 1615626000000,
+      "viewCounter": 74297
+    },
+    {
+      "title": "アポロ",
+      "contentId": "sm40356976",
+      "startTime": 1650631500000,
+      "viewCounter": 214593
+    }
+  ],
+  "summary": {
+    "totalAnswers": 5,
+    "okAnswers": 3,
+    "ngAnswers": 2,
+    "participatedQuizCount": 2,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 141469
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 162,
+      "group": "B",
+      "date": "2023-06-09",
+      "ok": 2,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 99,
+          "contentId": "sm38412278",
+          "title": "独白、通学路にて",
+          "artistList": [
+            "卯花ロク"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38412278/38412278.87997118",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "造朱"
+            }
+          ]
+        },
+        {
+          "order": 116,
+          "contentId": "sm40356976",
+          "title": "アポロ",
+          "artistList": [
+            "くりたにか"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40356976/40356976.91986355",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "飛鳥"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "すだち"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "造朱"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 141,
+      "group": "B",
+      "date": "2023-01-14",
+      "ok": 1,
+      "ng": 2,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 60,
+          "contentId": "sm8396261",
+          "title": "キーンコーンカーンコーン",
+          "artistList": [
+            "おにゅうP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8396261/8396261",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "うつぼっち"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "造朱"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぺとぉせり"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 97,
+          "contentId": "sm37950704",
+          "title": "PS5が当たらない",
+          "artistList": [
+            "にっくきゆう"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37950704/37950704.39470996",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "造朱"
+            }
+          ]
+        },
+        {
+          "order": 105,
+          "contentId": "sm38158162",
+          "title": "Amazing Dolce",
+          "artistList": [
+            "ひとしずく"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38158162/38158162.10942252",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "造朱"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "会長"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

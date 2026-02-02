@@ -1,0 +1,401 @@
+{
+  "user": "なまこむぎ",
+  "slug": "GE3G81GAAGE3G81GBEGE3G81G93GE3G82G80GE3G81G8E",
+  "correctSongs": [
+    {
+      "contentId": "sm20470051",
+      "title": "ロスタイムメモリー",
+      "artist": "じん",
+      "artistList": [
+        "じん"
+      ],
+      "startTime": "2013-03-30T02:27:23+09:00",
+      "viewCounter": 6522448,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm31082554",
+      "title": "インターネッツ・ディスコ",
+      "artist": "buzzG",
+      "artistList": [
+        "buzzG"
+      ],
+      "startTime": "2017-04-23T20:00:00+09:00",
+      "viewCounter": 303491,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm24056707",
+      "title": "クイーンオブハート",
+      "artist": "奏音69",
+      "artistList": [
+        "奏音69"
+      ],
+      "startTime": "2014-07-21T20:18:28+09:00",
+      "viewCounter": 757266,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm26661454",
+      "title": "アイラ",
+      "artist": "n-buna",
+      "artistList": [
+        "n-buna"
+      ],
+      "startTime": "2015-07-08T19:00:00+09:00",
+      "viewCounter": 4624451,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "じん",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "buzzG",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "奏音69",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "n-buna",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2013",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2017",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2014",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2015",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "ロスタイムメモリー",
+      "contentId": "sm20470051",
+      "startTime": 1364578043000,
+      "viewCounter": 6522448
+    },
+    {
+      "title": "インターネッツ・ディスコ",
+      "contentId": "sm31082554",
+      "startTime": 1492945200000,
+      "viewCounter": 303491
+    },
+    {
+      "title": "クイーンオブハート",
+      "contentId": "sm24056707",
+      "startTime": 1405941508000,
+      "viewCounter": 757266
+    },
+    {
+      "title": "アイラ",
+      "contentId": "sm26661454",
+      "startTime": 1436349600000,
+      "viewCounter": 4624451
+    }
+  ],
+  "summary": {
+    "totalAnswers": 8,
+    "okAnswers": 4,
+    "ngAnswers": 4,
+    "participatedQuizCount": 2,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 2690859
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 217,
+      "group": "E",
+      "date": "2024-09-14",
+      "ok": 3,
+      "ng": 2,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 22,
+          "contentId": "sm33392870",
+          "title": "PLATONIC GIRL",
+          "artistList": [
+            "みきとP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33392870/33392870",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なまこむぎ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ニナ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ひーた"
+            }
+          ]
+        },
+        {
+          "order": 28,
+          "contentId": "sm28174079",
+          "title": "藍とサイレン",
+          "artistList": [
+            "ジグ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28174079/28174079",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なまこむぎ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 40,
+          "contentId": "sm31082554",
+          "title": "インターネッツ・ディスコ",
+          "artistList": [
+            "buzzG"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31082554/31082554",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "なまこむぎ"
+            }
+          ]
+        },
+        {
+          "order": 65,
+          "contentId": "sm24056707",
+          "title": "クイーンオブハート",
+          "artistList": [
+            "奏音69"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24056707/24056707",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "なまこむぎ"
+            }
+          ]
+        },
+        {
+          "order": 100,
+          "contentId": "sm26661454",
+          "title": "アイラ",
+          "artistList": [
+            "n-buna"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26661454/26661454",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "なまこむぎ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 113,
+      "group": "A",
+      "date": "2022-06-24",
+      "ok": 1,
+      "ng": 2,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 15,
+          "contentId": "sm35005271",
+          "title": "ヴィクター",
+          "artistList": [
+            "めいちゃん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35005271/35005271.4454",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なまこむぎ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "さいころ"
+            }
+          ]
+        },
+        {
+          "order": 50,
+          "contentId": "sm20470051",
+          "title": "ロスタイムメモリー",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20470051/20470051",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "なまこむぎ"
+            }
+          ]
+        },
+        {
+          "order": 51,
+          "contentId": "sm20937824",
+          "title": "かくしごと",
+          "artistList": [
+            "まふまふ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20937824/20937824",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なまこむぎ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠くない人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(7)",
+              "user": "とりりす。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "user": "とやこや",
+  "slug": "GE3G81GA8GE3G82G84GE3G81G93GE3G82G84",
+  "correctSongs": [
+    {
+      "contentId": "sm42603880",
+      "title": "東京舞踊",
+      "artist": "KyoTa",
+      "artistList": [
+        "KyoTa"
+      ],
+      "viewCounter": null,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35909360",
+      "title": "アンチサイクロン",
+      "artist": "稲葉曇",
+      "artistList": [
+        "稲葉曇"
+      ],
+      "startTime": "2019-11-04T20:00:00+09:00",
+      "viewCounter": 328788,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39875678",
+      "title": "蛍はいなかった",
+      "artist": "はるまきごはん",
+      "artistList": [
+        "はるまきごはん"
+      ],
+      "startTime": "2022-01-09T19:00:00+09:00",
+      "viewCounter": 262793,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm18198019",
+      "title": "地球最後の告白を",
+      "artist": "kemu",
+      "artistList": [
+        "kemu"
+      ],
+      "startTime": "2012-06-26T19:01:32+09:00",
+      "viewCounter": 5376684,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm36589496",
+      "title": "ナイトメア・レイヴィーナス",
+      "artist": "2kino",
+      "artistList": [
+        "2kino"
+      ],
+      "viewCounter": null,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "KyoTa",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "稲葉曇",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "はるまきごはん",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "kemu",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "2kino",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2019",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2022",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2012",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "アンチサイクロン",
+      "contentId": "sm35909360",
+      "startTime": 1572865200000,
+      "viewCounter": 328788
+    },
+    {
+      "title": "蛍はいなかった",
+      "contentId": "sm39875678",
+      "startTime": 1641722400000,
+      "viewCounter": 262793
+    },
+    {
+      "title": "地球最後の告白を",
+      "contentId": "sm18198019",
+      "startTime": 1340704892000,
+      "viewCounter": 5376684
+    }
+  ],
+  "summary": {
+    "totalAnswers": 8,
+    "okAnswers": 5,
+    "ngAnswers": 3,
+    "participatedQuizCount": 4,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 328788
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 195,
+      "group": "D",
+      "date": "2024-02-02",
+      "ok": 1,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 84,
+          "contentId": "sm36589496",
+          "title": "ナイトメア・レイヴィーナス",
+          "artistList": [
+            "2kino"
+          ],
+          "thumbnailUrl": null,
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "とやこや"
+            }
+          ]
+        },
+        {
+          "order": 94,
+          "contentId": "sm29155293",
+          "title": "アトモスフィア",
+          "artistList": [
+            "はるまきごはん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29155293/29155293",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とやこや"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(14)",
+              "user": "たぴお"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 194,
+      "group": "D",
+      "date": "2024-01-26",
+      "ok": 2,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 96,
+          "contentId": "sm39875678",
+          "title": "蛍はいなかった",
+          "artistList": [
+            "はるまきごはん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39875678/39875678.43994919",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "とやこや"
+            }
+          ]
+        },
+        {
+          "order": 99,
+          "contentId": "sm18198019",
+          "title": "地球最後の告白を",
+          "artistList": [
+            "kemu"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18198019/18198019",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "とやこや"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 193,
+      "group": "D",
+      "date": "2024-01-19",
+      "ok": 1,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 2,
+          "contentId": "sm32647403",
+          "title": "君の脈で踊りたかった",
+          "artistList": [
+            "ピコン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32647403/32647403",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とやこや"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        },
+        {
+          "order": 100,
+          "contentId": "sm35909360",
+          "title": "アンチサイクロン",
+          "artistList": [
+            "稲葉曇"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35909360/35909360.74456225",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "とやこや"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 192,
+      "group": "D",
+      "date": "2024-01-12",
+      "ok": 1,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 1,
+          "contentId": "sm42603880",
+          "title": "東京舞踊",
+          "artistList": [
+            "KyoTa"
+          ],
+          "thumbnailUrl": null,
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "とやこや"
+            }
+          ]
+        },
+        {
+          "order": 84,
+          "contentId": "nm9459576",
+          "title": "送墓唄",
+          "artistList": [
+            "mayuko"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9459576/9459576",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "最強の私"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とやこや"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

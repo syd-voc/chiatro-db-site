@@ -1,0 +1,139 @@
+{
+  "user": "シチュー",
+  "slug": "GE3G82GB7GE3G83G81GE3G83GA5GE3G83GBC",
+  "correctSongs": [
+    {
+      "contentId": "sm43166484",
+      "title": "JUVENILE",
+      "artist": "じん",
+      "artistList": [
+        "じん"
+      ],
+      "startTime": "2023-12-22T18:39:00+09:00",
+      "viewCounter": 4503312,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "じん",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2023",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "JUVENILE",
+      "contentId": "sm43166484",
+      "startTime": 1703237940000,
+      "viewCounter": 4503312
+    }
+  ],
+  "summary": {
+    "totalAnswers": 1,
+    "okAnswers": 1,
+    "ngAnswers": 0,
+    "participatedQuizCount": 1,
+    "winQuizCount": 0,
+    "loseQuizCount": 0,
+    "medianViews": 4503312
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 202,
+      "group": "D",
+      "date": "2024-03-24",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 85,
+          "contentId": "sm43166484",
+          "title": "JUVENILE",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43166484/43166484.62388886",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "シチュー"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

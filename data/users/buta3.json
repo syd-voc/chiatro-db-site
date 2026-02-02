@@ -461,5 +461,372 @@
     "winQuizCount": 2,
     "loseQuizCount": 0,
     "medianViews": 742697
-  }
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 238,
+      "group": "F",
+      "date": "2025-02-21",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 6,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 28,
+          "contentId": "sm40901829",
+          "title": "Who?",
+          "artistList": [
+            "Azari"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40901829/40901829.79182110",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "buta3"
+            }
+          ]
+        },
+        {
+          "order": 29,
+          "contentId": "sm33115376",
+          "title": "悪魔の踊り方",
+          "artistList": [
+            "こんにちは谷田さん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33115376/33115376",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "buta3"
+            }
+          ]
+        },
+        {
+          "order": 40,
+          "contentId": "sm39411572",
+          "title": "群青讃歌",
+          "artistList": [
+            "Eve"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39411572/39411572.5041558",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "buta3"
+            }
+          ]
+        },
+        {
+          "order": 45,
+          "contentId": "sm24553262",
+          "title": "ドリームキラー",
+          "artistList": [
+            "かいりきベア",
+            "わか"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24553262/24553262",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "buta3"
+            }
+          ]
+        },
+        {
+          "order": 50,
+          "contentId": "sm37681988",
+          "title": "ヒトリユラリ",
+          "artistList": [
+            "Kanaria",
+            "MARETU"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37681988/37681988.84888808",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(6)",
+              "user": "buta3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 212,
+      "group": "F",
+      "date": "2024-08-09",
+      "ok": 4,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 5,
+          "contentId": "sm36177919",
+          "title": "シックス・フィート・アンダー",
+          "artistList": [
+            "Aqu3ra"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36177919/36177919.87763244",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "buta3"
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "contentId": "sm24288200",
+          "title": "Carry Me Off",
+          "artistList": [
+            "八王子P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24288200/24288200",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "世界のYAMADA"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "マグカップ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "こん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "buta3"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "翠"
+            }
+          ]
+        },
+        {
+          "order": 59,
+          "contentId": "sm23229863",
+          "title": "被害妄想携帯女子(笑)",
+          "artistList": [
+            "ギガ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23229863/23229863",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "そい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "buta3"
+            }
+          ]
+        },
+        {
+          "order": 85,
+          "contentId": "sm32042182",
+          "title": "インナーダーク",
+          "artistList": [
+            "TOKOTOKO（西沢さんP）"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32042182/32042182",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "buta3"
+            }
+          ]
+        },
+        {
+          "order": 99,
+          "contentId": "sm23047228",
+          "title": "サンキューロック",
+          "artistList": [
+            "黒うさP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23047228/23047228",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "buta3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 190,
+      "group": "D",
+      "date": "2023-12-22",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 13,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 76,
+          "contentId": "sm41824903",
+          "title": "私は、私達は",
+          "artistList": [
+            "Guiano"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41824903/41824903.77673833",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "buta3"
+            }
+          ]
+        },
+        {
+          "order": 79,
+          "contentId": "sm36929186",
+          "title": "救いようのない素晴らしき運命",
+          "artistList": [
+            "DIVELA"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36929186/36929186.97440638",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "buta3"
+            }
+          ]
+        },
+        {
+          "order": 83,
+          "contentId": "sm40227712",
+          "title": "ノマド",
+          "artistList": [
+            "バルーン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40227712/40227712.14018081",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "既設定"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "buta3"
+            }
+          ]
+        },
+        {
+          "order": 84,
+          "contentId": "sm9088704",
+          "title": "マジカル☆ぬこレンレン",
+          "artistList": [
+            "オワタP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9088704/9088704",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "buta3"
+            }
+          ]
+        },
+        {
+          "order": 102,
+          "contentId": "sm35546354",
+          "title": "オルターエゴ",
+          "artistList": [
+            "Misumi"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35546354/35546354.24253915",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(13)",
+              "user": "buta3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 189,
+      "group": "D",
+      "date": "2023-12-15",
+      "ok": 1,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 21,
+          "contentId": "sm35145654",
+          "title": "そこに命はありますか。",
+          "artistList": [
+            "DIVELA"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35145654/35145654.66897",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぷーまる"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "buta3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
