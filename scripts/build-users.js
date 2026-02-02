@@ -111,7 +111,7 @@ console.log(`Users: ${users.length}`);
 ========================= */
 
 for (const user of users) {
-    console.log("building", user);
+    //console.log("building", user);
 
     /* ---------- joined quizzes ---------- */
 

@@ -1,57 +1,13 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import type { Song, Quiz } from "../types/quiz";
-export const prerender = false;
+import type { Song } from "../types/quiz";
 
-const q = Astro.url.searchParams.get("q") ?? "";
-const nq = normalize(q);
-
-// ===== 正規化 =====
-function normalize(str?: string): string {
-  if (!str) return "";
-  return str
-    .toLowerCase()
-    .normalize("NFKC")
-    .replace(/[ァ-ン]/g, (s) =>
-      String.fromCharCode(s.charCodeAt(0) - 0x60)
-    );
-}
-
-// ===== マッチ度合い =====
-function matchScore(text: string, query: string): number {
-  if (text === query) return 0;                 // 完全一致
-  if (text.startsWith(query)) return 1;         // 前方一致
-  if (text.includes(query)) return 2;           // 部分一致
-  return 999;                                   // 不一致
-}
-
-// ===== 曲データ =====
 const songModules = import.meta.glob("../../data/songs/*.json", {
   eager: true,
 }) as Record<string, { default: Song }>;
 
 const songs = Object.values(songModules).map((m) => m.default);
 
-// ===== 曲検索 =====
-const matchedSongs = nq
-  ? songs
-      .map((s) => {
-        const scores = [
-          matchScore(normalize(s.song), nq),
-          matchScore(normalize(s.contentId), nq),
-        ];
-
-        const score = Math.min(...scores);
-
-        return { song: s, score };
-      })
-      .filter((x) => x.score < 999)
-      .sort((a, b) => a.score - b.score)
-      .map((x) => x.song)
-  : [];
-
-
-// ===== ユーザーデータ =====
 const userModules = import.meta.glob("../../data/users/*.json", {
   eager: true,
 }) as Record<string, { default: any }>;
@@ -64,99 +20,167 @@ const users = Object.values(userModules).map((m) => {
   };
 });
 
-
-// ===== ユーザー検索 =====
-const matchedUsers = nq
-  ? users
-      .map((u) => ({
-        ...u,
-        score: matchScore(normalize(u.name), nq),
-      }))
-      .filter((x) => x.score < 999)
-      .sort((a, b) => a.score - b.score)
-  : [];
-
-// ===== アーティスト抽出 =====
-const artists = Array.from(
-  new Set(songs.flatMap((s) => s.artist))
-);
-
-// ===== アーティスト検索 =====
-const matchedArtists = nq
-  ? artists
-      .map((name) => ({
-        name,
-        score: matchScore(normalize(name), nq),
-      }))
-      .filter((x) => x.score < 999)
-      .sort((a, b) => a.score - b.score)
-      .map((x) => x.name)
-  : [];
-
+const artists = Array.from(new Set(songs.flatMap((s) => s.artist)));
 ---
 
-<BaseLayout title="検索結果">
-  <h2>検索結果</h2>
+<BaseLayout title="検索">
+  <h2>検索</h2>
 
-  {q === "" ? (
-    <p>検索ワードを入力してください。</p>
-  ) : (
-    <>
-      <p>
-        検索ワード：<strong>{q}</strong>
-      </p>
+  <input id="searchBox" type="text" placeholder="検索ワード" />
+  <button id="searchBtn">検索</button>
 
-      <!-- 曲 -->
-      <section>
-        <h3>曲</h3>
-        {matchedSongs.length === 0 ? (
-          <p>該当なし</p>
-        ) : (
-          <ul>
-            {matchedSongs.map((s) => (
-              <li>
-                <a href={`/songs/${s.contentId}`}>
-                  {s.song} / {s.artist.join(", ")}
-                </a>
-              </li>
-            ))}
-          </ul>
-        )}
-      </section>
+  <p id="queryText"></p>
 
-      <!-- ユーザー -->
-      <section>
-        <h3>参加者</h3>
-        {matchedUsers.length === 0 ? (
-          <p>該当なし</p>
-        ) : (
-          <ul>
-            {matchedUsers.map((u) => (
-              <li>
-                <a href={`/users/${u.slug}`}>
-                  {u.name}
-                </a>
-              </li>
-            ))}
-          </ul>
-        )}
-      </section>
+  <h3>曲</h3>
+  <ul id="songResults"></ul>
 
-      <!-- アーティスト -->
-      <section>
-        <h3>アーティスト</h3>
-        {matchedArtists.length === 0 ? (
-          <p>該当なし</p>
-        ) : (
-          <ul>
-            {matchedArtists.map((a) => (
-              <li>
-                <a href={`/artists/${a}`}>{a}</a>
-              </li>
-            ))}
-          </ul>
-        )}
-      </section>
-    </>
-  )}
+  <h3>参加者</h3>
+  <ul id="userResults"></ul>
+
+  <h3>アーティスト</h3>
+  <ul id="artistResults"></ul>
+
+  <script
+    id="search-data"
+    type="application/json"
+    set:html={JSON.stringify({ songs, users, artists })}
+  />
+
+  <script>
+    const dataEl = document.getElementById("search-data");
+    if (!dataEl) throw new Error("search-data not found");
+
+    const DATA = JSON.parse(dataEl.textContent || "{}");
+
+    const searchBox = document.getElementById(
+      "searchBox",
+    ) as HTMLInputElement | null;
+
+    const searchBtn = document.getElementById("searchBtn");
+    const queryText = document.getElementById("queryText");
+    const songUL = document.getElementById("songResults");
+    const userUL = document.getElementById("userResults");
+    const artistUL = document.getElementById("artistResults");
+
+    function normalize(str: string): string {
+      if (!str) return "";
+      return str
+        .toLowerCase()
+        .normalize("NFKC")
+        .replace(/[ァ-ン]/g, function (s: string) {
+          return String.fromCharCode(s.charCodeAt(0) - 0x60);
+        });
+    }
+
+    function matchScore(text: string, query: string): number {
+      if (text === query) return 0;
+      if (text.startsWith(query)) return 1;
+      if (text.includes(query)) return 2;
+      return 999;
+    }
+
+    function runSearch(q: string) {
+      if (!songUL || !userUL || !artistUL || !queryText) return;
+
+      const nq = normalize(q);
+      queryText.textContent = q ? "検索ワード：" + q : "";
+
+      if (!nq) {
+        songUL.innerHTML = "";
+        userUL.innerHTML = "";
+        artistUL.innerHTML = "";
+        return;
+      }
+
+      const songMatches = DATA.songs
+        .map(function (s: any) {
+          return {
+            s: s,
+            score: Math.min(
+              matchScore(normalize(s.song), nq),
+              matchScore(normalize(s.contentId), nq),
+            ),
+          };
+        })
+        .filter(function (x: any) {
+          return x.score < 999;
+        })
+        .sort(function (a: any, b: any) {
+          return a.score - b.score;
+        })
+        .map(function (x: any) {
+          return x.s;
+        });
+
+      songUL.innerHTML = songMatches.length
+        ? songMatches
+            .map(function (s: any) {
+              return `<li><a href="/songs/${s.contentId}">
+        ${s.song} / ${s.artist.join(", ")}
+        </a></li>`;
+            })
+            .join("")
+        : "<li>該当なし</li>";
+
+      const userMatches = DATA.users
+        .map(function (u: any) {
+          return {
+            u: u,
+            score: matchScore(normalize(u.name), nq),
+          };
+        })
+        .filter(function (x: any) {
+          return x.score < 999;
+        })
+        .sort(function (a: any, b: any) {
+          return a.score - b.score;
+        })
+        .map(function (x: any) {
+          return x.u;
+        });
+
+      userUL.innerHTML = userMatches.length
+        ? userMatches
+            .map(function (u: any) {
+              return `<li><a href="/users/${u.slug}">${u.name}</a></li>`;
+            })
+            .join("")
+        : "<li>該当なし</li>";
+
+      const artistMatches = DATA.artists
+        .map(function (a: any) {
+          return {
+            name: a,
+            score: matchScore(normalize(a), nq),
+          };
+        })
+        .filter(function (x: any) {
+          return x.score < 999;
+        })
+        .sort(function (a: any, b: any) {
+          return a.score - b.score;
+        });
+
+      artistUL.innerHTML = artistMatches.length
+        ? artistMatches
+            .map(function (a: any) {
+              return `<li><a href="/artists/${encodeURIComponent(a.name)}">
+        ${a.name}</a></li>`;
+            })
+            .join("")
+        : "<li>該当なし</li>";
+    }
+
+    if (searchBtn && searchBox) {
+      searchBtn.addEventListener("click", function () {
+        runSearch(searchBox.value);
+      });
+
+      searchBox.addEventListener("keydown", function (e) {
+        if (e.key === "Enter") {
+          runSearch(searchBox.value);
+        }
+      });
+    }
+  </script>
 </BaseLayout>

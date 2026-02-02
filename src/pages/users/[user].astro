@@ -59,24 +59,15 @@ export async function getStaticPaths() {
 
     return Object.values(userModules).map(({ default: u }) => ({
         params: {
-            user: u.slug ?? encodeURIComponent(u.user),
+            user: u.slug,
+        },
+        props: {
+            userData: u,
         },
     }));
 }
 
-const userModules = import.meta.glob("../../../data/users/*.json", {
-    eager: true,
-}) as Record<string, { default: any }>;
-
-const { user: slug } = Astro.params as { user: string };
-
-const userData = Object.values(userModules)
-    .map((m) => m.default)
-    .find((u) => (u.slug ?? encodeURIComponent(u.user)) === slug);
-
-if (!userData) {
-    throw new Error(`User JSON not found: ${slug}`);
-}
+const { userData } = Astro.props;
 
 const {
     user,
@@ -144,24 +135,9 @@ function summarizeUserResult(quizSongs: QuizSong[], user: string) {
     return { ok, ng, winRank, hasLose };
 }
 
-function isCorrect(result: string): boolean {
-    return result.startsWith("OK") || result.startsWith("WIN");
-}
-
 function percent(part: number, total: number): number {
     if (total === 0) return 0;
     return (part / total) * 100;
-}
-
-function median(values: number[]): number | null {
-    if (values.length === 0) return null;
-
-    const sorted = [...values].sort((a, b) => a - b);
-    const mid = Math.floor(sorted.length / 2);
-
-    return sorted.length % 2
-        ? sorted[mid]
-        : Math.round((sorted[mid - 1] + sorted[mid]) / 2);
 }
 
 /* =========================
