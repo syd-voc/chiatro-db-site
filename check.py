@@ -31,9 +31,9 @@ PHASES = [
         "suffixes": ["A", "B", "C", "D", "E", "F"],
     },
     {
-        "name": "Phase3_split",
+        "name": "Phase4_A-D2",
         "start": 275,
-        "end": 450,
+        "end": 999,
         "suffixes": ["A", "B", "C1", "C2", "D1", "D2"],
     },
 ]

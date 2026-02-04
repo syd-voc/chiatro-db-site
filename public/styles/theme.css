@@ -4,26 +4,20 @@
     /* #1F9CEF */
     --color-primary-light: rgba(31, 156, 239, 0.15);
     --color-primary-dark: rgb(18, 120, 190);
-
     /* ===== Neutral ===== */
     --color-bg: #ffffff;
     --color-text: #222222;
     --color-muted: #666666;
     --color-border: #dddddd;
-
     /* ===== Status ===== */
     --color-ok: #2ecc71;
     --color-ng: #e74c3c;
     --color-skip: #95a5a6;
 }
 
-/* =========================
-   Global
-========================= */
-
+/* ========================= Global ========================= */
 html {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont,
-        "Segoe UI", sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     background-color: var(--color-bg);
     color: var(--color-text);
 }
@@ -59,7 +53,6 @@ body {
     opacity: 0.8;
     white-space: nowrap;
 }
-
 
 .site-header .logo {
     margin: 0;
@@ -104,7 +97,6 @@ body {
     color: rgb(31, 156, 239);
 }
 
-
 .sidebar.closed {
     transform: translateX(-100%);
 }
@@ -131,10 +123,7 @@ body {
     border-color: rgb(31, 156, 239);
 }
 
-/* =========================
-   Headings
-========================= */
-
+/* ========================= Headings ========================= */
 h1,
 h2,
 h3 {
@@ -151,10 +140,7 @@ h2 {
     padding-left: 0.6em;
 }
 
-/* =========================
-   Links
-========================= */
-
+/* ========================= Links ========================= */
 a {
     color: var(--color-primary);
     text-decoration: none;
@@ -164,10 +150,7 @@ a:hover {
     text-decoration: underline;
 }
 
-/* =========================
-   Lists
-========================= */
-
+/* ========================= Lists ========================= */
 ul,
 ol {
     padding-left: 1.4em;
@@ -177,10 +160,7 @@ li {
     margin: 0.3em 0;
 }
 
-/* =========================
-   Sections / Cards
-========================= */
-
+/* ========================= Sections / Cards ========================= */
 section {
     margin-bottom: 2rem;
     padding: 1rem;
@@ -193,10 +173,7 @@ section>h3:first-child {
     margin-top: 0;
 }
 
-/* =========================
-   Video Player Styles
-========================= */
-
+/* ========================= Video Player Styles ========================= */
 .player {
     position: relative;
     width: 100%;
@@ -212,11 +189,7 @@ section>h3:first-child {
     border: 0;
 }
 
-
-/* =========================
-   Quiz Result Styles
-========================= */
-
+/* ========================= Quiz Result Styles ========================= */
 .result-ok {
     color: var(--color-ok);
     font-weight: bold;
@@ -231,10 +204,7 @@ section>h3:first-child {
     font-style: italic;
 }
 
-/* =========================
-   Tables
-========================= */
-
+/* ========================= Tables ========================= */
 table {
     border-collapse: collapse;
     width: auto;
@@ -283,10 +253,7 @@ a:hover {
     text-decoration: underline;
 }
 
-/* =========================
-   SortableTable 共通
-========================= */
-
+/* ========================= SortableTable 共通 ========================= */
 .sortable-table th {
     cursor: pointer;
     user-select: none;
@@ -327,17 +294,26 @@ a:hover {
     overflow-x: auto;
 }
 
-
+/* ========================= User Page Tabs ========================= */
 /* =========================
-   User Page Tabs
+   User Page Tabs（モバイル修正）
 ========================= */
 
 .user-tabs {
     display: flex;
+    flex-wrap: nowrap;
+    /* ← 折り返さない */
     border-bottom: 1px solid #ccc;
     margin-bottom: 1rem;
+
     overflow-x: auto;
+    /* ← 横スクロール */
+    overflow-y: hidden;
+    max-width: 100%;
+
     scrollbar-width: none;
+    /* Firefox */
+    -webkit-overflow-scrolling: touch;
 }
 
 .user-tabs::-webkit-scrollbar {
@@ -345,18 +321,26 @@ a:hover {
 }
 
 .user-tabs button {
+    flex: 0 0 auto;
+    /* ← 縮ませない */
+    white-space: nowrap;
+    /* ← 改行禁止 */
+
     appearance: none;
     border: 1px solid #ccc;
     border-bottom: none;
     background: #f1f3f4;
     padding: 0.5em 1.2em;
     margin-right: 0.3em;
+
     border-top-left-radius: 6px;
     border-top-right-radius: 6px;
+
     cursor: pointer;
     font-size: 0.95em;
     color: #444;
 }
+
 
 .user-tabs button:hover {
     background: #e8eaed;
@@ -373,9 +357,7 @@ a:hover {
     padding-top: 0.5rem;
 }
 
-/* =========================
-    Chart Styles
-========================= */
+/* ========================= Chart Styles ========================= */
 .era-chart {
     margin: 1.5rem 0 2rem;
     padding: 1rem;
@@ -397,10 +379,7 @@ a:hover {
     margin-bottom: 0.2rem;
 }
 
-
-/* =========================
-   Quiz Song Items
-========================= */
+/* ========================= Quiz Song Items ========================= */
 .quiz-song {
     display: grid;
     grid-template-columns: 120px 1fr;
@@ -468,10 +447,7 @@ a:hover {
     white-space: nowrap;
 }
 
-/* =========================
-   Win Ranking Styles
-========================= */
-
+/* ========================= Win Ranking Styles ========================= */
 .win-ranking {
     margin: 1rem 0 1.5rem;
     padding: 0.5rem 1rem;
@@ -514,11 +490,7 @@ a:hover {
     text-decoration: underline;
 }
 
-
-/* =========================
-   Footer
-========================= */
-
+/* ========================= Footer ========================= */
 footer {
     margin-top: 3rem;
     padding-top: 1rem;
@@ -527,10 +499,7 @@ footer {
     font-size: 0.9em;
 }
 
-/* =========================
-   Responsive Design
-========================= */
-
+/* ========================= Responsive Design ========================= */
 @media (max-width: 768px) {
 
     .sortable-table th,
@@ -551,18 +520,15 @@ footer {
 }
 
 @media (max-width: 768px) {
-
     .sidebar {
         position: fixed;
         top: 0;
         left: 0;
         height: 100vh;
         width: 150px;
-
         background: #f4f6f8;
         z-index: 1000;
         box-shadow: 2px 0 12px rgba(0, 0, 0, 0.15);
-
         transform: translateX(-100%);
         transition: transform 0.25s ease;
     }
@@ -580,11 +546,9 @@ footer {
     position: fixed;
     inset: 0;
     background: rgba(0, 0, 0, 0.3);
-
     opacity: 0;
     pointer-events: none;
     transition: opacity 0.2s;
-
     z-index: 900;
 }
 
@@ -594,7 +558,6 @@ footer {
 }
 
 @media (min-width: 769px) {
-
     .sidebar {
         position: static;
         transform: none !important;
