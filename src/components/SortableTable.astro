@@ -24,49 +24,50 @@ const {
 } = Astro.props as SortableTableProps<any>;
 ---
 
-<table
-    class="sortable-table"
-    data-default-key={String(defaultSortKey)}
-    data-default-order={defaultSortOrder}
->
-    <thead>
-        <tr>
+<div class="table-scroll">
+    <table
+        class="sortable-table"
+        data-default-key={String(defaultSortKey)}
+        data-default-order={defaultSortOrder}
+    >
+        <thead>
+            <tr>
+                {
+                    columns.map((col) => (
+                        <th
+                            data-key={String(col.key)}
+                            data-sortable={col.sortable ? "true" : "false"}
+                            data-type={col.type ?? "string"}
+                        >
+                            <span class="th-label">{col.label}</span>
+                            <span class="sort-icon" />
+                        </th>
+                    ))
+                }
+            </tr>
+        </thead>
+
+        <tbody>
             {
-                columns.map((col) => (
-                    <th
-                        data-key={String(col.key)}
-                        data-sortable={col.sortable ? "true" : "false"}
-                        data-type={col.type ?? "string"}
-                    >
-                        <span class="th-label">{col.label}</span>
-                        <span class="sort-icon" />
-                    </th>
+                rows.map((row) => (
+                    <tr>
+                        {columns.map((col) => (
+                            <td
+                                data-key={String(col.key)}
+                                data-value={String(row[col.key] ?? "")}
+                                set:html={
+                                    col.render
+                                        ? col.render(row)
+                                        : String(row[col.key] ?? "")
+                                }
+                            />
+                        ))}
+                    </tr>
                 ))
             }
-        </tr>
-    </thead>
-
-    <tbody>
-        {
-            rows.map((row) => (
-                <tr>
-                    {columns.map((col) => (
-                        <td
-                            data-key={String(col.key)}
-                            data-value={String(row[col.key] ?? "")}
-                            set:html={
-                                col.render
-                                    ? col.render(row)
-                                    : String(row[col.key] ?? "")
-                            }
-                        />
-                    ))}
-                </tr>
-            ))
-        }
-    </tbody>
-</table>
-
+        </tbody>
+    </table>
+</div>
 <script defer>
     (() => {
         function initSortableTable(table) {

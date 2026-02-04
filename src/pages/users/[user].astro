@@ -363,16 +363,17 @@ const viewChartData = viewRowsBase.map((r) => ({
 
 <BaseLayout title={`${user}`}>
     <h1>{user}</h1>
-
-    <nav class="user-tabs">
-        <button data-tab="quizzes" class="active">参加回</button>
-        <button data-tab="songs">正解曲一覧</button>
-        <button data-tab="artists">アーティスト別</button>
-        <button data-tab="eras">投稿年別</button>
-        <button data-tab="views">再生数帯別</button>
-        <button data-tab="scatter">散布図</button>
-        <button data-tab="stats">統計</button>
-    </nav>
+    <div class="tabs-scroll">
+        <nav class="user-tabs">
+            <button data-tab="quizzes" class="active">参加回</button>
+            <button data-tab="songs">正解曲一覧</button>
+            <button data-tab="artists">アーティスト別</button>
+            <button data-tab="eras">投稿年別</button>
+            <button data-tab="views">再生数帯別</button>
+            <button data-tab="scatter">散布図</button>
+            <button data-tab="stats">統計</button>
+        </nav>
+    </div>
 
     <section class="tab-panel" data-tab-panel="quizzes">
         <h2>参加回一覧（全{joinedQuizzes.length}回）</h2>
@@ -463,7 +464,7 @@ const viewChartData = viewRowsBase.map((r) => ({
     </section>
 
     <section class="tab-panel" data-tab-panel="artists" hidden>
-        <h2>アーティスト別 正解数一覧（全{artistRows.length}人）</h2>
+        <h2>アーティスト別 正解数一覧</h2>
 
         <SortableTable
             columns={artistColumns}

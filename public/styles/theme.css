@@ -1,15 +1,13 @@
 :root {
-    /* ===== Theme Colors ===== */
     --color-primary: rgb(31, 156, 239);
-    /* #1F9CEF */
     --color-primary-light: rgba(31, 156, 239, 0.15);
     --color-primary-dark: rgb(18, 120, 190);
-    /* ===== Neutral ===== */
+
     --color-bg: #ffffff;
     --color-text: #222222;
     --color-muted: #666666;
     --color-border: #dddddd;
-    /* ===== Status ===== */
+
     --color-ok: #2ecc71;
     --color-ng: #e74c3c;
     --color-skip: #95a5a6;
@@ -27,11 +25,23 @@ body {
     font-family: system-ui, sans-serif;
 }
 
+.layout {
+    display: flex;
+    min-width: 0;
+}
+
+.content {
+    flex: 1;
+    padding: 24px;
+    min-width: 0;
+    max-width: 100%;
+}
+
+/* ========================= Header ========================= */
+
 .site-header {
     min-height: 44px;
     width: 100%;
-    height: auto;
-    position: relative;
     background: rgb(31, 156, 239);
     display: flex;
     align-items: center;
@@ -207,7 +217,8 @@ section>h3:first-child {
 /* ========================= Tables ========================= */
 table {
     border-collapse: collapse;
-    width: auto;
+    width: 100%;
+    max-width: 100%;
     margin: 1rem 0;
 }
 
@@ -295,12 +306,9 @@ a:hover {
 }
 
 /* ========================= User Page Tabs ========================= */
-/* =========================
-   User Page Tabs（モバイル修正）
-========================= */
 
 .user-tabs {
-    display: flex;
+    display: inline-flex;
     flex-wrap: nowrap;
     /* ← 折り返さない */
     border-bottom: 1px solid #ccc;
@@ -355,15 +363,46 @@ a:hover {
 
 .tab-panel {
     padding-top: 0.5rem;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.tabs-scroll {
+    width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+}
+
+.tabs-scroll::-webkit-scrollbar {
+    display: none;
+}
+
+.table-scroll {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+
+    min-width: 0;
+}
+
+.table-scroll table {
+    width: 100%;
 }
 
 /* ========================= Chart Styles ========================= */
-.era-chart {
+.era-chart,
+.view-chart {
     margin: 1.5rem 0 2rem;
     padding: 1rem;
     background: #fafafa;
     border: 1px solid #ddd;
     border-radius: 8px;
+    max-width: 100%;
 }
 
 .scatter-tooltip {

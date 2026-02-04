@@ -1,6 +1,7 @@
 ---
 import Header from "../components/Header.astro";
 import Sidebar from "../components/Sidebar.astro";
+import Analytics from "@vercel/analytics/astro";
 
 const { title } = Astro.props;
 ---
@@ -22,6 +23,7 @@ const { title } = Astro.props;
 
             <main class="content">
                 <slot />
+                <Analytics />
             </main>
         </div>
 
