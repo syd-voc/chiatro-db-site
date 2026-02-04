@@ -12,30 +12,97 @@ const users = Object.values(userModules)
         user: u.user,
         slug: u.slug ?? encodeURIComponent(u.user),
     }))
-    // あいうえお順
     .sort((a, b) => a.user.localeCompare(b.user, "ja"));
 ---
 
 <BaseLayout title="参加者一覧">
     <h1>参加者一覧</h1>
 
-    <table>
-        <thead>
-            <tr>
-                <th>ユーザー</th>
-            </tr>
-        </thead>
+    <!-- 🔍 検索欄 -->
+    <input id="userSearch" type="text" placeholder="検索" />
 
-        <tbody>
-            {
-                users.map((u) => (
-                    <tr>
-                        <td>
-                            <a href={`/users/${u.slug}`}>{u.user}</a>
-                        </td>
-                    </tr>
-                ))
+    <ul id="userList">
+        {
+            users.map((u) => (
+                <li>
+                    <a href={`/users/${u.slug}`}>{u.user}</a>
+                </li>
+            ))
+        }
+    </ul>
+
+    <!-- ビルド時データを埋め込み -->
+    <script
+        id="users-data"
+        type="application/json"
+        set:html={JSON.stringify(users)}
+    />
+
+    <script>
+        const dataEl = document.getElementById("users-data");
+        if (!dataEl) throw new Error("users-data not found");
+
+        const USERS = JSON.parse(dataEl.textContent || "[]");
+
+        function normalize(str: string): string {
+            if (!str) return "";
+
+            return str
+                .toLowerCase()
+                .normalize("NFKC")
+                .replace(/[ァ-ン]/g, (s) =>
+                    String.fromCharCode(s.charCodeAt(0) - 0x60),
+                )
+                .replace(/[\s\-_\/・\.]+/g, "");
+        }
+
+        function scoreMatch(text: string, q: string): number {
+            if (!text.includes(q)) return 999;
+            if (text === q) return 0;
+            if (text.startsWith(q)) return 1;
+            return 2;
+        }
+
+        const searchBox = document.getElementById(
+            "userSearch",
+        ) as HTMLInputElement | null;
+        const listEl = document.getElementById(
+            "userList",
+        ) as HTMLUListElement | null;
+
+        function render(list: any[]) {
+            if (!listEl) return;
+
+            listEl.innerHTML = list
+                .map((u) => `<li><a href="/users/${u.slug}">${u.user}</a></li>`)
+                .join("");
+        }
+
+        function run(q: string) {
+            const nq = normalize(q);
+
+            if (!nq) {
+                render(USERS);
+                return;
             }
-        </tbody>
-    </table>
+
+            const rows = USERS.map((u: any) => {
+                const score = scoreMatch(normalize(u.user), nq);
+                return { ...u, score };
+            })
+                .filter((u: any) => u.score < 999)
+                .sort(
+                    (a: any, b: any) =>
+                        a.score - b.score || a.user.localeCompare(b.user, "ja"),
+                );
+
+            render(rows);
+        }
+
+        if (searchBox) {
+            searchBox.addEventListener("input", () => {
+                run(searchBox.value);
+            });
+        }
+    </script>
 </BaseLayout>

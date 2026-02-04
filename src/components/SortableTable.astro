@@ -150,10 +150,8 @@ const {
             }
         }
 
-        // ⭐ グローバル公開（タブJSから呼ぶ）
         window.initSortableTable = initSortableTable;
 
-        // ⭐ 初期表示されているテーブルだけ即初期化
         document
             .querySelectorAll(".sortable-table:not([data-initialized])")
             .forEach((table) => {

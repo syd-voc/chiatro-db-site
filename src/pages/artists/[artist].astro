@@ -39,12 +39,26 @@ const songColumns = [
         label: "投稿日時",
         sortable: true,
         type: "date",
+        render: (row: any) => {
+            if (!row.startTime) return "―";
+            const d = new Date(row.startTime);
+            const yyyy = d.getFullYear();
+            const mm = String(d.getMonth() + 1).padStart(2, "0");
+            const dd = String(d.getDate()).padStart(2, "0");
+            const hh = String(d.getHours()).padStart(2, "0");
+            const min = String(d.getMinutes()).padStart(2, "0");
+            return `${yyyy}/${mm}/${dd} ${hh}:${min}`;
+        },
     },
     {
         key: "viewCounter",
         label: "再生数",
         sortable: true,
         type: "number",
+        render: (row: any) =>
+            typeof row.viewCounter === "number"
+                ? row.viewCounter.toLocaleString()
+                : "―",
     },
     {
         key: "appearanceCount",
@@ -55,7 +69,7 @@ const songColumns = [
 ];
 ---
 
-<BaseLayout title={`アーティスト：${artist}`}>
+<BaseLayout title={`${artist}`}>
     <h1>{artist}</h1>
 
     <h2>正解数 TOP10</h2>

@@ -1,11 +1,15 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import SortableTable from "../../components/SortableTable.astro";
 import artistSlugMapRaw from "../../../data/artists_slug.json";
+
 const artistSlugMap = artistSlugMapRaw as Record<string, string>;
 
 function artistToSlug(a: string) {
     return artistSlugMap[a] ?? encodeURIComponent(a);
 }
+
+/* ---------- static paths ---------- */
 
 export function getStaticPaths() {
     const keys = [
@@ -39,40 +43,76 @@ const { key } = Astro.props;
 
 const data = await import(`../../../data/cache/range_${key}.json`);
 const stats = data.default;
+
+/* ---------- SortableTable columns ---------- */
+
+const columns = [
+    {
+        key: "song",
+        label: "曲名",
+        sortable: true,
+        type: "string",
+        render: (r: any) => `<a href="/songs/${r.contentId}">${r.song}</a>`,
+    },
+
+    {
+        key: "artist",
+        label: "アーティスト",
+        sortable: true,
+        type: "string",
+        render: (r: any) =>
+            (r.artist || [])
+                .map(
+                    (a: string) =>
+                        `<a href="/artists/${artistToSlug(a)}">${a}</a>`,
+                )
+                .join(" "),
+    },
+
+    {
+        key: "startTime",
+        label: "投稿日時",
+        sortable: true,
+        type: "date",
+        render: (row: any) => {
+            if (!row.startTime) return "―";
+            const d = new Date(row.startTime);
+            const yyyy = d.getFullYear();
+            const mm = String(d.getMonth() + 1).padStart(2, "0");
+            const dd = String(d.getDate()).padStart(2, "0");
+            const hh = String(d.getHours()).padStart(2, "0");
+            const min = String(d.getMinutes()).padStart(2, "0");
+            return `${yyyy}/${mm}/${dd} ${hh}:${min}`;
+        },
+    },
+
+    {
+        key: "viewCounter",
+        label: "再生数",
+        sortable: true,
+        type: "number",
+        render: (row: any) =>
+            typeof row.viewCounter === "number"
+                ? row.viewCounter.toLocaleString()
+                : "―",
+    },
+
+    {
+        key: "count",
+        label: "出題回数",
+        sortable: true,
+        type: "number",
+    },
+];
 ---
 
-<BaseLayout title={`楽曲一覧 ${key}`}>
+<BaseLayout title={`楽曲一覧（ ${key}）`}>
     <h1>楽曲一覧（{key}）</h1>
 
-    <table>
-        <thead>
-            <tr>
-                <th>曲名</th>
-                <th>アーティスト</th>
-                <th>出題回数</th>
-            </tr>
-        </thead>
-        <tbody>
-            {
-                stats.map((s: any) => (
-                    <tr>
-                        <td>
-                            <a href={`/songs/${s.contentId}`}>{s.song}</a>
-                        </td>
-                        <td>
-                            {s.artist.map((a: string, i: number) => (
-                                <>
-                                    {i > 0 && " "}
-                                    <a href={`/artists/${artistToSlug(a)}`}>
-                                        {a}
-                                    </a>
-                                </>
-                            ))}
-                        </td>
-                        <td>{s.count}</td>
-                    </tr>
-                ))
-            }
-        </tbody>
-    </table>
+    <SortableTable
+        columns={columns}
+        rows={stats}
+        defaultSortKey="count"
+        defaultSortOrder="desc"
+    />
 </BaseLayout>

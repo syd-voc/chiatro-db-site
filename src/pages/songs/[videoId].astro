@@ -59,8 +59,15 @@ const sortedHistories = [...histories].sort(
    投稿日時
 ========================= */
 const postedAt = song.startTime
-    ? new Date(song.startTime).toLocaleString("ja-JP")
-    : "不明";
+    ? (() => {
+          const d = new Date(song.startTime);
+          const pad = (n: number) => String(n).padStart(2, "0");
+          return (
+              `${d.getFullYear()}/${pad(d.getMonth() + 1)}/${pad(d.getDate())} ` +
+              `${pad(d.getHours())}:${pad(d.getMinutes())}:${pad(d.getSeconds())}`
+          );
+      })()
+    : "−";
 ---
 
 <BaseLayout title={song.song}>
@@ -77,8 +84,8 @@ const postedAt = song.startTime
 
         <iframe
             src={"https://ext.nicovideo.jp/thumb/" + song.contentId}
-            width="312"
-            height="176"
+            width="390"
+            height="220"
             frameborder="0"></iframe>
     </section>
 

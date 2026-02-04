@@ -187,6 +187,8 @@ for (const user of users) {
                 tokens.push({ type: "user", prefix: "×", user: a.user });
             } else if (a.result === "LOSE") {
                 tokens.push({ type: "user", prefix: "××", user: a.user });
+            } else if (a.result === "SKIP") {
+                tokens.push({ type: "user", prefix: "・スルー", user: "" });
             }
         });
 

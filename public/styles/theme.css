@@ -35,6 +35,7 @@ body {
 
 .site-header {
     min-height: 44px;
+    width: 100%;
     height: auto;
     position: relative;
     background: rgb(31, 156, 239);
@@ -199,7 +200,8 @@ section>h3:first-child {
 .player {
     position: relative;
     width: 100%;
-    padding-top: 56.25%;
+    max-width: 390px;
+    aspect-ratio: 16 / 9;
 }
 
 .player iframe {
@@ -545,6 +547,7 @@ footer {
     border: none;
     cursor: pointer;
     margin-right: 0.6rem;
+    color: #fff;
 }
 
 @media (max-width: 768px) {

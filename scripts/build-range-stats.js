@@ -30,22 +30,37 @@ await fs.mkdir(OUT_DIR, { recursive: true });
 
 /* ---------- songs 読み込み ---------- */
 
-const songFiles = await fs.readdir(SONG_DIR);
+const songFiles = (await fs.readdir(SONG_DIR))
+    .filter(f => f.endsWith(".json"));
+
 const songs = [];
 
 for (const f of songFiles) {
     const data = JSON.parse(
         await fs.readFile(path.join(SONG_DIR, f), "utf-8")
     );
+
     if (!data.startTime) continue;
-    songs.push(data);
+
+    songs.push({
+        contentId: data.contentId,
+        song: data.song,
+        artist: data.artist,
+        startTime: data.startTime,
+        viewCounter:
+            typeof data.viewCounter === "number"
+                ? data.viewCounter
+                : undefined,
+    });
 }
 
 /* ---------- 出題回数カウント ---------- */
 
 const countById = {};
 
-const quizFiles = await fs.readdir(QUIZ_DIR);
+const quizFiles = (await fs.readdir(QUIZ_DIR))
+    .filter(f => f.endsWith(".json"));
+
 for (const f of quizFiles) {
     const q = JSON.parse(
         await fs.readFile(path.join(QUIZ_DIR, f), "utf-8")
@@ -68,13 +83,15 @@ for (const r of RANGES) {
             contentId: s.contentId,
             song: s.song,
             artist: s.artist,
+            startTime: s.startTime,
+            viewCounter: s.viewCounter,
             count: countById[s.contentId] || 0,
         }))
         .sort((a, b) => b.count - a.count);
 
     await fs.writeFile(
         `${OUT_DIR}/range_${r.key}.json`,
-        JSON.stringify(list)
+        JSON.stringify(list, null, 2)
     );
 }
 
