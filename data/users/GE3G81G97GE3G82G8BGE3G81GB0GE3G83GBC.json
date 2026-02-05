@@ -108,7 +108,8 @@
       "artistList": [
         "かぁくん"
       ],
-      "viewCounter": null,
+      "startTime": "2021-10-14T00:00:00+09:00",
+      "viewCounter": "136186",
       "correctCount": 1
     },
     {
@@ -806,7 +807,7 @@
         "鯡苦心"
       ],
       "startTime": "2019-03-31T00:00:14+09:00",
-      "viewCounter": "743360",
+      "viewCounter": "745443",
       "correctCount": 4
     },
     {
@@ -4083,7 +4084,8 @@
       "artistList": [
         "ゐろは苹果"
       ],
-      "viewCounter": null,
+      "startTime": "2019-08-03T19:00:00+09:00",
+      "viewCounter": "49445",
       "correctCount": 1
     },
     {
@@ -5044,7 +5046,8 @@
       "artistList": [
         "トマ豆腐"
       ],
-      "viewCounter": null,
+      "startTime": "2014-11-02T09:00:00+09:00",
+      "viewCounter": "90,631",
       "correctCount": 1
     },
     {
@@ -5651,7 +5654,8 @@
       "artistList": [
         "うみろ"
       ],
-      "viewCounter": null,
+      "startTime": "2013-06-03T10:16:19+09:00",
+      "viewCounter": "1237627",
       "correctCount": 1
     },
     {
@@ -5774,7 +5778,8 @@
       "artistList": [
         "雛瀬"
       ],
-      "viewCounter": null,
+      "startTime": "2017-10-16T20:00:00+09:00",
+      "viewCounter": "13497",
       "correctCount": 1
     },
     {
@@ -7513,13 +7518,18 @@
     },
     {
       "era": "2019",
-      "correctCount": 88,
-      "correctSongCount": 62
+      "correctCount": 89,
+      "correctSongCount": 63
     },
     {
       "era": "2007-2008",
       "correctCount": 32,
       "correctSongCount": 24
+    },
+    {
+      "era": "2021",
+      "correctCount": 26,
+      "correctSongCount": 22
     },
     {
       "era": "2015",
@@ -7533,23 +7543,18 @@
     },
     {
       "era": "2013",
-      "correctCount": 34,
-      "correctSongCount": 25
-    },
-    {
-      "era": "2021",
-      "correctCount": 25,
-      "correctSongCount": 21
+      "correctCount": 35,
+      "correctSongCount": 26
     },
     {
       "era": "2017",
-      "correctCount": 45,
-      "correctSongCount": 37
+      "correctCount": 46,
+      "correctSongCount": 38
     },
     {
       "era": "2014",
-      "correctCount": 30,
-      "correctSongCount": 26
+      "correctCount": 31,
+      "correctSongCount": 27
     },
     {
       "era": "2009",
@@ -10900,7 +10905,7 @@
     "participatedQuizCount": 193,
     "winQuizCount": 134,
     "loseQuizCount": 0,
-    "medianViews": 283829
+    "medianViews": 810188
   },
   "joinedQuizzes": [
     {

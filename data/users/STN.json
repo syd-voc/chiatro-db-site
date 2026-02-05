@@ -108,7 +108,8 @@
       "artistList": [
         "daikonspiders"
       ],
-      "viewCounter": null,
+      "startTime": "2022-01-08T23:52:02+09:00",
+      "viewCounter": "1314",
       "correctCount": 1
     },
     {
@@ -1255,7 +1256,8 @@
         "azuki",
         "無色透名祭公式"
       ],
-      "viewCounter": null,
+      "startTime": "2022-08-05T19:59:02+09:00",
+      "viewCounter": "1867",
       "correctCount": 1
     },
     {
@@ -1654,7 +1656,8 @@
         "ほいっぷ",
         "無色透名祭公式"
       ],
-      "viewCounter": null,
+      "startTime": "2022-08-04T20:51:02+09:00",
+      "viewCounter": "1979",
       "correctCount": 1
     },
     {
@@ -1785,7 +1788,8 @@
       "artistList": [
         "IZ"
       ],
-      "viewCounter": null,
+      "startTime": "2022-10-08T00:00:00+09:00",
+      "viewCounter": "49097",
       "correctCount": 1
     },
     {
@@ -2485,14 +2489,14 @@
       "correctCount": 1
     },
     {
-      "contentId": "sm39718906",
+      "contentId": "sm37947195",
       "title": "きみよみ",
       "artist": "◈*ゆくえわっと",
       "artistList": [
         "◈*ゆくえわっと"
       ],
-      "startTime": "2021-12-06T18:01:02+09:00",
-      "viewCounter": "1623",
+      "startTime": "2020-12-11T18:59:02+09:00",
+      "viewCounter": 130780,
       "correctCount": 1
     },
     {
@@ -2513,7 +2517,8 @@
       "artistList": [
         "袖野あらわ"
       ],
-      "viewCounter": null,
+      "startTime": "2022-04-22T00:00:00+09:00",
+      "viewCounter": "109720",
       "correctCount": 1
     },
     {
@@ -2930,7 +2935,8 @@
       "artistList": [
         "村上蔵馬"
       ],
-      "viewCounter": null,
+      "startTime": "2020-07-08T20:13:02+09:00",
+      "viewCounter": "19377",
       "correctCount": 1
     },
     {
@@ -4452,7 +4458,8 @@
         "リトロク",
         "無色透名祭公式"
       ],
-      "viewCounter": null,
+      "startTime": "2023-11-05T20:51:02+09:00",
+      "viewCounter": "1717",
       "correctCount": 1
     },
     {
@@ -4727,7 +4734,8 @@
       "artistList": [
         "にほしか"
       ],
-      "viewCounter": null,
+      "startTime": "2024-08-07T21:28:03+09:00",
+      "viewCounter": "6010",
       "correctCount": 1
     },
     {
@@ -5167,7 +5175,8 @@
       "artistList": [
         "半人間"
       ],
-      "viewCounter": null,
+      "startTime": "2017-12-25T23:07:48+09:00",
+      "viewCounter": "2187",
       "correctCount": 1
     },
     {
@@ -8065,7 +8074,8 @@
       "artistList": [
         "芳並京"
       ],
-      "viewCounter": null,
+      "startTime": "2021-01-28T21:00:02+09:00",
+      "viewCounter": "19849",
       "correctCount": 1
     },
     {
@@ -8715,7 +8725,8 @@
       "artistList": [
         "わかばマークおじさん"
       ],
-      "viewCounter": null,
+      "startTime": "2020-02-07T20:24:02+09:00",
+      "viewCounter": "31858",
       "correctCount": 1
     },
     {
@@ -11137,8 +11148,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 132,
-      "correctSongCount": 95
+      "correctCount": 135,
+      "correctSongCount": 98
     },
     {
       "era": "2009",
@@ -11152,18 +11163,18 @@
     },
     {
       "era": "2017",
-      "correctCount": 86,
-      "correctSongCount": 62
+      "correctCount": 87,
+      "correctSongCount": 63
+    },
+    {
+      "era": "2022",
+      "correctCount": 97,
+      "correctSongCount": 78
     },
     {
       "era": "2016",
       "correctCount": 61,
       "correctSongCount": 46
-    },
-    {
-      "era": "2022",
-      "correctCount": 92,
-      "correctSongCount": 73
     },
     {
       "era": "2011",
@@ -11202,13 +11213,13 @@
     },
     {
       "era": "2023",
-      "correctCount": 91,
-      "correctSongCount": 79
+      "correctCount": 92,
+      "correctSongCount": 80
     },
     {
       "era": "2024",
-      "correctCount": 48,
-      "correctSongCount": 44
+      "correctCount": 49,
+      "correctSongCount": 45
     },
     {
       "era": "2025-",
@@ -11232,8 +11243,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 318,
-      "correctSongCount": 255
+      "correctCount": 319,
+      "correctSongCount": 256
     },
     {
       "range": "30-50万",
@@ -12604,6 +12615,12 @@
       "contentId": "sm38412741",
       "startTime": 1615626000000,
       "viewCounter": 31769
+    },
+    {
+      "title": "きみよみ",
+      "contentId": "sm37947195",
+      "startTime": 1607680742000,
+      "viewCounter": 130780
     },
     {
       "title": "ヘラヘラリ",
@@ -16159,7 +16176,7 @@
     "participatedQuizCount": 247,
     "winQuizCount": 224,
     "loseQuizCount": 2,
-    "medianViews": 167407
+    "medianViews": 165990
   },
   "joinedQuizzes": [
     {
@@ -24549,7 +24566,7 @@
           "artistList": [
             "半人間"
           ],
-          "thumbnailUrl": null,
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32479792/32479792",
           "tokens": [
             {
               "type": "user",
@@ -27597,7 +27614,7 @@
             "リトロク",
             "無色透名祭公式"
           ],
-          "thumbnailUrl": null,
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42986964/42986964.42999487",
           "tokens": [
             {
               "type": "user",
@@ -35692,12 +35709,12 @@
         },
         {
           "order": 19,
-          "contentId": "sm39718906",
+          "contentId": "sm37947195",
           "title": "きみよみ",
           "artistList": [
             "◈*ゆくえわっと"
           ],
-          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39718906/39718906.3110609",
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37947195/37947195.67908462",
           "tokens": [
             {
               "type": "user",
@@ -39039,7 +39056,7 @@
             "ほいっぷ",
             "無色透名祭公式"
           ],
-          "thumbnailUrl": null,
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40871818/40871818.90469595",
           "tokens": [
             {
               "type": "user",
@@ -40663,7 +40680,7 @@
             "azuki",
             "無色透名祭公式"
           ],
-          "thumbnailUrl": null,
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40876514/40876514.61802361",
           "tokens": [
             {
               "type": "user",
@@ -41557,7 +41574,7 @@
             "azuki",
             "無色透名祭公式"
           ],
-          "thumbnailUrl": null,
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40876514/40876514.61802361",
           "tokens": [
             {
               "type": "user",
@@ -44836,7 +44853,7 @@
           "artistList": [
             "daikonspiders"
           ],
-          "thumbnailUrl": null,
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39872532/39872532.39122065",
           "tokens": [
             {
               "type": "user",
@@ -47603,7 +47620,7 @@
           "artistList": [
             "わかばマークおじさん"
           ],
-          "thumbnailUrl": null,
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36332360/36332360.93056092",
           "tokens": [
             {
               "type": "user",

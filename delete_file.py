@@ -5,7 +5,7 @@ SONGS_DIR = Path("data/songs")
 
 # 削除したい json ファイル名（拡張子込み）
 TARGET_FILES = [
-    "sm36427372.json",
+    "sm33600068.json",
 ]
 
 # ===== 削除処理 =====

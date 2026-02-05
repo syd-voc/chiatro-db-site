@@ -9,7 +9,8 @@
       "artistList": [
         "KyoTa"
       ],
-      "viewCounter": null,
+      "startTime": "2023-08-10T19:00:00+09:00",
+      "viewCounter": "1458",
       "correctCount": 1
     },
     {
@@ -52,7 +53,8 @@
       "artistList": [
         "2kino"
       ],
-      "viewCounter": null,
+      "startTime": "2020-03-29T20:00:00+09:00",
+      "viewCounter": "97253",
       "correctCount": 1
     }
   ],
@@ -85,6 +87,11 @@
   ],
   "eraStats": [
     {
+      "era": "2023",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
       "era": "2019",
       "correctCount": 1,
       "correctSongCount": 1
@@ -96,6 +103,11 @@
     },
     {
       "era": "2012",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2020",
       "correctCount": 1,
       "correctSongCount": 1
     }
@@ -189,7 +201,7 @@
     "participatedQuizCount": 4,
     "winQuizCount": 0,
     "loseQuizCount": 0,
-    "medianViews": 328788
+    "medianViews": 262793
   },
   "joinedQuizzes": [
     {
@@ -354,7 +366,7 @@
           "artistList": [
             "KyoTa"
           ],
-          "thumbnailUrl": null,
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42603880/42603880.78242869",
           "tokens": [
             {
               "type": "user",

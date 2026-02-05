@@ -76,7 +76,8 @@
       "artistList": [
         "ゐろは苹果"
       ],
-      "viewCounter": null,
+      "startTime": "2019-08-03T19:00:00+09:00",
+      "viewCounter": "49445",
       "correctCount": 1
     },
     {
@@ -92,12 +93,13 @@
     },
     {
       "contentId": "sm42574953",
-      "title": "Nascence",
+      "title": "∄ Nascence ∄",
       "artist": "∄∄∄∄∄",
       "artistList": [
         "∄∄∄∄∄"
       ],
-      "viewCounter": null,
+      "startTime": "2023-08-04T19:14:03+09:00",
+      "viewCounter": "84826",
       "correctCount": 1
     },
     {
@@ -373,7 +375,8 @@
       "artistList": [
         "うみろ"
       ],
-      "viewCounter": null,
+      "startTime": "2013-06-03T10:16:19+09:00",
+      "viewCounter": "1237627",
       "correctCount": 1
     },
     {
@@ -1719,8 +1722,8 @@
     },
     {
       "era": "2013",
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "era": "2018",
@@ -1736,6 +1739,16 @@
       "era": "2021",
       "correctCount": 4,
       "correctSongCount": 4
+    },
+    {
+      "era": "2019",
+      "correctCount": 10,
+      "correctSongCount": 10
+    },
+    {
+      "era": "2023",
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "era": "2015",
@@ -1758,11 +1771,6 @@
       "correctSongCount": 7
     },
     {
-      "era": "2023",
-      "correctCount": 5,
-      "correctSongCount": 5
-    },
-    {
       "era": "2010",
       "correctCount": 9,
       "correctSongCount": 8
@@ -1771,11 +1779,6 @@
       "era": "2007-2008",
       "correctCount": 4,
       "correctSongCount": 4
-    },
-    {
-      "era": "2019",
-      "correctCount": 9,
-      "correctSongCount": 9
     },
     {
       "era": "2024",
@@ -2516,7 +2519,7 @@
     "participatedQuizCount": 29,
     "winQuizCount": 19,
     "loseQuizCount": 0,
-    "medianViews": 371004
+    "medianViews": 370334
   },
   "joinedQuizzes": [
     {
@@ -6786,11 +6789,11 @@
         {
           "order": 84,
           "contentId": "sm42574953",
-          "title": "Nascence",
+          "title": "∄ Nascence ∄",
           "artistList": [
             "∄∄∄∄∄"
           ],
-          "thumbnailUrl": null,
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42574953/42574953.66680503",
           "tokens": [
             {
               "type": "user",

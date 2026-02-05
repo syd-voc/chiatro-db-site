@@ -10,6 +10,7 @@ const SONG_DIR = "data/songs";
 const OUTPUT_DIR = "data/users";
 const SLUG_MAP_PATH = "data/users_slug.json";
 
+fs.rmSync(OUTPUT_DIR, { recursive: true, force: true });
 fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 
 /* =========================

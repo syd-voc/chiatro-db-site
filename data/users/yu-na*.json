@@ -2469,7 +2469,8 @@
       "artistList": [
         "袖野あらわ"
       ],
-      "viewCounter": null,
+      "startTime": "2021-04-24T00:00:00+09:00",
+      "viewCounter": "45821",
       "correctCount": 2
     },
     {
@@ -4307,7 +4308,8 @@
       "artistList": [
         "はこ"
       ],
-      "viewCounter": null,
+      "startTime": "2023-08-04T20:05:00+09:00",
+      "viewCounter": "194431",
       "correctCount": 1
     },
     {
@@ -5263,7 +5265,8 @@
       "artistList": [
         "No.85"
       ],
-      "viewCounter": null,
+      "startTime": "2018-01-12T21:03:00+09:00",
+      "viewCounter": "67460",
       "correctCount": 1
     },
     {
@@ -8207,13 +8210,13 @@
   "eraStats": [
     {
       "era": "2021",
-      "correctCount": 60,
-      "correctSongCount": 45
+      "correctCount": 62,
+      "correctSongCount": 46
     },
     {
       "era": "2018",
-      "correctCount": 95,
-      "correctSongCount": 71
+      "correctCount": 96,
+      "correctSongCount": 72
     },
     {
       "era": "2013",
@@ -8282,8 +8285,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 10,
-      "correctSongCount": 10
+      "correctCount": 11,
+      "correctSongCount": 11
     },
     {
       "era": "2024",
@@ -12003,7 +12006,7 @@
     "participatedQuizCount": 188,
     "winQuizCount": 174,
     "loseQuizCount": 1,
-    "medianViews": 350386
+    "medianViews": 349418
   },
   "joinedQuizzes": [
     {
@@ -41248,7 +41251,7 @@
           "artistList": [
             "Mitchie M"
           ],
-          "thumbnailUrl": null,
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16441674/16441674.34261169",
           "tokens": [
             {
               "type": "user",

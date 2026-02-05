@@ -6,6 +6,7 @@ const QUIZ_DIR = "data/quizzes";
 const OUT_DIR = "data/artists";
 const ARTIST_SLUG_OUT = "data/artists_slug.json";
 
+fs.rmSync(OUT_DIR, { recursive: true, force: true });
 fs.mkdirSync(OUT_DIR, { recursive: true });
 
 /* ---------- load songs ---------- */

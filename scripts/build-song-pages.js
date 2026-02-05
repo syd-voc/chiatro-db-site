@@ -5,6 +5,7 @@ const SONG_DIR = "data/songs";
 const QUIZ_DIR = "data/quizzes";
 const OUT_DIR = "data/song_pages";
 
+fs.rmSync(OUT_DIR, { recursive: true, force: true });
 fs.mkdirSync(OUT_DIR, { recursive: true });
 
 /* ========= songs 読み込み ========= */

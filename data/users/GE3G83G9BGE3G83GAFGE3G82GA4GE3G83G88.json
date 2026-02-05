@@ -329,7 +329,8 @@
       "artistList": [
         "2kino"
       ],
-      "viewCounter": null,
+      "startTime": "2020-03-29T20:00:00+09:00",
+      "viewCounter": "97253",
       "correctCount": 1
     },
     {
@@ -4343,7 +4344,8 @@
       "artistList": [
         "doriko"
       ],
-      "viewCounter": null,
+      "startTime": "2016-08-04T20:00:00+09:00",
+      "viewCounter": "243645",
       "correctCount": 1
     },
     {
@@ -6473,7 +6475,8 @@
       "artistList": [
         "doriko"
       ],
-      "viewCounter": null,
+      "startTime": "2015-08-22T18:00:00+09:00",
+      "viewCounter": "155318",
       "correctCount": 1
     },
     {
@@ -6529,7 +6532,8 @@
         "蝶々P",
         "Neru"
       ],
-      "viewCounter": null,
+      "startTime": "2013-07-29T21:00:24+09:00",
+      "viewCounter": "478094",
       "correctCount": 1
     },
     {
@@ -7122,7 +7126,8 @@
       "artistList": [
         "doriko"
       ],
-      "viewCounter": null,
+      "startTime": "2011-12-25T17:58:59+09:00",
+      "viewCounter": "502162",
       "correctCount": 1
     },
     {
@@ -9111,18 +9116,18 @@
   "eraStats": [
     {
       "era": "2011",
-      "correctCount": 51,
-      "correctSongCount": 40
+      "correctCount": 52,
+      "correctSongCount": 41
     },
     {
       "era": "2020",
-      "correctCount": 56,
-      "correctSongCount": 47
+      "correctCount": 57,
+      "correctSongCount": 48
     },
     {
       "era": "2016",
-      "correctCount": 54,
-      "correctSongCount": 46
+      "correctCount": 55,
+      "correctSongCount": 47
     },
     {
       "era": "2012",
@@ -9146,8 +9151,8 @@
     },
     {
       "era": "2015",
-      "correctCount": 78,
-      "correctSongCount": 63
+      "correctCount": 79,
+      "correctSongCount": 64
     },
     {
       "era": "2009",
@@ -9176,8 +9181,8 @@
     },
     {
       "era": "2013",
-      "correctCount": 55,
-      "correctSongCount": 42
+      "correctCount": 56,
+      "correctSongCount": 43
     },
     {
       "era": "2022",
@@ -13256,7 +13261,7 @@
     "participatedQuizCount": 203,
     "winQuizCount": 172,
     "loseQuizCount": 0,
-    "medianViews": 286184
+    "medianViews": 285693
   },
   "joinedQuizzes": [
     {
@@ -32718,7 +32723,7 @@
             "蝶々P",
             "Neru"
           ],
-          "thumbnailUrl": null,
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21468850/21468850",
           "tokens": [
             {
               "type": "user",

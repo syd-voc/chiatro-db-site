@@ -575,7 +575,8 @@
       "artistList": [
         "袖野あらわ"
       ],
-      "viewCounter": null,
+      "startTime": "2021-10-14T00:00:00+09:00",
+      "viewCounter": "134629",
       "correctCount": 1
     },
     {
@@ -900,14 +901,14 @@
       "correctCount": 1
     },
     {
-      "contentId": "sm39718906",
+      "contentId": "sm37947195",
       "title": "きみよみ",
       "artist": "◈*ゆくえわっと",
       "artistList": [
         "◈*ゆくえわっと"
       ],
-      "startTime": "2021-12-06T18:01:02+09:00",
-      "viewCounter": "1623",
+      "startTime": "2020-12-11T18:59:02+09:00",
+      "viewCounter": 130780,
       "correctCount": 1
     },
     {
@@ -1272,7 +1273,8 @@
       "artistList": [
         "袖野あらわ"
       ],
-      "viewCounter": null,
+      "startTime": "2022-04-22T00:00:00+09:00",
+      "viewCounter": "109720",
       "correctCount": 1
     },
     {
@@ -3866,8 +3868,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 37,
-      "correctSongCount": 30
+      "correctCount": 38,
+      "correctSongCount": 31
     },
     {
       "era": "2014",
@@ -3941,8 +3943,8 @@
     },
     {
       "era": "2022",
-      "correctCount": 10,
-      "correctSongCount": 10
+      "correctCount": 11,
+      "correctSongCount": 11
     },
     {
       "era": "2025-",
@@ -3966,8 +3968,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 77,
-      "correctSongCount": 73
+      "correctCount": 78,
+      "correctSongCount": 74
     },
     {
       "range": "30-50万",
@@ -4492,6 +4494,12 @@
       "contentId": "sm41368632",
       "startTime": 1668592800000,
       "viewCounter": 310607
+    },
+    {
+      "title": "きみよみ",
+      "contentId": "sm37947195",
+      "startTime": 1607680742000,
+      "viewCounter": 130780
     },
     {
       "title": "ギビュリタ",
@@ -12383,12 +12391,12 @@
         },
         {
           "order": 60,
-          "contentId": "sm39718906",
+          "contentId": "sm37947195",
           "title": "きみよみ",
           "artistList": [
             "◈*ゆくえわっと"
           ],
-          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39718906/39718906.3110609",
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37947195/37947195.67908462",
           "tokens": [
             {
               "type": "user",
