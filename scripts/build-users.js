@@ -176,7 +176,10 @@ for (const user of users) {
 
         answers.forEach((a, i) => {
             if (i > 0) tokens.push({ type: "text", value: "→" });
-
+            if (a.result === "SKIP") {
+                tokens.push({ type: "text", value: "・スルー" });
+                return;
+            }
             const num = parseInt(a.result.replace(/\D/g, ""), 10);
 
             if (a.result.startsWith("OK")) {
@@ -187,8 +190,6 @@ for (const user of users) {
                 tokens.push({ type: "user", prefix: "×", user: a.user });
             } else if (a.result === "LOSE") {
                 tokens.push({ type: "user", prefix: "××", user: a.user });
-            } else if (a.result === "SKIP") {
-                tokens.push({ type: "user", prefix: "・スルー", user: "" });
             }
         });
 

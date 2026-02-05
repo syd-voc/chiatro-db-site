@@ -217,8 +217,9 @@ section>h3:first-child {
 /* ========================= Tables ========================= */
 table {
     border-collapse: collapse;
-    width: 100%;
+    width: auto;
     max-width: 100%;
+    table-layout: auto;
     margin: 1rem 0;
 }
 
@@ -382,7 +383,6 @@ a:hover {
 }
 
 .table-scroll {
-    width: 100%;
     max-width: 100%;
     overflow-x: auto;
     overflow-y: hidden;
@@ -390,9 +390,6 @@ a:hover {
     min-width: 0;
 }
 
-.table-scroll table {
-    width: 100%;
-}
 
 /* ========================= Chart Styles ========================= */
 .era-chart,
