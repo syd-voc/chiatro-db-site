@@ -40,8 +40,9 @@ body {
 /* ========================= Header ========================= */
 
 .site-header {
-    min-height: 44px;
+    min-height: 56px;
     width: 100%;
+    position: relative;
     background: rgb(31, 156, 239);
     display: flex;
     align-items: center;
@@ -57,7 +58,7 @@ body {
 
 .header-meta {
     position: absolute;
-    right: 12px;
+    right: 40px;
     bottom: 1px;
     font-size: 10px;
     opacity: 0.8;

@@ -2,16 +2,16 @@
 const lastModifiedModule = import.meta.glob(
     "../../data/snapshot/last_modified.json",
     { eager: true },
-) as Record<string, { default: { fetched_at?: string } }>;
+) as Record<string, { default: { deployed_at?: string } }>;
 
 const lastModifiedData = Object.values(lastModifiedModule)[0]?.default;
 
-const fetchedAt = lastModifiedData?.fetched_at
-    ? new Date(lastModifiedData.fetched_at)
+const deployedAt = lastModifiedData?.deployed_at
+    ? new Date(lastModifiedData.deployed_at)
     : null;
 
-const fetchedAtText = fetchedAt
-    ? fetchedAt.toLocaleString("ja-JP", {
+const deployedAtText = deployedAt
+    ? deployedAt.toLocaleString("ja-JP", {
           year: "numeric",
           month: "2-digit",
           day: "2-digit",
@@ -30,6 +30,6 @@ const fetchedAtText = fetchedAt
     </div>
 
     <div class="header-meta">
-        最終更新：{fetchedAtText}
+        最終更新：{deployedAtText}
     </div>
 </header>

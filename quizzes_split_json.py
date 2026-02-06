@@ -132,7 +132,7 @@ for key, data in quizzes.items():
 if unmatched_logs:
     with open(UNMATCHED_LOG, "w", encoding="utf-8", newline="") as f:
         # ヘッダー
-        headers = ["row", "song"] + [f"artists.{i}" for i in range(MAX_ARTISTS)]
+        headers = ["row", "song"] + [f"artist.{i}" for i in range(MAX_ARTISTS)]
         f.write("\t".join(headers) + "\n")
 
         for u in unmatched_logs:
