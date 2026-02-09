@@ -2,7 +2,11 @@ import json
 from pathlib import Path
 
 # ===== パス設定 =====
-SONGS_DIR = Path("data/songs")
+SONG_DIRS = [
+    Path("data/songs"),
+    Path("data/another_songs"),
+]
+
 SNAPSHOT_DIR = Path("data/snapshot")
 LOG_FILE = Path("data/missing_songs.tsv")
 
@@ -17,7 +21,7 @@ def load_json(path: Path):
         print(f"ファイル: {path}")
         print(f"内容: {e}")
         print("===================================")
-        raise  # どこで止まったか分かるように再送出
+        raise
 
 # ===== snapshot 側をすべて読み込み、contentId で統合 =====
 snapshot_by_id = {}
@@ -25,13 +29,12 @@ snapshot_by_id = {}
 for snapshot_file in SNAPSHOT_DIR.glob("snapshot_*.json"):
     data = load_json(snapshot_file)
 
-    # snapshot は配列
     for item in data:
         cid = item.get("contentId")
         if not cid:
             continue
 
-        # 既存 + 新規 を論理和（後勝ち）
+        # 後勝ちマージ
         if cid not in snapshot_by_id:
             snapshot_by_id[cid] = item
         else:
@@ -40,46 +43,54 @@ for snapshot_file in SNAPSHOT_DIR.glob("snapshot_*.json"):
                 **item
             }
 
-# ===== songs 側を処理（上書き） =====
+# ===== songs / another_songs を処理 =====
 missing_in_snapshot = []
 
-for song_file in SONGS_DIR.glob("*.json"):
-    song_data = load_json(song_file)
+for target_dir in SONG_DIRS:
 
-    cid = song_data.get("contentId")
-    if not cid:
+    if not target_dir.exists():
+        print(f"skip: {target_dir} が存在しません")
         continue
 
-    if cid in snapshot_by_id:
-        snapshot_data = snapshot_by_id[cid]
+    for song_file in target_dir.glob("*.json"):
+        song_data = load_json(song_file)
 
-        # snapshot 優先で論理和
-        merged = {
-            **song_data,
-            **snapshot_data
-        }
+        cid = song_data.get("contentId")
+        if not cid:
+            continue
 
-        # data/songs に上書き保存
-        with song_file.open("w", encoding="utf-8") as f:
-            json.dump(merged, f, ensure_ascii=False, indent=2)
+        if cid in snapshot_by_id:
+            snapshot_data = snapshot_by_id[cid]
 
-    else:
-        # snapshot に存在しなかった曲を記録
-        missing_in_snapshot.append({
-            "contentId": cid,
-            "file": song_file.name,
-            "song": song_data.get("song"),
-            "title": song_data.get("title")
-        })
+            # snapshot 優先で論理和マージ
+            merged = {
+                **song_data,
+                **snapshot_data
+            }
+
+            with song_file.open("w", encoding="utf-8") as f:
+                json.dump(merged, f, ensure_ascii=False, indent=2)
+
+        else:
+            missing_in_snapshot.append({
+                "contentId": cid,
+                "file": song_file.name,
+                "dir": target_dir.name,
+                "song": song_data.get("song"),
+                "title": song_data.get("title")
+            })
 
 # ===== ログ出力 =====
 with LOG_FILE.open("w", encoding="utf-8") as f:
     for item in missing_in_snapshot:
         f.write(
-            f"{item['contentId']}\t{item['file']}\t"
-            f"{item.get('song','')}\t{item.get('title','')}\n"
+            f"{item['contentId']}\t"
+            f"{item['dir']}\t"
+            f"{item['file']}\t"
+            f"{item.get('song','')}\t"
+            f"{item.get('title','')}\n"
         )
 
-print("songs 上書き更新完了")
+print("songs / another_songs 上書き更新完了")
 print(f"snapshot に存在しなかった曲: {len(missing_in_snapshot)}")
 print(f"ログ出力先: {LOG_FILE}")

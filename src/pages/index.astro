@@ -1,8 +1,16 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import stats from "../../data/stats.json";
+import changelog from "../../data/changelog.json";
 
 const { quizCount, songCount, userCount } = stats;
+
+const sorted = [...changelog].sort(
+  (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+);
+
+const firstLogs = sorted.slice(0, 3);
+const moreLogs = sorted.slice(3);
 ---
 
 <BaseLayout title="ちあトロデータベース">
@@ -48,5 +56,52 @@ const { quizCount, songCount, userCount } = stats;
 				個人成績・各種統計情報
 			</li>
 		</ul>
+	</section>
+
+	<section>
+		<h2>更新履歴</h2>
+
+		<ul class="changelog">
+			{firstLogs.map(log => (
+				<li>
+					<div class="cl-date">{log.date}</div>
+					<div class="cl-title">{log.title}</div>
+					<div class="cl-body">{log.body}</div>
+				</li>
+			))}
+		</ul>
+
+		{moreLogs.length > 0 && (
+			<>
+				<button id="cl-toggle" class="toggle-btn">
+					さらに表示（{moreLogs.length}件）
+				</button>
+
+				<ul class="changelog" id="cl-more" hidden>
+					{moreLogs.map(log => (
+						<li>
+							<div class="cl-date">{log.date}</div>
+							<div class="cl-title">{log.title}</div>
+							<div class="cl-body">{log.body}</div>
+						</li>
+					))}
+				</ul>
+
+				<script>
+					const btn = document.getElementById("cl-toggle");
+					const more = document.getElementById("cl-more");
+
+					if (btn && more) {
+						btn.addEventListener("click", () => {
+							const open = !more.hidden;
+							more.hidden = open;
+							btn.textContent = open
+								? `さらに表示（${more.children.length}件）`
+								: "閉じる";
+						});
+					}
+				</script>
+			</>
+		)}
 	</section>
 </BaseLayout>

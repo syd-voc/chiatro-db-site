@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 
 const SONG_DIR = "data/songs";
+const ANOTHER_DIR = "data/another_songs";
 const QUIZ_DIR = "data/quizzes";
 const OUT_DIR = "data/song_pages";
 
@@ -15,6 +16,16 @@ const songs = fs.readdirSync(SONG_DIR)
     .map(f => JSON.parse(
         fs.readFileSync(path.join(SONG_DIR, f), "utf-8")
     ));
+
+/* ========= another_songs 読み込み ========= */
+
+const anotherSongs = fs.existsSync(ANOTHER_DIR)
+    ? fs.readdirSync(ANOTHER_DIR)
+        .filter(f => f.endsWith(".json"))
+        .map(f =>
+            JSON.parse(fs.readFileSync(path.join(ANOTHER_DIR, f), "utf-8"))
+        )
+    : [];
 
 /* ========= quizzes 読み込み ========= */
 
@@ -51,6 +62,18 @@ for (const q of quizzes) {
     }
 }
 
+const anotherMap = new Map();
+
+for (const s of anotherSongs) {
+    if (!s.original) continue;
+
+    if (!anotherMap.has(s.original)) {
+        anotherMap.set(s.original, []);
+    }
+
+    anotherMap.get(s.original).push(s);
+}
+
 /* ========= ページJSON生成 ========= */
 
 for (const song of songs) {
@@ -73,7 +96,8 @@ for (const song of songs) {
         histories,
         appearanceCount,
         correctCount,
-        accuracy
+        accuracy,
+        anotherVersions: anotherMap.get(song.contentId) ?? []
     };
 
     fs.writeFileSync(

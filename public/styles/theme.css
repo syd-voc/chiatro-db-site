@@ -171,6 +171,49 @@ li {
     margin: 0.3em 0;
 }
 
+/* ========================= Changelog Styles ========================= */
+
+.changelog {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.changelog li {
+    border-left: 3px solid var(--color-primary);
+    padding: 6px 10px;
+    margin: 6px 0;
+    background: #fafafa;
+}
+
+.cl-date {
+    font-size: 12px;
+    opacity: 0.7;
+}
+
+.cl-title {
+    font-weight: 600;
+}
+
+.cl-body {
+    font-size: 14px;
+}
+
+.toggle-btn {
+    border: 1px solid var(--color-border);
+    background: #f5f5f5;
+    border-radius: 6px;
+    padding: 0.1rem 0.5rem;
+    margin-left: 0.5rem;
+    font-size: 0.9rem;
+    cursor: pointer;
+    line-height: 1.2;
+}
+
+.toggle-btn:hover {
+    background: #e8f2fd;
+}
+
 /* ========================= Sections / Cards ========================= */
 section {
     margin-bottom: 2rem;
@@ -488,7 +531,7 @@ a:hover {
 .win-ranking {
     margin: 1rem 0 1.5rem;
     padding: 0.5rem 1rem;
-    background: #f6fbff;
+    background: #fafafa;
 }
 
 .win-ranking h2 {
