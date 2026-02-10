@@ -3,7 +3,7 @@
     "song": "こちら大和、明日に告ぐ",
     "contentId": "sm25966754",
     "title": "こちら大和、明日に告ぐ／チームカミウタ feat.MEIKO V3",
-    "commentCounter": 888,
+    "commentCounter": 890,
     "lengthSeconds": 252,
     "likeCounter": 47,
     "mylistCounter": 1441,
@@ -11,7 +11,7 @@
     "startTime": "2015-04-07T17:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25966754/25966754",
     "userId": 22197835,
-    "viewCounter": 84485,
+    "viewCounter": 84503,
     "artist": [
       "チームカミウタ"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "B",
+      "order": 62
+    },
     {
       "date": "2025-11-28",
       "quizNo": 278,
@@ -58,7 +64,8 @@
       "order": 29
     }
   ],
-  "appearanceCount": 4,
+  "appearanceCount": 5,
   "correctCount": 2,
-  "accuracy": 50
+  "accuracy": 40,
+  "anotherVersions": []
 }

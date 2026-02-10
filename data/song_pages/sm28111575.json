@@ -11,7 +11,7 @@
     "startTime": "2016-01-30T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28111575/28111575",
     "userId": 308936,
-    "viewCounter": 119945,
+    "viewCounter": 119977,
     "artist": [
       "OSTER project"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "B",
+      "order": 61,
+      "winner": "ルナ・アリス"
+    },
     {
       "date": "2025-11-08",
       "quizNo": 275,
@@ -107,7 +114,8 @@
       "order": 7
     }
   ],
-  "appearanceCount": 11,
-  "correctCount": 10,
-  "accuracy": 91
+  "appearanceCount": 12,
+  "correctCount": 11,
+  "accuracy": 92,
+  "anotherVersions": []
 }

@@ -11,7 +11,7 @@
     "startTime": "2016-02-25T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28294159/28294159",
     "userId": 3343223,
-    "viewCounter": 562977,
+    "viewCounter": 563078,
     "artist": [
       "40mP"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "C2",
+      "order": 62,
+      "winner": "ぴーなっつ"
+    },
     {
       "date": "2026-01-30",
       "quizNo": 286,
@@ -157,7 +164,8 @@
       "winner": "ホワイト"
     }
   ],
-  "appearanceCount": 18,
-  "correctCount": 18,
-  "accuracy": 100
+  "appearanceCount": 19,
+  "correctCount": 19,
+  "accuracy": 100,
+  "anotherVersions": []
 }

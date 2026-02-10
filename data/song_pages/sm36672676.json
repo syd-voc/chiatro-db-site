@@ -6,12 +6,12 @@
     "commentCounter": 132,
     "lengthSeconds": 217,
     "likeCounter": 230,
-    "mylistCounter": 718,
+    "mylistCounter": 719,
     "rank": 422,
     "startTime": "2020-04-14T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36672676/36672676.73336850",
     "userId": 38441206,
-    "viewCounter": 100135,
+    "viewCounter": 100219,
     "artist": [
       "TaKU.K"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "B",
+      "order": 7,
+      "winner": "ルナ・アリス"
+    },
     {
       "date": "2025-05-17",
       "quizNo": 250,
@@ -53,7 +60,8 @@
       "winner": "恋ちゃん"
     }
   ],
-  "appearanceCount": 3,
-  "correctCount": 3,
-  "accuracy": 100
+  "appearanceCount": 4,
+  "correctCount": 4,
+  "accuracy": 100,
+  "anotherVersions": []
 }

@@ -3,15 +3,15 @@
     "song": "ユーチューバー",
     "contentId": "sm43931346",
     "title": "ユーチューバー / 初音ミク",
-    "commentCounter": 940,
+    "commentCounter": 944,
     "lengthSeconds": 176,
-    "likeCounter": 2518,
+    "likeCounter": 2524,
     "mylistCounter": 838,
     "rank": 244,
     "startTime": "2024-08-08T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43931346/43931346.68107172",
     "userId": 865591,
-    "viewCounter": 113430,
+    "viewCounter": 113914,
     "artist": [
       "ピノキオピー"
     ],
@@ -29,6 +29,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "A",
+      "order": 40,
+      "winner": "すべから"
+    },
     {
       "date": "2025-12-20",
       "quizNo": 281,
@@ -72,7 +79,8 @@
       "winner": "スライドポテト"
     }
   ],
-  "appearanceCount": 6,
-  "correctCount": 6,
-  "accuracy": 100
+  "appearanceCount": 7,
+  "correctCount": 7,
+  "accuracy": 100,
+  "anotherVersions": []
 }

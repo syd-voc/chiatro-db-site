@@ -6,12 +6,12 @@
     "commentCounter": 242,
     "lengthSeconds": 257,
     "likeCounter": 57,
-    "mylistCounter": 680,
-    "rank": 469,
+    "mylistCounter": 681,
+    "rank": 468,
     "startTime": "2018-10-12T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34004373/34004373",
     "userId": 63367816,
-    "viewCounter": 53818,
+    "viewCounter": 53831,
     "artist": [
       "SEVENTHLINKS"
     ],
@@ -30,6 +30,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "C1",
+      "order": 32,
+      "winner": "Ha.Ru."
+    },
     {
       "date": "2025-11-28",
       "quizNo": 278,
@@ -55,7 +62,8 @@
       "winner": "yu-na*"
     }
   ],
-  "appearanceCount": 4,
-  "correctCount": 1,
-  "accuracy": 25
+  "appearanceCount": 5,
+  "correctCount": 2,
+  "accuracy": 40,
+  "anotherVersions": []
 }

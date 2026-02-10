@@ -5,13 +5,13 @@
     "title": "パーフェクト生命 / 初音ミク",
     "commentCounter": 10046,
     "lengthSeconds": 183,
-    "likeCounter": 1430,
-    "mylistCounter": 16988,
+    "likeCounter": 1432,
+    "mylistCounter": 16991,
     "rank": 27,
     "startTime": "2015-10-06T19:03:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27304884/27304884.83714074",
     "userId": 49716308,
-    "viewCounter": 2312570,
+    "viewCounter": 2312984,
     "artist": [
       "ナユタン星人"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "C2",
+      "order": 63
+    },
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "D2",
+      "order": 24,
+      "winner": "終了"
+    },
     {
       "date": "2025-12-06",
       "quizNo": 279,
@@ -204,7 +217,8 @@
       "winner": "fuji#"
     }
   ],
-  "appearanceCount": 25,
-  "correctCount": 22,
-  "accuracy": 88
+  "appearanceCount": 27,
+  "correctCount": 23,
+  "accuracy": 85,
+  "anotherVersions": []
 }

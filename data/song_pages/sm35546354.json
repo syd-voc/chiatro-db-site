@@ -6,12 +6,12 @@
     "commentCounter": 1371,
     "lengthSeconds": 222,
     "likeCounter": 5469,
-    "mylistCounter": 8336,
+    "mylistCounter": 8343,
     "rank": 35,
     "startTime": "2019-08-16T18:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35546354/35546354.24253915",
     "userId": 45395036,
-    "viewCounter": 1784120,
+    "viewCounter": 1785538,
     "artist": [
       "Misumi"
     ],
@@ -31,6 +31,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "D1",
+      "order": 72,
+      "winner": "aq瑠璃"
+    },
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "C2",
+      "order": 15,
+      "winner": "尾白もち"
+    },
     {
       "date": "2026-01-24",
       "quizNo": 285,
@@ -282,7 +296,8 @@
       "winner": "ろあ"
     }
   ],
-  "appearanceCount": 36,
-  "correctCount": 36,
-  "accuracy": 100
+  "appearanceCount": 38,
+  "correctCount": 38,
+  "accuracy": 100,
+  "anotherVersions": []
 }

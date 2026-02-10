@@ -6,12 +6,12 @@
     "commentCounter": 29627,
     "lengthSeconds": 536,
     "likeCounter": 716,
-    "mylistCounter": 45043,
+    "mylistCounter": 45044,
     "rank": 35,
     "startTime": "2009-12-26T21:16:03+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9205429/9205429",
     "userId": 1159685,
-    "viewCounter": 1220593,
+    "viewCounter": 1220696,
     "artist": [
       "鼻そうめんP"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "A",
+      "order": 45,
+      "winner": "ホワイト"
+    },
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "D1",
+      "order": 19
+    },
     {
       "date": "2025-11-07",
       "quizNo": 275,
@@ -174,7 +187,8 @@
       "winner": "きぐな"
     }
   ],
-  "appearanceCount": 21,
-  "correctCount": 17,
-  "accuracy": 81
+  "appearanceCount": 23,
+  "correctCount": 18,
+  "accuracy": 78,
+  "anotherVersions": []
 }

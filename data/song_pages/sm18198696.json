@@ -11,7 +11,7 @@
     "startTime": "2012-06-26T20:29:50+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18198696/18198696",
     "userId": 21171070,
-    "viewCounter": 153144,
+    "viewCounter": 153165,
     "artist": [
       "ラムネ(村人P)"
     ],
@@ -32,6 +32,13 @@
   },
   "histories": [
     {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "B",
+      "order": 19,
+      "winner": "Moai太郎"
+    },
+    {
       "date": "2024-08-24",
       "quizNo": 214,
       "group": "A",
@@ -44,7 +51,8 @@
       "order": 18
     }
   ],
-  "appearanceCount": 2,
-  "correctCount": 0,
-  "accuracy": 0
+  "appearanceCount": 3,
+  "correctCount": 1,
+  "accuracy": 33,
+  "anotherVersions": []
 }

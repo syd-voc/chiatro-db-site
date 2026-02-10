@@ -6,12 +6,12 @@
     "commentCounter": 33683,
     "lengthSeconds": 183,
     "likeCounter": 493,
-    "mylistCounter": 22677,
+    "mylistCounter": 22680,
     "rank": 101,
     "startTime": "2012-09-24T20:39:36+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18965721/18965721",
     "userId": 1561183,
-    "viewCounter": 868106,
+    "viewCounter": 868266,
     "artist": [
       "ぽりふぉ"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "D1",
+      "order": 23,
+      "winner": "おやすみ"
+    },
     {
       "date": "2025-10-11",
       "quizNo": 271,
@@ -164,7 +171,8 @@
       "winner": "微熱"
     }
   ],
-  "appearanceCount": 19,
-  "correctCount": 19,
-  "accuracy": 100
+  "appearanceCount": 20,
+  "correctCount": 20,
+  "accuracy": 100,
+  "anotherVersions": []
 }

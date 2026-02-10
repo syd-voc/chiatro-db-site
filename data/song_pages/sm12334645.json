@@ -11,7 +11,7 @@
     "startTime": "2010-10-05T21:13:21+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12334645/12334645",
     "userId": 3967970,
-    "viewCounter": 302483,
+    "viewCounter": 302558,
     "artist": [
       "emon(Tes.)"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "D2",
+      "order": 47
+    },
     {
       "date": "2025-12-27",
       "quizNo": 282,
@@ -73,7 +79,8 @@
       "winner": "ゲオス"
     }
   ],
-  "appearanceCount": 6,
+  "appearanceCount": 7,
   "correctCount": 5,
-  "accuracy": 83
+  "accuracy": 71,
+  "anotherVersions": []
 }

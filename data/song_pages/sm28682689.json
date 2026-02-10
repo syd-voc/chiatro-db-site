@@ -11,7 +11,7 @@
     "startTime": "2016-04-21T21:51:38+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28682689/28682689.79481200",
     "userId": 15605108,
-    "viewCounter": 106371,
+    "viewCounter": 106382,
     "artist": [
       "EZFG"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "C2",
+      "order": 51
+    },
     {
       "date": "2025-09-05",
       "quizNo": 266,
@@ -58,7 +64,8 @@
       "winner": "ねこたろー"
     }
   ],
-  "appearanceCount": 4,
+  "appearanceCount": 5,
   "correctCount": 2,
-  "accuracy": 50
+  "accuracy": 40,
+  "anotherVersions": []
 }

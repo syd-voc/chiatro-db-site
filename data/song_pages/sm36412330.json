@@ -6,12 +6,12 @@
     "commentCounter": 189,
     "lengthSeconds": 273,
     "likeCounter": 96,
-    "mylistCounter": 645,
-    "rank": 467,
+    "mylistCounter": 646,
+    "rank": 466,
     "startTime": "2020-02-24T08:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36412330/36412330.10465806",
     "userId": 85246365,
-    "viewCounter": 44377,
+    "viewCounter": 44389,
     "artist": [
       "夜はこれから"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "A",
+      "order": 29,
+      "winner": "Cumber"
+    },
     {
       "date": "2025-01-11",
       "quizNo": 232,
@@ -60,7 +67,8 @@
       "winner": "chia*"
     }
   ],
-  "appearanceCount": 4,
-  "correctCount": 4,
-  "accuracy": 100
+  "appearanceCount": 5,
+  "correctCount": 5,
+  "accuracy": 100,
+  "anotherVersions": []
 }

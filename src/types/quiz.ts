@@ -44,3 +44,7 @@ export interface Song {
 
     thumbnailUrl?: string;
 }
+
+export interface AnotherSong extends Song {
+    original: string;
+}

@@ -6,12 +6,12 @@
     "commentCounter": 202,
     "lengthSeconds": 222,
     "likeCounter": 74,
-    "mylistCounter": 742,
+    "mylistCounter": 741,
     "rank": 443,
     "startTime": "2018-11-09T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34142075/34142075",
     "userId": 41630354,
-    "viewCounter": 94919,
+    "viewCounter": 94936,
     "artist": [
       "ジグ"
     ],
@@ -30,6 +30,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "A",
+      "order": 49,
+      "winner": "まつせ"
+    },
     {
       "date": "2025-11-08",
       "quizNo": 275,
@@ -68,7 +75,8 @@
       "winner": "あー"
     }
   ],
-  "appearanceCount": 6,
-  "correctCount": 2,
-  "accuracy": 33
+  "appearanceCount": 7,
+  "correctCount": 3,
+  "accuracy": 43,
+  "anotherVersions": []
 }

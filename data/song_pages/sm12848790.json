@@ -6,12 +6,12 @@
     "commentCounter": 13700,
     "lengthSeconds": 299,
     "likeCounter": 667,
-    "mylistCounter": 11135,
+    "mylistCounter": 11133,
     "rank": 185,
     "startTime": "2010-11-25T00:00:55+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12848790/12848790",
     "userId": 112798,
-    "viewCounter": 636410,
+    "viewCounter": 636525,
     "artist": [
       "Neru"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "C2",
+      "order": 48,
+      "winner": "やま"
+    },
     {
       "date": "2025-11-21",
       "quizNo": 277,
@@ -163,7 +170,8 @@
       "winner": "まつせ"
     }
   ],
-  "appearanceCount": 19,
-  "correctCount": 17,
-  "accuracy": 89
+  "appearanceCount": 20,
+  "correctCount": 18,
+  "accuracy": 90,
+  "anotherVersions": []
 }

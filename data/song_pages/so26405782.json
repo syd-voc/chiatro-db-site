@@ -6,12 +6,12 @@
     "channelId": 2608425,
     "commentCounter": 11993,
     "lengthSeconds": 282,
-    "likeCounter": 56,
-    "mylistCounter": 10064,
+    "likeCounter": 57,
+    "mylistCounter": 10063,
     "rank": 58,
     "startTime": "2015-06-03T20:28:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26405782/26405782",
-    "viewCounter": 396745,
+    "viewCounter": 396750,
     "artist": [
       "HoneyWorks"
     ],
@@ -31,6 +31,13 @@
     "userId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "C1",
+      "order": 29,
+      "winner": "クスノキ"
+    },
     {
       "date": "2025-11-08",
       "quizNo": 275,
@@ -115,7 +122,8 @@
       "winner": "あー"
     }
   ],
-  "appearanceCount": 12,
-  "correctCount": 12,
-  "accuracy": 100
+  "appearanceCount": 13,
+  "correctCount": 13,
+  "accuracy": 100,
+  "anotherVersions": []
 }

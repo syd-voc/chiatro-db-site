@@ -3,15 +3,15 @@
     "song": "エゴロック",
     "contentId": "sm39300654",
     "title": "エゴロック(long ver.) / すりぃ feat.鏡音レン",
-    "commentCounter": 10288,
+    "commentCounter": 10291,
     "lengthSeconds": 170,
-    "likeCounter": 42427,
-    "mylistCounter": 30434,
+    "likeCounter": 42451,
+    "mylistCounter": 30442,
     "rank": 7,
     "startTime": "2021-09-07T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39300654/39300654.58465574",
     "userId": 78655994,
-    "viewCounter": 5683719,
+    "viewCounter": 5688710,
     "artist": [
       "すりぃ"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "B",
+      "order": 84,
+      "winner": "祝公式"
+    },
     {
       "date": "2026-01-16",
       "quizNo": 284,
@@ -365,7 +372,41 @@
       "winner": "微熱"
     }
   ],
-  "appearanceCount": 48,
-  "correctCount": 48,
-  "accuracy": 100
+  "appearanceCount": 49,
+  "correctCount": 49,
+  "accuracy": 100,
+  "anotherVersions": [
+    {
+      "original": "sm39300654",
+      "contentId": "sm33817538",
+      "song": "エゴロック (short ver.)",
+      "artist": [
+        "すりぃ"
+      ],
+      "channelId": null,
+      "commentCounter": 2329,
+      "lengthSeconds": 60,
+      "likeCounter": 1733,
+      "mylistCounter": 6756,
+      "startTime": "2018-09-07T19:00:00+09:00",
+      "tags": [
+        "VOCALOID",
+        "鏡音レン",
+        "すりぃ",
+        "まめでん",
+        "pino",
+        "ねこぜもん",
+        "エゴロック",
+        "レンオリジナル曲",
+        "VOCALOID伝説入り",
+        "エゴロック(すりぃ)",
+        "全ての始まり"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33817538/33817538",
+      "title": "エゴロック／ すりぃ feat.鏡音レン",
+      "userId": 78655994,
+      "viewCounter": 1369646,
+      "rank": 72
+    }
+  ]
 }

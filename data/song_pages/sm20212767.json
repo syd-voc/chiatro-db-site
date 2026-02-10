@@ -11,7 +11,7 @@
     "startTime": "2013-03-01T20:30:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20212767/20212767",
     "userId": 3343223,
-    "viewCounter": 549948,
+    "viewCounter": 550014,
     "artist": [
       "40mP"
     ],
@@ -30,6 +30,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "D2",
+      "order": 29,
+      "winner": "kowaiyatu"
+    },
     {
       "date": "2025-12-12",
       "quizNo": 280,
@@ -183,7 +190,8 @@
       "winner": "ホワイトホールヶ丘商店街"
     }
   ],
-  "appearanceCount": 23,
-  "correctCount": 17,
-  "accuracy": 74
+  "appearanceCount": 24,
+  "correctCount": 18,
+  "accuracy": 75,
+  "anotherVersions": []
 }

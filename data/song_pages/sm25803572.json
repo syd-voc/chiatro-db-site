@@ -11,7 +11,7 @@
     "startTime": "2015-03-16T19:58:28+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25803572/25803572",
     "userId": 25505647,
-    "viewCounter": 53872,
+    "viewCounter": 53885,
     "artist": [
       "裸洗顔"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "C1",
+      "order": 18
+    },
     {
       "date": "2023-07-29",
       "quizNo": 169,
@@ -52,7 +58,8 @@
       "order": 99
     }
   ],
-  "appearanceCount": 3,
+  "appearanceCount": 4,
   "correctCount": 2,
-  "accuracy": 67
+  "accuracy": 50,
+  "anotherVersions": []
 }

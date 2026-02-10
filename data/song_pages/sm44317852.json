@@ -3,15 +3,15 @@
     "song": "モニタリング",
     "contentId": "sm44317852",
     "title": "DECO*27 - モニタリング feat. 初音ミク",
-    "commentCounter": 9598,
+    "commentCounter": 9634,
     "lengthSeconds": 181,
-    "likeCounter": 31676,
-    "mylistCounter": 15897,
+    "likeCounter": 31773,
+    "mylistCounter": 15948,
     "rank": 4,
     "startTime": "2024-11-22T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44317852/44317852.3751477",
     "userId": 811012,
-    "viewCounter": 4498327,
+    "viewCounter": 4518484,
     "artist": [
       "DECO*27"
     ],
@@ -25,11 +25,26 @@
       "VOCALOID伝説入り",
       "初音ミク名曲リンク",
       "DAM&JOY配信中",
-      "ヤンデロイド"
+      "ヤンデロイド",
+      "VOCALOID嫁入り"
     ],
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "D1",
+      "order": 30,
+      "winner": "paradoxes"
+    },
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "B",
+      "order": 23,
+      "winner": "よかずき"
+    },
     {
       "date": "2026-01-31",
       "quizNo": 286,
@@ -164,7 +179,41 @@
       "winner": "エイミー"
     }
   ],
-  "appearanceCount": 19,
-  "correctCount": 19,
-  "accuracy": 100
+  "appearanceCount": 21,
+  "correctCount": 21,
+  "accuracy": 100,
+  "anotherVersions": [
+    {
+      "original": "sm44317852",
+      "contentId": "sm45353732",
+      "song": "モニタリング (Best Friend Remix)",
+      "artist": [
+        "DECO*27"
+      ],
+      "channelId": null,
+      "commentCounter": 2970,
+      "lengthSeconds": 182,
+      "likeCounter": 10595,
+      "mylistCounter": 4733,
+      "startTime": "2025-09-05T19:00:00+09:00",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "DECO*27",
+        "モニタリング(DECO*27)",
+        "VOCALOIDアレンジ曲",
+        "初音ミク名曲リンク",
+        "モニタリング(BestFriendRemix)",
+        "爽やかなミクうた",
+        "VOCALOID殿堂入り",
+        "Hayato_Yamamoto",
+        "初音ミクオリジナル曲"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45353732/45353732.51908577",
+      "title": "DECO*27 - モニタリング (Best Friend Remix) feat. 初音ミク",
+      "userId": 811012,
+      "viewCounter": 879768,
+      "rank": 6
+    }
+  ]
 }

@@ -5,13 +5,13 @@
     "title": "ブラッドベリ /  flower",
     "commentCounter": 500,
     "lengthSeconds": 218,
-    "likeCounter": 328,
+    "likeCounter": 329,
     "mylistCounter": 1475,
     "rank": 239,
     "startTime": "2019-08-23T19:50:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35580733/35580733.34195603",
     "userId": 5272155,
-    "viewCounter": 188806,
+    "viewCounter": 188868,
     "artist": [
       "てにをは"
     ],
@@ -30,6 +30,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "B",
+      "order": 32,
+      "winner": "手下"
+    },
     {
       "date": "2025-11-22",
       "quizNo": 277,
@@ -77,7 +84,8 @@
       "winner": "STN"
     }
   ],
-  "appearanceCount": 7,
-  "correctCount": 6,
-  "accuracy": 86
+  "appearanceCount": 8,
+  "correctCount": 7,
+  "accuracy": 88,
+  "anotherVersions": []
 }

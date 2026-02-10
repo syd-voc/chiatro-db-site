@@ -10,7 +10,7 @@
         "samfree"
       ],
       "startTime": "2009-02-12T01:46:25+09:00",
-      "viewCounter": 6573599,
+      "viewCounter": 6580127,
       "correctCount": 1
     },
     {
@@ -21,7 +21,7 @@
         "cosMo@暴走P"
       ],
       "startTime": "2010-07-09T18:00:09+09:00",
-      "viewCounter": 2959524,
+      "viewCounter": 2961135,
       "correctCount": 1
     },
     {
@@ -32,7 +32,7 @@
         "Misumi"
       ],
       "startTime": "2019-08-16T18:00:00+09:00",
-      "viewCounter": 1784120,
+      "viewCounter": 1785538,
       "correctCount": 1
     },
     {
@@ -43,7 +43,7 @@
         "cosMo@暴走P"
       ],
       "startTime": "2024-08-24T19:03:00+09:00",
-      "viewCounter": 201010,
+      "viewCounter": 201747,
       "correctCount": 1
     },
     {
@@ -54,7 +54,7 @@
         "kemu"
       ],
       "startTime": "2011-11-07T23:33:22+09:00",
-      "viewCounter": 4734026,
+      "viewCounter": 4735344,
       "correctCount": 1
     },
     {
@@ -65,7 +65,7 @@
         "DECO*27"
       ],
       "startTime": "2023-12-01T18:39:00+09:00",
-      "viewCounter": 1072395,
+      "viewCounter": 1074853,
       "correctCount": 1
     },
     {
@@ -76,7 +76,7 @@
         "R Sound Design"
       ],
       "startTime": "2017-03-09T19:00:00+09:00",
-      "viewCounter": 5536808,
+      "viewCounter": 5540567,
       "correctCount": 1
     },
     {
@@ -87,7 +87,7 @@
         "とあ"
       ],
       "startTime": "2021-05-02T01:00:00+09:00",
-      "viewCounter": 1674157,
+      "viewCounter": 1675125,
       "correctCount": 1
     },
     {
@@ -98,7 +98,7 @@
         "うたたP"
       ],
       "startTime": "2012-06-15T16:26:26+09:00",
-      "viewCounter": 4911984,
+      "viewCounter": 4913663,
       "correctCount": 1
     },
     {
@@ -109,7 +109,62 @@
         "ギガ"
       ],
       "startTime": "2018-07-13T19:00:00+09:00",
-      "viewCounter": 7749903,
+      "viewCounter": 7753532,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39853779",
+      "title": "サラマンダー",
+      "artist": "DECO*27",
+      "artistList": [
+        "DECO*27"
+      ],
+      "startTime": "2022-01-07T19:00:00+09:00",
+      "viewCounter": 2844076,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39217773",
+      "title": "マーシャル・マキシマイザー",
+      "artist": "柊マグネタイト",
+      "artistList": [
+        "柊マグネタイト"
+      ],
+      "startTime": "2021-08-21T21:00:00+09:00",
+      "viewCounter": 8501175,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm29911405",
+      "title": "おどりゃんせ",
+      "artist": "ユリイ・カノン",
+      "artistList": [
+        "ユリイ・カノン"
+      ],
+      "startTime": "2016-10-26T19:01:00+09:00",
+      "viewCounter": 2933781,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39919568",
+      "title": "にっこり^^調査隊のテーマ",
+      "artist": "ワンダフル★オポチュニティ！",
+      "artistList": [
+        "ワンダフル★オポチュニティ！"
+      ],
+      "startTime": "2022-01-19T22:30:00+09:00",
+      "viewCounter": 1128617,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm30868619",
+      "title": "フィクサー",
+      "artist": "ぬゆり",
+      "artistList": [
+        "ぬゆり"
+      ],
+      "startTime": "2017-03-22T19:00:00+09:00",
+      "viewCounter": 4352103,
       "correctCount": 1
     }
   ],
@@ -136,8 +191,8 @@
     },
     {
       "artist": "DECO*27",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "R Sound Design",
@@ -156,6 +211,26 @@
     },
     {
       "artist": "ギガ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "柊マグネタイト",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ユリイ・カノン",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ワンダフル★オポチュニティ！",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ぬゆり",
       "correctCount": 1,
       "correctSongCount": 1
     }
@@ -193,13 +268,13 @@
     },
     {
       "era": "2017",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "era": "2021",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "era": "2012",
@@ -208,6 +283,16 @@
     },
     {
       "era": "2018",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2022",
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "era": "2016",
       "correctCount": 1,
       "correctSongCount": 1
     }
@@ -246,26 +331,26 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "range": "1000万-",
@@ -279,73 +364,194 @@
       "title": "ルカルカ★ナイトフィーバー",
       "contentId": "sm6119955",
       "startTime": 1234370785000,
-      "viewCounter": 6573599
+      "viewCounter": 6580127
     },
     {
       "title": "初音ミクの激唱",
       "contentId": "sm11328911",
       "startTime": 1278666009000,
-      "viewCounter": 2959524
+      "viewCounter": 2961135
     },
     {
       "title": "オルターエゴ",
       "contentId": "sm35546354",
       "startTime": 1565946000000,
-      "viewCounter": 1784120
+      "viewCounter": 1785538
     },
     {
       "title": "コぇちっちゃ<てゴ×ンネ",
       "contentId": "sm44014186",
       "startTime": 1724493780000,
-      "viewCounter": 201010
+      "viewCounter": 201747
     },
     {
       "title": "人生リセットボタン",
       "contentId": "sm16110005",
       "startTime": 1320676402000,
-      "viewCounter": 4734026
+      "viewCounter": 4735344
     },
     {
       "title": "ボルテッカー",
       "contentId": "sm43084181",
       "startTime": 1701423540000,
-      "viewCounter": 1072395
+      "viewCounter": 1074853
     },
     {
       "title": "帝国少女",
       "contentId": "sm30788596",
       "startTime": 1489053600000,
-      "viewCounter": 5536808
+      "viewCounter": 5540567
     },
     {
       "title": "アイディスマイル",
       "contentId": "sm38667465",
       "startTime": 1619884800000,
-      "viewCounter": 1674157
+      "viewCounter": 1675125
     },
     {
       "title": "こちら、幸福安心委員会です。",
       "contentId": "sm18100389",
       "startTime": 1339745186000,
-      "viewCounter": 4911984
+      "viewCounter": 4913663
     },
     {
       "title": "劣等上等",
       "contentId": "sm33510542",
       "startTime": 1531476000000,
-      "viewCounter": 7749903
+      "viewCounter": 7753532
+    },
+    {
+      "title": "サラマンダー",
+      "contentId": "sm39853779",
+      "startTime": 1641549600000,
+      "viewCounter": 2844076
+    },
+    {
+      "title": "マーシャル・マキシマイザー",
+      "contentId": "sm39217773",
+      "startTime": 1629547200000,
+      "viewCounter": 8501175
+    },
+    {
+      "title": "おどりゃんせ",
+      "contentId": "sm29911405",
+      "startTime": 1477476060000,
+      "viewCounter": 2933781
+    },
+    {
+      "title": "にっこり^^調査隊のテーマ",
+      "contentId": "sm39919568",
+      "startTime": 1642599000000,
+      "viewCounter": 1128617
+    },
+    {
+      "title": "フィクサー",
+      "contentId": "sm30868619",
+      "startTime": 1490176800000,
+      "viewCounter": 4352103
     }
   ],
   "summary": {
-    "totalAnswers": 12,
-    "okAnswers": 10,
+    "totalAnswers": 17,
+    "okAnswers": 15,
     "ngAnswers": 2,
-    "participatedQuizCount": 2,
-    "winQuizCount": 2,
+    "participatedQuizCount": 3,
+    "winQuizCount": 3,
     "loseQuizCount": 0,
-    "medianViews": 2371822
+    "medianViews": 2888929
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 287,
+      "group": "D2",
+      "date": "2026-02-06",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 12,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 56,
+          "contentId": "sm39853779",
+          "title": "サラマンダー",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39853779/39853779.47627592",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "花浅葱"
+            }
+          ]
+        },
+        {
+          "order": 66,
+          "contentId": "sm39217773",
+          "title": "マーシャル・マキシマイザー",
+          "artistList": [
+            "柊マグネタイト"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39217773/39217773.82088901",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "花浅葱"
+            }
+          ]
+        },
+        {
+          "order": 68,
+          "contentId": "sm29911405",
+          "title": "おどりゃんせ",
+          "artistList": [
+            "ユリイ・カノン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29911405/29911405",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "花浅葱"
+            }
+          ]
+        },
+        {
+          "order": 70,
+          "contentId": "sm39919568",
+          "title": "にっこり^^調査隊のテーマ",
+          "artistList": [
+            "ワンダフル★オポチュニティ！"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39919568/39919568.44999240",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "花浅葱"
+            }
+          ]
+        },
+        {
+          "order": 73,
+          "contentId": "sm30868619",
+          "title": "フィクサー",
+          "artistList": [
+            "ぬゆり"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30868619/30868619",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(12)",
+              "user": "花浅葱"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 286,
       "group": "D2",

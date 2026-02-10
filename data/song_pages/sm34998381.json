@@ -6,12 +6,12 @@
     "commentCounter": 447,
     "lengthSeconds": 310,
     "likeCounter": 412,
-    "mylistCounter": 1159,
+    "mylistCounter": 1160,
     "rank": 294,
     "startTime": "2019-04-20T18:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34998381/34998381.24354",
     "userId": 52158359,
-    "viewCounter": 168968,
+    "viewCounter": 169093,
     "artist": [
       "傘村トータ"
     ],
@@ -30,6 +30,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "C2",
+      "order": 13
+    },
     {
       "date": "2025-11-22",
       "quizNo": 277,
@@ -90,7 +96,8 @@
       "winner": "ホワイト"
     }
   ],
-  "appearanceCount": 9,
+  "appearanceCount": 10,
   "correctCount": 7,
-  "accuracy": 78
+  "accuracy": 70,
+  "anotherVersions": []
 }

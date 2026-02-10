@@ -11,7 +11,7 @@
     "startTime": "2007-09-25T22:57:02+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1142180/1142180",
     "userId": 525676,
-    "viewCounter": 102464,
+    "viewCounter": 102477,
     "artist": [
       "Dog tails"
     ],
@@ -31,6 +31,12 @@
   },
   "histories": [
     {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "C2",
+      "order": 47
+    },
+    {
       "date": "2024-12-20",
       "quizNo": 231,
       "group": "B",
@@ -44,7 +50,8 @@
       "winner": "まつせ"
     }
   ],
-  "appearanceCount": 2,
+  "appearanceCount": 3,
   "correctCount": 1,
-  "accuracy": 50
+  "accuracy": 33,
+  "anotherVersions": []
 }

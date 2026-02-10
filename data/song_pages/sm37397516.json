@@ -11,7 +11,7 @@
     "startTime": "2020-08-22T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37397516/37397516.74998450",
     "userId": 20393862,
-    "viewCounter": 89982,
+    "viewCounter": 90034,
     "artist": [
       "いちた"
     ],
@@ -24,11 +24,18 @@
       "もっと評価されるべき",
       "テトオリジナル曲",
       "DARUMA(いちた)",
-      "UTAUROCK"
+      "UTAUROCK",
+      "UTAU殿堂入り直前"
     ],
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "B",
+      "order": 69
+    },
     {
       "date": "2025-04-18",
       "quizNo": 246,
@@ -69,7 +76,8 @@
       "winner": "さいころ"
     }
   ],
-  "appearanceCount": 6,
+  "appearanceCount": 7,
   "correctCount": 6,
-  "accuracy": 100
+  "accuracy": 86,
+  "anotherVersions": []
 }

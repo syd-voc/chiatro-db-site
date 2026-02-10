@@ -11,7 +11,7 @@
     "startTime": "2019-04-01T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34871888/34871888.48332",
     "userId": 88629616,
-    "viewCounter": 64849,
+    "viewCounter": 64870,
     "artist": [
       "くじら"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "A",
+      "order": 67,
+      "winner": "時雨"
+    },
     {
       "date": "2025-05-02",
       "quizNo": 248,
@@ -58,7 +65,8 @@
       "winner": "手下"
     }
   ],
-  "appearanceCount": 4,
-  "correctCount": 2,
-  "accuracy": 50
+  "appearanceCount": 5,
+  "correctCount": 3,
+  "accuracy": 60,
+  "anotherVersions": []
 }

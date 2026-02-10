@@ -3,15 +3,15 @@
     "song": "鎖の少女",
     "contentId": "sm8619805",
     "title": "【初音ミク】　鎖の少女　【オリジナル】",
-    "commentCounter": 48049,
+    "commentCounter": 48051,
     "lengthSeconds": 268,
-    "likeCounter": 2861,
-    "mylistCounter": 68675,
+    "likeCounter": 2869,
+    "mylistCounter": 68677,
     "rank": 19,
     "startTime": "2009-10-26T05:03:21+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8619805/8619805.51422",
     "userId": 1136553,
-    "viewCounter": 2857507,
+    "viewCounter": 2858452,
     "artist": [
       "のぼる↑"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "D2",
+      "order": 19,
+      "winner": "すBAR"
+    },
     {
       "date": "2025-12-12",
       "quizNo": 280,
@@ -207,7 +214,40 @@
       "winner": "ホワイト"
     }
   ],
-  "appearanceCount": 25,
-  "correctCount": 25,
-  "accuracy": 100
+  "appearanceCount": 26,
+  "correctCount": 26,
+  "accuracy": 100,
+  "anotherVersions": [
+    {
+      "original": "sm8619805",
+      "contentId": "sm36121402",
+      "song": "鎖の少女-Re Alive-",
+      "artist": [
+        "のぼる↑"
+      ],
+      "channelId": null,
+      "commentCounter": 1398,
+      "lengthSeconds": 286,
+      "likeCounter": 820,
+      "mylistCounter": 3092,
+      "startTime": "2019-12-23T19:00:00+09:00",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "鎖の少女",
+        "のぼる↑",
+        "晩杯あきら",
+        "藍瀬まなみ",
+        "鎖の少女-Re_Alive-",
+        "ミクオリジナル曲",
+        "VOCALOID殿堂入り",
+        "VOCALOIDアレンジ曲"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36121402/36121402.97603930",
+      "title": "鎖の少女-Re Alive- / のぼる↑ feat. 初音ミク",
+      "userId": 1136553,
+      "viewCounter": 215516,
+      "rank": 122
+    }
+  ]
 }

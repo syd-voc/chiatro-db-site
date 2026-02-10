@@ -6,12 +6,12 @@
     "commentCounter": 168,
     "lengthSeconds": 164,
     "likeCounter": 893,
-    "mylistCounter": 446,
-    "rank": 450,
+    "mylistCounter": 445,
+    "rank": 453,
     "startTime": "2024-10-18T21:01:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44227911/44227911.53153268",
     "userId": 53435803,
-    "viewCounter": 57883,
+    "viewCounter": 58099,
     "artist": [
       "ユリイ・カノン"
     ],
@@ -21,16 +21,22 @@
       "VOCALOIDオリジナル曲",
       "synthesizerv",
       "ユリイ・カノン",
-      "GUMIオリジナル曲",
       "GUMI(SynthV)",
       "シンギラ",
       "沼田ゾンビ",
       "VOCALOIDハロウィン曲",
-      "ダークなぼかうた"
+      "ダークなぼかうた",
+      "VOCALOID幻想狂気曲リンク"
     ],
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "C1",
+      "order": 44
+    },
     {
       "date": "2025-10-18",
       "quizNo": 272,
@@ -45,7 +51,8 @@
       "order": 82
     }
   ],
-  "appearanceCount": 2,
+  "appearanceCount": 3,
   "correctCount": 1,
-  "accuracy": 50
+  "accuracy": 33,
+  "anotherVersions": []
 }

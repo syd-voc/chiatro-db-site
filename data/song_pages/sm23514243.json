@@ -6,12 +6,12 @@
     "commentCounter": 1240,
     "lengthSeconds": 219,
     "likeCounter": 534,
-    "mylistCounter": 4271,
+    "mylistCounter": 4273,
     "rank": 268,
     "startTime": "2014-05-09T19:05:20+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23514243/23514243",
     "userId": 31087181,
-    "viewCounter": 242656,
+    "viewCounter": 242754,
     "artist": [
       "adstlaxy"
     ],
@@ -29,6 +29,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "A",
+      "order": 71,
+      "winner": "ホワイト"
+    },
     {
       "date": "2025-07-11",
       "quizNo": 258,
@@ -62,7 +69,8 @@
       "winner": "ちみ"
     }
   ],
-  "appearanceCount": 5,
-  "correctCount": 3,
-  "accuracy": 60
+  "appearanceCount": 6,
+  "correctCount": 4,
+  "accuracy": 67,
+  "anotherVersions": []
 }

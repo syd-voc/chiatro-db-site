@@ -7,11 +7,11 @@
     "lengthSeconds": 122,
     "likeCounter": 2198,
     "mylistCounter": 1429,
-    "rank": 280,
+    "rank": 279,
     "startTime": "2022-04-23T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40329410/40329410.82887234",
     "userId": 42004123,
-    "viewCounter": 243639,
+    "viewCounter": 244072,
     "artist": [
       "MIMI"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "B",
+      "order": 77
+    },
     {
       "date": "2024-10-19",
       "quizNo": 222,
@@ -72,7 +78,8 @@
       "winner": "星兎"
     }
   ],
-  "appearanceCount": 6,
+  "appearanceCount": 7,
   "correctCount": 4,
-  "accuracy": 67
+  "accuracy": 57,
+  "anotherVersions": []
 }

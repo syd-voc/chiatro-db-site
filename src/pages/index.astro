@@ -9,8 +9,8 @@ const sorted = [...changelog].sort(
   (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
 );
 
-const firstLogs = sorted.slice(0, 3);
-const moreLogs = sorted.slice(3);
+const firstLogs = sorted.slice(0, 10);
+const moreLogs = sorted.slice(10);
 ---
 
 <BaseLayout title="ちあトロデータベース">

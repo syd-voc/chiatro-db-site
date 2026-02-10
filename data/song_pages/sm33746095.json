@@ -6,12 +6,12 @@
     "commentCounter": 3161,
     "lengthSeconds": 311,
     "likeCounter": 374,
-    "mylistCounter": 3286,
+    "mylistCounter": 3287,
     "rank": 142,
     "startTime": "2018-08-25T12:44:02+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33746095/33746095",
     "userId": 77881044,
-    "viewCounter": 191471,
+    "viewCounter": 191483,
     "artist": [
       "あわのあゆむ"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "B",
+      "order": 38,
+      "winner": "わいえい"
+    },
     {
       "date": "2025-10-18",
       "quizNo": 272,
@@ -158,7 +165,8 @@
       "winner": "RRR"
     }
   ],
-  "appearanceCount": 18,
-  "correctCount": 18,
-  "accuracy": 100
+  "appearanceCount": 19,
+  "correctCount": 19,
+  "accuracy": 100,
+  "anotherVersions": []
 }

@@ -11,7 +11,7 @@
     "startTime": "2019-01-29T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34546554/34546554.27709",
     "userId": 35275687,
-    "viewCounter": 141867,
+    "viewCounter": 141886,
     "artist": [
       "buzzG",
       "ねじ式"
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "A",
+      "order": 27,
+      "winner": "時雨"
+    },
     {
       "date": "2025-11-21",
       "quizNo": 277,
@@ -91,7 +98,8 @@
       "winner": "微熱"
     }
   ],
-  "appearanceCount": 9,
-  "correctCount": 6,
-  "accuracy": 67
+  "appearanceCount": 10,
+  "correctCount": 7,
+  "accuracy": 70,
+  "anotherVersions": []
 }

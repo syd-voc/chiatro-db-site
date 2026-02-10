@@ -5,13 +5,13 @@
     "title": "ディスコ / 初音ミク",
     "commentCounter": 445,
     "lengthSeconds": 180,
-    "likeCounter": 359,
+    "likeCounter": 360,
     "mylistCounter": 1930,
-    "rank": 151,
+    "rank": 152,
     "startTime": "2020-03-15T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36515685/36515685.73721443",
     "userId": 12405118,
-    "viewCounter": 125090,
+    "viewCounter": 125147,
     "artist": [
       "tama"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "D1",
+      "order": 31
+    },
     {
       "date": "2025-10-24",
       "quizNo": 273,
@@ -118,7 +124,8 @@
       "winner": "微熱"
     }
   ],
-  "appearanceCount": 13,
+  "appearanceCount": 14,
   "correctCount": 10,
-  "accuracy": 77
+  "accuracy": 71,
+  "anotherVersions": []
 }

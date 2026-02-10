@@ -6,12 +6,12 @@
     "commentCounter": 13234,
     "lengthSeconds": 222,
     "likeCounter": 847,
-    "mylistCounter": 17128,
+    "mylistCounter": 17129,
     "rank": 52,
     "startTime": "2014-04-15T20:03:49+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23336175/23336175",
     "userId": 3397653,
-    "viewCounter": 1025446,
+    "viewCounter": 1025733,
     "artist": [
       "ひとしずく",
       "やま△"
@@ -32,6 +32,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "D1",
+      "order": 68
+    },
     {
       "date": "2025-11-15",
       "quizNo": 276,
@@ -183,7 +189,8 @@
       "winner": "すべから"
     }
   ],
-  "appearanceCount": 22,
+  "appearanceCount": 23,
   "correctCount": 21,
-  "accuracy": 95
+  "accuracy": 91,
+  "anotherVersions": []
 }

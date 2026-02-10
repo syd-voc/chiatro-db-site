@@ -11,7 +11,7 @@
     "startTime": "2010-08-29T23:10:25+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/11928139/11928139",
     "userId": 1242725,
-    "viewCounter": 183513,
+    "viewCounter": 183526,
     "artist": [
       "芸竜作"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "A",
+      "order": 50,
+      "winner": "スライドポテト"
+    },
     {
       "date": "2025-09-20",
       "quizNo": 268,
@@ -59,7 +66,8 @@
       "winner": "しょどー"
     }
   ],
-  "appearanceCount": 4,
-  "correctCount": 3,
-  "accuracy": 75
+  "appearanceCount": 5,
+  "correctCount": 4,
+  "accuracy": 80,
+  "anotherVersions": []
 }

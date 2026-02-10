@@ -5,13 +5,13 @@
     "title": "あの夏が飽和する。/鏡音レン・リン",
     "commentCounter": 8108,
     "lengthSeconds": 385,
-    "likeCounter": 6220,
-    "mylistCounter": 9817,
+    "likeCounter": 6229,
+    "mylistCounter": 9816,
     "rank": 52,
     "startTime": "2018-08-12T17:10:02+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33677965/33677965",
     "userId": 41144290,
-    "viewCounter": 2033288,
+    "viewCounter": 2034685,
     "artist": [
       "カンザキイオリ"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "D2",
+      "order": 43,
+      "winner": "N氏"
+    },
     {
       "date": "2026-01-16",
       "quizNo": 284,
@@ -198,7 +205,72 @@
       "winner": "Klayn"
     }
   ],
-  "appearanceCount": 24,
-  "correctCount": 24,
-  "accuracy": 100
+  "appearanceCount": 25,
+  "correctCount": 25,
+  "accuracy": 100,
+  "anotherVersions": [
+    {
+      "original": "sm33677965",
+      "contentId": "sm37539683",
+      "song": "あの夏が飽和する。2020ver.",
+      "artist": [
+        "カンザキイオリ"
+      ],
+      "channelId": null,
+      "commentCounter": 2638,
+      "lengthSeconds": 390,
+      "likeCounter": 2755,
+      "mylistCounter": 2127,
+      "startTime": "2020-09-18T21:00:00+09:00",
+      "tags": [
+        "VOCALOID",
+        "カンザキイオリ",
+        "あの夏が飽和する。",
+        "あの夏が飽和する。2020ver",
+        "鏡音リン",
+        "鏡音レン",
+        "鏡音オリジナル曲",
+        "VOCALOIDアレンジ曲",
+        "VOCALOID夏曲",
+        "VOCALOID殿堂入り",
+        "鏡音リン・レン名曲リンク"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37539683/37539683.40280394",
+      "title": "あの夏が飽和する。2020ver. / 鏡音レン・リン",
+      "userId": 41144290,
+      "viewCounter": 321221,
+      "rank": 133
+    },
+    {
+      "original": "sm33677965",
+      "contentId": "sm45292219",
+      "song": "あの夏が飽和する。2025ver.",
+      "artist": [
+        "カンザキイオリ"
+      ],
+      "channelId": null,
+      "commentCounter": 258,
+      "lengthSeconds": 390,
+      "likeCounter": 528,
+      "mylistCounter": 175,
+      "startTime": "2025-08-16T18:10:00+09:00",
+      "tags": [
+        "音楽",
+        "VOCALOID",
+        "カンザキイオリ",
+        "あの夏が飽和する。",
+        "鏡音レン",
+        "鏡音リン",
+        "鏡音オリジナル曲",
+        "VOCALOID新曲リンク",
+        "セルフカバー",
+        "神調声"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45292219/45292219.46673036",
+      "title": "あの夏が飽和する。 (feat. 鏡音レン &amp; 鏡音リン)",
+      "userId": 41144290,
+      "viewCounter": 11270,
+      "rank": 1210
+    }
+  ]
 }

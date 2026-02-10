@@ -11,7 +11,7 @@
     "startTime": "2016-09-18T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29667698/29667698",
     "userId": 56390303,
-    "viewCounter": 210321,
+    "viewCounter": 210330,
     "artist": [
       "グチP"
     ],
@@ -28,6 +28,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "C1",
+      "order": 60
+    },
     {
       "date": "2025-12-06",
       "quizNo": 279,
@@ -76,7 +82,8 @@
       "winner": "ぺとぉせり"
     }
   ],
-  "appearanceCount": 7,
+  "appearanceCount": 8,
   "correctCount": 5,
-  "accuracy": 71
+  "accuracy": 63,
+  "anotherVersions": []
 }

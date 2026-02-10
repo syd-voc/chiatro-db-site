@@ -11,7 +11,7 @@
     "startTime": "2019-03-19T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34799315/34799315.67622",
     "userId": 865591,
-    "viewCounter": 638482,
+    "viewCounter": 638658,
     "artist": [
       "ピノキオピー"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "D1",
+      "order": 58
+    },
     {
       "date": "2025-11-14",
       "quizNo": 276,
@@ -148,7 +154,8 @@
       "winner": "Takuan"
     }
   ],
-  "appearanceCount": 17,
+  "appearanceCount": 18,
   "correctCount": 17,
-  "accuracy": 100
+  "accuracy": 94,
+  "anotherVersions": []
 }

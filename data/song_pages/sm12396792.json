@@ -11,7 +11,7 @@
     "startTime": "2010-10-11T16:00:11+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12396792/12396792",
     "userId": 4027531,
-    "viewCounter": 314245,
+    "viewCounter": 314282,
     "artist": [
       "YM"
     ],
@@ -30,6 +30,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "C2",
+      "order": 29,
+      "winner": "クロ"
+    },
     {
       "date": "2025-12-26",
       "quizNo": 282,
@@ -98,7 +105,8 @@
       "winner": "フォルテ"
     }
   ],
-  "appearanceCount": 10,
-  "correctCount": 7,
-  "accuracy": 70
+  "appearanceCount": 11,
+  "correctCount": 8,
+  "accuracy": 73,
+  "anotherVersions": []
 }

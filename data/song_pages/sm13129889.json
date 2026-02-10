@@ -11,7 +11,7 @@
     "startTime": "2010-12-26T00:41:44+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13129889/13129889",
     "userId": 8049125,
-    "viewCounter": 130484,
+    "viewCounter": 130492,
     "artist": [
       "囚人P"
     ],
@@ -30,6 +30,12 @@
   },
   "histories": [
     {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "C1",
+      "order": 7
+    },
+    {
       "date": "2025-08-02",
       "quizNo": 261,
       "group": "A",
@@ -43,7 +49,8 @@
       "order": 42
     }
   ],
-  "appearanceCount": 2,
+  "appearanceCount": 3,
   "correctCount": 1,
-  "accuracy": 50
+  "accuracy": 33,
+  "anotherVersions": []
 }

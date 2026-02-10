@@ -11,7 +11,7 @@
     "startTime": "2021-04-24T00:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38621662/38621662.96212015",
     "userId": 325945,
-    "viewCounter": 49352,
+    "viewCounter": 49376,
     "artist": [
       "ゆうゆ"
     ],
@@ -30,6 +30,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "C2",
+      "order": 45,
+      "winner": "ぴーなっつ"
+    },
     {
       "date": "2025-11-15",
       "quizNo": 276,
@@ -90,7 +97,8 @@
       "winner": "ホワイト"
     }
   ],
-  "appearanceCount": 9,
-  "correctCount": 6,
-  "accuracy": 67
+  "appearanceCount": 10,
+  "correctCount": 7,
+  "accuracy": 70,
+  "anotherVersions": []
 }

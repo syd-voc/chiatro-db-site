@@ -3,15 +3,15 @@
     "song": "KING",
     "contentId": "sm37287661",
     "title": "【GUMI】KING【Kanaria】",
-    "commentCounter": 48076,
+    "commentCounter": 48080,
     "lengthSeconds": 134,
-    "likeCounter": 51398,
-    "mylistCounter": 47554,
+    "likeCounter": 51436,
+    "mylistCounter": 47560,
     "rank": 1,
     "startTime": "2020-08-02T18:57:02+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37287661/37287661.84477986",
     "userId": 95303437,
-    "viewCounter": 8967425,
+    "viewCounter": 8972134,
     "artist": [
       "Kanaria"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "D2",
+      "order": 32,
+      "winner": "kowaiyatu"
+    },
     {
       "date": "2026-01-30",
       "quizNo": 286,
@@ -255,7 +262,8 @@
       "winner": "きぐな"
     }
   ],
-  "appearanceCount": 32,
-  "correctCount": 32,
-  "accuracy": 100
+  "appearanceCount": 33,
+  "correctCount": 33,
+  "accuracy": 100,
+  "anotherVersions": []
 }

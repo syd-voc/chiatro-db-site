@@ -6,12 +6,12 @@
     "commentCounter": 512,
     "lengthSeconds": 258,
     "likeCounter": 198,
-    "mylistCounter": 12381,
+    "mylistCounter": 12382,
     "rank": 39,
     "startTime": "2018-03-02T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32819914/32819914",
     "userId": 25646141,
-    "viewCounter": 217359,
+    "viewCounter": 217489,
     "artist": [
       "*Luna"
     ],
@@ -30,6 +30,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "C1",
+      "order": 12,
+      "winner": "たかそう"
+    },
     {
       "date": "2026-01-30",
       "quizNo": 286,
@@ -158,7 +165,8 @@
       "winner": "yu-na*"
     }
   ],
-  "appearanceCount": 19,
-  "correctCount": 15,
-  "accuracy": 79
+  "appearanceCount": 20,
+  "correctCount": 16,
+  "accuracy": 80,
+  "anotherVersions": []
 }

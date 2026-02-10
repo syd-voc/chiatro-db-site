@@ -7,11 +7,11 @@
     "lengthSeconds": 241,
     "likeCounter": 309,
     "mylistCounter": 1662,
-    "rank": 254,
+    "rank": 255,
     "startTime": "2016-03-26T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28493559/28493559",
     "userId": 42544377,
-    "viewCounter": 97526,
+    "viewCounter": 97576,
     "artist": [
       "さまぐら"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "D2",
+      "order": 25
+    },
     {
       "date": "2023-08-26",
       "quizNo": 173,
@@ -53,7 +59,8 @@
       "winner": "星兎"
     }
   ],
-  "appearanceCount": 3,
+  "appearanceCount": 4,
   "correctCount": 3,
-  "accuracy": 100
+  "accuracy": 75,
+  "anotherVersions": []
 }

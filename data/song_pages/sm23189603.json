@@ -3,15 +3,15 @@
     "song": "夜もすがら君想ふ",
     "contentId": "sm23189603",
     "title": "[GUMI] 夜もすがら君想ふ / TOKOTOKO（西沢さんP）",
-    "commentCounter": 7809,
+    "commentCounter": 7811,
     "lengthSeconds": 241,
-    "likeCounter": 5684,
-    "mylistCounter": 33521,
+    "likeCounter": 5698,
+    "mylistCounter": 33526,
     "rank": 15,
     "startTime": "2014-03-27T19:00:34+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23189603/23189603.65500046",
     "userId": 11450042,
-    "viewCounter": 4393568,
+    "viewCounter": 4395184,
     "artist": [
       "TOKOTOKO（西沢さんP）"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "D1",
+      "order": 66,
+      "winner": "aq瑠璃"
+    },
     {
       "date": "2025-11-07",
       "quizNo": 275,
@@ -247,7 +254,41 @@
       "winner": "かりゅうど"
     }
   ],
-  "appearanceCount": 31,
-  "correctCount": 31,
-  "accuracy": 100
+  "appearanceCount": 32,
+  "correctCount": 32,
+  "accuracy": 100,
+  "anotherVersions": [
+    {
+      "original": "sm23189603",
+      "contentId": "sm43583175",
+      "song": "夜もすがら君想ふ (10th Anniv.)",
+      "artist": [
+        "TOKOTOKO（西沢さんP）"
+      ],
+      "channelId": null,
+      "commentCounter": 570,
+      "lengthSeconds": 241,
+      "likeCounter": 2589,
+      "mylistCounter": 1266,
+      "startTime": "2024-03-27T19:05:02+09:00",
+      "tags": [
+        "西沢さんP",
+        "VOCALOID",
+        "夜もすがら君想ふ",
+        "セルフカバー",
+        "SynthesizerV",
+        "GUMI(SynthV)",
+        "GUMI",
+        "べて（絵師）",
+        "友達募集P",
+        "樋口幸佑",
+        "SynthesizerVアレンジ曲"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43583175/43583175.74815045",
+      "title": "夜もすがら君想ふ (10th Anniv.) feat.GUMI SV",
+      "userId": 11450042,
+      "viewCounter": 94610,
+      "rank": 163
+    }
+  ]
 }

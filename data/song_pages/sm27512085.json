@@ -6,12 +6,12 @@
     "commentCounter": 7824,
     "lengthSeconds": 230,
     "likeCounter": 414,
-    "mylistCounter": 7815,
+    "mylistCounter": 7814,
     "rank": 78,
     "startTime": "2015-11-03T19:13:40+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27512085/27512085",
     "userId": 1796335,
-    "viewCounter": 472501,
+    "viewCounter": 472544,
     "artist": [
       "そらる"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "C1",
+      "order": 1,
+      "winner": "たかそう"
+    },
     {
       "date": "2026-01-17",
       "quizNo": 284,
@@ -139,7 +146,8 @@
       "winner": "ホワイト"
     }
   ],
-  "appearanceCount": 16,
-  "correctCount": 12,
-  "accuracy": 75
+  "appearanceCount": 17,
+  "correctCount": 13,
+  "accuracy": 76,
+  "anotherVersions": []
 }

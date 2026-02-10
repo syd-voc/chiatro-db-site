@@ -11,7 +11,7 @@
     "startTime": "2016-10-07T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29788563/29788563",
     "userId": 14277060,
-    "viewCounter": 520091,
+    "viewCounter": 520186,
     "artist": [
       "MI8k"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "D2",
+      "order": 44,
+      "winner": "ぷれいやあ"
+    },
     {
       "date": "2026-01-23",
       "quizNo": 285,
@@ -168,7 +175,8 @@
       "winner": "ホワイト"
     }
   ],
-  "appearanceCount": 20,
-  "correctCount": 16,
-  "accuracy": 80
+  "appearanceCount": 21,
+  "correctCount": 17,
+  "accuracy": 81,
+  "anotherVersions": []
 }

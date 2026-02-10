@@ -11,7 +11,7 @@
     "startTime": "2015-01-30T19:11:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25458449/25458449",
     "userId": 1695193,
-    "viewCounter": 312863,
+    "viewCounter": 312908,
     "artist": [
       "ATOLS"
     ],
@@ -29,6 +29,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "B",
+      "order": 72,
+      "winner": "ワヲンルリヤ"
+    },
     {
       "date": "2025-12-27",
       "quizNo": 282,
@@ -110,7 +117,8 @@
       "winner": "きぐな"
     }
   ],
-  "appearanceCount": 12,
-  "correctCount": 10,
-  "accuracy": 83
+  "appearanceCount": 13,
+  "correctCount": 11,
+  "accuracy": 85,
+  "anotherVersions": []
 }

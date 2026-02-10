@@ -11,7 +11,7 @@
     "startTime": "2018-01-19T20:30:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32607889/32607889",
     "userId": 2721625,
-    "viewCounter": 129397,
+    "viewCounter": 129411,
     "artist": [
       "ふわりP"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "C2",
+      "order": 60
+    },
     {
       "date": "2026-01-16",
       "quizNo": 284,
@@ -71,7 +77,8 @@
       "winner": "Klayn"
     }
   ],
-  "appearanceCount": 6,
+  "appearanceCount": 7,
   "correctCount": 3,
-  "accuracy": 50
+  "accuracy": 43,
+  "anotherVersions": []
 }

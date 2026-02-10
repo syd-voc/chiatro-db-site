@@ -5,13 +5,13 @@
     "title": "【鏡音レン】Fire◎Flower【オリジナル曲】",
     "commentCounter": 65613,
     "lengthSeconds": 260,
-    "likeCounter": 4178,
-    "mylistCounter": 75046,
+    "likeCounter": 4188,
+    "mylistCounter": 75054,
     "rank": 15,
     "startTime": "2008-08-02T02:04:37+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/4153727/4153727",
     "userId": 1101042,
-    "viewCounter": 3509203,
+    "viewCounter": 3510043,
     "artist": [
       "halyosy"
     ],
@@ -31,6 +31,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "D1",
+      "order": 73,
+      "winner": "間宵"
+    },
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "C2",
+      "order": 64,
+      "winner": "とある逢瀬"
+    },
     {
       "date": "2026-01-10",
       "quizNo": 283,
@@ -228,7 +242,71 @@
       "winner": "フォルテ"
     }
   ],
-  "appearanceCount": 28,
-  "correctCount": 28,
-  "accuracy": 100
+  "appearanceCount": 30,
+  "correctCount": 30,
+  "accuracy": 100,
+  "anotherVersions": [
+    {
+      "original": "sm4153727",
+      "contentId": "sm39116503",
+      "song": "Fire◎Flower (Sparkler Ver.)",
+      "artist": [
+        "halyosy"
+      ],
+      "channelId": null,
+      "commentCounter": 1862,
+      "lengthSeconds": 241,
+      "likeCounter": 2251,
+      "mylistCounter": 1219,
+      "startTime": "2021-08-01T18:10:03+09:00",
+      "tags": [
+        "VOCALOID",
+        "鏡音レン",
+        "halyosy",
+        "VOCALOID夏曲",
+        "Fire◎Flower",
+        "VOCALOIDアレンジ曲",
+        "しのたろう",
+        "Meis_Clauson",
+        "Rio.T",
+        "Fire◎Flower_(Sparkler_Ver.)",
+        "VOCALOID殿堂入り"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39116503/39116503.50846159",
+      "title": "Fire◎Flower (Sparkler Ver.) - halyosy ft. 鏡音レン",
+      "userId": 1101042,
+      "viewCounter": 138212,
+      "rank": 218
+    },
+    {
+      "original": "sm4153727",
+      "contentId": "sm43981955",
+      "song": "Fire◎Flower (Rerec)",
+      "artist": [
+        "halyosy"
+      ],
+      "channelId": null,
+      "commentCounter": 668,
+      "lengthSeconds": 248,
+      "likeCounter": 2123,
+      "mylistCounter": 861,
+      "startTime": "2024-08-18T12:27:00+09:00",
+      "tags": [
+        "VOCALOID",
+        "halyosy",
+        "鏡音レン",
+        "Fire◎Flower",
+        "ぼかえり夏2024",
+        "歌踊コレOK",
+        "VOCALOIDアレンジ曲",
+        "セルフカバー",
+        "Fire◎Flower(Rerec)"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43981955/43981955.9939916",
+      "title": "halyosy - Fire◎Flower (Rerec) ft. 鏡音レン",
+      "userId": 1101042,
+      "viewCounter": 83496,
+      "rank": 234
+    }
+  ]
 }

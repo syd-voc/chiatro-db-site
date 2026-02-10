@@ -11,7 +11,7 @@
     "startTime": "2021-01-24T19:55:02+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38169095/38169095.61749302",
     "userId": 97139650,
-    "viewCounter": 121100,
+    "viewCounter": 121110,
     "artist": [
       "ぷく"
     ],
@@ -30,6 +30,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "D2",
+      "order": 55
+    },
     {
       "date": "2025-05-02",
       "quizNo": 248,
@@ -95,7 +101,8 @@
       "winner": "ゆーと"
     }
   ],
-  "appearanceCount": 10,
+  "appearanceCount": 11,
   "correctCount": 4,
-  "accuracy": 40
+  "accuracy": 36,
+  "anotherVersions": []
 }

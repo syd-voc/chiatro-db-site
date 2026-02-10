@@ -3,15 +3,15 @@
     "song": "脳漿炸裂ガール",
     "contentId": "sm19133907",
     "title": "【初音ミク＆GUMI】脳漿炸裂ガール【オリジナル】",
-    "commentCounter": 209430,
+    "commentCounter": 209437,
     "lengthSeconds": 191,
-    "likeCounter": 20016,
-    "mylistCounter": 169417,
+    "likeCounter": 20054,
+    "mylistCounter": 169441,
     "rank": 2,
     "startTime": "2012-10-19T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19133907/19133907",
     "userId": 2591026,
-    "viewCounter": 11178392,
+    "viewCounter": 11182543,
     "artist": [
       "れるりり"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "D2",
+      "order": 49,
+      "winner": "終了"
+    },
     {
       "date": "2026-01-30",
       "quizNo": 286,
@@ -233,7 +240,73 @@
       "winner": "ろあ"
     }
   ],
-  "appearanceCount": 29,
-  "correctCount": 29,
-  "accuracy": 100
+  "appearanceCount": 30,
+  "correctCount": 30,
+  "accuracy": 100,
+  "anotherVersions": [
+    {
+      "original": "sm19133907",
+      "contentId": "sm19797249",
+      "song": "脳漿炸裂ガール (鏡音リン・巡音ルカ ver.)",
+      "artist": [
+        "れるりり"
+      ],
+      "channelId": null,
+      "commentCounter": 13128,
+      "lengthSeconds": 193,
+      "likeCounter": 317,
+      "mylistCounter": 12393,
+      "startTime": "2013-01-11T20:00:00+09:00",
+      "tags": [
+        "VOCALOID",
+        "脳漿炸裂ガール",
+        "鏡音リン",
+        "巡音ルカ",
+        "れるりり",
+        "セルフカバー",
+        "まきのせな",
+        "市ノ瀬雪乃",
+        "VOCALOID殿堂入り",
+        "ルカ＆リンリンク",
+        "VOCALOIDアレンジ曲"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19797249/19797249",
+      "title": "【リン＆ルカ】脳漿炸裂ガール【セルフカヴァー】",
+      "userId": 2591026,
+      "viewCounter": 503046,
+      "rank": 128
+    },
+    {
+      "original": "sm19133907",
+      "contentId": "sm27532806",
+      "song": "脳漿炸裂ガール (2015Ver.)",
+      "artist": [
+        "れるりり"
+      ],
+      "channelId": null,
+      "commentCounter": 13137,
+      "lengthSeconds": 193,
+      "likeCounter": 509,
+      "mylistCounter": 8799,
+      "startTime": "2015-11-06T22:11:15+09:00",
+      "tags": [
+        "VOCALOID",
+        "脳漿炸裂ガール",
+        "れるりり",
+        "初音ミク",
+        "GUMI",
+        "脳漿炸裂ガール2015Ver.",
+        "本家→sm19133907",
+        "VOCALOIDアレンジ曲",
+        "ミク&GUMIリンク",
+        "セルフアレンジ",
+        "VOCALOID殿堂入り"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27532806/27532806",
+      "title": "【初音ミク＆GUMI】脳漿炸裂ガール【2015Ver.】",
+      "userId": 2591026,
+      "viewCounter": 642951,
+      "rank": 65
+    }
+  ]
 }

@@ -6,12 +6,12 @@
     "commentCounter": 1493,
     "lengthSeconds": 244,
     "likeCounter": 261,
-    "mylistCounter": 2293,
-    "rank": 186,
+    "mylistCounter": 2292,
+    "rank": 187,
     "startTime": "2016-08-21T21:01:19+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29494904/29494904",
     "userId": 52186396,
-    "viewCounter": 160418,
+    "viewCounter": 160473,
     "artist": [
       "キノシタ"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "B",
+      "order": 30,
+      "winner": "RRR"
+    },
     {
       "date": "2025-11-07",
       "quizNo": 275,
@@ -78,7 +85,8 @@
       "winner": "ホワイト"
     }
   ],
-  "appearanceCount": 7,
-  "correctCount": 5,
-  "accuracy": 71
+  "appearanceCount": 8,
+  "correctCount": 6,
+  "accuracy": 75,
+  "anotherVersions": []
 }

@@ -5,13 +5,13 @@
     "title": "ユメネコ / 初音ミク・GUMI",
     "commentCounter": 3209,
     "lengthSeconds": 250,
-    "likeCounter": 163,
-    "mylistCounter": 5606,
+    "likeCounter": 165,
+    "mylistCounter": 5607,
     "rank": 388,
     "startTime": "2011-03-07T23:16:58+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13807329/13807329",
     "userId": 865591,
-    "viewCounter": 242823,
+    "viewCounter": 242880,
     "artist": [
       "ピノキオピー"
     ],
@@ -32,6 +32,12 @@
   },
   "histories": [
     {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "B",
+      "order": 74
+    },
+    {
       "date": "2024-11-23",
       "quizNo": 227,
       "group": "E",
@@ -44,7 +50,8 @@
       "winner": "STN"
     }
   ],
-  "appearanceCount": 2,
+  "appearanceCount": 3,
   "correctCount": 1,
-  "accuracy": 50
+  "accuracy": 33,
+  "anotherVersions": []
 }

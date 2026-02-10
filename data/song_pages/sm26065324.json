@@ -11,7 +11,7 @@
     "startTime": "2015-04-19T20:31:13+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26065324/26065324",
     "userId": 47278466,
-    "viewCounter": 1089055,
+    "viewCounter": 1089110,
     "artist": [
       "けんまP"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "C2",
+      "order": 7,
+      "winner": "きぐな"
+    },
     {
       "date": "2025-12-05",
       "quizNo": 279,
@@ -124,7 +131,8 @@
       "winner": "あざばて。"
     }
   ],
-  "appearanceCount": 14,
-  "correctCount": 10,
-  "accuracy": 71
+  "appearanceCount": 15,
+  "correctCount": 11,
+  "accuracy": 73,
+  "anotherVersions": []
 }

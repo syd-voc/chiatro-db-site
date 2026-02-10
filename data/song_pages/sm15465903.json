@@ -6,12 +6,12 @@
     "commentCounter": 4315,
     "lengthSeconds": 307,
     "likeCounter": 100,
-    "mylistCounter": 7119,
+    "mylistCounter": 7120,
     "rank": 297,
     "startTime": "2011-08-30T21:16:19+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15465903/15465903",
     "userId": 161775,
-    "viewCounter": 154239,
+    "viewCounter": 154261,
     "artist": [
       "とくP"
     ],
@@ -30,6 +30,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "A",
+      "order": 53,
+      "winner": "スライドポテト"
+    },
     {
       "date": "2025-08-22",
       "quizNo": 264,
@@ -69,7 +76,8 @@
       "order": 89
     }
   ],
-  "appearanceCount": 6,
-  "correctCount": 2,
-  "accuracy": 33
+  "appearanceCount": 7,
+  "correctCount": 3,
+  "accuracy": 43,
+  "anotherVersions": []
 }

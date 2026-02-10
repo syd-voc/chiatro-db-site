@@ -1,6 +1,6 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import type { Song, SongHistory } from "../../types/quiz";
+import type { AnotherSong, Song, SongHistory } from "../../types/quiz";
 import userSlugMapRaw from "../../../data/users_slug.json";
 import artistSlugMapRaw from "../../../data/artists_slug.json";
 
@@ -43,10 +43,18 @@ const { page } = Astro.props as {
         correctCount: number;
         accuracy: number;
         histories: SongHistory[];
+        anotherVersions: AnotherSong[];
     };
 };
 
-const { song, appearanceCount, correctCount, accuracy, histories } = page;
+const {
+    song,
+    appearanceCount,
+    correctCount,
+    accuracy,
+    histories,
+    anotherVersions = [],
+} = page;
 
 /* =========================
    ソート（新しい順）
@@ -68,6 +76,23 @@ const postedAt = song.startTime
           );
       })()
     : "−";
+
+const anotherPosterdAt = anotherVersions.map((v) =>
+    v.startTime
+        ? (() => {
+              const d = new Date(v.startTime);
+              const pad = (n: number) => String(n).padStart(2, "0");
+              return (
+                  `${d.getFullYear()}/${pad(d.getMonth() + 1)}/${
+                      pad(d.getDate())
+                  } ` +
+                  `${pad(d.getHours())}:${pad(d.getMinutes())}:${pad(
+                      d.getSeconds(),
+                  )}`
+              );
+          })()
+        : "−",
+);
 ---
 
 <BaseLayout title={song.song}>
@@ -76,17 +101,41 @@ const postedAt = song.startTime
     <section>
         <h2>動画</h2>
 
+        <div class = "player-grid">
         <div class="player">
             <iframe
                 src={`https://embed.nicovideo.jp/watch/${song.contentId}`}
                 allowfullscreen></iframe>
         </div>
 
-        <iframe
-            src={"https://ext.nicovideo.jp/thumb/" + song.contentId}
-            width="390"
-            height="220"
-            frameborder="0"></iframe>
+<div class="player thumb">
+    <iframe
+        src={"https://ext.nicovideo.jp/thumb/" + song.contentId}
+        allowfullscreen />
+</div>
+
+        {
+            anotherVersions.length > 0 && (
+                <>
+                    {anotherVersions.map((v) => (
+                        <div class="player">
+                            <iframe
+                                src={`https://embed.nicovideo.jp/watch/${v.contentId}`}
+                                allowfullscreen
+                            />
+                        </div>
+
+<div class="player thumb">
+    <iframe
+        src={"https://ext.nicovideo.jp/thumb/" + v.contentId}
+        scrolling="no"
+        allowfullscreen />
+</div>
+                    ))}
+                </>
+            )
+        }
+        </div>
     </section>
 
     <section>
@@ -109,7 +158,7 @@ const postedAt = song.startTime
             <tbody>
                 <tr>
                     <th>投稿日時</th>
-                    <td>{postedAt}</td>
+                    <td>{postedAt ?? "―"}</td>
                     <th>年別順位</th>
                     <td>{song.rank ?? "―"}</td>
                 </tr>
@@ -135,6 +184,56 @@ const postedAt = song.startTime
                 </tr>
             </tbody>
         </table>
+
+                        {
+                    anotherVersions.length > 0 && (
+                        <>
+                            {anotherVersions.map((v) => (
+                                <div>
+                                    <h3>別バージョン: {v.song}</h3>
+                                    <table class="info-table">
+                                        <tbody>
+                                            <tr>
+                                                <th>投稿日時</th>
+                                                <td>
+                                                    {anotherPosterdAt[anotherVersions.indexOf(v)] ?
+                                                        anotherPosterdAt[anotherVersions.indexOf(v)]
+                                                        : "−"}
+                                                </td>
+                                                <th>年別順位</th>
+                                                <td>{v.rank ?? "―"}</td>
+                                            </tr>
+                                            <tr>
+                                                <th>再生数</th>
+                                                <td>
+                                                    {v.viewCounter?.toLocaleString() ??
+                                                        "―"}
+                                                </td>
+                                                <th>コメント数</th>
+                                                <td>
+                                                    {v.commentCounter?.toLocaleString() ??
+                                                        "―"}
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <th>いいね！数</th>
+                                                <td>
+                                                    {v.likeCounter?.toLocaleString() ??
+                                                        "―"}
+                                                </td>
+                                                <th>マイリスト数</th>
+                                                <td>
+                                                    {v.mylistCounter?.toLocaleString() ??
+                                                        "―"}
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            ))}
+                        </>
+                    )
+                }
     </section>
 
     <section>

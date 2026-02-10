@@ -11,7 +11,7 @@
     "startTime": "2019-02-15T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34630231/34630231.38961",
     "userId": 30201787,
-    "viewCounter": 243133,
+    "viewCounter": 243248,
     "artist": [
       "DIVELA"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "B",
+      "order": 60,
+      "winner": "がんこー"
+    },
     {
       "date": "2024-11-15",
       "quizNo": 226,
@@ -100,7 +107,8 @@
       "winner": "尾白もち"
     }
   ],
-  "appearanceCount": 10,
-  "correctCount": 10,
-  "accuracy": 100
+  "appearanceCount": 11,
+  "correctCount": 11,
+  "accuracy": 100,
+  "anotherVersions": []
 }

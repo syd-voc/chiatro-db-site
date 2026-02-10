@@ -6,12 +6,12 @@
     "commentCounter": 2914,
     "lengthSeconds": 180,
     "likeCounter": 208,
-    "mylistCounter": 3455,
+    "mylistCounter": 3454,
     "rank": 112,
     "startTime": "2019-04-30T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35051796/35051796.63614",
     "userId": 10019421,
-    "viewCounter": 320601,
+    "viewCounter": 320646,
     "artist": [
       "ぷす"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "D1",
+      "order": 40,
+      "winner": "paradoxes"
+    },
     {
       "date": "2025-12-12",
       "quizNo": 280,
@@ -165,7 +172,8 @@
       "winner": "ぺとぉせり"
     }
   ],
-  "appearanceCount": 19,
-  "correctCount": 19,
-  "accuracy": 100
+  "appearanceCount": 20,
+  "correctCount": 20,
+  "accuracy": 100,
+  "anotherVersions": []
 }

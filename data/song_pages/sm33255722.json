@@ -11,7 +11,7 @@
     "startTime": "2018-05-24T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33255722/33255722",
     "userId": 45187521,
-    "viewCounter": 215976,
+    "viewCounter": 216075,
     "artist": [
       "Guiano"
     ],
@@ -28,6 +28,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "D2",
+      "order": 52,
+      "winner": "N氏"
+    },
     {
       "date": "2025-04-11",
       "quizNo": 245,
@@ -70,7 +77,8 @@
       "winner": "kowaiyatu"
     }
   ],
-  "appearanceCount": 6,
-  "correctCount": 5,
-  "accuracy": 83
+  "appearanceCount": 7,
+  "correctCount": 6,
+  "accuracy": 86,
+  "anotherVersions": []
 }

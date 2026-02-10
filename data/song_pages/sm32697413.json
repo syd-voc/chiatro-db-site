@@ -6,12 +6,12 @@
     "commentCounter": 319,
     "lengthSeconds": 224,
     "likeCounter": 76,
-    "mylistCounter": 969,
+    "mylistCounter": 971,
     "rank": 357,
     "startTime": "2018-02-06T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32697413/32697413",
     "userId": 5223846,
-    "viewCounter": 70101,
+    "viewCounter": 70123,
     "artist": [
       "ぽてんしゃる0"
     ],
@@ -30,6 +30,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "A",
+      "order": 52,
+      "winner": "時雨"
+    },
     {
       "date": "2025-07-04",
       "quizNo": 257,
@@ -101,7 +108,8 @@
       "winner": "みせいねん"
     }
   ],
-  "appearanceCount": 11,
-  "correctCount": 6,
-  "accuracy": 55
+  "appearanceCount": 12,
+  "correctCount": 7,
+  "accuracy": 58,
+  "anotherVersions": []
 }

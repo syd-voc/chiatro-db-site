@@ -11,7 +11,7 @@
     "startTime": "2009-09-04T17:48:06+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8132511/8132511",
     "userId": 9450851,
-    "viewCounter": 539243,
+    "viewCounter": 539282,
     "artist": [
       "Treow"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "C1",
+      "order": 17,
+      "winner": "Ha.Ru."
+    },
     {
       "date": "2025-07-04",
       "quizNo": 257,
@@ -99,7 +106,8 @@
       "winner": "あー"
     }
   ],
-  "appearanceCount": 10,
-  "correctCount": 7,
-  "accuracy": 70
+  "appearanceCount": 11,
+  "correctCount": 8,
+  "accuracy": 73,
+  "anotherVersions": []
 }

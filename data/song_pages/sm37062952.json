@@ -11,7 +11,7 @@
     "startTime": "2020-06-20T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37062952/37062952.52335010",
     "userId": 96629223,
-    "viewCounter": 83001,
+    "viewCounter": 83009,
     "artist": [
       "粗品"
     ],
@@ -31,6 +31,13 @@
   },
   "histories": [
     {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "B",
+      "order": 8,
+      "winner": "RRR"
+    },
+    {
       "date": "2025-07-05",
       "quizNo": 257,
       "group": "D",
@@ -49,7 +56,8 @@
       "order": 27
     }
   ],
-  "appearanceCount": 3,
-  "correctCount": 0,
-  "accuracy": 0
+  "appearanceCount": 4,
+  "correctCount": 1,
+  "accuracy": 25,
+  "anotherVersions": []
 }

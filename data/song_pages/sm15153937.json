@@ -11,7 +11,7 @@
     "startTime": "2011-07-29T20:00:15+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15153937/15153937",
     "userId": 2566558,
-    "viewCounter": 210446,
+    "viewCounter": 210491,
     "artist": [
       "otetsu"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "C1",
+      "order": 3,
+      "winner": "Abbey"
+    },
     {
       "date": "2025-06-13",
       "quizNo": 254,
@@ -59,7 +66,8 @@
       "winner": "フォルテ"
     }
   ],
-  "appearanceCount": 4,
-  "correctCount": 3,
-  "accuracy": 75
+  "appearanceCount": 5,
+  "correctCount": 4,
+  "accuracy": 80,
+  "anotherVersions": []
 }

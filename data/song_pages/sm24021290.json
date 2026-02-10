@@ -11,7 +11,7 @@
     "startTime": "2014-07-17T09:26:12+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24021290/24021290",
     "userId": 9556364,
-    "viewCounter": 553144,
+    "viewCounter": 553206,
     "artist": [
       "Crusher"
     ],
@@ -34,6 +34,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "D1",
+      "order": 48
+    },
     {
       "date": "2025-05-10",
       "quizNo": 249,
@@ -105,7 +111,8 @@
       "winner": "ぱぁ"
     }
   ],
-  "appearanceCount": 10,
+  "appearanceCount": 11,
   "correctCount": 10,
-  "accuracy": 100
+  "accuracy": 91,
+  "anotherVersions": []
 }

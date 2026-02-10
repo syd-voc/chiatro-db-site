@@ -6,12 +6,12 @@
     "commentCounter": 15408,
     "lengthSeconds": 254,
     "likeCounter": 136,
-    "mylistCounter": 12055,
+    "mylistCounter": 12056,
     "rank": 200,
     "startTime": "2012-12-10T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19550230/19550230",
     "userId": 372592,
-    "viewCounter": 418998,
+    "viewCounter": 419016,
     "artist": [
       "家の裏でマンボウが死んでるP"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "B",
+      "order": 58,
+      "winner": "RRR"
+    },
     {
       "date": "2025-07-26",
       "quizNo": 260,
@@ -90,7 +97,8 @@
       "order": 39
     }
   ],
-  "appearanceCount": 9,
-  "correctCount": 5,
-  "accuracy": 56
+  "appearanceCount": 10,
+  "correctCount": 6,
+  "accuracy": 60,
+  "anotherVersions": []
 }

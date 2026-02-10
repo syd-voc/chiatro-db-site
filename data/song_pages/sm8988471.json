@@ -11,7 +11,7 @@
     "startTime": "2009-12-03T17:53:13+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8988471/8988471",
     "userId": 1075175,
-    "viewCounter": 201293,
+    "viewCounter": 201308,
     "artist": [
       "デッドボールP"
     ],
@@ -32,6 +32,13 @@
   },
   "histories": [
     {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "A",
+      "order": 51,
+      "winner": "まつせ"
+    },
+    {
       "date": "2022-07-23",
       "quizNo": 117,
       "group": "B",
@@ -45,7 +52,8 @@
       "winner": "ろめちゃん"
     }
   ],
-  "appearanceCount": 2,
-  "correctCount": 2,
-  "accuracy": 100
+  "appearanceCount": 3,
+  "correctCount": 3,
+  "accuracy": 100,
+  "anotherVersions": []
 }

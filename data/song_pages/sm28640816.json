@@ -11,7 +11,7 @@
     "startTime": "2016-04-16T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28640816/28640816",
     "userId": 42544377,
-    "viewCounter": 173693,
+    "viewCounter": 173773,
     "artist": [
       "さまぐら"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "D2",
+      "order": 21,
+      "winner": "ひーた"
+    },
     {
       "date": "2025-10-24",
       "quizNo": 273,
@@ -128,7 +135,8 @@
       "winner": "明日夏"
     }
   ],
-  "appearanceCount": 14,
-  "correctCount": 12,
-  "accuracy": 86
+  "appearanceCount": 15,
+  "correctCount": 13,
+  "accuracy": 87,
+  "anotherVersions": []
 }

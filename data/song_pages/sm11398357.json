@@ -3,15 +3,15 @@
     "song": "モザイクロール",
     "contentId": "sm11398357",
     "title": "DECO*27 - モザイクロール feat. GUMI",
-    "commentCounter": 533824,
+    "commentCounter": 533834,
     "lengthSeconds": 191,
-    "likeCounter": 13381,
-    "mylistCounter": 225359,
+    "likeCounter": 13417,
+    "mylistCounter": 225386,
     "rank": 2,
     "startTime": "2010-07-15T20:17:34+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/11398357/11398357",
     "userId": 811012,
-    "viewCounter": 13166205,
+    "viewCounter": 13169801,
     "artist": [
       "DECO*27"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "D1",
+      "order": 3,
+      "winner": "ニナ"
+    },
     {
       "date": "2025-12-06",
       "quizNo": 279,
@@ -239,7 +246,40 @@
       "winner": "とげ"
     }
   ],
-  "appearanceCount": 30,
-  "correctCount": 28,
-  "accuracy": 93
+  "appearanceCount": 31,
+  "correctCount": 29,
+  "accuracy": 94,
+  "anotherVersions": [
+    {
+      "original": "sm11398357",
+      "contentId": "sm39422060",
+      "song": "モザイクロール (Reloaded)",
+      "artist": [
+        "DECO*27"
+      ],
+      "channelId": null,
+      "commentCounter": 4814,
+      "lengthSeconds": 159,
+      "likeCounter": 7357,
+      "mylistCounter": 5937,
+      "startTime": "2021-10-08T19:00:00+09:00",
+      "tags": [
+        "初音ミク",
+        "DECO*27",
+        "VOCALOID",
+        "モザイクロール",
+        "Rockwell",
+        "モザイクロール(Reloaded)",
+        "VOCALOIDアレンジ曲",
+        "「MANNEQUIN」収録曲",
+        "ミクオリジナル曲",
+        "VOCALOID伝説入り"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39422060/39422060.70724691",
+      "title": "DECO*27 - モザイクロール (Reloaded) feat. 初音ミク",
+      "userId": 811012,
+      "viewCounter": 1089388,
+      "rank": 41
+    }
+  ]
 }

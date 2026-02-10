@@ -6,12 +6,12 @@
     "commentCounter": 704,
     "lengthSeconds": 211,
     "likeCounter": 72,
-    "mylistCounter": 2203,
+    "mylistCounter": 2204,
     "rank": 451,
     "startTime": "2014-04-02T19:01:25+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23238703/23238703",
     "userId": 5120238,
-    "viewCounter": 67750,
+    "viewCounter": 67775,
     "artist": [
       "ヘリP"
     ],
@@ -30,6 +30,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "A",
+      "order": 11
+    },
     {
       "date": "2025-06-28",
       "quizNo": 256,
@@ -70,7 +76,8 @@
       "winner": "とげ"
     }
   ],
-  "appearanceCount": 6,
+  "appearanceCount": 7,
   "correctCount": 3,
-  "accuracy": 50
+  "accuracy": 43,
+  "anotherVersions": []
 }

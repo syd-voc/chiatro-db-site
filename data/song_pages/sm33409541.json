@@ -11,7 +11,7 @@
     "startTime": "2018-06-23T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33409541/33409541",
     "userId": 75455139,
-    "viewCounter": 351354,
+    "viewCounter": 351451,
     "artist": [
       "あめのむらくもP"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "A",
+      "order": 76
+    },
+    {
+      "date": "2026-02-06",
+      "quizNo": 287,
+      "group": "D2",
+      "order": 38,
+      "winner": "防虫剤"
+    },
     {
       "date": "2026-01-30",
       "quizNo": 286,
@@ -181,7 +194,8 @@
       "winner": "しるばー"
     }
   ],
-  "appearanceCount": 22,
-  "correctCount": 20,
-  "accuracy": 91
+  "appearanceCount": 24,
+  "correctCount": 21,
+  "accuracy": 88,
+  "anotherVersions": []
 }

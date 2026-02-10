@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 
 INPUT_TSV = "songs_data.tsv"
-OUTPUT_DIR = Path("data/songs")
+OUTPUT_DIR = Path("data/another_songs")
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 

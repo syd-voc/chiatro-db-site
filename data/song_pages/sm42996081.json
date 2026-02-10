@@ -9,7 +9,7 @@
     "channelId": null,
     "commentCounter": 80,
     "lengthSeconds": 164,
-    "likeCounter": 464,
+    "likeCounter": 465,
     "mylistCounter": 189,
     "startTime": "2023-11-08T19:00:00+09:00",
     "tags": [
@@ -27,10 +27,17 @@
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42996081/42996081.93012952",
     "title": "□□□□□□□□□□□□□ガール / 初音ミク",
     "userId": 119505664,
-    "viewCounter": 22071,
-    "rank": 1595
+    "viewCounter": 22093,
+    "rank": 1596
   },
   "histories": [
+    {
+      "date": "2026-02-07",
+      "quizNo": 287,
+      "group": "A",
+      "order": 75,
+      "winner": "世界のYAMADA"
+    },
     {
       "date": "2026-01-16",
       "quizNo": 284,
@@ -39,7 +46,8 @@
       "winner": "ぬーん"
     }
   ],
-  "appearanceCount": 1,
-  "correctCount": 1,
-  "accuracy": 100
+  "appearanceCount": 2,
+  "correctCount": 2,
+  "accuracy": 100,
+  "anotherVersions": []
 }
