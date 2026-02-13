@@ -108,11 +108,12 @@ const anotherPosterdAt = anotherVersions.map((v) =>
                 allowfullscreen></iframe>
         </div>
 
-<div class="player thumb">
-    <iframe
-        src={"https://ext.nicovideo.jp/thumb/" + song.contentId}
-        allowfullscreen />
-</div>
+        <div class="player thumb">
+            <iframe
+                src={"https://ext.nicovideo.jp/thumb/" + song.contentId}
+                scrolling="no"
+                allowfullscreen />
+        </div>
 
         {
             anotherVersions.length > 0 && (
@@ -125,12 +126,12 @@ const anotherPosterdAt = anotherVersions.map((v) =>
                             />
                         </div>
 
-<div class="player thumb">
-    <iframe
-        src={"https://ext.nicovideo.jp/thumb/" + v.contentId}
-        scrolling="no"
-        allowfullscreen />
-</div>
+                        <div class="player thumb">
+                            <iframe
+                                src={"https://ext.nicovideo.jp/thumb/" + v.contentId}
+                                scrolling="no"
+                                allowfullscreen />
+                        </div>
                     ))}
                 </>
             )
