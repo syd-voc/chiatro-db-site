@@ -10,7 +10,7 @@
         "KyoTa"
       ],
       "startTime": "2023-08-10T19:00:00+09:00",
-      "viewCounter": "1458",
+      "viewCounter": 1458,
       "correctCount": 1
     },
     {
@@ -21,7 +21,7 @@
         "稲葉曇"
       ],
       "startTime": "2019-11-04T20:00:00+09:00",
-      "viewCounter": 329163,
+      "viewCounter": 329641,
       "correctCount": 1
     },
     {
@@ -32,7 +32,7 @@
         "はるまきごはん"
       ],
       "startTime": "2022-01-09T19:00:00+09:00",
-      "viewCounter": 263128,
+      "viewCounter": 263532,
       "correctCount": 1
     },
     {
@@ -43,7 +43,7 @@
         "kemu"
       ],
       "startTime": "2012-06-26T19:01:32+09:00",
-      "viewCounter": 5379357,
+      "viewCounter": 5382828,
       "correctCount": 1
     },
     {
@@ -54,7 +54,7 @@
         "2kino"
       ],
       "startTime": "2020-03-29T20:00:00+09:00",
-      "viewCounter": "97253",
+      "viewCounter": 97253,
       "correctCount": 1
     }
   ],
@@ -116,14 +116,14 @@
     {
       "range": "-1万",
       "order": 0,
-      "correctCount": 0,
-      "correctSongCount": 0
+      "correctCount": 1,
+      "correctSongCount": 1
     },
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 0,
-      "correctSongCount": 0
+      "correctCount": 1,
+      "correctSongCount": 1
     },
     {
       "range": "10-30万",
@@ -176,22 +176,34 @@
   ],
   "scatter": [
     {
+      "title": "東京舞踊",
+      "contentId": "sm42603880",
+      "startTime": 1691661600000,
+      "viewCounter": 1458
+    },
+    {
       "title": "アンチサイクロン",
       "contentId": "sm35909360",
       "startTime": 1572865200000,
-      "viewCounter": 329163
+      "viewCounter": 329641
     },
     {
       "title": "蛍はいなかった",
       "contentId": "sm39875678",
       "startTime": 1641722400000,
-      "viewCounter": 263128
+      "viewCounter": 263532
     },
     {
       "title": "地球最後の告白を",
       "contentId": "sm18198019",
       "startTime": 1340704892000,
-      "viewCounter": 5379357
+      "viewCounter": 5382828
+    },
+    {
+      "title": "ナイトメア・レイヴィーナス",
+      "contentId": "sm36589496",
+      "startTime": 1585479600000,
+      "viewCounter": 97253
     }
   ],
   "summary": {
@@ -201,7 +213,7 @@
     "participatedQuizCount": 4,
     "winQuizCount": 0,
     "loseQuizCount": 0,
-    "medianViews": 263128
+    "medianViews": 263532
   },
   "joinedQuizzes": [
     {

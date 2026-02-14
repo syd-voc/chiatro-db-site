@@ -3,13 +3,13 @@
     "contentId": "sm40876514",
     "song": "Astra",
     "title": "Astra / 初音ミク（無色透名祭ver）",
-    "viewCounter": "1867",
-    "commentCounter": "11",
-    "mylistCounter": "20",
-    "userId": "124637983",
+    "viewCounter": 1867,
+    "commentCounter": 11,
+    "mylistCounter": 20,
+    "userId": 124637983,
     "startTime": "2022-08-05T19:59:02+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40876514/40876514.61802361",
-    "lengthSeconds": "180",
+    "lengthSeconds": 180,
     "artist": [
       "azuki",
       "無色透名祭公式"
@@ -43,5 +43,37 @@
   "appearanceCount": 2,
   "correctCount": 1,
   "accuracy": 50,
-  "anotherVersions": []
+  "anotherVersions": [
+    {
+      "original": "sm40876514",
+      "contentId": "so40825125",
+      "song": "Astra",
+      "artist": [
+        "azuki"
+      ],
+      "channelId": 2648319,
+      "commentCounter": 265,
+      "lengthSeconds": 180,
+      "likeCounter": 989,
+      "mylistCounter": 476,
+      "startTime": "2022-07-28T18:00:00+09:00",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "無色透名祭",
+        "vocaloid宇宙派",
+        "ミクオリジナル曲",
+        "爽やかなミクうた",
+        "ラーメンタイマー",
+        "無色透名祭テーマソング",
+        "Astra",
+        "星のうた"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40825125/40825125.10518072",
+      "title": "Astra / 初音ミク",
+      "userId": null,
+      "viewCounter": 21065,
+      "rank": 720
+    }
+  ]
 }

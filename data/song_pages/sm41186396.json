@@ -6,12 +6,12 @@
     "commentCounter": 948,
     "lengthSeconds": 223,
     "likeCounter": 2420,
-    "mylistCounter": 491,
-    "rank": 704,
+    "mylistCounter": 492,
+    "rank": 701,
     "startTime": "2022-10-08T00:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41186396/41186396.32480509",
     "userId": 88925973,
-    "viewCounter": 75262,
+    "viewCounter": 75351,
     "artist": [
       "ふぁるすてぃ"
     ],
@@ -32,6 +32,13 @@
   },
   "histories": [
     {
+      "date": "2026-02-13",
+      "quizNo": 288,
+      "group": "B",
+      "order": 51,
+      "winner": "かなくり"
+    },
+    {
       "date": "2025-03-01",
       "quizNo": 239,
       "group": "C",
@@ -50,8 +57,8 @@
       "order": 75
     }
   ],
-  "appearanceCount": 3,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 4,
+  "correctCount": 1,
+  "accuracy": 25,
   "anotherVersions": []
 }

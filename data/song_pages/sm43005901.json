@@ -3,13 +3,13 @@
     "contentId": "sm43005901",
     "song": "アンサー",
     "title": "アンサー / 初音ミク",
-    "viewCounter": "2461",
-    "commentCounter": "24",
-    "mylistCounter": "31",
-    "userId": "123752506",
+    "viewCounter": 2461,
+    "commentCounter": 24,
+    "mylistCounter": 31,
+    "userId": 123752506,
     "startTime": "2023-11-10T18:11:03+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43005901/43005901.50169415",
-    "lengthSeconds": "222",
+    "lengthSeconds": 222,
     "artist": [
       "作曲見習いのとある大学生",
       "無色透名祭公式"
@@ -38,5 +38,38 @@
   "appearanceCount": 1,
   "correctCount": 0,
   "accuracy": 0,
-  "anotherVersions": []
+  "anotherVersions": [
+    {
+      "original": "sm43005901",
+      "contentId": "so42900844",
+      "song": "アンサー",
+      "artist": [
+        "作曲見習いのとある大学生"
+      ],
+      "channelId": 2648319,
+      "commentCounter": 363,
+      "lengthSeconds": 216,
+      "likeCounter": 1429,
+      "mylistCounter": 541,
+      "startTime": "2023-11-02T22:00:00+09:00",
+      "tags": [
+        "音楽",
+        "VOCALOID",
+        "無色透名祭Ⅱ",
+        "無色透名祭Ⅱ参加曲",
+        "アンサー",
+        "Answer",
+        "初音ミク",
+        "ボカロ",
+        "ミクオリジナル曲",
+        "アンサーソング",
+        "本人投稿リンクsm43005901"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42900844/42900844.85297592",
+      "title": "アンサー / 初音ミク",
+      "userId": null,
+      "viewCounter": 29584,
+      "rank": 562
+    }
+  ]
 }

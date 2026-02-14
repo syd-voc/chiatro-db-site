@@ -6,12 +6,12 @@
     "commentCounter": 3227,
     "lengthSeconds": 330,
     "likeCounter": 54,
-    "mylistCounter": 6800,
-    "rank": 311,
+    "mylistCounter": 6797,
+    "rank": 313,
     "startTime": "2011-05-09T19:11:29+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14406520/14406520",
     "userId": 2423537,
-    "viewCounter": 189666,
+    "viewCounter": 189676,
     "artist": [
       "EasyPop"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-13",
+      "quizNo": 288,
+      "group": "C2",
+      "order": 62,
+      "winner": "HAN"
+    },
     {
       "date": "2025-01-25",
       "quizNo": 234,
@@ -57,8 +64,8 @@
       "winner": "明日夏"
     }
   ],
-  "appearanceCount": 4,
-  "correctCount": 1,
-  "accuracy": 25,
+  "appearanceCount": 5,
+  "correctCount": 2,
+  "accuracy": 40,
   "anotherVersions": []
 }

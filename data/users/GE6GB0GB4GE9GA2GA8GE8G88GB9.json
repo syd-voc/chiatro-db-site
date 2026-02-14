@@ -10,7 +10,7 @@
         "keeno"
       ],
       "startTime": "2024-12-09T22:30:00+09:00",
-      "viewCounter": 642980,
+      "viewCounter": 646907,
       "correctCount": 1
     },
     {
@@ -21,7 +21,7 @@
         "*Luna"
       ],
       "startTime": "2018-07-07T19:00:00+09:00",
-      "viewCounter": 1306378,
+      "viewCounter": 1307381,
       "correctCount": 1
     },
     {
@@ -32,7 +32,7 @@
         "Ayase"
       ],
       "startTime": "2019-12-03T20:00:00+09:00",
-      "viewCounter": 2256615,
+      "viewCounter": 2259399,
       "correctCount": 1
     },
     {
@@ -43,7 +43,7 @@
         "DECO*27"
       ],
       "startTime": "2021-08-06T19:00:00+09:00",
-      "viewCounter": 1990508,
+      "viewCounter": 1993707,
       "correctCount": 1
     },
     {
@@ -54,7 +54,63 @@
         "MIMI"
       ],
       "startTime": "2022-01-15T19:00:00+09:00",
-      "viewCounter": 1923316,
+      "viewCounter": 1928198,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45315882",
+      "title": "アタマモミ",
+      "artist": "はるまきごはん",
+      "artistList": [
+        "はるまきごはん"
+      ],
+      "startTime": "2025-08-21T19:00:00+09:00",
+      "viewCounter": 111345,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44301514",
+      "title": "テトリス",
+      "artist": "柊マグネタイト",
+      "artistList": [
+        "柊マグネタイト"
+      ],
+      "startTime": "2024-11-08T22:10:00+09:00",
+      "viewCounter": 4749194,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm34535947",
+      "title": "あなたの夜が明けるまで",
+      "artist": "傘村トータ",
+      "artistList": [
+        "傘村トータ"
+      ],
+      "startTime": "2019-01-27T12:47:00+09:00",
+      "viewCounter": 1424903,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39746081",
+      "title": "アプリコット",
+      "artist": "いよわ",
+      "artistList": [
+        "いよわ"
+      ],
+      "startTime": "2021-12-12T21:00:00+09:00",
+      "viewCounter": 2038520,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm40350149",
+      "title": "88☆彡",
+      "artist": "kemu, まらしぃ",
+      "artistList": [
+        "kemu",
+        "まらしぃ"
+      ],
+      "startTime": "2022-04-21T19:28:02+09:00",
+      "viewCounter": 924340,
       "correctCount": 1
     }
   ],
@@ -83,13 +139,43 @@
       "artist": "MIMI",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "はるまきごはん",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "柊マグネタイト",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "傘村トータ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "いよわ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "kemu",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "まらしぃ",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2024",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "era": "2018",
@@ -98,16 +184,21 @@
     },
     {
       "era": "2019",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "era": "2021",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "era": "2022",
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "era": "2025-",
       "correctCount": 1,
       "correctSongCount": 1
     }
@@ -128,8 +219,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 0,
-      "correctSongCount": 0
+      "correctCount": 1,
+      "correctSongCount": 1
     },
     {
       "range": "30-50万",
@@ -140,26 +231,26 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 0,
-      "correctSongCount": 0
+      "correctCount": 1,
+      "correctSongCount": 1
     },
     {
       "range": "500-1000万",
@@ -179,43 +270,257 @@
       "title": "余花にみとれて",
       "contentId": "so44397958",
       "startTime": 1733751000000,
-      "viewCounter": 642980
+      "viewCounter": 646907
     },
     {
       "title": "8.32",
       "contentId": "sm33485782",
       "startTime": 1530957600000,
-      "viewCounter": 1306378
+      "viewCounter": 1307381
     },
     {
       "title": "幽霊東京",
       "contentId": "sm36036629",
       "startTime": 1575370800000,
-      "viewCounter": 2256615
+      "viewCounter": 2259399
     },
     {
       "title": "シンデレラ",
       "contentId": "sm39053581",
       "startTime": 1628244000000,
-      "viewCounter": 1990508
+      "viewCounter": 1993707
     },
     {
       "title": "くうになる",
       "contentId": "sm39889004",
       "startTime": 1642240800000,
-      "viewCounter": 1923316
+      "viewCounter": 1928198
+    },
+    {
+      "title": "アタマモミ",
+      "contentId": "sm45315882",
+      "startTime": 1755770400000,
+      "viewCounter": 111345
+    },
+    {
+      "title": "テトリス",
+      "contentId": "sm44301514",
+      "startTime": 1731071400000,
+      "viewCounter": 4749194
+    },
+    {
+      "title": "あなたの夜が明けるまで",
+      "contentId": "sm34535947",
+      "startTime": 1548560820000,
+      "viewCounter": 1424903
+    },
+    {
+      "title": "アプリコット",
+      "contentId": "sm39746081",
+      "startTime": 1639310400000,
+      "viewCounter": 2038520
+    },
+    {
+      "title": "88☆彡",
+      "contentId": "sm40350149",
+      "startTime": 1650536882000,
+      "viewCounter": 924340
     }
   ],
   "summary": {
-    "totalAnswers": 6,
-    "okAnswers": 5,
-    "ngAnswers": 1,
-    "participatedQuizCount": 1,
-    "winQuizCount": 1,
+    "totalAnswers": 14,
+    "okAnswers": 10,
+    "ngAnswers": 4,
+    "participatedQuizCount": 2,
+    "winQuizCount": 2,
     "loseQuizCount": 0,
-    "medianViews": 1648443
+    "medianViews": 1709305
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 288,
+      "group": "C2",
+      "date": "2026-02-13",
+      "ok": 5,
+      "ng": 3,
+      "winRank": 12,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 50,
+          "contentId": "sm43340135",
+          "title": "うらみ交信",
+          "artistList": [
+            "稲むり"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43340135/43340135.18009476",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "セレスト"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "水風船"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(5)",
+              "user": "Ha.Ru."
+            }
+          ]
+        },
+        {
+          "order": 57,
+          "contentId": "sm44681459",
+          "title": "ニャルラト",
+          "artistList": [
+            "藤原ハガネ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44681459/44681459.99916723",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "セレスト"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "水風船"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(8)",
+              "user": "トラノオ"
+            }
+          ]
+        },
+        {
+          "order": 68,
+          "contentId": "sm45315882",
+          "title": "アタマモミ",
+          "artistList": [
+            "はるまきごはん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45315882/45315882.94515817",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "水風船"
+            }
+          ]
+        },
+        {
+          "order": 70,
+          "contentId": "sm44301514",
+          "title": "テトリス",
+          "artistList": [
+            "柊マグネタイト"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44301514/44301514.55424729",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "水風船"
+            }
+          ]
+        },
+        {
+          "order": 73,
+          "contentId": "sm31098605",
+          "title": "テスラは夢の中",
+          "artistList": [
+            "TOKOTOKO（西沢さんP）"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31098605/31098605",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "水風船"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 79,
+          "contentId": "sm34535947",
+          "title": "あなたの夜が明けるまで",
+          "artistList": [
+            "傘村トータ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34535947/34535947.68322",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "水風船"
+            }
+          ]
+        },
+        {
+          "order": 81,
+          "contentId": "sm39746081",
+          "title": "アプリコット",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39746081/39746081.11018771",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "水風船"
+            }
+          ]
+        },
+        {
+          "order": 82,
+          "contentId": "sm40350149",
+          "title": "88☆彡",
+          "artistList": [
+            "kemu",
+            "まらしぃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40350149/40350149.29980860",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(12)",
+              "user": "水風船"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 285,
       "group": "D2",

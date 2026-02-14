@@ -3,15 +3,15 @@
     "song": "ビノミ",
     "contentId": "sm43563374",
     "title": "【初音ミク】　ビノミ　【オリジナル】",
-    "commentCounter": 3376,
+    "commentCounter": 3389,
     "lengthSeconds": 183,
-    "likeCounter": 10390,
-    "mylistCounter": 4356,
+    "likeCounter": 10434,
+    "mylistCounter": 4374,
     "rank": 14,
     "startTime": "2024-03-23T19:33:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43563374/43563374.80751094",
     "userId": 15918028,
-    "viewCounter": 845433,
+    "viewCounter": 851219,
     "artist": [
       "MARETU"
     ],
@@ -22,15 +22,21 @@
       "ミクオリジナル曲",
       "ビノミ",
       "VOCALOID食堂入り",
-      "~^o^o@^o@^o~^o^o_^o",
-      "狂気の飯テロ",
       "VOCALOID殿堂入り",
       "ｲﾗｯｼｬｲﾏｾ",
-      "お前らの愛でみえない"
+      "お前らの愛でみえない",
+      "食レポ"
     ],
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-13",
+      "quizNo": 288,
+      "group": "D2",
+      "order": 61,
+      "winner": "あさぼらけ"
+    },
     {
       "date": "2026-02-07",
       "quizNo": 287,
@@ -144,8 +150,8 @@
       "winner": "yu-na*"
     }
   ],
-  "appearanceCount": 16,
-  "correctCount": 16,
+  "appearanceCount": 17,
+  "correctCount": 17,
   "accuracy": 100,
   "anotherVersions": []
 }

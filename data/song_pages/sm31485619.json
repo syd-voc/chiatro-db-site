@@ -3,15 +3,15 @@
     "song": "ホワイトハッピー",
     "contentId": "sm31485619",
     "title": "【初音ミク】　ホワイトハッピー　【オリジナル】",
-    "commentCounter": 36102,
+    "commentCounter": 36373,
     "lengthSeconds": 229,
-    "likeCounter": 15957,
-    "mylistCounter": 24741,
+    "likeCounter": 16063,
+    "mylistCounter": 24767,
     "rank": 22,
     "startTime": "2017-06-30T19:39:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31485619/31485619",
     "userId": 15918028,
-    "viewCounter": 4915847,
+    "viewCounter": 4927804,
     "artist": [
       "MARETU"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-13",
+      "quizNo": 288,
+      "group": "C2",
+      "order": 12,
+      "winner": "尾白もち"
+    },
+    {
+      "date": "2026-02-13",
+      "quizNo": 288,
+      "group": "D2",
+      "order": 72
+    },
     {
       "date": "2026-01-23",
       "quizNo": 285,
@@ -199,8 +212,8 @@
       "winner": "まつせ"
     }
   ],
-  "appearanceCount": 24,
-  "correctCount": 24,
-  "accuracy": 100,
+  "appearanceCount": 26,
+  "correctCount": 25,
+  "accuracy": 96,
   "anotherVersions": []
 }

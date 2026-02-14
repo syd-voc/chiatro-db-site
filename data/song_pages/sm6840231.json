@@ -11,7 +11,7 @@
     "startTime": "2009-04-24T17:51:39+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6840231/6840231",
     "userId": 4055251,
-    "viewCounter": 189783,
+    "viewCounter": 189800,
     "artist": [
       "X-Plorez"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-13",
+      "quizNo": 288,
+      "group": "C2",
+      "order": 18,
+      "winner": "クロ"
+    },
     {
       "date": "2025-09-19",
       "quizNo": 268,
@@ -74,8 +81,8 @@
       "winner": "ベガ"
     }
   ],
-  "appearanceCount": 6,
-  "correctCount": 6,
+  "appearanceCount": 7,
+  "correctCount": 7,
   "accuracy": 100,
   "anotherVersions": []
 }

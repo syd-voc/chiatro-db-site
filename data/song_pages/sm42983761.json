@@ -3,17 +3,18 @@
     "song": "のだ",
     "contentId": "sm42983761",
     "title": "のだ / ずんだもん・初音ミク・重音テト",
-    "commentCounter": 10777,
+    "commentCounter": 10800,
     "lengthSeconds": 178,
-    "likeCounter": 38300,
-    "mylistCounter": 17153,
+    "likeCounter": 38410,
+    "mylistCounter": 17174,
     "rank": 7,
     "startTime": "2023-11-06T18:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42983761/42983761.86547216",
     "userId": 117400184,
-    "viewCounter": 4001627,
+    "viewCounter": 4016578,
     "artist": [
-      "大漠波新"
+      "大漠波新",
+      "無色透名祭公式"
     ],
     "tags": [
       "VOCALOID",
@@ -31,6 +32,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-02-13",
+      "quizNo": 288,
+      "group": "B",
+      "order": 28,
+      "winner": "とちこ"
+    },
     {
       "date": "2025-12-12",
       "quizNo": 280,
@@ -102,8 +110,41 @@
       "winner": "ぽしゃぽしゃ"
     }
   ],
-  "appearanceCount": 10,
-  "correctCount": 10,
+  "appearanceCount": 11,
+  "correctCount": 11,
   "accuracy": 100,
-  "anotherVersions": []
+  "anotherVersions": [
+    {
+      "original": "sm42983761",
+      "contentId": "so42905310",
+      "song": "のだ",
+      "artist": [
+        "大漠波新"
+      ],
+      "channelId": 2648319,
+      "commentCounter": 721,
+      "lengthSeconds": 177,
+      "likeCounter": 2842,
+      "mylistCounter": 804,
+      "startTime": "2023-11-02T22:00:00+09:00",
+      "tags": [
+        "音楽",
+        "VOCALOID",
+        "無色透名祭Ⅱ",
+        "無色透名祭Ⅱ参加曲",
+        "ずんだもん",
+        "初音ミク",
+        "重音テト",
+        "ずんだもんオリジナル曲",
+        "ミクオリジナル曲",
+        "テトオリジナル曲",
+        "VOCALOID殿堂入り"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42905310/42905310.49010127",
+      "title": "のだ / ずんだもん, 初音ミク, 重音テト",
+      "userId": null,
+      "viewCounter": 104745,
+      "rank": 368
+    }
+  ]
 }
