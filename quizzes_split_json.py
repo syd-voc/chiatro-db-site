@@ -5,10 +5,12 @@ from pathlib import Path
 from collections import defaultdict
 
 # ===== 設定 =====
-INPUT_TSV = "quizzes_data.tsv"
-SONGS_DIR = Path("data/songs")
-QUIZZES_DIR = Path("data/quizzes")
-UNMATCHED_LOG = Path("data/unmatched_quizzes.tsv")
+BASE_DIR = Path(__file__).resolve().parent
+
+INPUT_TSV = BASE_DIR / "organize" / "chiatro_setlist_new.tsv"
+SONGS_DIR = BASE_DIR / "data" / "songs"
+QUIZZES_DIR = BASE_DIR / "data" / "quizzes"
+UNMATCHED_LOG = BASE_DIR / "data" / "unmatched_quizzes.tsv"
 
 MAX_ARTISTS = 6
 
@@ -129,8 +131,8 @@ for key, data in quizzes.items():
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 # ===== ログ出力 =====
-if unmatched_logs:
-    with open(UNMATCHED_LOG, "w", encoding="utf-8", newline="") as f:
+with open(UNMATCHED_LOG, "w", encoding="utf-8", newline="") as f:
+    if unmatched_logs:
         # ヘッダー
         headers = ["contentId", "song"] + [f"artist.{i}" for i in range(MAX_ARTISTS)]
         f.write("\t".join(headers) + "\n")
@@ -141,3 +143,5 @@ if unmatched_logs:
             artists += [""] * (MAX_ARTISTS - len(artists))
             row.extend(artists)
             f.write("\t".join(row) + "\n")
+    else:
+        f.write("NO_UNMATCHED_QUIZZES\n")
