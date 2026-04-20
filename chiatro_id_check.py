@@ -1,8 +1,8 @@
 from pathlib import Path
 
 # ===== 設定 =====
-IDS_TXT = Path("txt_input.txt")
-TSV_FILE = Path("chiatro_songs_for_check.tsv")
+IDS_TXT = Path("organize/content_ids.txt") 
+TSV_FILE = Path("songs_all.tsv")
 ID_COL_INDEX = 11   # contentId が入っている列（0始まり）
 HAS_HEADER = True # tsvにヘッダーがあるか
 
