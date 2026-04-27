@@ -1,0 +1,711 @@
+{
+  "quiz_no": 296,
+  "group": "D1",
+  "date": "2026-04-25",
+  "songs": [
+    {
+      "order": 1,
+      "contentId": "sm43355353",
+      "answers": [
+        {
+          "user": "あさぼらけ",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "contentId": "sm44644338",
+      "answers": [
+        {
+          "user": "詩歌",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "contentId": "sm25571970",
+      "answers": [
+        {
+          "user": "kowaiyatu",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "contentId": "sm37478808",
+      "answers": [
+        {
+          "user": "ひーた",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "contentId": "sm13587322",
+      "answers": [
+        {
+          "user": "aq瑠璃",
+          "result": "NG"
+        },
+        {
+          "user": "花浅葱",
+          "result": "NG"
+        },
+        {
+          "user": "詩歌",
+          "result": "NG"
+        },
+        {
+          "user": "あさぼらけ",
+          "result": "NG"
+        },
+        {
+          "user": "kowaiyatu",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "contentId": "sm22001720",
+      "answers": [
+        {
+          "user": "kowaiyatu",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "contentId": "sm43354255",
+      "answers": [
+        {
+          "user": "kowaiyatu",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "contentId": "sm40967112",
+      "answers": [
+        {
+          "user": "kowaiyatu",
+          "result": "NG"
+        },
+        {
+          "user": "あご星人",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "contentId": "sm36243343",
+      "answers": [
+        {
+          "user": "詩歌",
+          "result": "NG"
+        },
+        {
+          "user": "ひーた",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "contentId": "sm7282450",
+      "answers": [
+        {
+          "user": "あご星人",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "contentId": "sm24366230",
+      "answers": [
+        {
+          "user": "ひーた",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "contentId": "sm8755251",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "contentId": "sm4136912",
+      "answers": [
+        {
+          "user": "ひーた",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "contentId": "sm31812792",
+      "answers": [
+        {
+          "user": "花浅葱",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "contentId": "sm23006020",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "contentId": "sm34953737",
+      "answers": [
+        {
+          "user": "kowaiyatu",
+          "result": "NG"
+        },
+        {
+          "user": "防虫剤",
+          "result": "NG"
+        },
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "contentId": "sm31068232",
+      "answers": [
+        {
+          "user": "ひーた",
+          "result": "WIN1"
+        }
+      ]
+    },
+    {
+      "order": 18,
+      "contentId": "sm9797269",
+      "answers": [
+        {
+          "user": "詩歌",
+          "result": "NG"
+        },
+        {
+          "user": "防虫剤",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 19,
+      "contentId": "sm45319418",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 20,
+      "contentId": "sm44678491",
+      "answers": [
+        {
+          "user": "あさぼらけ",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 21,
+      "contentId": "sm33463366",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 22,
+      "contentId": "sm40644882",
+      "answers": [
+        {
+          "user": "詩歌",
+          "result": "NG"
+        },
+        {
+          "user": "あさぼらけ",
+          "result": "NG"
+        },
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 23,
+      "contentId": "sm38631000",
+      "answers": [
+        {
+          "user": "かげひなた",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 24,
+      "contentId": "sm39267476",
+      "answers": [
+        {
+          "user": "aq瑠璃",
+          "result": "NG"
+        },
+        {
+          "user": "kowaiyatu",
+          "result": "WIN2"
+        }
+      ]
+    },
+    {
+      "order": 25,
+      "contentId": "sm43646922",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 26,
+      "contentId": "sm40355578",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 27,
+      "contentId": "sm28974414",
+      "answers": [
+        {
+          "user": "aq瑠璃",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 28,
+      "contentId": "sm9900322",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 29,
+      "contentId": "sm45040752",
+      "answers": [
+        {
+          "user": "詩歌",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 30,
+      "contentId": "sm35359469",
+      "answers": [
+        {
+          "user": "花浅葱",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 31,
+      "contentId": "sm45241713",
+      "answers": [
+        {
+          "user": "詩歌",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 32,
+      "contentId": "sm23513555",
+      "answers": [
+        {
+          "user": "防虫剤",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 33,
+      "contentId": "sm44038106",
+      "answers": [
+        {
+          "user": "あさぼらけ",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 34,
+      "contentId": "sm36625972",
+      "answers": [
+        {
+          "user": "詩歌",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 35,
+      "contentId": "sm9004249",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 36,
+      "contentId": "sm43937640",
+      "answers": [
+        {
+          "user": "花浅葱",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 37,
+      "contentId": "sm8359269",
+      "answers": [
+        {
+          "user": "あご星人",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 38,
+      "contentId": "sm31662459",
+      "answers": [
+        {
+          "user": "あご星人",
+          "result": "NG"
+        },
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 39,
+      "contentId": "sm36594334",
+      "answers": [
+        {
+          "user": "花浅葱",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 40,
+      "contentId": "sm35258454",
+      "answers": [
+        {
+          "user": "防虫剤",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 41,
+      "contentId": "sm44200282",
+      "answers": [
+        {
+          "user": "あさぼらけ",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 42,
+      "contentId": "sm34621103",
+      "answers": [
+        {
+          "user": "花浅葱",
+          "result": "WIN3"
+        }
+      ]
+    },
+    {
+      "order": 43,
+      "contentId": "sm36936352",
+      "answers": [
+        {
+          "user": "防虫剤",
+          "result": "NG"
+        },
+        {
+          "user": "あご星人",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 44,
+      "contentId": "sm5556800",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 45,
+      "contentId": "sm32445382",
+      "answers": [
+        {
+          "user": "あご星人",
+          "result": "WIN4"
+        }
+      ]
+    },
+    {
+      "order": 46,
+      "contentId": "sm4141643",
+      "answers": [
+        {
+          "user": "詩歌",
+          "result": "NG"
+        },
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 47,
+      "contentId": "sm44090782",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 48,
+      "contentId": "sm29610327",
+      "answers": [
+        {
+          "user": "aq瑠璃",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 49,
+      "contentId": "nm14629738",
+      "answers": [
+        {
+          "user": "あさぼらけ",
+          "result": "WIN5"
+        }
+      ]
+    },
+    {
+      "order": 50,
+      "contentId": "sm12154467",
+      "answers": [
+        {
+          "user": "防虫剤",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 51,
+      "contentId": "sm30564811",
+      "answers": [
+        {
+          "user": "防虫剤",
+          "result": "NG"
+        },
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 52,
+      "contentId": "sm40554570",
+      "answers": [
+        {
+          "user": "aq瑠璃",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 53,
+      "contentId": "sm37674814",
+      "answers": [
+        {
+          "user": "詩歌",
+          "result": "WIN6"
+        }
+      ]
+    },
+    {
+      "order": 54,
+      "contentId": "sm17754841",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 55,
+      "contentId": "sm13136668",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 56,
+      "contentId": "sm6666016",
+      "answers": [
+        {
+          "user": "防虫剤",
+          "result": "WIN7"
+        }
+      ]
+    },
+    {
+      "order": 57,
+      "contentId": "sm33360604",
+      "answers": [
+        {
+          "user": "aq瑠璃",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 58,
+      "contentId": "sm39472054",
+      "answers": [
+        {
+          "user": "aq瑠璃",
+          "result": "WIN8"
+        }
+      ]
+    },
+    {
+      "order": 59,
+      "contentId": "sm41406827",
+      "answers": [
+        {
+          "user": "かげひなた",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 60,
+      "contentId": "sm39666771",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 61,
+      "contentId": "sm39209934",
+      "answers": [
+        {
+          "user": "かげひなた",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 62,
+      "contentId": "sm38151837",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 63,
+      "contentId": "sm30789907",
+      "answers": [
+        {
+          "user": "かげひなた",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 64,
+      "contentId": "sm43395859",
+      "answers": [
+        {
+          "user": "かげひなた",
+          "result": "WIN9"
+        }
+      ]
+    }
+  ]
+}

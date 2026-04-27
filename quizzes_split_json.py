@@ -34,6 +34,7 @@ for path in SONGS_DIR.glob("*.json"):
 
     song_names = set()
     song_names.add(data.get("song", ""))
+    song_names.add(data.get("title", ""))
     for s in data.get("sub_song", []):
         song_names.add(s)
 

@@ -293,6 +293,8 @@ def split_artists_with_special_rules(artist_str: str):
 # ---------- スラッシュ分割 ----------
 def find_split_index(line):
     ignore_indices = set()
+
+    # 例外パターン内の "/" を無視対象に登録
     for pat in EXCEPTION_PATTERNS:
         start = 0
         while True:
@@ -304,9 +306,11 @@ def find_split_index(line):
                     ignore_indices.add(pos + i)
             start = pos + 1
 
-    for i, ch in enumerate(line):
-        if ch == "/" and i not in ignore_indices:
+    # ===== 後ろから探索 =====
+    for i in range(len(line) - 1, -1, -1):
+        if line[i] == "/" and i not in ignore_indices:
             return i
+
     return None
 
 
