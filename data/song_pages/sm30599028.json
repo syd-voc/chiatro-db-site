@@ -3,15 +3,15 @@
     "song": "モーメント",
     "contentId": "sm30599028",
     "title": "モーメント / 初音ミク",
-    "commentCounter": 1752,
+    "commentCounter": 1753,
     "lengthSeconds": 215,
-    "likeCounter": 1058,
-    "mylistCounter": 5041,
+    "likeCounter": 1095,
+    "mylistCounter": 5064,
     "rank": 98,
     "startTime": "2017-02-09T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30599028/30599028",
     "userId": 42004123,
-    "viewCounter": 518513,
+    "viewCounter": 525628,
     "artist": [
       "MIMI"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-04-17",
+      "quizNo": 295,
+      "group": "D2",
+      "order": 21,
+      "winner": "ひーた"
+    },
+    {
+      "date": "2026-03-21",
+      "quizNo": 291,
+      "group": "D2",
+      "order": 52
+    },
     {
       "date": "2026-01-30",
       "quizNo": 286,
@@ -161,8 +174,8 @@
       "winner": "とげ"
     }
   ],
-  "appearanceCount": 19,
-  "correctCount": 17,
-  "accuracy": 89,
+  "appearanceCount": 21,
+  "correctCount": 18,
+  "accuracy": 86,
   "anotherVersions": []
 }

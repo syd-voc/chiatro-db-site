@@ -3,15 +3,15 @@
     "song": "花が落ちたので、",
     "contentId": "sm30447915",
     "title": "花が落ちたので、／初音ミク",
-    "commentCounter": 1523,
+    "commentCounter": 1525,
     "lengthSeconds": 259,
-    "likeCounter": 3884,
-    "mylistCounter": 9546,
+    "likeCounter": 3963,
+    "mylistCounter": 9589,
     "rank": 58,
     "startTime": "2017-01-20T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30447915/30447915",
     "userId": 2798037,
-    "viewCounter": 1373992,
+    "viewCounter": 1386416,
     "artist": [
       "一二三"
     ],
@@ -30,6 +30,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-01",
+      "quizNo": 297,
+      "group": "C1",
+      "order": 73,
+      "winner": "フリスク"
+    },
+    {
+      "date": "2026-03-07",
+      "quizNo": 289,
+      "group": "D2",
+      "order": 43
+    },
     {
       "date": "2025-01-18",
       "quizNo": 233,
@@ -99,8 +112,8 @@
       "winner": "ぐりーん"
     }
   ],
-  "appearanceCount": 10,
-  "correctCount": 10,
-  "accuracy": 100,
+  "appearanceCount": 12,
+  "correctCount": 11,
+  "accuracy": 92,
   "anotherVersions": []
 }

@@ -1,17 +1,20 @@
 {
   "song": {
     "song": "未来(いつか)",
+    "sub_song": [
+      "未来"
+    ],
     "contentId": "sm33895003",
     "title": "未来(いつか) / 初音ミク＆闇音レンリ",
     "commentCounter": 715,
     "lengthSeconds": 315,
-    "likeCounter": 150,
-    "mylistCounter": 1280,
+    "likeCounter": 153,
+    "mylistCounter": 1282,
     "rank": 294,
     "startTime": "2018-09-21T22:18:02+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33895003/33895003.8207652",
     "userId": 22518662,
-    "viewCounter": 69153,
+    "viewCounter": 69453,
     "artist": [
       "駒木優"
     ],
@@ -30,6 +33,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-04-17",
+      "quizNo": 295,
+      "group": "C2",
+      "order": 42,
+      "winner": "そい"
+    },
     {
       "date": "2025-05-31",
       "quizNo": 252,
@@ -50,8 +60,8 @@
       "winner": "明日夏"
     }
   ],
-  "appearanceCount": 3,
-  "correctCount": 2,
-  "accuracy": 67,
+  "appearanceCount": 4,
+  "correctCount": 3,
+  "accuracy": 75,
   "anotherVersions": []
 }

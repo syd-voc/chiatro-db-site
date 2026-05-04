@@ -1,0 +1,429 @@
+{
+  "user": "くら",
+  "slug": "GE3G81G8FGE3G82G89",
+  "correctSongs": [
+    {
+      "contentId": "sm11519178",
+      "title": "ヴェノマニア公の狂気",
+      "artist": "悪ノP",
+      "artistList": [
+        "悪ノP"
+      ],
+      "startTime": "2010-07-26T07:24:00+09:00",
+      "viewCounter": 2496417,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39070071",
+      "title": "Clipping Radio",
+      "artist": "23.exe",
+      "artistList": [
+        "23.exe"
+      ],
+      "startTime": "2021-07-23T22:00:00+09:00",
+      "viewCounter": 67123,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm20503130",
+      "title": "魔法少女幸福論",
+      "artist": "トーマ",
+      "artistList": [
+        "トーマ"
+      ],
+      "startTime": "2013-04-02T19:00:25+09:00",
+      "viewCounter": 4232450,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm19466301",
+      "title": "独りんぼエンヴィー",
+      "artist": "koyori(電ポルP)",
+      "artistList": [
+        "koyori(電ポルP)"
+      ],
+      "startTime": "2012-11-29T21:04:20+09:00",
+      "viewCounter": 5446943,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm20116702",
+      "title": "夜咄ディセイブ",
+      "artist": "じん",
+      "artistList": [
+        "じん"
+      ],
+      "startTime": "2013-02-17T21:03:21+09:00",
+      "viewCounter": 6504592,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "悪ノP",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "23.exe",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "トーマ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "koyori(電ポルP)",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "じん",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2010",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2021",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2013",
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "era": "2012",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "ヴェノマニア公の狂気",
+      "contentId": "sm11519178",
+      "startTime": 1280096640000,
+      "viewCounter": 2496417
+    },
+    {
+      "title": "Clipping Radio",
+      "contentId": "sm39070071",
+      "startTime": 1627045200000,
+      "viewCounter": 67123
+    },
+    {
+      "title": "魔法少女幸福論",
+      "contentId": "sm20503130",
+      "startTime": 1364896825000,
+      "viewCounter": 4232450
+    },
+    {
+      "title": "独りんぼエンヴィー",
+      "contentId": "sm19466301",
+      "startTime": 1354190660000,
+      "viewCounter": 5446943
+    },
+    {
+      "title": "夜咄ディセイブ",
+      "contentId": "sm20116702",
+      "startTime": 1361102601000,
+      "viewCounter": 6504592
+    }
+  ],
+  "summary": {
+    "totalAnswers": 9,
+    "okAnswers": 5,
+    "ngAnswers": 4,
+    "participatedQuizCount": 1,
+    "winQuizCount": 1,
+    "loseQuizCount": 0,
+    "medianViews": 3364434
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 292,
+      "group": "D2",
+      "date": "2026-03-28",
+      "ok": 5,
+      "ng": 4,
+      "winRank": 7,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 2,
+          "contentId": "sm11519178",
+          "title": "ヴェノマニア公の狂気",
+          "artistList": [
+            "悪ノP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/11519178/11519178",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "くら"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "contentId": "sm21440508",
+          "title": "パーカー着たキャラはどう考えてもカゲプロのパクリ",
+          "artistList": [
+            "ほぼ日P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21440508/21440508",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "くら"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 18,
+          "contentId": "sm39070071",
+          "title": "Clipping Radio",
+          "artistList": [
+            "23.exe"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39070071/39070071.74539168",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "くら"
+            }
+          ]
+        },
+        {
+          "order": 33,
+          "contentId": "sm30836414",
+          "title": "krank",
+          "artistList": [
+            "有機酸"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30836414/30836414",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きょうぼく"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "くら"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 47,
+          "contentId": "sm20503130",
+          "title": "魔法少女幸福論",
+          "artistList": [
+            "トーマ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20503130/20503130",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "間宵"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "くら"
+            }
+          ]
+        },
+        {
+          "order": 48,
+          "contentId": "sm19511216",
+          "title": "GLIDE",
+          "artistList": [
+            "niki"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19511216/19511216",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きょうぼく"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "くら"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 49,
+          "contentId": "sm19466301",
+          "title": "独りんぼエンヴィー",
+          "artistList": [
+            "koyori(電ポルP)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19466301/19466301",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "くら"
+            }
+          ]
+        },
+        {
+          "order": 53,
+          "contentId": "sm35562199",
+          "title": "オートファジー",
+          "artistList": [
+            "柊キライ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35562199/35562199.16670628",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "くら"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 58,
+          "contentId": "sm20116702",
+          "title": "夜咄ディセイブ",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20116702/20116702",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(7)",
+              "user": "くら"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

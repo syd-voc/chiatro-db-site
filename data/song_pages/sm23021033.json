@@ -11,7 +11,7 @@
     "startTime": "2014-03-05T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23021033/23021033",
     "userId": 36613132,
-    "viewCounter": 103325,
+    "viewCounter": 103408,
     "artist": [
       "Elm"
     ],
@@ -30,6 +30,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-01",
+      "quizNo": 297,
+      "group": "D1",
+      "order": 14
+    },
+    {
+      "date": "2026-04-25",
+      "quizNo": 296,
+      "group": "A",
+      "order": 37,
+      "winner": "スライドポテト"
+    },
     {
       "date": "2025-04-11",
       "quizNo": 245,
@@ -67,8 +80,8 @@
       "winner": "微熱"
     }
   ],
-  "appearanceCount": 6,
-  "correctCount": 1,
-  "accuracy": 17,
+  "appearanceCount": 8,
+  "correctCount": 2,
+  "accuracy": 25,
   "anotherVersions": []
 }

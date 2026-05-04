@@ -3,15 +3,15 @@
     "song": "サイエンス",
     "contentId": "sm44409858",
     "title": "サイエンス / feat.重音テトSV",
-    "commentCounter": 2062,
+    "commentCounter": 2331,
     "lengthSeconds": 188,
-    "likeCounter": 8025,
-    "mylistCounter": 3847,
-    "rank": 19,
+    "likeCounter": 8690,
+    "mylistCounter": 4076,
+    "rank": 17,
     "startTime": "2024-12-14T18:30:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44409858/44409858.57374584",
     "userId": 42004123,
-    "viewCounter": 798664,
+    "viewCounter": 854861,
     "artist": [
       "MIMI"
     ],
@@ -20,17 +20,52 @@
       "VOCAParty！",
       "重音テト",
       "サイエンス",
-      "サイエンス(MIMI)",
       "MIMI(ボカロP)",
       "テトオリジナル曲",
       "重音テトSV",
       "SynthesizerV",
       "SynthesizerVオリジナル曲",
-      "SynthesizerV殿堂入り"
+      "SynthesizerV殿堂入り",
+      "重音テト名曲リンク"
     ],
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-01",
+      "quizNo": 297,
+      "group": "C1",
+      "order": 88,
+      "winner": "やま"
+    },
+    {
+      "date": "2026-04-24",
+      "quizNo": 296,
+      "group": "C2",
+      "order": 59,
+      "winner": "トラノオ"
+    },
+    {
+      "date": "2026-04-17",
+      "quizNo": 295,
+      "group": "D2",
+      "order": 58,
+      "winner": "おはよう"
+    },
+    {
+      "date": "2026-04-03",
+      "quizNo": 293,
+      "group": "C2",
+      "order": 15,
+      "winner": "とある逢瀬"
+    },
+    {
+      "date": "2026-03-21",
+      "quizNo": 291,
+      "group": "D2",
+      "order": 1,
+      "winner": "千夜"
+    },
     {
       "date": "2025-12-06",
       "quizNo": 279,
@@ -102,8 +137,8 @@
       "winner": "おぷち"
     }
   ],
-  "appearanceCount": 10,
-  "correctCount": 10,
+  "appearanceCount": 15,
+  "correctCount": 15,
   "accuracy": 100,
   "anotherVersions": []
 }

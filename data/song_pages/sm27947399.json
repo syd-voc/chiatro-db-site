@@ -3,15 +3,15 @@
     "song": "エコヒイキ",
     "contentId": "sm27947399",
     "title": "エコヒイキ / 初音ミク",
-    "commentCounter": 626,
+    "commentCounter": 627,
     "lengthSeconds": 228,
-    "likeCounter": 290,
-    "mylistCounter": 1701,
+    "likeCounter": 291,
+    "mylistCounter": 1703,
     "rank": 246,
     "startTime": "2016-01-05T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27947399/27947399",
     "userId": 48706739,
-    "viewCounter": 215696,
+    "viewCounter": 216481,
     "artist": [
       "かしこ。"
     ],
@@ -29,6 +29,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-04-25",
+      "quizNo": 296,
+      "group": "C1",
+      "order": 23,
+      "winner": "やま"
+    },
+    {
+      "date": "2026-04-17",
+      "quizNo": 295,
+      "group": "C2",
+      "order": 9,
+      "winner": "やま"
+    },
     {
       "date": "2025-12-13",
       "quizNo": 280,
@@ -95,8 +109,8 @@
       "winner": "yu-na*"
     }
   ],
-  "appearanceCount": 10,
-  "correctCount": 6,
-  "accuracy": 60,
+  "appearanceCount": 12,
+  "correctCount": 8,
+  "accuracy": 67,
   "anotherVersions": []
 }

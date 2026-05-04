@@ -3,15 +3,15 @@
     "song": "ぬけがら",
     "contentId": "sm22485666",
     "title": "【初音ミク】ぬけがら【オリジナル】",
-    "commentCounter": 838,
+    "commentCounter": 839,
     "lengthSeconds": 300,
-    "likeCounter": 102,
+    "likeCounter": 104,
     "mylistCounter": 1728,
-    "rank": 761,
+    "rank": 762,
     "startTime": "2013-12-19T20:21:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22485666/22485666",
     "userId": 32047444,
-    "viewCounter": 338288,
+    "viewCounter": 338545,
     "artist": [
       "とあ"
     ],
@@ -28,13 +28,26 @@
   },
   "histories": [
     {
+      "date": "2026-05-02",
+      "quizNo": 297,
+      "group": "B",
+      "order": 9,
+      "winner": "まつせ"
+    },
+    {
+      "date": "2026-04-18",
+      "quizNo": 295,
+      "group": "A",
+      "order": 32
+    },
+    {
       "date": "2020-09-27",
       "quizNo": 24,
       "order": 69
     }
   ],
-  "appearanceCount": 1,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 3,
+  "correctCount": 1,
+  "accuracy": 33,
   "anotherVersions": []
 }

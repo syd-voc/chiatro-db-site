@@ -6,12 +6,12 @@
     "channelId": 2577725,
     "commentCounter": 1115,
     "lengthSeconds": 227,
-    "likeCounter": 201,
-    "mylistCounter": 2033,
+    "likeCounter": 202,
+    "mylistCounter": 2036,
     "rank": 208,
     "startTime": "2016-05-16T16:30:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28857561/28857561",
-    "viewCounter": 167365,
+    "viewCounter": 168289,
     "artist": [
       "Neru"
     ],
@@ -30,6 +30,13 @@
     "userId": null
   },
   "histories": [
+    {
+      "date": "2026-03-13",
+      "quizNo": 290,
+      "group": "A",
+      "order": 36,
+      "winner": "最強の私"
+    },
     {
       "date": "2025-08-15",
       "quizNo": 263,
@@ -51,8 +58,8 @@
       "winner": "ろあ"
     }
   ],
-  "appearanceCount": 3,
-  "correctCount": 3,
+  "appearanceCount": 4,
+  "correctCount": 4,
   "accuracy": 100,
   "anotherVersions": []
 }

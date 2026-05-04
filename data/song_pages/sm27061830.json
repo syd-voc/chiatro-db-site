@@ -3,15 +3,15 @@
     "song": "ハウトゥワープ",
     "contentId": "sm27061830",
     "title": "ハウトゥワープ / 初音ミク",
-    "commentCounter": 7404,
+    "commentCounter": 7405,
     "lengthSeconds": 184,
-    "likeCounter": 1009,
-    "mylistCounter": 13137,
+    "likeCounter": 1037,
+    "mylistCounter": 13148,
     "rank": 39,
     "startTime": "2015-09-01T19:19:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27061830/27061830.29492257",
     "userId": 49716308,
-    "viewCounter": 1726828,
+    "viewCounter": 1730612,
     "artist": [
       "ナユタン星人"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-04-10",
+      "quizNo": 294,
+      "group": "C2",
+      "order": 10,
+      "winner": "クスノキ"
+    },
+    {
+      "date": "2026-04-10",
+      "quizNo": 294,
+      "group": "D2",
+      "order": 8
+    },
     {
       "date": "2025-10-11",
       "quizNo": 271,
@@ -230,8 +243,8 @@
       "winner": "らいじ"
     }
   ],
-  "appearanceCount": 29,
-  "correctCount": 25,
-  "accuracy": 86,
+  "appearanceCount": 31,
+  "correctCount": 26,
+  "accuracy": 84,
   "anotherVersions": []
 }

@@ -3,15 +3,15 @@
     "song": "レイズ",
     "contentId": "sm23925671",
     "title": "【初音ミク】 レイズ 【オリジナル】",
-    "commentCounter": 9217,
+    "commentCounter": 9218,
     "lengthSeconds": 298,
-    "likeCounter": 1464,
-    "mylistCounter": 13750,
+    "likeCounter": 1500,
+    "mylistCounter": 13768,
     "rank": 66,
     "startTime": "2014-07-04T18:40:21+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23925671/23925671",
     "userId": 26225387,
-    "viewCounter": 1387347,
+    "viewCounter": 1392258,
     "artist": [
       "n-buna"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-01",
+      "quizNo": 297,
+      "group": "C1",
+      "order": 90
+    },
+    {
+      "date": "2026-03-27",
+      "quizNo": 292,
+      "group": "D1",
+      "order": 20,
+      "winner": "惟月"
+    },
     {
       "date": "2025-11-07",
       "quizNo": 275,
@@ -139,8 +152,8 @@
       "winner": "Abbey"
     }
   ],
-  "appearanceCount": 16,
-  "correctCount": 14,
-  "accuracy": 88,
+  "appearanceCount": 18,
+  "correctCount": 15,
+  "accuracy": 83,
   "anotherVersions": []
 }

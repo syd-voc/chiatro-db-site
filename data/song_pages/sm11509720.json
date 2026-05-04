@@ -3,15 +3,15 @@
     "song": "Nyanyanyanyanyanyanya!",
     "contentId": "sm11509720",
     "title": "【初音ミク】Nyanyanyanyanyanyanya!【オリジナループ】",
-    "commentCounter": 41157,
+    "commentCounter": 41290,
     "lengthSeconds": 227,
-    "likeCounter": 5302,
-    "mylistCounter": 62362,
-    "rank": 20,
+    "likeCounter": 5562,
+    "mylistCounter": 62437,
+    "rank": 19,
     "startTime": "2010-07-25T15:47:42+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/11509720/11509720",
     "userId": 989911,
-    "viewCounter": 3864589,
+    "viewCounter": 3875902,
     "artist": [
       "daniwell"
     ],
@@ -26,11 +26,25 @@
       "初音ミク名曲リンク",
       "daniwellP",
       "Nyan_Cat",
-      "歌ってみろ"
+      "重要ニコニコ文化財"
     ],
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-02",
+      "quizNo": 297,
+      "group": "B",
+      "order": 34,
+      "winner": "Lyz"
+    },
+    {
+      "date": "2026-03-06",
+      "quizNo": 289,
+      "group": "A",
+      "order": 28,
+      "winner": "眠くない人"
+    },
     {
       "date": "2025-11-29",
       "quizNo": 278,
@@ -161,8 +175,38 @@
       "winner": "あざばて。"
     }
   ],
-  "appearanceCount": 19,
-  "correctCount": 16,
-  "accuracy": 84,
-  "anotherVersions": []
+  "appearanceCount": 21,
+  "correctCount": 18,
+  "accuracy": 86,
+  "anotherVersions": [
+    {
+      "original": "sm11509720",
+      "contentId": "sm12478341",
+      "song": "Nyanyanyanyanyanyanya!(NEKOMATAGI　REMIX)",
+      "artist": [
+        "daniwell"
+      ],
+      "channelId": null,
+      "commentCounter": 4325,
+      "lengthSeconds": 213,
+      "likeCounter": 166,
+      "mylistCounter": 4917,
+      "startTime": "2010-10-19T06:02:18+09:00",
+      "tags": [
+        "VOCALOID",
+        "Nyanyanyanyanyanyanya!",
+        "カットアップ",
+        "初音ミク",
+        "ミクオリジナル曲",
+        "VOCALOID殿堂入り",
+        "セルフアレンジ",
+        "daniwellP"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12478341/12478341",
+      "title": "RE: 【初音ミク】Nyanyanyanyanyanyanya!(NEKOMATAGI　REMIX)",
+      "userId": 989911,
+      "viewCounter": 326580,
+      "rank": 399
+    }
+  ]
 }

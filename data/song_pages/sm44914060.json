@@ -3,15 +3,15 @@
     "song": "キティ",
     "contentId": "sm44914060",
     "title": "キティ- miku",
-    "commentCounter": 401,
+    "commentCounter": 403,
     "lengthSeconds": 206,
-    "likeCounter": 2745,
-    "mylistCounter": 1489,
-    "rank": 75,
+    "likeCounter": 2804,
+    "mylistCounter": 1508,
+    "rank": 79,
     "startTime": "2025-04-26T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44914060/44914060.90420375",
     "userId": 73543796,
-    "viewCounter": 185775,
+    "viewCounter": 197875,
     "artist": [
       "ツミキ"
     ],
@@ -31,6 +31,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-04-17",
+      "quizNo": 295,
+      "group": "B",
+      "order": 48,
+      "winner": "世界のYAMADA"
+    },
+    {
+      "date": "2026-03-27",
+      "quizNo": 292,
+      "group": "C1",
+      "order": 40,
+      "winner": "くちば"
+    },
     {
       "date": "2026-01-24",
       "quizNo": 285,
@@ -123,8 +137,8 @@
       "winner": "らびっと"
     }
   ],
-  "appearanceCount": 13,
-  "correctCount": 13,
+  "appearanceCount": 15,
+  "correctCount": 15,
   "accuracy": 100,
   "anotherVersions": []
 }

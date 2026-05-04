@@ -3,15 +3,15 @@
     "song": "群青讃歌",
     "contentId": "sm39411572",
     "title": "群青讃歌 / 初音ミク",
-    "commentCounter": 6877,
+    "commentCounter": 6880,
     "lengthSeconds": 280,
-    "likeCounter": 11380,
-    "mylistCounter": 8200,
+    "likeCounter": 11482,
+    "mylistCounter": 8244,
     "rank": 25,
     "startTime": "2021-09-30T18:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39411572/39411572.5041558",
     "userId": 10103681,
-    "viewCounter": 2035341,
+    "viewCounter": 2047872,
     "artist": [
       "Eve"
     ],
@@ -31,6 +31,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-01",
+      "quizNo": 297,
+      "group": "A",
+      "order": 78,
+      "winner": "時雨"
+    },
+    {
+      "date": "2026-03-20",
+      "quizNo": 291,
+      "group": "A",
+      "order": 86,
+      "winner": "Takuan"
+    },
     {
       "date": "2025-11-14",
       "quizNo": 276,
@@ -234,8 +248,8 @@
       "winner": "Klayn"
     }
   ],
-  "appearanceCount": 29,
-  "correctCount": 29,
+  "appearanceCount": 31,
+  "correctCount": 31,
   "accuracy": 100,
   "anotherVersions": []
 }

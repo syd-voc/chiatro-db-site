@@ -3,15 +3,15 @@
     "song": "QUEEN",
     "contentId": "sm40881707",
     "title": "【GUMI】QUEEN【Kanaria】",
-    "commentCounter": 5184,
+    "commentCounter": 5216,
     "lengthSeconds": 141,
-    "likeCounter": 34630,
-    "mylistCounter": 22001,
+    "likeCounter": 34949,
+    "mylistCounter": 22055,
     "rank": 7,
     "startTime": "2022-08-06T19:05:03+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40881707/40881707.27220799",
     "userId": 95303437,
-    "viewCounter": 4190061,
+    "viewCounter": 4234881,
     "artist": [
       "Kanaria"
     ],
@@ -31,6 +31,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-04-03",
+      "quizNo": 293,
+      "group": "C2",
+      "order": 66,
+      "winner": "あいおい"
+    },
+    {
+      "date": "2026-03-20",
+      "quizNo": 291,
+      "group": "A",
+      "order": 39,
+      "winner": "最強の私"
+    },
     {
       "date": "2026-02-07",
       "quizNo": 287,
@@ -256,8 +270,8 @@
       "winner": "うつぼっち"
     }
   ],
-  "appearanceCount": 32,
-  "correctCount": 32,
+  "appearanceCount": 34,
+  "correctCount": 34,
   "accuracy": 100,
   "anotherVersions": []
 }

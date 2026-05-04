@@ -11,7 +11,7 @@
     "startTime": "2018-04-07T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33016008/33016008",
     "userId": 2337184,
-    "viewCounter": 116270,
+    "viewCounter": 116403,
     "artist": [
       "低所得P"
     ],
@@ -30,6 +30,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-03-14",
+      "quizNo": 290,
+      "group": "B",
+      "order": 34,
+      "winner": "Lyz"
+    },
     {
       "date": "2025-12-12",
       "quizNo": 280,
@@ -89,8 +96,8 @@
       "winner": "Klayn"
     }
   ],
-  "appearanceCount": 9,
-  "correctCount": 5,
-  "accuracy": 56,
+  "appearanceCount": 10,
+  "correctCount": 6,
+  "accuracy": 60,
   "anotherVersions": []
 }

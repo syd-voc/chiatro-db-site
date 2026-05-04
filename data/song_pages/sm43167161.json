@@ -3,15 +3,15 @@
     "song": "シェイク",
     "contentId": "sm43167161",
     "title": "シェイク / 星界",
-    "commentCounter": 528,
+    "commentCounter": 533,
     "lengthSeconds": 162,
-    "likeCounter": 2160,
-    "mylistCounter": 1108,
-    "rank": 248,
+    "likeCounter": 2260,
+    "mylistCounter": 1139,
+    "rank": 241,
     "startTime": "2023-12-20T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43167161/43167161.56499950",
     "userId": 86199535,
-    "viewCounter": 223721,
+    "viewCounter": 237718,
     "artist": [
       "内緒のピアス"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-03-20",
+      "quizNo": 291,
+      "group": "D1",
+      "order": 77
+    },
+    {
+      "date": "2026-03-06",
+      "quizNo": 289,
+      "group": "C1",
+      "order": 37,
+      "winner": "くちば"
+    },
     {
       "date": "2025-05-10",
       "quizNo": 249,
@@ -60,8 +73,8 @@
       "winner": "ぷーまる"
     }
   ],
-  "appearanceCount": 4,
-  "correctCount": 4,
-  "accuracy": 100,
+  "appearanceCount": 6,
+  "correctCount": 5,
+  "accuracy": 83,
   "anotherVersions": []
 }

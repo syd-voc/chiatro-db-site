@@ -1,20 +1,16 @@
 {
   "song": {
-    "song": "ローレル",
     "contentId": "sm43428811",
-    "title": "ローレル/Mused feat.Hime",
-    "commentCounter": 315,
-    "lengthSeconds": 234,
-    "likeCounter": 1283,
-    "mylistCounter": 565,
-    "rank": 361,
-    "startTime": "2024-02-22T19:00:00+09:00",
-    "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43428811/43428811.62253637",
-    "userId": 127812938,
-    "viewCounter": 25914,
+    "song": "ローレル",
     "artist": [
       "Mused"
     ],
+    "channelId": null,
+    "commentCounter": 315,
+    "lengthSeconds": 234,
+    "likeCounter": 1290,
+    "mylistCounter": 561,
+    "startTime": "2024-02-22T19:00:00+09:00",
     "tags": [
       "ボカコレ2024冬ルーキー参加曲",
       "VOCALOID",
@@ -27,9 +23,19 @@
       "ローレル(Mused)",
       "クラブで使えるボカロ曲リンク"
     ],
-    "channelId": null
+    "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43428811/43428811.62253637",
+    "title": "ローレル/Mused feat.Hime",
+    "userId": 127812938,
+    "viewCounter": 26488,
+    "rank": 369
   },
   "histories": [
+    {
+      "date": "2026-05-02",
+      "quizNo": 297,
+      "group": "B",
+      "order": 121
+    },
     {
       "date": "2025-10-31",
       "quizNo": 274,
@@ -56,8 +62,8 @@
       "order": 90
     }
   ],
-  "appearanceCount": 4,
+  "appearanceCount": 5,
   "correctCount": 1,
-  "accuracy": 25,
+  "accuracy": 20,
   "anotherVersions": []
 }

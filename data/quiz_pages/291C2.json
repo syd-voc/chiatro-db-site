@@ -1,0 +1,931 @@
+{
+  "quiz_no": 291,
+  "group": "C2",
+  "date": "2026-03-21",
+  "id": "291C2",
+  "songs": [
+    {
+      "order": 1,
+      "contentId": "sm15938820",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ],
+      "song": "あいからかいあ",
+      "artist": [
+        "MARUDARUMA"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15938820/15938820"
+    },
+    {
+      "order": 2,
+      "contentId": "sm15785925",
+      "answers": [
+        {
+          "user": "とある逢瀬",
+          "result": "OK1"
+        }
+      ],
+      "song": "アイセンサー",
+      "artist": [
+        "buzzG"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15785925/15785925"
+    },
+    {
+      "order": 3,
+      "contentId": "sm17520775",
+      "answers": [
+        {
+          "user": "クスノキ",
+          "result": "OK1"
+        }
+      ],
+      "song": "六兆年と一夜物語",
+      "artist": [
+        "kemu"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/17520775/17520775"
+    },
+    {
+      "order": 4,
+      "contentId": "sm30780098",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ],
+      "song": "FREED",
+      "artist": [
+        "くをりあ"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30780098/30780098"
+    },
+    {
+      "order": 5,
+      "contentId": "sm14301091",
+      "answers": [
+        {
+          "user": "とある逢瀬",
+          "result": "NG"
+        },
+        {
+          "user": "クスノキ",
+          "result": "OK2"
+        }
+      ],
+      "song": "一方通行",
+      "artist": [
+        "ゆちゃ"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14301091/14301091"
+    },
+    {
+      "order": 6,
+      "contentId": "sm26591681",
+      "answers": [
+        {
+          "user": "トラノオ",
+          "result": "OK1"
+        }
+      ],
+      "song": "明日世界が滅ぶなら",
+      "artist": [
+        "プロペリン"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26591681/26591681"
+    },
+    {
+      "order": 7,
+      "contentId": "sm10187442",
+      "answers": [
+        {
+          "user": "レイ",
+          "result": "OK1"
+        }
+      ],
+      "song": "はやぶさ",
+      "artist": [
+        "キセノンP"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10187442/10187442"
+    },
+    {
+      "order": 8,
+      "contentId": "sm33001978",
+      "answers": [
+        {
+          "user": "Ha.Ru.",
+          "result": "OK1"
+        }
+      ],
+      "song": "4月の愚者",
+      "artist": [
+        "YM"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33001978/33001978"
+    },
+    {
+      "order": 9,
+      "contentId": "sm45317637",
+      "answers": [
+        {
+          "user": "レイ",
+          "result": "NG"
+        },
+        {
+          "user": "とある逢瀬",
+          "result": "NG"
+        },
+        {
+          "user": "クスノキ",
+          "result": "NG"
+        },
+        {
+          "user": "あいおい",
+          "result": "NG"
+        },
+        {
+          "user": "すぼ",
+          "result": "NG"
+        },
+        {
+          "user": "トラノオ",
+          "result": "OK2"
+        }
+      ],
+      "song": "VOCAEND",
+      "artist": [
+        "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45317637/45317637.88020610"
+    },
+    {
+      "order": 10,
+      "contentId": "sm25303371",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ],
+      "song": "ムカシガタリ",
+      "artist": [
+        "デスおはぎ"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25303371/25303371"
+    },
+    {
+      "order": 11,
+      "contentId": "sm7313565",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ],
+      "song": "ほんの少しのさよなら",
+      "artist": [
+        "koyori(電ポルP)"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7313565/7313565"
+    },
+    {
+      "order": 12,
+      "contentId": "sm28493559",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ],
+      "song": "ダイブ！！",
+      "artist": [
+        "さまぐら"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28493559/28493559"
+    },
+    {
+      "order": 13,
+      "contentId": "sm44545521",
+      "answers": [
+        {
+          "user": "クスノキ",
+          "result": "NG"
+        },
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ],
+      "song": "君恋クエスト",
+      "artist": [
+        "いるかアイス",
+        "市瀬るぽ"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44545521/44545521.36794111"
+    },
+    {
+      "order": 14,
+      "contentId": "sm26715301",
+      "answers": [
+        {
+          "user": "とある逢瀬",
+          "result": "NG"
+        },
+        {
+          "user": "トラノオ",
+          "result": "OK3"
+        }
+      ],
+      "song": "お別れ囃子",
+      "artist": [
+        "小林オニキス"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26715301/26715301"
+    },
+    {
+      "order": 15,
+      "contentId": "sm26231129",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ],
+      "song": "シークレットメタファー",
+      "artist": [
+        "ANDRIVEBOiz"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26231129/26231129"
+    },
+    {
+      "order": 16,
+      "contentId": "sm4271779",
+      "answers": [
+        {
+          "user": "トラノオ",
+          "result": "OK4"
+        }
+      ],
+      "song": "VOiCE",
+      "artist": [
+        "ラヴリーP"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/4271779/4271779"
+    },
+    {
+      "order": 17,
+      "contentId": "sm38408292",
+      "answers": [
+        {
+          "user": "レイ",
+          "result": "OK2"
+        }
+      ],
+      "song": "MIRA",
+      "artist": [
+        "Kanaria"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38408292/38408292.59647004"
+    },
+    {
+      "order": 18,
+      "contentId": "sm39426624",
+      "answers": [
+        {
+          "user": "あいおい",
+          "result": "OK1"
+        }
+      ],
+      "song": "マシンガンポエムドール",
+      "artist": [
+        "cosMo@暴走P"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39426624/39426624.76131781"
+    },
+    {
+      "order": 19,
+      "contentId": "sm44831775",
+      "answers": [
+        {
+          "user": "すぼ",
+          "result": "OK1"
+        }
+      ],
+      "song": "わすれモノ",
+      "artist": [
+        "いよわ"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44831775/44831775.37766122"
+    },
+    {
+      "order": 20,
+      "contentId": "sm39300654",
+      "answers": [
+        {
+          "user": "あいおい",
+          "result": "OK2"
+        }
+      ],
+      "song": "エゴロック",
+      "artist": [
+        "すりぃ"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39300654/39300654.58465574"
+    },
+    {
+      "order": 21,
+      "contentId": "sm32727744",
+      "answers": [
+        {
+          "user": "レイ",
+          "result": "OK3"
+        }
+      ],
+      "song": "だれかの心臓になれたなら",
+      "artist": [
+        "ユリイ・カノン"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32727744/32727744"
+    },
+    {
+      "order": 22,
+      "contentId": "so43309410",
+      "answers": [
+        {
+          "user": "あいおい",
+          "result": "OK3"
+        }
+      ],
+      "song": "やどりぎ",
+      "artist": [
+        "Eve"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43309410/43309410.41316012"
+    },
+    {
+      "order": 23,
+      "contentId": "sm43400125",
+      "answers": [
+        {
+          "user": "あいおい",
+          "result": "OK4"
+        }
+      ],
+      "song": "むげんのチケット",
+      "artist": [
+        "まらしぃ"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43400125/43400125.24246017"
+    },
+    {
+      "order": 24,
+      "contentId": "sm7918983",
+      "answers": [
+        {
+          "user": "あいおい",
+          "result": "WIN1"
+        }
+      ],
+      "song": "天樂",
+      "artist": [
+        "ゆうゆ"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7918983/7918983.63901958"
+    },
+    {
+      "order": 25,
+      "contentId": "sm23265517",
+      "answers": [
+        {
+          "user": "Ha.Ru.",
+          "result": "OK2"
+        }
+      ],
+      "song": "さよなら4月のドッペルさん",
+      "artist": [
+        "ササノマリイ"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23265517/23265517"
+    },
+    {
+      "order": 26,
+      "contentId": "sm18265164",
+      "answers": [
+        {
+          "user": "トラノオ",
+          "result": "WIN2"
+        }
+      ],
+      "song": "うたをうたうひと",
+      "artist": [
+        "椎名もた"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18265164/18265164"
+    },
+    {
+      "order": 27,
+      "contentId": "sm31977006",
+      "answers": [
+        {
+          "user": "Ha.Ru.",
+          "result": "OK3"
+        }
+      ],
+      "song": "好きなのに (Part.Ⅰ)",
+      "artist": [
+        "Yasuha."
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31977006/31977006"
+    },
+    {
+      "order": 28,
+      "contentId": "sm39248880",
+      "answers": [
+        {
+          "user": "レイ",
+          "result": "OK4"
+        }
+      ],
+      "song": "ありふれた、レプリカント",
+      "artist": [
+        "卯花ロク"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39248880/39248880.90698872"
+    },
+    {
+      "order": 29,
+      "contentId": "sm44633518",
+      "answers": [
+        {
+          "user": "とある逢瀬",
+          "result": "NG"
+        },
+        {
+          "user": "すぼ",
+          "result": "OK2"
+        }
+      ],
+      "song": "カニが登場するボタン",
+      "artist": [
+        "ンバヂ"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44633518/44633518.80366722"
+    },
+    {
+      "order": 30,
+      "contentId": "sm33063364",
+      "answers": [
+        {
+          "user": "レイ",
+          "result": "WIN3"
+        }
+      ],
+      "song": "シエレトワール",
+      "artist": [
+        "蝶々P"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33063364/33063364"
+    },
+    {
+      "order": 31,
+      "contentId": "sm1686727",
+      "answers": [
+        {
+          "user": "きぐな",
+          "result": "OK1"
+        }
+      ],
+      "song": "雲の遺跡",
+      "artist": [
+        "yanagi"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1686727/1686727"
+    },
+    {
+      "order": 32,
+      "contentId": "sm11713594",
+      "answers": [
+        {
+          "user": "すぼ",
+          "result": "OK3"
+        }
+      ],
+      "song": "会いたい",
+      "artist": [
+        "シグナルP"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/11713594/11713594"
+    },
+    {
+      "order": 33,
+      "contentId": "sm43089818",
+      "answers": [
+        {
+          "user": "きぐな",
+          "result": "OK2"
+        }
+      ],
+      "song": "電気予報",
+      "artist": [
+        "稲葉曇"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43089818/43089818.7953470"
+    },
+    {
+      "order": 34,
+      "contentId": "sm38500233",
+      "answers": [
+        {
+          "user": "クスノキ",
+          "result": "OK3"
+        }
+      ],
+      "song": "たぶん終わり",
+      "artist": [
+        "いよわ"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38500233/38500233.17281253"
+    },
+    {
+      "order": 35,
+      "contentId": "sm7681014",
+      "answers": [
+        {
+          "user": "きぐな",
+          "result": "OK3"
+        }
+      ],
+      "song": "filozofio",
+      "artist": [
+        "ミナツキトーカ"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7681014/7681014"
+    },
+    {
+      "order": 36,
+      "contentId": "sm15956806",
+      "answers": [
+        {
+          "user": "とある逢瀬",
+          "result": "OK2"
+        }
+      ],
+      "song": "エンヴィキャットウォーク",
+      "artist": [
+        "トーマ"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15956806/15956806"
+    },
+    {
+      "order": 37,
+      "contentId": "sm24862460",
+      "answers": [
+        {
+          "user": "きぐな",
+          "result": "NG"
+        },
+        {
+          "user": "あざらし",
+          "result": "NG"
+        },
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ],
+      "song": "morning haze",
+      "artist": [
+        "keeno"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24862460/24862460"
+    },
+    {
+      "order": 38,
+      "contentId": "sm13452778",
+      "answers": [
+        {
+          "user": "Ha.Ru.",
+          "result": "OK4"
+        }
+      ],
+      "song": "神曲",
+      "artist": [
+        "おにゅうP"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13452778/13452778"
+    },
+    {
+      "order": 39,
+      "contentId": "sm35489203",
+      "answers": [
+        {
+          "user": "きぐな",
+          "result": "OK4"
+        }
+      ],
+      "song": "うらめしヤッホー",
+      "artist": [
+        "和田たけあき"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35489203/35489203.48564574"
+    },
+    {
+      "order": 40,
+      "contentId": "sm34547054",
+      "answers": [
+        {
+          "user": "とある逢瀬",
+          "result": "OK3"
+        }
+      ],
+      "song": "GOOD BYE",
+      "artist": [
+        "HoneyWorks"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34547054/34547054.77970"
+    },
+    {
+      "order": 41,
+      "contentId": "sm19916191",
+      "answers": [
+        {
+          "user": "あざらし",
+          "result": "NG"
+        },
+        {
+          "user": "きぐな",
+          "result": "WIN4"
+        }
+      ],
+      "song": "ベベル",
+      "artist": [
+        "shr"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19916191/19916191"
+    },
+    {
+      "order": 42,
+      "contentId": "sm44902292",
+      "answers": [
+        {
+          "user": "すぼ",
+          "result": "OK4"
+        }
+      ],
+      "song": "V.S",
+      "artist": [
+        "大漠波新"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44902292/44902292.89760682"
+    },
+    {
+      "order": 43,
+      "contentId": "sm6448601",
+      "answers": [
+        {
+          "user": "クスノキ",
+          "result": "OK4"
+        }
+      ],
+      "song": "ハイハハイニ",
+      "artist": [
+        "テンネン"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6448601/6448601"
+    },
+    {
+      "order": 44,
+      "contentId": "sm43426632",
+      "answers": [
+        {
+          "user": "とある逢瀬",
+          "result": "OK4"
+        }
+      ],
+      "song": "PARTY ROCK ETERNITY",
+      "artist": [
+        "八王子P"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43426632/43426632.89919007"
+    },
+    {
+      "order": 45,
+      "contentId": "sm7037889",
+      "answers": [
+        {
+          "user": "とある逢瀬",
+          "result": "LOSE"
+        },
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ],
+      "song": "heavenly blue",
+      "artist": [
+        "164"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7037889/7037889"
+    },
+    {
+      "order": 46,
+      "contentId": "sm38893825",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ],
+      "song": "アンビバレンス",
+      "artist": [
+        "すりぃ"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38893825/38893825.54381699"
+    },
+    {
+      "order": 47,
+      "contentId": "sm43425730",
+      "answers": [
+        {
+          "user": "すぼ",
+          "result": "WIN5"
+        }
+      ],
+      "song": "一龠",
+      "artist": [
+        "d.j.ァネイロ"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43425730/43425730.75861072"
+    },
+    {
+      "order": 48,
+      "contentId": "sm31972214",
+      "answers": [
+        {
+          "user": "Ha.Ru.",
+          "result": "WIN6"
+        }
+      ],
+      "song": "はきだす",
+      "artist": [
+        "mao sasagawa"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31972214/31972214"
+    },
+    {
+      "order": 49,
+      "contentId": "sm6793193",
+      "answers": [
+        {
+          "user": "クスノキ",
+          "result": "WIN7"
+        }
+      ],
+      "song": "ハイセンスナンセンス",
+      "artist": [
+        "盛るP"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6793193/6793193"
+    },
+    {
+      "order": 50,
+      "contentId": "sm38449353",
+      "answers": [
+        {
+          "user": "あざらし",
+          "result": "OK1"
+        }
+      ],
+      "song": "ボトム",
+      "artist": [
+        "柊キライ"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38449353/38449353.1446544"
+    },
+    {
+      "order": 51,
+      "contentId": "sm9176017",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ],
+      "song": "アン・イノセンス",
+      "artist": [
+        "river"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9176017/9176017"
+    },
+    {
+      "order": 52,
+      "contentId": "sm41895209",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ],
+      "song": "マネキン",
+      "artist": [
+        "DECO*27"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41895209/41895209.33190000"
+    },
+    {
+      "order": 53,
+      "contentId": "sm44685408",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ],
+      "song": "匙ノ咒",
+      "artist": [
+        "r-906"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44685408/44685408.61780438"
+    },
+    {
+      "order": 54,
+      "contentId": "sm28038974",
+      "answers": [
+        {
+          "user": "あざらし",
+          "result": "OK2"
+        }
+      ],
+      "song": "曖昧さ回避",
+      "artist": [
+        "ポリスピカデリー"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28038974/28038974.39193810"
+    },
+    {
+      "order": 55,
+      "contentId": "sm15416657",
+      "answers": [
+        {
+          "user": "あざらし",
+          "result": "OK3"
+        }
+      ],
+      "song": "fix",
+      "artist": [
+        "keeno"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15416657/15416657"
+    },
+    {
+      "order": 56,
+      "contentId": "sm25066481",
+      "answers": [
+        {
+          "user": "あざらし",
+          "result": "OK4"
+        }
+      ],
+      "song": "月光潤色ガール",
+      "artist": [
+        "れるりり"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25066481/25066481"
+    },
+    {
+      "order": 57,
+      "contentId": "sm41981760",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ],
+      "song": "先生あのね",
+      "artist": [
+        "TOKOTOKO（西沢さんP）"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41981760/41981760.72561967"
+    },
+    {
+      "order": 58,
+      "contentId": "sm32012728",
+      "answers": [
+        {
+          "user": "あざらし",
+          "result": "WIN8"
+        }
+      ],
+      "song": "ダーリン",
+      "artist": [
+        "MARETU"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32012728/32012728"
+    }
+  ]
+}

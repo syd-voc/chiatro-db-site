@@ -4,19 +4,23 @@
     "contentId": "so23995080",
     "title": "【IA ROCKS】セツナドライブ【オリジナル】",
     "channelId": 1255,
-    "commentCounter": 4526,
+    "commentCounter": 4527,
     "lengthSeconds": 220,
-    "likeCounter": 256,
-    "mylistCounter": 7801,
-    "rank": 127,
+    "likeCounter": 263,
+    "mylistCounter": 7807,
+    "rank": 126,
     "startTime": "2014-07-13T18:17:59+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23995080/23995080",
-    "viewCounter": 309351,
+    "viewCounter": 310421,
     "artist": [
       "滝善充"
     ],
     "sub_artist": [
-      "尾形回帰"
+      "尾形回帰",
+      "神無月P",
+      "しづ",
+      "Ciel(神無月P)",
+      "Ciel"
     ],
     "tags": [
       "VOCALOID",
@@ -34,6 +38,20 @@
     "userId": null
   },
   "histories": [
+    {
+      "date": "2026-04-10",
+      "quizNo": 294,
+      "group": "C2",
+      "order": 23,
+      "winner": "きぐな"
+    },
+    {
+      "date": "2026-04-10",
+      "quizNo": 294,
+      "group": "D2",
+      "order": 4,
+      "winner": "ニナ"
+    },
     {
       "date": "2025-09-06",
       "quizNo": 266,
@@ -102,8 +120,41 @@
       "winner": "とげ"
     }
   ],
-  "appearanceCount": 10,
-  "correctCount": 9,
-  "accuracy": 90,
-  "anotherVersions": []
+  "appearanceCount": 12,
+  "correctCount": 11,
+  "accuracy": 92,
+  "anotherVersions": [
+    {
+      "original": "so23995080",
+      "contentId": "so22111664",
+      "song": "セツナドライブ",
+      "artist": [
+        "滝善充"
+      ],
+      "channelId": 1255,
+      "commentCounter": 2146,
+      "lengthSeconds": 220,
+      "likeCounter": 101,
+      "mylistCounter": 6375,
+      "startTime": "2013-10-24T22:32:17+09:00",
+      "tags": [
+        "VOCALOID",
+        "IA-ARIA_ON_THE_PLANETES-",
+        "しづ",
+        "9mm_Parabellum_Bullet",
+        "滝_善充",
+        "IAオリジナル曲",
+        "SUPERGT",
+        "Racing_Project_BANDOH",
+        "VOCALOID殿堂入り",
+        "IA_SUPER_BEST収録曲",
+        "IA_-ARIA_ON_THE_PLANETES-"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22111664/22111664",
+      "title": "【IA】セツナドライブ｜滝 善充（9mm Parabellum Bullet）",
+      "userId": null,
+      "viewCounter": 204131,
+      "rank": 285
+    }
+  ]
 }

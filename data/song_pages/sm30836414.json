@@ -3,15 +3,15 @@
     "song": "krank",
     "contentId": "sm30836414",
     "title": "krank／初音ミク",
-    "commentCounter": 2331,
+    "commentCounter": 2336,
     "lengthSeconds": 235,
-    "likeCounter": 765,
-    "mylistCounter": 6346,
+    "likeCounter": 794,
+    "mylistCounter": 6358,
     "rank": 82,
     "startTime": "2017-03-17T21:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30836414/30836414",
     "userId": 19820059,
-    "viewCounter": 1099870,
+    "viewCounter": 1104234,
     "artist": [
       "有機酸"
     ],
@@ -29,6 +29,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-03-28",
+      "quizNo": 292,
+      "group": "D2",
+      "order": 33
+    },
+    {
+      "date": "2026-03-27",
+      "quizNo": 292,
+      "group": "D1",
+      "order": 72,
+      "winner": "ニナ"
+    },
     {
       "date": "2026-02-13",
       "quizNo": 288,
@@ -165,8 +178,8 @@
       "winner": "STN"
     }
   ],
-  "appearanceCount": 20,
-  "correctCount": 17,
-  "accuracy": 85,
+  "appearanceCount": 22,
+  "correctCount": 18,
+  "accuracy": 82,
   "anotherVersions": []
 }

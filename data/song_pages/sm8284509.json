@@ -11,7 +11,7 @@
     "startTime": "2009-09-20T18:44:39+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8284509/8284509",
     "userId": 6986489,
-    "viewCounter": 80485,
+    "viewCounter": 80522,
     "artist": [
       "innisfree"
     ],
@@ -32,13 +32,19 @@
   },
   "histories": [
     {
+      "date": "2026-03-20",
+      "quizNo": 291,
+      "group": "A",
+      "order": 64
+    },
+    {
       "date": "2023-11-25",
       "quizNo": 186,
       "group": "B",
       "order": 14
     }
   ],
-  "appearanceCount": 1,
+  "appearanceCount": 2,
   "correctCount": 0,
   "accuracy": 0,
   "anotherVersions": []

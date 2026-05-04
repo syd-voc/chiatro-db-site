@@ -3,15 +3,15 @@
     "song": "ヒミツ",
     "contentId": "sm40727304",
     "title": "ヒミツ / feat. 可不",
-    "commentCounter": 768,
+    "commentCounter": 769,
     "lengthSeconds": 150,
-    "likeCounter": 5305,
-    "mylistCounter": 3360,
+    "likeCounter": 5370,
+    "mylistCounter": 3390,
     "rank": 121,
     "startTime": "2022-07-06T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40727304/40727304.8306063",
     "userId": 42004123,
-    "viewCounter": 723160,
+    "viewCounter": 734603,
     "artist": [
       "MIMI"
     ],
@@ -31,6 +31,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-02",
+      "quizNo": 297,
+      "group": "B",
+      "order": 146,
+      "winner": "眠い人"
+    },
+    {
+      "date": "2026-04-17",
+      "quizNo": 295,
+      "group": "C2",
+      "order": 26,
+      "winner": "タルタル素数"
+    },
     {
       "date": "2025-10-11",
       "quizNo": 271,
@@ -123,8 +137,8 @@
       "winner": "星兎"
     }
   ],
-  "appearanceCount": 13,
-  "correctCount": 13,
+  "appearanceCount": 15,
+  "correctCount": 15,
   "accuracy": 100,
   "anotherVersions": []
 }

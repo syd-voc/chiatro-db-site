@@ -3,15 +3,15 @@
     "song": "ソーシオ",
     "contentId": "sm34689216",
     "title": "ソーシオ / flower",
-    "commentCounter": 418,
+    "commentCounter": 420,
     "lengthSeconds": 185,
-    "likeCounter": 270,
-    "mylistCounter": 525,
-    "rank": 572,
+    "likeCounter": 275,
+    "mylistCounter": 526,
+    "rank": 574,
     "startTime": "2019-02-27T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34689216/34689216.75803",
     "userId": 87208347,
-    "viewCounter": 102624,
+    "viewCounter": 103081,
     "artist": [
       "柊キライ"
     ],
@@ -30,6 +30,20 @@
   },
   "histories": [
     {
+      "date": "2026-04-24",
+      "quizNo": 296,
+      "group": "B",
+      "order": 19,
+      "winner": "ルナ・アリス"
+    },
+    {
+      "date": "2026-03-27",
+      "quizNo": 292,
+      "group": "A",
+      "order": 8,
+      "winner": "ホワイト"
+    },
+    {
       "date": "2025-07-18",
       "quizNo": 259,
       "group": "E",
@@ -42,8 +56,8 @@
       "order": 93
     }
   ],
-  "appearanceCount": 2,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 4,
+  "correctCount": 2,
+  "accuracy": 50,
   "anotherVersions": []
 }

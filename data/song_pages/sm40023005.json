@@ -3,15 +3,15 @@
     "song": "ツイッターランド",
     "contentId": "sm40023005",
     "title": "ツイッターランド　/　miku",
-    "commentCounter": 1087,
+    "commentCounter": 1101,
     "lengthSeconds": 138,
-    "likeCounter": 2901,
-    "mylistCounter": 1872,
-    "rank": 223,
+    "likeCounter": 2963,
+    "mylistCounter": 1889,
+    "rank": 222,
     "startTime": "2022-02-11T18:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40023005/40023005.19263239",
     "userId": 122310115,
-    "viewCounter": 267764,
+    "viewCounter": 274202,
     "artist": [
       "STEAKA"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-03-14",
+      "quizNo": 290,
+      "group": "C2",
+      "order": 36
+    },
+    {
+      "date": "2026-03-13",
+      "quizNo": 290,
+      "group": "A",
+      "order": 29,
+      "winner": "fuji#"
+    },
     {
       "date": "2025-12-12",
       "quizNo": 280,
@@ -81,8 +94,8 @@
       "winner": "ルナ・アリス"
     }
   ],
-  "appearanceCount": 7,
-  "correctCount": 7,
-  "accuracy": 100,
+  "appearanceCount": 9,
+  "correctCount": 8,
+  "accuracy": 89,
   "anotherVersions": []
 }

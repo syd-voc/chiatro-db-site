@@ -3,15 +3,15 @@
     "song": "チョコレート・トレイン",
     "contentId": "nm3883201",
     "title": "【初音ミク】チョコレート・トレイン【オリジナル】",
-    "commentCounter": 16449,
+    "commentCounter": 16450,
     "lengthSeconds": 253,
-    "likeCounter": 355,
-    "mylistCounter": 15887,
+    "likeCounter": 365,
+    "mylistCounter": 15892,
     "rank": 99,
     "startTime": "2008-07-07T05:00:01+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/3883201/3883201",
     "userId": 4000215,
-    "viewCounter": 520085,
+    "viewCounter": 520926,
     "artist": [
       "PENGUINS PROJECT"
     ],
@@ -31,6 +31,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-01",
+      "quizNo": 297,
+      "group": "C1",
+      "order": 20,
+      "winner": "尾白もち"
+    },
+    {
+      "date": "2026-04-04",
+      "quizNo": 293,
+      "group": "C1",
+      "order": 23,
+      "winner": "手下"
+    },
     {
       "date": "2025-11-21",
       "quizNo": 277,
@@ -122,8 +136,8 @@
       "winner": "微熱"
     }
   ],
-  "appearanceCount": 13,
-  "correctCount": 12,
-  "accuracy": 92,
+  "appearanceCount": 15,
+  "correctCount": 14,
+  "accuracy": 93,
   "anotherVersions": []
 }

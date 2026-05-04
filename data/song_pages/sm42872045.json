@@ -3,15 +3,15 @@
     "song": "ホントノ",
     "contentId": "sm42872045",
     "title": "ホントノ - 重音テト",
-    "commentCounter": 3751,
+    "commentCounter": 3762,
     "lengthSeconds": 130,
-    "likeCounter": 12095,
-    "mylistCounter": 3730,
-    "rank": 59,
+    "likeCounter": 12231,
+    "mylistCounter": 3768,
+    "rank": 58,
     "startTime": "2023-10-10T22:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42872045/42872045.72224767",
     "userId": 51801260,
-    "viewCounter": 847790,
+    "viewCounter": 864680,
     "artist": [
       "原口沙輔"
     ],
@@ -22,15 +22,22 @@
       "ホントノ",
       "原口沙輔",
       "テトオリジナル曲",
-      "UTAU殿堂入り",
       "踊ってみろ",
       "先生何やってんすかシリーズ",
       "東京都新宿区西新宿7丁目7-28",
-      "VOCALOID実写PV"
+      "VOCALOID実写PV",
+      "UTAU殿堂入り"
     ],
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-04-18",
+      "quizNo": 295,
+      "group": "D1",
+      "order": 39,
+      "winner": "ぽしゃぽしゃ"
+    },
     {
       "date": "2025-11-07",
       "quizNo": 275,
@@ -184,8 +191,8 @@
       "winner": "もわし"
     }
   ],
-  "appearanceCount": 22,
-  "correctCount": 20,
+  "appearanceCount": 23,
+  "correctCount": 21,
   "accuracy": 91,
   "anotherVersions": []
 }

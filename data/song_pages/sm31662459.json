@@ -3,15 +3,15 @@
     "song": "テレホタイム",
     "contentId": "sm31662459",
     "title": "テレホタイム-音街ウナ for LamazeP",
-    "commentCounter": 2377,
+    "commentCounter": 2378,
     "lengthSeconds": 204,
-    "likeCounter": 250,
-    "mylistCounter": 2565,
+    "likeCounter": 257,
+    "mylistCounter": 2563,
     "rank": 197,
     "startTime": "2017-07-30T23:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31662459/31662459",
     "userId": 2523470,
-    "viewCounter": 201849,
+    "viewCounter": 202400,
     "artist": [
       "ラマーズP"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-04-25",
+      "quizNo": 296,
+      "group": "D1",
+      "order": 38
+    },
+    {
+      "date": "2026-04-04",
+      "quizNo": 293,
+      "group": "A",
+      "order": 5,
+      "winner": "maruma"
+    },
     {
       "date": "2025-04-12",
       "quizNo": 245,
@@ -120,8 +133,8 @@
       "winner": "RRR"
     }
   ],
-  "appearanceCount": 13,
-  "correctCount": 13,
-  "accuracy": 100,
+  "appearanceCount": 15,
+  "correctCount": 14,
+  "accuracy": 93,
   "anotherVersions": []
 }

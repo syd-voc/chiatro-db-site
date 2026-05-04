@@ -3,15 +3,15 @@
     "song": "SPICE!",
     "contentId": "sm2528674",
     "title": "SPICE！【鏡音レンオリジナル】",
-    "commentCounter": 16933,
+    "commentCounter": 16934,
     "lengthSeconds": 223,
-    "likeCounter": 617,
-    "mylistCounter": 19878,
+    "likeCounter": 652,
+    "mylistCounter": 19896,
     "rank": 78,
     "startTime": "2008-03-06T04:22:43+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2528674/2528674",
     "userId": 912063,
-    "viewCounter": 858218,
+    "viewCounter": 860499,
     "artist": [
       "流星P"
     ],
@@ -30,6 +30,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-04-10",
+      "quizNo": 294,
+      "group": "D2",
+      "order": 18,
+      "winner": "なすの惑星"
+    },
+    {
+      "date": "2026-04-03",
+      "quizNo": 293,
+      "group": "D2",
+      "order": 46
+    },
     {
       "date": "2026-01-30",
       "quizNo": 286,
@@ -124,8 +137,8 @@
       "winner": "フォルテ"
     }
   ],
-  "appearanceCount": 14,
-  "correctCount": 11,
-  "accuracy": 79,
+  "appearanceCount": 16,
+  "correctCount": 12,
+  "accuracy": 75,
   "anotherVersions": []
 }

@@ -1,17 +1,20 @@
 {
   "song": {
     "song": "/ / // / /",
+    "sub_song": [
+      "きさらぎ駅"
+    ],
     "contentId": "sm36440133",
     "title": "‌",
-    "commentCounter": 1243,
+    "commentCounter": 1246,
     "lengthSeconds": 133,
-    "likeCounter": 4602,
-    "mylistCounter": 3431,
+    "likeCounter": 4688,
+    "mylistCounter": 3471,
     "rank": 71,
     "startTime": "2020-02-29T21:52:02+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36440133/36440133.89744438",
     "userId": 25492096,
-    "viewCounter": 614303,
+    "viewCounter": 624488,
     "artist": [
       "x0o0x_"
     ],
@@ -31,6 +34,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-04-17",
+      "quizNo": 295,
+      "group": "B",
+      "order": 30,
+      "winner": "とつは"
+    },
+    {
+      "date": "2026-03-27",
+      "quizNo": 292,
+      "group": "A",
+      "order": 2,
+      "winner": "影山"
+    },
     {
       "date": "2026-01-31",
       "quizNo": 286,
@@ -73,8 +90,8 @@
       "winner": "rina"
     }
   ],
-  "appearanceCount": 6,
-  "correctCount": 5,
-  "accuracy": 83,
+  "appearanceCount": 8,
+  "correctCount": 7,
+  "accuracy": 88,
   "anotherVersions": []
 }

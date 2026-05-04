@@ -1,20 +1,16 @@
 {
   "song": {
-    "song": "徒夜",
     "contentId": "sm39358526",
-    "title": "徒夜/青栗鼠（feat.歌愛ユキ）",
-    "commentCounter": 216,
-    "lengthSeconds": 183,
-    "likeCounter": 965,
-    "mylistCounter": 624,
-    "rank": 409,
-    "startTime": "2021-09-19T20:03:03+09:00",
-    "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39358526/39358526.56312963",
-    "userId": 88974487,
-    "viewCounter": 87245,
+    "song": "徒夜",
     "artist": [
       "青栗鼠"
     ],
+    "channelId": null,
+    "commentCounter": 216,
+    "lengthSeconds": 183,
+    "likeCounter": 980,
+    "mylistCounter": 629,
+    "startTime": "2021-09-19T20:03:03+09:00",
     "tags": [
       "VOCALOID",
       "vocaloidオリジナル曲",
@@ -28,9 +24,27 @@
       "Future_Bounce",
       "もっと評価されるべき"
     ],
-    "channelId": null
+    "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39358526/39358526.56312963",
+    "title": "徒夜/青栗鼠（feat.歌愛ユキ）",
+    "userId": 88974487,
+    "viewCounter": 88509,
+    "rank": 409
   },
   "histories": [
+    {
+      "date": "2026-04-17",
+      "quizNo": 295,
+      "group": "B",
+      "order": 60,
+      "winner": "なごん"
+    },
+    {
+      "date": "2026-03-13",
+      "quizNo": 290,
+      "group": "A",
+      "order": 34,
+      "winner": "ゲオス"
+    },
     {
       "date": "2025-08-15",
       "quizNo": 263,
@@ -58,8 +72,8 @@
       "order": 57
     }
   ],
-  "appearanceCount": 4,
-  "correctCount": 2,
-  "accuracy": 50,
+  "appearanceCount": 6,
+  "correctCount": 4,
+  "accuracy": 67,
   "anotherVersions": []
 }

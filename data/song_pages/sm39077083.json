@@ -6,12 +6,12 @@
     "commentCounter": 382,
     "lengthSeconds": 310,
     "likeCounter": 428,
-    "mylistCounter": 360,
-    "rank": 652,
+    "mylistCounter": 362,
+    "rank": 651,
     "startTime": "2021-07-24T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39077083/39077083.45174166",
     "userId": 41423268,
-    "viewCounter": 20515,
+    "viewCounter": 20793,
     "artist": [
       "ANGL"
     ],
@@ -32,14 +32,21 @@
   },
   "histories": [
     {
+      "date": "2026-04-17",
+      "quizNo": 295,
+      "group": "B",
+      "order": 12,
+      "winner": "まつせ"
+    },
+    {
       "date": "2025-09-06",
       "quizNo": 266,
       "group": "D",
       "order": 1
     }
   ],
-  "appearanceCount": 1,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 2,
+  "correctCount": 1,
+  "accuracy": 50,
   "anotherVersions": []
 }

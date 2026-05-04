@@ -6,12 +6,12 @@
     "channelId": 171,
     "commentCounter": 19599,
     "lengthSeconds": 237,
-    "likeCounter": 111,
-    "mylistCounter": 23543,
+    "likeCounter": 116,
+    "mylistCounter": 23541,
     "rank": 76,
     "startTime": "2011-03-01T13:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13743433/13743433",
-    "viewCounter": 673244,
+    "viewCounter": 673881,
     "artist": [
       "DECO*27"
     ],
@@ -31,6 +31,13 @@
     "userId": null
   },
   "histories": [
+    {
+      "date": "2026-04-03",
+      "quizNo": 293,
+      "group": "C2",
+      "order": 72,
+      "winner": "HAN"
+    },
     {
       "date": "2026-01-30",
       "quizNo": 286,
@@ -119,8 +126,8 @@
       "order": 65
     }
   ],
-  "appearanceCount": 13,
-  "correctCount": 11,
-  "accuracy": 85,
+  "appearanceCount": 14,
+  "correctCount": 12,
+  "accuracy": 86,
   "anotherVersions": []
 }

@@ -3,15 +3,15 @@
     "song": "イヤイヤヨ",
     "contentId": "sm43740174",
     "title": "【初音ミク】　イヤイヤヨ　【オリジナル】",
-    "commentCounter": 2194,
+    "commentCounter": 2358,
     "lengthSeconds": 170,
-    "likeCounter": 4707,
-    "mylistCounter": 1910,
+    "likeCounter": 4916,
+    "mylistCounter": 1950,
     "rank": 87,
     "startTime": "2024-05-03T20:02:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43740174/43740174.23296992",
     "userId": 15918028,
-    "viewCounter": 408539,
+    "viewCounter": 439503,
     "artist": [
       "MARETU"
     ],
@@ -21,16 +21,29 @@
       "初音ミク",
       "ミクオリジナル曲",
       "イヤイヤヨ(MARETU)",
-      "ボカロラップ",
       "ﾊｧﾄﾞｯｺｲ",
       "VOCALOID殿堂入り",
-      "極悪P",
       "「き」から始まる嫌なこと",
-      "シンプルな殺意"
+      "シンプルな殺意",
+      "ダークなぼかうた",
+      "VOCARAP"
     ],
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-03-07",
+      "quizNo": 289,
+      "group": "B",
+      "order": 12,
+      "winner": "とつは"
+    },
+    {
+      "date": "2026-03-06",
+      "quizNo": 289,
+      "group": "D1",
+      "order": 53
+    },
     {
       "date": "2026-02-13",
       "quizNo": 288,
@@ -121,8 +134,8 @@
       "winner": "ロろロん"
     }
   ],
-  "appearanceCount": 13,
-  "correctCount": 11,
-  "accuracy": 85,
+  "appearanceCount": 15,
+  "correctCount": 12,
+  "accuracy": 80,
   "anotherVersions": []
 }

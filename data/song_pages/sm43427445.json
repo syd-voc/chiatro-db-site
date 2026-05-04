@@ -1,17 +1,20 @@
 {
   "song": {
     "song": "点.mp4",
+    "sub_song": [
+      "点"
+    ],
     "contentId": "sm43427445",
     "title": "点.mp4",
-    "commentCounter": 586,
+    "commentCounter": 807,
     "lengthSeconds": 130,
-    "likeCounter": 4013,
-    "mylistCounter": 1714,
-    "rank": 104,
+    "likeCounter": 6004,
+    "mylistCounter": 2614,
+    "rank": 56,
     "startTime": "2024-02-23T00:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43427445/43427445.90069392",
     "userId": 116095329,
-    "viewCounter": 243913,
+    "viewCounter": 470173,
     "artist": [
       "安見すや"
     ],
@@ -31,6 +34,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-04-25",
+      "quizNo": 296,
+      "group": "C1",
+      "order": 73,
+      "winner": "稲葉快晴"
+    },
     {
       "date": "2025-12-05",
       "quizNo": 279,
@@ -65,8 +75,8 @@
       "order": 87
     }
   ],
-  "appearanceCount": 5,
-  "correctCount": 3,
-  "accuracy": 60,
+  "appearanceCount": 6,
+  "correctCount": 4,
+  "accuracy": 67,
   "anotherVersions": []
 }

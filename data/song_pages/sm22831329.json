@@ -3,15 +3,15 @@
     "song": "神のまにまに",
     "contentId": "sm22831329",
     "title": "【ミクリンGUMI】神のまにまに【オリジナル】",
-    "commentCounter": 28504,
+    "commentCounter": 28544,
     "lengthSeconds": 254,
-    "likeCounter": 10669,
-    "mylistCounter": 48343,
+    "likeCounter": 10903,
+    "mylistCounter": 48469,
     "rank": 11,
     "startTime": "2014-02-07T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22831329/22831329",
     "userId": 2591026,
-    "viewCounter": 2944818,
+    "viewCounter": 2973333,
     "artist": [
       "れるりり"
     ],
@@ -25,11 +25,26 @@
       "れるりり",
       "VOCALOIDオリジナル曲",
       "VOCALOID和風曲",
-      "VOCALOID伝説入り"
+      "VOCALOID伝説入り",
+      "神曲"
     ],
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-04-24",
+      "quizNo": 296,
+      "group": "C2",
+      "order": 15,
+      "winner": "とある逢瀬"
+    },
+    {
+      "date": "2026-04-03",
+      "quizNo": 293,
+      "group": "C2",
+      "order": 80,
+      "winner": "りつりつ"
+    },
     {
       "date": "2025-12-27",
       "quizNo": 282,
@@ -198,8 +213,41 @@
       "winner": "すべから"
     }
   ],
-  "appearanceCount": 24,
-  "correctCount": 24,
+  "appearanceCount": 26,
+  "correctCount": 26,
   "accuracy": 100,
-  "anotherVersions": []
+  "anotherVersions": [
+    {
+      "original": "sm22831329",
+      "contentId": "sm37625513",
+      "song": "神のまにまに 2020ver.",
+      "artist": [
+        "れるりり"
+      ],
+      "channelId": null,
+      "commentCounter": 2321,
+      "lengthSeconds": 260,
+      "likeCounter": 1884,
+      "mylistCounter": 1996,
+      "startTime": "2020-10-05T18:00:00+09:00",
+      "tags": [
+        "VOCALOID",
+        "GUMI",
+        "神のまにまに",
+        "鏡音リン",
+        "初音ミク",
+        "れるりり",
+        "VOCALOIDアレンジ曲",
+        "VOCALOID和風曲",
+        "「羞恥心に殺される」収録曲",
+        "VOCALOID殿堂入り",
+        "ユニット「グミクリン」"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37625513/37625513.46626426",
+      "title": "神のまにまに 2020ver. - れるりりfeat.GUMI&amp;MIKU&amp;RIN",
+      "userId": 2591026,
+      "viewCounter": 269715,
+      "rank": 148
+    }
+  ]
 }

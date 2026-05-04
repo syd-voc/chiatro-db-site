@@ -3,15 +3,15 @@
     "song": "Who?",
     "contentId": "sm40901829",
     "title": "Who?",
-    "commentCounter": 668,
+    "commentCounter": 679,
     "lengthSeconds": 114,
-    "likeCounter": 7950,
-    "mylistCounter": 4959,
-    "rank": 63,
+    "likeCounter": 8247,
+    "mylistCounter": 5113,
+    "rank": 59,
     "startTime": "2022-08-10T18:11:02+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40901829/40901829.79182110",
     "userId": 119749869,
-    "viewCounter": 1170539,
+    "viewCounter": 1218374,
     "artist": [
       "Azari"
     ],
@@ -29,6 +29,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-04-03",
+      "quizNo": 293,
+      "group": "D2",
+      "order": 16,
+      "winner": "水筒"
+    },
+    {
+      "date": "2026-03-13",
+      "quizNo": 290,
+      "group": "C1",
+      "order": 11,
+      "winner": "しゃい"
+    },
     {
       "date": "2026-02-13",
       "quizNo": 288,
@@ -198,8 +212,8 @@
       "winner": "Cumber"
     }
   ],
-  "appearanceCount": 24,
-  "correctCount": 24,
+  "appearanceCount": 26,
+  "correctCount": 26,
   "accuracy": 100,
   "anotherVersions": []
 }
