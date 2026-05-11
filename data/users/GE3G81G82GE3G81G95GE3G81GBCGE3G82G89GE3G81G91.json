@@ -474,7 +474,7 @@
       ],
       "startTime": "2024-02-23T00:00:00+09:00",
       "viewCounter": 227819,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm40160903",
@@ -1812,6 +1812,50 @@
       "startTime": "2024-04-27T19:00:00+09:00",
       "viewCounter": 10717687,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm22001720",
+      "title": "いかないで",
+      "artist": "想太",
+      "artistList": [
+        "想太"
+      ],
+      "startTime": "2013-10-09T18:00:00+09:00",
+      "viewCounter": 2848873,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm37828296",
+      "title": "ステラ",
+      "artist": "じん",
+      "artistList": [
+        "じん"
+      ],
+      "startTime": "2020-11-16T19:00:00+09:00",
+      "viewCounter": 1040657,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm7550182",
+      "title": "結ンデ開イテ羅刹ト骸",
+      "artist": "ハチ",
+      "artistList": [
+        "ハチ"
+      ],
+      "startTime": "2009-07-06T02:24:11+09:00",
+      "viewCounter": 7435777,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35669777",
+      "title": "ルーマー",
+      "artist": "ポリスピカデリー",
+      "artistList": [
+        "ポリスピカデリー"
+      ],
+      "startTime": "2019-09-13T19:05:00+09:00",
+      "viewCounter": 854702,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -1872,8 +1916,8 @@
     },
     {
       "artist": "じん",
-      "correctCount": 3,
-      "correctSongCount": 2
+      "correctCount": 4,
+      "correctSongCount": 3
     },
     {
       "artist": "Chinozo",
@@ -1997,7 +2041,7 @@
     },
     {
       "artist": "ぬゆり",
-      "correctCount": 3,
+      "correctCount": 4,
       "correctSongCount": 2
     },
     {
@@ -2314,6 +2358,21 @@
       "artist": "椎名もた",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "想太",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ハチ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ポリスピカデリー",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -2329,7 +2388,7 @@
     },
     {
       "era": "2024",
-      "correctCount": 46,
+      "correctCount": 47,
       "correctSongCount": 37
     },
     {
@@ -2349,8 +2408,8 @@
     },
     {
       "era": "2019",
-      "correctCount": 6,
-      "correctSongCount": 5
+      "correctCount": 7,
+      "correctSongCount": 6
     },
     {
       "era": "2012",
@@ -2359,13 +2418,13 @@
     },
     {
       "era": "2013",
-      "correctCount": 7,
-      "correctSongCount": 7
+      "correctCount": 8,
+      "correctSongCount": 8
     },
     {
       "era": "2020",
-      "correctCount": 8,
-      "correctSongCount": 6
+      "correctCount": 9,
+      "correctSongCount": 7
     },
     {
       "era": "2015",
@@ -2384,8 +2443,8 @@
     },
     {
       "era": "2009",
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "era": "2022",
@@ -2424,7 +2483,7 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 42,
+      "correctCount": 43,
       "correctSongCount": 32
     },
     {
@@ -2436,20 +2495,20 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 34,
-      "correctSongCount": 28
+      "correctCount": 35,
+      "correctSongCount": 29
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 26,
-      "correctSongCount": 22
+      "correctCount": 27,
+      "correctSongCount": 23
     },
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 19,
-      "correctSongCount": 17
+      "correctCount": 20,
+      "correctSongCount": 18
     },
     {
       "range": "300-500万",
@@ -2460,8 +2519,8 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 13,
-      "correctSongCount": 13
+      "correctCount": 14,
+      "correctSongCount": 14
     },
     {
       "range": "1000万-",
@@ -3454,18 +3513,199 @@
       "contentId": "sm43708803",
       "startTime": 1714212000000,
       "viewCounter": 10717687
+    },
+    {
+      "title": "いかないで",
+      "contentId": "sm22001720",
+      "startTime": 1381309200000,
+      "viewCounter": 2848873
+    },
+    {
+      "title": "ステラ",
+      "contentId": "sm37828296",
+      "startTime": 1605520800000,
+      "viewCounter": 1040657
+    },
+    {
+      "title": "結ンデ開イテ羅刹ト骸",
+      "contentId": "sm7550182",
+      "startTime": 1246814651000,
+      "viewCounter": 7435777
+    },
+    {
+      "title": "ルーマー",
+      "contentId": "sm35669777",
+      "startTime": 1568369100000,
+      "viewCounter": 854702
     }
   ],
   "summary": {
-    "totalAnswers": 252,
-    "okAnswers": 189,
-    "ngAnswers": 63,
-    "participatedQuizCount": 40,
-    "winQuizCount": 34,
+    "totalAnswers": 259,
+    "okAnswers": 194,
+    "ngAnswers": 65,
+    "participatedQuizCount": 41,
+    "winQuizCount": 35,
     "loseQuizCount": 0,
-    "medianViews": 568388
+    "medianViews": 579685
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "D2",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 7,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 1,
+          "contentId": "sm35618829",
+          "title": "フィクションブルー",
+          "artistList": [
+            "Ayase"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35618829/35618829.28386080",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あさぼらけ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "間宵"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 16,
+          "contentId": "sm22001720",
+          "title": "いかないで",
+          "artistList": [
+            "想太"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22001720/22001720",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "防虫剤"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "あさぼらけ"
+            }
+          ]
+        },
+        {
+          "order": 39,
+          "contentId": "sm37828296",
+          "title": "ステラ",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37828296/37828296.28087819",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "あさぼらけ"
+            }
+          ]
+        },
+        {
+          "order": 44,
+          "contentId": "sm43431828",
+          "title": "ブリングミー",
+          "artistList": [
+            "ぬゆり"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43431828/43431828.63497301",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "あさぼらけ"
+            }
+          ]
+        },
+        {
+          "order": 50,
+          "contentId": "sm7550182",
+          "title": "結ンデ開イテ羅刹ト骸",
+          "artistList": [
+            "ハチ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7550182/7550182",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "あさぼらけ"
+            }
+          ]
+        },
+        {
+          "order": 51,
+          "contentId": "sm39666771",
+          "title": "孤独毒毒",
+          "artistList": [
+            "syudou"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39666771/39666771.54756978",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あさぼらけ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 55,
+          "contentId": "sm35669777",
+          "title": "ルーマー",
+          "artistList": [
+            "ポリスピカデリー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35669777/35669777.50970292",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(7)",
+              "user": "あさぼらけ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "D2",

@@ -1478,6 +1478,61 @@
       "startTime": "2020-11-07T19:06:02+09:00",
       "viewCounter": 155960,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm42968651",
+      "title": "ARQETYPE",
+      "artist": "Sohbana",
+      "artistList": [
+        "Sohbana"
+      ],
+      "startTime": "2023-11-10T18:00:00+09:00",
+      "viewCounter": 143699,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm38186882",
+      "title": "花を唄う",
+      "artist": "シノ",
+      "artistList": [
+        "シノ"
+      ],
+      "startTime": "2021-01-28T19:00:00+09:00",
+      "viewCounter": 1180929,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm1097445",
+      "title": "みくみくにしてあげる♪",
+      "artist": "ika",
+      "artistList": [
+        "ika"
+      ],
+      "startTime": "2007-09-20T01:22:02+09:00",
+      "viewCounter": 17261110,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45052271",
+      "title": "乳首なぞなぞ",
+      "artist": "山本",
+      "artistList": [
+        "山本"
+      ],
+      "startTime": "2025-06-06T00:00:00+09:00",
+      "viewCounter": 570744,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm28276238",
+      "title": "チュルリラ・チュルリラ・ダッダッダ！",
+      "artist": "和田たけあき",
+      "artistList": [
+        "和田たけあき"
+      ],
+      "startTime": "2016-02-22T19:00:00+09:00",
+      "viewCounter": 6770966,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -1638,8 +1693,8 @@
     },
     {
       "artist": "和田たけあき",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "さつき が てんこもり",
@@ -1673,8 +1728,8 @@
     },
     {
       "artist": "Sohbana",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "sasakure.UK",
@@ -1925,6 +1980,21 @@
       "artist": "ぷく",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "シノ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ika",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "山本",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -1940,8 +2010,8 @@
     },
     {
       "era": "2021",
-      "correctCount": 15,
-      "correctSongCount": 15
+      "correctCount": 16,
+      "correctSongCount": 16
     },
     {
       "era": "2014",
@@ -1975,13 +2045,13 @@
     },
     {
       "era": "2016",
-      "correctCount": 6,
-      "correctSongCount": 5
+      "correctCount": 7,
+      "correctSongCount": 6
     },
     {
       "era": "2007-2008",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "era": "2012",
@@ -2000,8 +2070,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 13,
-      "correctSongCount": 11
+      "correctCount": 14,
+      "correctSongCount": 12
     },
     {
       "era": "2010",
@@ -2015,8 +2085,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     }
   ],
   "viewStats": [
@@ -2035,8 +2105,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 14,
-      "correctSongCount": 14
+      "correctCount": 15,
+      "correctSongCount": 15
     },
     {
       "range": "30-50万",
@@ -2047,14 +2117,14 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 35,
-      "correctSongCount": 28
+      "correctCount": 36,
+      "correctSongCount": 29
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 34,
-      "correctSongCount": 30
+      "correctCount": 35,
+      "correctSongCount": 31
     },
     {
       "range": "200-300万",
@@ -2071,14 +2141,14 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 12,
-      "correctSongCount": 11
+      "correctCount": 13,
+      "correctSongCount": 12
     },
     {
       "range": "1000万-",
       "order": 9,
-      "correctCount": 3,
-      "correctSongCount": 2
+      "correctCount": 4,
+      "correctSongCount": 3
     }
   ],
   "scatter": [
@@ -2885,18 +2955,255 @@
       "contentId": "sm37784752",
       "startTime": 1604743562000,
       "viewCounter": 155960
+    },
+    {
+      "title": "ARQETYPE",
+      "contentId": "sm42968651",
+      "startTime": 1699606800000,
+      "viewCounter": 143699
+    },
+    {
+      "title": "花を唄う",
+      "contentId": "sm38186882",
+      "startTime": 1611828000000,
+      "viewCounter": 1180929
+    },
+    {
+      "title": "みくみくにしてあげる♪",
+      "contentId": "sm1097445",
+      "startTime": 1190218922000,
+      "viewCounter": 17261110
+    },
+    {
+      "title": "乳首なぞなぞ",
+      "contentId": "sm45052271",
+      "startTime": 1749135600000,
+      "viewCounter": 570744
+    },
+    {
+      "title": "チュルリラ・チュルリラ・ダッダッダ！",
+      "contentId": "sm28276238",
+      "startTime": 1456135200000,
+      "viewCounter": 6770966
     }
   ],
   "summary": {
-    "totalAnswers": 167,
-    "okAnswers": 152,
-    "ngAnswers": 15,
-    "participatedQuizCount": 33,
-    "winQuizCount": 27,
+    "totalAnswers": 176,
+    "okAnswers": 157,
+    "ngAnswers": 19,
+    "participatedQuizCount": 34,
+    "winQuizCount": 28,
     "loseQuizCount": 0,
-    "medianViews": 1373101
+    "medianViews": 1354019
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "D1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 4,
+      "winRank": 12,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 50,
+          "contentId": "sm41618118",
+          "title": "オマジナイ",
+          "artistList": [
+            "MIMI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41618118/41618118.60299901",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ひーた"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "水筒"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "しがない炭酸飲料"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 61,
+          "contentId": "sm42968651",
+          "title": "ARQETYPE",
+          "artistList": [
+            "Sohbana"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42968651/42968651.80485474",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "水筒"
+            }
+          ]
+        },
+        {
+          "order": 67,
+          "contentId": "sm37081741",
+          "title": "アイ情劣等生",
+          "artistList": [
+            "かいりきベア"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37081741/37081741.57992817",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "水筒"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "しがない炭酸飲料"
+            }
+          ]
+        },
+        {
+          "order": 75,
+          "contentId": "sm36314325",
+          "title": "孤独の宗教",
+          "artistList": [
+            "syudou"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36314325/36314325.81492408",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "水筒"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(11)",
+              "user": "しがない炭酸飲料"
+            }
+          ]
+        },
+        {
+          "order": 79,
+          "contentId": "sm38186882",
+          "title": "花を唄う",
+          "artistList": [
+            "シノ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38186882/38186882.85421784",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "水筒"
+            }
+          ]
+        },
+        {
+          "order": 80,
+          "contentId": "sm44681459",
+          "title": "ニャルラト",
+          "artistList": [
+            "藤原ハガネ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44681459/44681459.99916723",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "水筒"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 87,
+          "contentId": "sm1097445",
+          "title": "みくみくにしてあげる♪",
+          "artistList": [
+            "ika"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1097445/1097445",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "水筒"
+            }
+          ]
+        },
+        {
+          "order": 89,
+          "contentId": "sm45052271",
+          "title": "乳首なぞなぞ",
+          "artistList": [
+            "山本"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45052271/45052271.88679430",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "水筒"
+            }
+          ]
+        },
+        {
+          "order": 93,
+          "contentId": "sm28276238",
+          "title": "チュルリラ・チュルリラ・ダッダッダ！",
+          "artistList": [
+            "和田たけあき"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28276238/28276238",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(12)",
+              "user": "水筒"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 295,
       "group": "D2",

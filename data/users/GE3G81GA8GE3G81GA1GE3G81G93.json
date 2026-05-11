@@ -1248,7 +1248,7 @@
       ],
       "startTime": "2015-07-01T19:03:00+09:00",
       "viewCounter": 2891052,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm19361252",
@@ -1923,7 +1923,7 @@
       ],
       "startTime": "2012-10-29T19:55:20+09:00",
       "viewCounter": 4053622,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm35552172",
@@ -2122,7 +2122,7 @@
       ],
       "startTime": "2016-09-08T19:10:17+09:00",
       "viewCounter": 745251,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm36109943",
@@ -4160,6 +4160,28 @@
       "startTime": "2025-02-01T19:10:00+09:00",
       "viewCounter": 180292,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm44541693",
+      "title": "LEMON MELON COOKIE",
+      "artist": "TAK",
+      "artistList": [
+        "TAK"
+      ],
+      "startTime": "2025-01-15T18:00:08+09:00",
+      "viewCounter": 185841,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm27162599",
+      "title": "alternate",
+      "artist": "keeno",
+      "artistList": [
+        "keeno"
+      ],
+      "startTime": "2015-09-15T20:45:05+09:00",
+      "viewCounter": 1087703,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4470,7 +4492,7 @@
     },
     {
       "artist": "梅とら",
-      "correctCount": 6,
+      "correctCount": 7,
       "correctSongCount": 4
     },
     {
@@ -4575,7 +4597,7 @@
     },
     {
       "artist": "ナユタン星人",
-      "correctCount": 6,
+      "correctCount": 7,
       "correctSongCount": 5
     },
     {
@@ -4825,7 +4847,7 @@
     },
     {
       "artist": "HaTa",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -5317,6 +5339,16 @@
       "artist": "MIDy",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "TAK",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "keeno",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -5342,7 +5374,7 @@
     },
     {
       "era": "2016",
-      "correctCount": 21,
+      "correctCount": 22,
       "correctSongCount": 20
     },
     {
@@ -5352,8 +5384,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 20,
-      "correctSongCount": 19
+      "correctCount": 21,
+      "correctSongCount": 20
     },
     {
       "era": "2023",
@@ -5372,8 +5404,8 @@
     },
     {
       "era": "2015",
-      "correctCount": 26,
-      "correctSongCount": 24
+      "correctCount": 28,
+      "correctSongCount": 25
     },
     {
       "era": "2017",
@@ -5402,7 +5434,7 @@
     },
     {
       "era": "2012",
-      "correctCount": 15,
+      "correctCount": 16,
       "correctSongCount": 12
     },
     {
@@ -5427,8 +5459,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 96,
-      "correctSongCount": 86
+      "correctCount": 97,
+      "correctSongCount": 87
     },
     {
       "range": "30-50万",
@@ -5439,25 +5471,25 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 76,
+      "correctCount": 77,
       "correctSongCount": 70
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 55,
-      "correctSongCount": 47
+      "correctCount": 56,
+      "correctSongCount": 48
     },
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 29,
+      "correctCount": 30,
       "correctSongCount": 27
     },
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 26,
+      "correctCount": 27,
       "correctSongCount": 25
     },
     {
@@ -7735,18 +7767,163 @@
       "contentId": "sm44601300",
       "startTime": 1738404600000,
       "viewCounter": 180292
+    },
+    {
+      "title": "LEMON MELON COOKIE",
+      "contentId": "sm44541693",
+      "startTime": 1736931608000,
+      "viewCounter": 185841
+    },
+    {
+      "title": "alternate",
+      "contentId": "sm27162599",
+      "startTime": 1442317505000,
+      "viewCounter": 1087703
     }
   ],
   "summary": {
-    "totalAnswers": 539,
-    "okAnswers": 417,
-    "ngAnswers": 122,
-    "participatedQuizCount": 86,
-    "winQuizCount": 86,
+    "totalAnswers": 545,
+    "okAnswers": 422,
+    "ngAnswers": 123,
+    "participatedQuizCount": 87,
+    "winQuizCount": 87,
     "loseQuizCount": 0,
-    "medianViews": 476015
+    "medianViews": 477085
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "B",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 4,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 14,
+          "contentId": "sm19233263",
+          "title": "威風堂々",
+          "artistList": [
+            "梅とら"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19233263/19233263",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "とちこ"
+            }
+          ]
+        },
+        {
+          "order": 16,
+          "contentId": "sm20860166",
+          "title": "スノーワープ",
+          "artistList": [
+            "もももも"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20860166/20860166",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とちこ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 22,
+          "contentId": "sm29609558",
+          "title": "頓痴気乱痴気珍呑紀行",
+          "artistList": [
+            "HaTa"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29609558/29609558",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "とちこ"
+            }
+          ]
+        },
+        {
+          "order": 25,
+          "contentId": "sm44541693",
+          "title": "LEMON MELON COOKIE",
+          "artistList": [
+            "TAK"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44541693/44541693.13823082",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "とちこ"
+            }
+          ]
+        },
+        {
+          "order": 31,
+          "contentId": "sm27162599",
+          "title": "alternate",
+          "artistList": [
+            "keeno"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27162599/27162599",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "よかずき"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "とちこ"
+            }
+          ]
+        },
+        {
+          "order": 38,
+          "contentId": "sm26610255",
+          "title": "アンドロメダアンドロメダ",
+          "artistList": [
+            "ナユタン星人"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26610255/26610255.90922837",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(4)",
+              "user": "とちこ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "B",

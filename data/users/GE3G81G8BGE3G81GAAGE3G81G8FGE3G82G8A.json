@@ -1732,7 +1732,7 @@
       ],
       "startTime": "2018-04-06T19:00:00+09:00",
       "viewCounter": 119440,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm43616904",
@@ -3860,6 +3860,17 @@
       "startTime": "2021-08-21T21:00:00+09:00",
       "viewCounter": 8598804,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm42536675",
+      "title": "寝起きヤシの木",
+      "artist": "ゆこぴ",
+      "artistList": [
+        "ゆこぴ"
+      ],
+      "startTime": "2023-07-28T20:30:00+09:00",
+      "viewCounter": 954124,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -3900,7 +3911,7 @@
     },
     {
       "artist": "*Luna",
-      "correctCount": 5,
+      "correctCount": 6,
       "correctSongCount": 5
     },
     {
@@ -5017,6 +5028,11 @@
       "artist": "デスおはぎ",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "ゆこぴ",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -5057,7 +5073,7 @@
     },
     {
       "era": "2018",
-      "correctCount": 25,
+      "correctCount": 26,
       "correctSongCount": 24
     },
     {
@@ -5102,8 +5118,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 18,
-      "correctSongCount": 17
+      "correctCount": 19,
+      "correctSongCount": 18
     },
     {
       "era": "2025-",
@@ -5127,7 +5143,7 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 93,
+      "correctCount": 94,
       "correctSongCount": 91
     },
     {
@@ -5139,8 +5155,8 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 93,
-      "correctSongCount": 86
+      "correctCount": 94,
+      "correctSongCount": 87
     },
     {
       "range": "100-200万",
@@ -7273,18 +7289,194 @@
       "contentId": "sm39217773",
       "startTime": 1629547200000,
       "viewCounter": 8598804
+    },
+    {
+      "title": "寝起きヤシの木",
+      "contentId": "sm42536675",
+      "startTime": 1690543800000,
+      "viewCounter": 954124
     }
   ],
   "summary": {
-    "totalAnswers": 484,
-    "okAnswers": 370,
-    "ngAnswers": 110,
-    "participatedQuizCount": 78,
+    "totalAnswers": 490,
+    "okAnswers": 372,
+    "ngAnswers": 113,
+    "participatedQuizCount": 79,
     "winQuizCount": 72,
-    "loseQuizCount": 4,
+    "loseQuizCount": 5,
     "medianViews": 477283
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "A",
+      "date": "2026-05-08",
+      "ok": 2,
+      "ng": 3,
+      "winRank": null,
+      "hasLose": true,
+      "songs": [
+        {
+          "order": 5,
+          "contentId": "sm43424391",
+          "title": "ポッピンヒューマノイド",
+          "artistList": [
+            "バーミーズ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43424391/43424391.17611753",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "かなくり"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "maruma"
+            }
+          ]
+        },
+        {
+          "order": 18,
+          "contentId": "sm33009897",
+          "title": "Tell Me",
+          "artistList": [
+            "*Luna"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33009897/33009897",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "かなくり"
+            }
+          ]
+        },
+        {
+          "order": 24,
+          "contentId": "sm35477620",
+          "title": "くそったれ讃歌",
+          "artistList": [
+            "ちいたな"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35477620/35477620.86401685",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠くない人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "かなくり"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なごん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "エイミー"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm42536675",
+          "title": "寝起きヤシの木",
+          "artistList": [
+            "ゆこぴ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42536675/42536675.99229206",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "かなくり"
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "contentId": "sm40303213",
+          "title": "オーダー、仰せのままに",
+          "artistList": [
+            "卯花ロク"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40303213/40303213.66492686",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "かなくり"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Takuan"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "しょうま"
+            }
+          ]
+        },
+        {
+          "order": 49,
+          "contentId": "sm42698548",
+          "title": "ファーストラスト",
+          "artistList": [
+            "せきこみごはん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42698548/42698548.81659667",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "××",
+              "user": "かなくり"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "なごん"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "A",

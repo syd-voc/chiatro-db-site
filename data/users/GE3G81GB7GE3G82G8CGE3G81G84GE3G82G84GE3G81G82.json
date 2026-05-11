@@ -44,7 +44,7 @@
       ],
       "startTime": "2018-10-15T18:30:00+09:00",
       "viewCounter": 154072,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm37071565",
@@ -1370,6 +1370,51 @@
       "startTime": "2010-04-26T05:07:43+09:00",
       "viewCounter": 191934,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm16547768",
+      "title": "背徳の花",
+      "artist": "ひとしずく, やま△",
+      "artistList": [
+        "ひとしずく",
+        "やま△"
+      ],
+      "startTime": "2011-12-28T18:32:03+09:00",
+      "viewCounter": 624477,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm18579564",
+      "title": "マカロン",
+      "artist": "ATOLS",
+      "artistList": [
+        "ATOLS"
+      ],
+      "startTime": "2012-08-10T19:17:25+09:00",
+      "viewCounter": 1490315,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm12549171",
+      "title": "For my soul",
+      "artist": "Junky",
+      "artistList": [
+        "Junky"
+      ],
+      "startTime": "2010-10-25T23:19:03+09:00",
+      "viewCounter": 435829,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm25107796",
+      "title": "不完全な処遇",
+      "artist": "MI8k",
+      "artistList": [
+        "MI8k"
+      ],
+      "startTime": "2014-12-12T20:30:00+09:00",
+      "viewCounter": 634111,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -1390,7 +1435,7 @@
     },
     {
       "artist": "ちいたな",
-      "correctCount": 3,
+      "correctCount": 4,
       "correctSongCount": 2
     },
     {
@@ -1875,8 +1920,8 @@
     },
     {
       "artist": "MI8k",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "19's Sound Factory",
@@ -1922,13 +1967,33 @@
       "artist": "ナタP",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "ひとしずく",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "やま△",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ATOLS",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "Junky",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2011",
-      "correctCount": 9,
-      "correctSongCount": 9
+      "correctCount": 10,
+      "correctSongCount": 10
     },
     {
       "era": "2013",
@@ -1937,7 +2002,7 @@
     },
     {
       "era": "2018",
-      "correctCount": 6,
+      "correctCount": 7,
       "correctSongCount": 5
     },
     {
@@ -1977,13 +2042,13 @@
     },
     {
       "era": "2014",
-      "correctCount": 9,
-      "correctSongCount": 8
+      "correctCount": 10,
+      "correctSongCount": 9
     },
     {
       "era": "2010",
-      "correctCount": 10,
-      "correctSongCount": 9
+      "correctCount": 11,
+      "correctSongCount": 10
     },
     {
       "era": "2007-2008",
@@ -2007,8 +2072,8 @@
     },
     {
       "era": "2012",
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "era": "2025-",
@@ -2032,26 +2097,26 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 35,
+      "correctCount": 36,
       "correctSongCount": 33
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 19,
-      "correctSongCount": 18
+      "correctCount": 20,
+      "correctSongCount": 19
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 25,
-      "correctSongCount": 24
+      "correctCount": 27,
+      "correctSongCount": 26
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 21,
-      "correctSongCount": 21
+      "correctCount": 22,
+      "correctSongCount": 22
     },
     {
       "range": "200-300万",
@@ -2822,18 +2887,143 @@
       "contentId": "sm10512599",
       "startTime": 1272226063000,
       "viewCounter": 191934
+    },
+    {
+      "title": "背徳の花",
+      "contentId": "sm16547768",
+      "startTime": 1325064723000,
+      "viewCounter": 624477
+    },
+    {
+      "title": "マカロン",
+      "contentId": "sm18579564",
+      "startTime": 1344593845000,
+      "viewCounter": 1490315
+    },
+    {
+      "title": "For my soul",
+      "contentId": "sm12549171",
+      "startTime": 1288016343000,
+      "viewCounter": 435829
+    },
+    {
+      "title": "不完全な処遇",
+      "contentId": "sm25107796",
+      "startTime": 1418383800000,
+      "viewCounter": 634111
     }
   ],
   "summary": {
-    "totalAnswers": 222,
-    "okAnswers": 129,
+    "totalAnswers": 227,
+    "okAnswers": 134,
     "ngAnswers": 93,
-    "participatedQuizCount": 32,
-    "winQuizCount": 22,
+    "participatedQuizCount": 33,
+    "winQuizCount": 23,
     "loseQuizCount": 0,
-    "medianViews": 401642
+    "medianViews": 404034
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "D1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 7,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 18,
+          "contentId": "sm16547768",
+          "title": "背徳の花",
+          "artistList": [
+            "ひとしずく",
+            "やま△"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16547768/16547768",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なすの惑星"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ぷれいやあ"
+            }
+          ]
+        },
+        {
+          "order": 25,
+          "contentId": "sm18579564",
+          "title": "マカロン",
+          "artistList": [
+            "ATOLS"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18579564/18579564",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ぷれいやあ"
+            }
+          ]
+        },
+        {
+          "order": 31,
+          "contentId": "sm34023014",
+          "title": "QTQT",
+          "artistList": [
+            "ちいたな"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34023014/34023014",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ぷれいやあ"
+            }
+          ]
+        },
+        {
+          "order": 39,
+          "contentId": "sm12549171",
+          "title": "For my soul",
+          "artistList": [
+            "Junky"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12549171/12549171",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ぷれいやあ"
+            }
+          ]
+        },
+        {
+          "order": 48,
+          "contentId": "sm25107796",
+          "title": "不完全な処遇",
+          "artistList": [
+            "MI8k"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25107796/25107796",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(7)",
+              "user": "ぷれいやあ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "B",

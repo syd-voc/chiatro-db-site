@@ -706,7 +706,7 @@
       ],
       "startTime": "2015-05-29T19:05:00+09:00",
       "viewCounter": 3243292,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm17211747",
@@ -1428,6 +1428,50 @@
       "startTime": "2016-09-10T19:00:00+09:00",
       "viewCounter": 4473609,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm41824903",
+      "title": "私は、私達は",
+      "artist": "Guiano",
+      "artistList": [
+        "Guiano"
+      ],
+      "startTime": "2023-02-20T20:15:03+09:00",
+      "viewCounter": 861207,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45353842",
+      "title": "SLIP",
+      "artist": "いよわ",
+      "artistList": [
+        "いよわ"
+      ],
+      "startTime": "2025-08-30T21:06:00+09:00",
+      "viewCounter": 241914,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm9705925",
+      "title": "愛ト茄子ト平和ナ果実",
+      "artist": "saiB",
+      "artistList": [
+        "saiB"
+      ],
+      "startTime": "2010-02-14T03:23:34+09:00",
+      "viewCounter": 684890,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm37478808",
+      "title": "アンチジョーカー",
+      "artist": "マイキP",
+      "artistList": [
+        "マイキP"
+      ],
+      "startTime": "2020-09-06T19:00:03+09:00",
+      "viewCounter": 1715974,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -1523,7 +1567,7 @@
     },
     {
       "artist": "MARETU",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 2
     },
     {
@@ -1915,6 +1959,26 @@
       "artist": "小林オニキス",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "Guiano",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "いよわ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "saiB",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "マイキP",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -1930,8 +1994,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 11,
-      "correctSongCount": 10
+      "correctCount": 12,
+      "correctSongCount": 11
     },
     {
       "era": "2021",
@@ -1945,8 +2009,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 6,
-      "correctSongCount": 6
+      "correctCount": 7,
+      "correctSongCount": 7
     },
     {
       "era": "2017",
@@ -1955,8 +2019,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 13,
-      "correctSongCount": 12
+      "correctCount": 14,
+      "correctSongCount": 13
     },
     {
       "era": "2011",
@@ -1970,7 +2034,7 @@
     },
     {
       "era": "2015",
-      "correctCount": 4,
+      "correctCount": 5,
       "correctSongCount": 4
     },
     {
@@ -1985,8 +2049,8 @@
     },
     {
       "era": "2010",
-      "correctCount": 6,
-      "correctSongCount": 4
+      "correctCount": 7,
+      "correctSongCount": 5
     },
     {
       "era": "2012",
@@ -2025,8 +2089,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 26,
-      "correctSongCount": 25
+      "correctCount": 27,
+      "correctSongCount": 26
     },
     {
       "range": "30-50万",
@@ -2037,14 +2101,14 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 18,
-      "correctSongCount": 17
+      "correctCount": 20,
+      "correctSongCount": 19
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 24,
-      "correctSongCount": 21
+      "correctCount": 25,
+      "correctSongCount": 22
     },
     {
       "range": "200-300万",
@@ -2055,7 +2119,7 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 22,
+      "correctCount": 23,
       "correctSongCount": 21
     },
     {
@@ -2845,18 +2909,142 @@
       "contentId": "sm29610327",
       "startTime": 1473501600000,
       "viewCounter": 4473609
+    },
+    {
+      "title": "私は、私達は",
+      "contentId": "sm41824903",
+      "startTime": 1676891703000,
+      "viewCounter": 861207
+    },
+    {
+      "title": "SLIP",
+      "contentId": "sm45353842",
+      "startTime": 1756555560000,
+      "viewCounter": 241914
+    },
+    {
+      "title": "愛ト茄子ト平和ナ果実",
+      "contentId": "sm9705925",
+      "startTime": 1266085414000,
+      "viewCounter": 684890
+    },
+    {
+      "title": "アンチジョーカー",
+      "contentId": "sm37478808",
+      "startTime": 1599386403000,
+      "viewCounter": 1715974
     }
   ],
   "summary": {
-    "totalAnswers": 163,
-    "okAnswers": 138,
+    "totalAnswers": 168,
+    "okAnswers": 143,
     "ngAnswers": 25,
-    "participatedQuizCount": 28,
-    "winQuizCount": 27,
+    "participatedQuizCount": 29,
+    "winQuizCount": 28,
     "loseQuizCount": 0,
-    "medianViews": 1096336
+    "medianViews": 1075061
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "D2",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 1,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 2,
+          "contentId": "sm41824903",
+          "title": "私は、私達は",
+          "artistList": [
+            "Guiano"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41824903/41824903.77673833",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "千夜"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "contentId": "sm45353842",
+          "title": "SLIP",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45353842/45353842.43355323",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "千夜"
+            }
+          ]
+        },
+        {
+          "order": 11,
+          "contentId": "sm9705925",
+          "title": "愛ト茄子ト平和ナ果実",
+          "artistList": [
+            "saiB"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9705925/9705925",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "おはよう"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "千夜"
+            }
+          ]
+        },
+        {
+          "order": 12,
+          "contentId": "sm37478808",
+          "title": "アンチジョーカー",
+          "artistList": [
+            "マイキP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37478808/37478808.24743433",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "千夜"
+            }
+          ]
+        },
+        {
+          "order": 13,
+          "contentId": "sm26364502",
+          "title": "マインドブランド",
+          "artistList": [
+            "MARETU"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26364502/26364502",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(1)",
+              "user": "千夜"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 295,
       "group": "D1",

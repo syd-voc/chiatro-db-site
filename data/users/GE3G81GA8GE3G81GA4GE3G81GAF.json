@@ -3346,6 +3346,50 @@
       "startTime": "2008-09-05T06:51:20+09:00",
       "viewCounter": 411931,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm45263197",
+      "title": "待ってて、彼岸で",
+      "artist": "rinri",
+      "artistList": [
+        "rinri"
+      ],
+      "startTime": "2025-08-07T18:00:00+09:00",
+      "viewCounter": 62386,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm32563885",
+      "title": "ジャスティン⇒ジャイブ⇒ジャスティファイ",
+      "artist": "nyanyannya",
+      "artistList": [
+        "nyanyannya"
+      ],
+      "startTime": "2018-01-10T20:00:00+09:00",
+      "viewCounter": 337823,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm40851131",
+      "title": "いちにのさんで",
+      "artist": "nogumi",
+      "artistList": [
+        "nogumi"
+      ],
+      "startTime": "2022-07-31T16:40:02+09:00",
+      "viewCounter": 106173,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm43346798",
+      "title": "ミニ偏",
+      "artist": "原口沙輔",
+      "artistList": [
+        "原口沙輔"
+      ],
+      "startTime": "2024-02-03T03:37:05+09:00",
+      "viewCounter": 582894,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -3631,8 +3675,8 @@
     },
     {
       "artist": "nyanyannya",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "Orangestar",
@@ -4268,6 +4312,21 @@
       "artist": "のりぴー",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "rinri",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "nogumi",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "原口沙輔",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -4288,8 +4347,8 @@
     },
     {
       "era": "2018",
-      "correctCount": 26,
-      "correctSongCount": 23
+      "correctCount": 27,
+      "correctSongCount": 24
     },
     {
       "era": "2016",
@@ -4303,8 +4362,8 @@
     },
     {
       "era": "2022",
-      "correctCount": 43,
-      "correctSongCount": 29
+      "correctCount": 44,
+      "correctSongCount": 30
     },
     {
       "era": "2010",
@@ -4323,8 +4382,8 @@
     },
     {
       "era": "2024",
-      "correctCount": 35,
-      "correctSongCount": 30
+      "correctCount": 36,
+      "correctSongCount": 31
     },
     {
       "era": "2007-2008",
@@ -4358,8 +4417,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 25,
-      "correctSongCount": 24
+      "correctCount": 26,
+      "correctSongCount": 25
     }
   ],
   "viewStats": [
@@ -4372,26 +4431,26 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 23,
-      "correctSongCount": 22
+      "correctCount": 24,
+      "correctSongCount": 23
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 67,
-      "correctSongCount": 63
+      "correctCount": 68,
+      "correctSongCount": 64
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 60,
-      "correctSongCount": 52
+      "correctCount": 61,
+      "correctSongCount": 53
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 80,
-      "correctSongCount": 66
+      "correctCount": 81,
+      "correctSongCount": 67
     },
     {
       "range": "100-200万",
@@ -6242,18 +6301,126 @@
       "contentId": "sm4523743",
       "startTime": 1220565080000,
       "viewCounter": 411931
+    },
+    {
+      "title": "待ってて、彼岸で",
+      "contentId": "sm45263197",
+      "startTime": 1754557200000,
+      "viewCounter": 62386
+    },
+    {
+      "title": "ジャスティン⇒ジャイブ⇒ジャスティファイ",
+      "contentId": "sm32563885",
+      "startTime": 1515582000000,
+      "viewCounter": 337823
+    },
+    {
+      "title": "いちにのさんで",
+      "contentId": "sm40851131",
+      "startTime": 1659253202000,
+      "viewCounter": 106173
+    },
+    {
+      "title": "ミニ偏",
+      "contentId": "sm43346798",
+      "startTime": 1706899025000,
+      "viewCounter": 582894
     }
   ],
   "summary": {
-    "totalAnswers": 479,
-    "okAnswers": 346,
+    "totalAnswers": 483,
+    "okAnswers": 350,
     "ngAnswers": 130,
-    "participatedQuizCount": 81,
-    "winQuizCount": 65,
+    "participatedQuizCount": 82,
+    "winQuizCount": 66,
     "loseQuizCount": 3,
-    "medianViews": 560907
+    "medianViews": 551162
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "A",
+      "date": "2026-05-08",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 3,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 4,
+          "contentId": "sm45263197",
+          "title": "待ってて、彼岸で",
+          "artistList": [
+            "rinri"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45263197/45263197.46632797",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "手下"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "とつは"
+            }
+          ]
+        },
+        {
+          "order": 15,
+          "contentId": "sm32563885",
+          "title": "ジャスティン⇒ジャイブ⇒ジャスティファイ",
+          "artistList": [
+            "nyanyannya"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32563885/32563885",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "とつは"
+            }
+          ]
+        },
+        {
+          "order": 25,
+          "contentId": "sm40851131",
+          "title": "いちにのさんで",
+          "artistList": [
+            "nogumi"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40851131/40851131.63122815",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "とつは"
+            }
+          ]
+        },
+        {
+          "order": 26,
+          "contentId": "sm43346798",
+          "title": "ミニ偏",
+          "artistList": [
+            "原口沙輔"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43346798/43346798.57273236",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(3)",
+              "user": "とつは"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "B",

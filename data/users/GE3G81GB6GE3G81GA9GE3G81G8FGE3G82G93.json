@@ -3023,6 +3023,61 @@
       "startTime": "2019-01-18T19:00:00+09:00",
       "viewCounter": 8771567,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm42578262",
+      "title": "OSINT",
+      "artist": "椎乃味醂",
+      "artistList": [
+        "椎乃味醂"
+      ],
+      "startTime": "2023-08-05T01:00:00+09:00",
+      "viewCounter": 266805,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm33351113",
+      "title": "kick",
+      "artist": "こめだわら",
+      "artistList": [
+        "こめだわら"
+      ],
+      "startTime": "2018-06-12T19:00:00+09:00",
+      "viewCounter": 828175,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm38824626",
+      "title": "ノンブレス・オブリージュ",
+      "artist": "ピノキオピー",
+      "artistList": [
+        "ピノキオピー"
+      ],
+      "startTime": "2021-06-02T19:00:00+09:00",
+      "viewCounter": 4127802,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45176104",
+      "title": "チェリーポップ",
+      "artist": "DECO*27",
+      "artistList": [
+        "DECO*27"
+      ],
+      "startTime": "2025-07-25T19:00:00+09:00",
+      "viewCounter": 1117756,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm22831329",
+      "title": "神のまにまに",
+      "artist": "れるりり",
+      "artistList": [
+        "れるりり"
+      ],
+      "startTime": "2014-02-07T20:00:00+09:00",
+      "viewCounter": 2973333,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -3088,8 +3143,8 @@
     },
     {
       "artist": "DECO*27",
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "artist": "Mitchie M",
@@ -3333,8 +3388,8 @@
     },
     {
       "artist": "れるりり",
-      "correctCount": 5,
-      "correctSongCount": 2
+      "correctCount": 6,
+      "correctSongCount": 3
     },
     {
       "artist": "Kintsugi",
@@ -3353,8 +3408,8 @@
     },
     {
       "artist": "椎乃味醂",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "柊キライ",
@@ -3418,8 +3473,8 @@
     },
     {
       "artist": "ピノキオピー",
-      "correctCount": 6,
-      "correctSongCount": 4
+      "correctCount": 7,
+      "correctSongCount": 5
     },
     {
       "artist": "ナナホシ管弦楽団",
@@ -3663,8 +3718,8 @@
     },
     {
       "artist": "こめだわら",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "原口沙輔",
@@ -3785,8 +3840,8 @@
   "eraStats": [
     {
       "era": "2021",
-      "correctCount": 34,
-      "correctSongCount": 30
+      "correctCount": 35,
+      "correctSongCount": 31
     },
     {
       "era": "2022",
@@ -3835,8 +3890,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 38,
-      "correctSongCount": 29
+      "correctCount": 39,
+      "correctSongCount": 30
     },
     {
       "era": "2015",
@@ -3845,8 +3900,8 @@
     },
     {
       "era": "2018",
-      "correctCount": 12,
-      "correctSongCount": 12
+      "correctCount": 13,
+      "correctSongCount": 13
     },
     {
       "era": "2011",
@@ -3855,8 +3910,8 @@
     },
     {
       "era": "2014",
-      "correctCount": 7,
-      "correctSongCount": 7
+      "correctCount": 8,
+      "correctSongCount": 8
     },
     {
       "era": "2012",
@@ -3870,8 +3925,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 14,
-      "correctSongCount": 13
+      "correctCount": 15,
+      "correctSongCount": 14
     }
   ],
   "viewStats": [
@@ -3890,8 +3945,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 55,
-      "correctSongCount": 49
+      "correctCount": 56,
+      "correctSongCount": 50
     },
     {
       "range": "30-50万",
@@ -3902,26 +3957,26 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 55,
-      "correctSongCount": 46
+      "correctCount": 56,
+      "correctSongCount": 47
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 66,
-      "correctSongCount": 58
+      "correctCount": 67,
+      "correctSongCount": 59
     },
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 34,
-      "correctSongCount": 30
+      "correctCount": 35,
+      "correctSongCount": 31
     },
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 23,
-      "correctSongCount": 19
+      "correctCount": 24,
+      "correctSongCount": 20
     },
     {
       "range": "500-1000万",
@@ -5574,18 +5629,206 @@
       "contentId": "sm34470195",
       "startTime": 1547805600000,
       "viewCounter": 8771567
+    },
+    {
+      "title": "OSINT",
+      "contentId": "sm42578262",
+      "startTime": 1691164800000,
+      "viewCounter": 266805
+    },
+    {
+      "title": "kick",
+      "contentId": "sm33351113",
+      "startTime": 1528797600000,
+      "viewCounter": 828175
+    },
+    {
+      "title": "ノンブレス・オブリージュ",
+      "contentId": "sm38824626",
+      "startTime": 1622628000000,
+      "viewCounter": 4127802
+    },
+    {
+      "title": "チェリーポップ",
+      "contentId": "sm45176104",
+      "startTime": 1753437600000,
+      "viewCounter": 1117756
+    },
+    {
+      "title": "神のまにまに",
+      "contentId": "sm22831329",
+      "startTime": 1391770800000,
+      "viewCounter": 2973333
     }
   ],
   "summary": {
-    "totalAnswers": 407,
-    "okAnswers": 312,
-    "ngAnswers": 95,
-    "participatedQuizCount": 68,
-    "winQuizCount": 58,
+    "totalAnswers": 414,
+    "okAnswers": 317,
+    "ngAnswers": 97,
+    "participatedQuizCount": 69,
+    "winQuizCount": 59,
     "loseQuizCount": 0,
     "medianViews": 787886
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "C2",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 7,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 40,
+          "contentId": "sm43891004",
+          "title": "神様じゃなくてごめんね",
+          "artistList": [
+            "Aliey:S"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43891004/43891004.90615135",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "稲葉快晴"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぶどくん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きょうぼく"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 48,
+          "contentId": "sm18047788",
+          "title": "愛Dee",
+          "artistList": [
+            "Mitchie M"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18047788/18047788.54590755",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぶどくん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "稲葉快晴"
+            }
+          ]
+        },
+        {
+          "order": 51,
+          "contentId": "sm42578262",
+          "title": "OSINT",
+          "artistList": [
+            "椎乃味醂"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42578262/42578262.20443209",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ぶどくん"
+            }
+          ]
+        },
+        {
+          "order": 53,
+          "contentId": "sm33351113",
+          "title": "kick",
+          "artistList": [
+            "こめだわら"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33351113/33351113",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ぶどくん"
+            }
+          ]
+        },
+        {
+          "order": 58,
+          "contentId": "sm38824626",
+          "title": "ノンブレス・オブリージュ",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38824626/38824626.77353236",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ぶどくん"
+            }
+          ]
+        },
+        {
+          "order": 59,
+          "contentId": "sm45176104",
+          "title": "チェリーポップ",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45176104/45176104.72860636",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ぶどくん"
+            }
+          ]
+        },
+        {
+          "order": 64,
+          "contentId": "sm22831329",
+          "title": "神のまにまに",
+          "artistList": [
+            "れるりり"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22831329/22831329",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(7)",
+              "user": "ぶどくん"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "C1",

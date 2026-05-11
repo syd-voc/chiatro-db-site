@@ -1394,6 +1394,61 @@
       "startTime": "2019-05-04T18:00:00+09:00",
       "viewCounter": 340875,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm8423936",
+      "title": "Sing my Love",
+      "artist": "40mP",
+      "artistList": [
+        "40mP"
+      ],
+      "startTime": "2009-10-05T00:58:00+09:00",
+      "viewCounter": 357149,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm22491239",
+      "title": "すーぱーぬこわーるど",
+      "artist": "まふまふ",
+      "artistList": [
+        "まふまふ"
+      ],
+      "startTime": "2013-12-20T18:19:37+09:00",
+      "viewCounter": 1037883,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45180010",
+      "title": "土星のポルカ",
+      "artist": "ナユタン星人",
+      "artistList": [
+        "ナユタン星人"
+      ],
+      "startTime": "2025-07-12T20:00:00+09:00",
+      "viewCounter": 112759,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm27898533",
+      "title": "さよならスーヴェニア",
+      "artist": "とあ",
+      "artistList": [
+        "とあ"
+      ],
+      "startTime": "2015-12-29T20:00:00+09:00",
+      "viewCounter": 699248,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm2972481",
+      "title": "トルコ行進曲 - オワタ＼(^o^)／",
+      "artist": "オワタP",
+      "artistList": [
+        "オワタP"
+      ],
+      "startTime": "2008-04-12T17:40:01+09:00",
+      "viewCounter": 2151203,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -1429,8 +1484,8 @@
     },
     {
       "artist": "40mP",
-      "correctCount": 11,
-      "correctSongCount": 10
+      "correctCount": 12,
+      "correctSongCount": 11
     },
     {
       "artist": "R Sound Design",
@@ -1479,8 +1534,8 @@
     },
     {
       "artist": "ナユタン星人",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "くちばしP",
@@ -1831,13 +1886,28 @@
       "artist": "Ruliea",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "まふまふ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "とあ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "オワタP",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2015",
-      "correctCount": 9,
-      "correctSongCount": 9
+      "correctCount": 10,
+      "correctSongCount": 10
     },
     {
       "era": "2018",
@@ -1856,13 +1926,13 @@
     },
     {
       "era": "2009",
-      "correctCount": 9,
-      "correctSongCount": 8
+      "correctCount": 10,
+      "correctSongCount": 9
     },
     {
       "era": "2013",
-      "correctCount": 11,
-      "correctSongCount": 10
+      "correctCount": 12,
+      "correctSongCount": 11
     },
     {
       "era": "2019",
@@ -1886,8 +1956,8 @@
     },
     {
       "era": "2007-2008",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "era": "2023",
@@ -1901,8 +1971,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 9,
-      "correctSongCount": 9
+      "correctCount": 10,
+      "correctSongCount": 10
     },
     {
       "era": "2022",
@@ -1941,32 +2011,32 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 19,
-      "correctSongCount": 19
+      "correctCount": 20,
+      "correctSongCount": 20
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 29,
-      "correctSongCount": 26
+      "correctCount": 30,
+      "correctSongCount": 27
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 34,
-      "correctSongCount": 32
+      "correctCount": 35,
+      "correctSongCount": 33
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 23,
-      "correctSongCount": 23
+      "correctCount": 24,
+      "correctSongCount": 24
     },
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 13,
-      "correctSongCount": 13
+      "correctCount": 14,
+      "correctSongCount": 14
     },
     {
       "range": "300-500万",
@@ -2743,18 +2813,173 @@
       "contentId": "sm35074789",
       "startTime": 1556960400000,
       "viewCounter": 340875
+    },
+    {
+      "title": "Sing my Love",
+      "contentId": "sm8423936",
+      "startTime": 1254671880000,
+      "viewCounter": 357149
+    },
+    {
+      "title": "すーぱーぬこわーるど",
+      "contentId": "sm22491239",
+      "startTime": 1387531177000,
+      "viewCounter": 1037883
+    },
+    {
+      "title": "土星のポルカ",
+      "contentId": "sm45180010",
+      "startTime": 1752318000000,
+      "viewCounter": 112759
+    },
+    {
+      "title": "さよならスーヴェニア",
+      "contentId": "sm27898533",
+      "startTime": 1451386800000,
+      "viewCounter": 699248
+    },
+    {
+      "title": "トルコ行進曲 - オワタ＼(^o^)／",
+      "contentId": "sm2972481",
+      "startTime": 1207989601000,
+      "viewCounter": 2151203
     }
   ],
   "summary": {
-    "totalAnswers": 166,
-    "okAnswers": 131,
-    "ngAnswers": 35,
-    "participatedQuizCount": 27,
-    "winQuizCount": 25,
+    "totalAnswers": 172,
+    "okAnswers": 136,
+    "ngAnswers": 36,
+    "participatedQuizCount": 28,
+    "winQuizCount": 26,
     "loseQuizCount": 0,
     "medianViews": 630171
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "D2",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 3,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 5,
+          "contentId": "sm8423936",
+          "title": "Sing my Love",
+          "artistList": [
+            "40mP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8423936/8423936",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "あご星人"
+            }
+          ]
+        },
+        {
+          "order": 17,
+          "contentId": "nm10406690",
+          "title": "オマーン湖",
+          "artistList": [
+            "乙P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10406690/10406690",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "間宵"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あご星人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "花浅葱"
+            }
+          ]
+        },
+        {
+          "order": 24,
+          "contentId": "sm22491239",
+          "title": "すーぱーぬこわーるど",
+          "artistList": [
+            "まふまふ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22491239/22491239",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "あご星人"
+            }
+          ]
+        },
+        {
+          "order": 25,
+          "contentId": "sm45180010",
+          "title": "土星のポルカ",
+          "artistList": [
+            "ナユタン星人"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45180010/45180010.47422120",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "あご星人"
+            }
+          ]
+        },
+        {
+          "order": 30,
+          "contentId": "sm27898533",
+          "title": "さよならスーヴェニア",
+          "artistList": [
+            "とあ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27898533/27898533",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "あご星人"
+            }
+          ]
+        },
+        {
+          "order": 36,
+          "contentId": "sm2972481",
+          "title": "トルコ行進曲 - オワタ＼(^o^)／",
+          "artistList": [
+            "オワタP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2972481/2972481",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(3)",
+              "user": "あご星人"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "D1",

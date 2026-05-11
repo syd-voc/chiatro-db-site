@@ -2360,7 +2360,7 @@
       ],
       "startTime": "2011-07-20T19:09:33+09:00",
       "viewCounter": 170243,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm15676851",
@@ -3142,7 +3142,7 @@
       ],
       "startTime": "2017-12-05T19:03:05+09:00",
       "viewCounter": 326309,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm17628858",
@@ -4301,6 +4301,40 @@
       "startTime": "2011-06-03T21:28:28+09:00",
       "viewCounter": 864313,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm33897675",
+      "title": "幾望の月",
+      "artist": "なきゃむりゃ",
+      "artistList": [
+        "なきゃむりゃ"
+      ],
+      "startTime": "2018-09-22T13:00:00+09:00",
+      "viewCounter": 2003180,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm22374590",
+      "title": "ラケナリアの芽",
+      "artist": "つなまる",
+      "artistList": [
+        "つなまる"
+      ],
+      "startTime": "2013-12-02T19:00:00+09:00",
+      "viewCounter": 186520,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm8033594",
+      "title": "LOL -lots of laugh-",
+      "artist": "KeN, エンドケイプ",
+      "artistList": [
+        "KeN",
+        "エンドケイプ"
+      ],
+      "startTime": "2009-08-25T03:05:06+09:00",
+      "viewCounter": 1861234,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4576,8 +4610,8 @@
     },
     {
       "artist": "つなまる",
-      "correctCount": 10,
-      "correctSongCount": 6
+      "correctCount": 11,
+      "correctSongCount": 7
     },
     {
       "artist": "森羅",
@@ -5016,7 +5050,7 @@
     },
     {
       "artist": "HaTa",
-      "correctCount": 14,
+      "correctCount": 15,
       "correctSongCount": 10
     },
     {
@@ -5116,7 +5150,7 @@
     },
     {
       "artist": "フェイP",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -5493,13 +5527,28 @@
       "artist": "Teary Planet",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "なきゃむりゃ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "KeN",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "エンドケイプ",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2018",
-      "correctCount": 23,
-      "correctSongCount": 19
+      "correctCount": 24,
+      "correctSongCount": 20
     },
     {
       "era": "2007-2008",
@@ -5538,7 +5587,7 @@
     },
     {
       "era": "2017",
-      "correctCount": 24,
+      "correctCount": 25,
       "correctSongCount": 22
     },
     {
@@ -5548,8 +5597,8 @@
     },
     {
       "era": "2013",
-      "correctCount": 40,
-      "correctSongCount": 29
+      "correctCount": 41,
+      "correctSongCount": 30
     },
     {
       "era": "2019",
@@ -5558,8 +5607,8 @@
     },
     {
       "era": "2009",
-      "correctCount": 13,
-      "correctSongCount": 11
+      "correctCount": 14,
+      "correctSongCount": 12
     },
     {
       "era": "2010",
@@ -5568,7 +5617,7 @@
     },
     {
       "era": "2011",
-      "correctCount": 30,
+      "correctCount": 31,
       "correctSongCount": 24
     },
     {
@@ -5603,13 +5652,13 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 160,
-      "correctSongCount": 140
+      "correctCount": 162,
+      "correctSongCount": 141
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 75,
+      "correctCount": 76,
       "correctSongCount": 65
     },
     {
@@ -5621,14 +5670,14 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 40,
-      "correctSongCount": 37
+      "correctCount": 41,
+      "correctSongCount": 38
     },
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 13,
-      "correctSongCount": 9
+      "correctCount": 14,
+      "correctSongCount": 10
     },
     {
       "range": "300-500万",
@@ -7989,18 +8038,214 @@
       "contentId": "sm14639165",
       "startTime": 1307104108000,
       "viewCounter": 864313
+    },
+    {
+      "title": "幾望の月",
+      "contentId": "sm33897675",
+      "startTime": 1537588800000,
+      "viewCounter": 2003180
+    },
+    {
+      "title": "ラケナリアの芽",
+      "contentId": "sm22374590",
+      "startTime": 1385978400000,
+      "viewCounter": 186520
+    },
+    {
+      "title": "LOL -lots of laugh-",
+      "contentId": "sm8033594",
+      "startTime": 1251137106000,
+      "viewCounter": 1861234
     }
   ],
   "summary": {
-    "totalAnswers": 619,
-    "okAnswers": 453,
-    "ngAnswers": 165,
-    "participatedQuizCount": 112,
-    "winQuizCount": 88,
+    "totalAnswers": 626,
+    "okAnswers": 458,
+    "ngAnswers": 167,
+    "participatedQuizCount": 113,
+    "winQuizCount": 89,
     "loseQuizCount": 1,
     "medianViews": 284407
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "C1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 9,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 1,
+          "contentId": "sm33897675",
+          "title": "幾望の月",
+          "artistList": [
+            "なきゃむりゃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33897675/33897675",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ぴーなっつ"
+            }
+          ]
+        },
+        {
+          "order": 50,
+          "contentId": "sm43642792",
+          "title": "あの子は悪魔",
+          "artistList": [
+            "こめだわら"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43642792/43642792.88457264",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠い人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぴーなっつ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(2)",
+              "user": "尾白もち"
+            }
+          ]
+        },
+        {
+          "order": 58,
+          "contentId": "sm22374590",
+          "title": "ラケナリアの芽",
+          "artistList": [
+            "つなまる"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22374590/22374590",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ぴーなっつ"
+            }
+          ]
+        },
+        {
+          "order": 59,
+          "contentId": "sm15070303",
+          "title": "I",
+          "artistList": [
+            "フェイP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15070303/15070303",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きぐな"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ぴーなっつ"
+            }
+          ]
+        },
+        {
+          "order": 61,
+          "contentId": "sm16468372",
+          "title": "「I」",
+          "artistList": [
+            "蝶々P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16468372/16468372",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぴーなっつ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "トラノオ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "つみか"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "あざらし"
+            }
+          ]
+        },
+        {
+          "order": 71,
+          "contentId": "sm32373623",
+          "title": "昨日をうまく生きられなかった私達はきっと明日もうまく生きられない。",
+          "artistList": [
+            "HaTa"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32373623/32373623",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ぴーなっつ"
+            }
+          ]
+        },
+        {
+          "order": 75,
+          "contentId": "sm8033594",
+          "title": "LOL -lots of laugh-",
+          "artistList": [
+            "KeN",
+            "エンドケイプ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8033594/8033594",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(9)",
+              "user": "ぴーなっつ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "C1",

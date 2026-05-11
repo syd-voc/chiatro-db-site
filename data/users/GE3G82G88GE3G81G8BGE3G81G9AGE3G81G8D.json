@@ -2472,7 +2472,7 @@
       ],
       "startTime": "2013-07-24T20:14:15+09:00",
       "viewCounter": 967927,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm25698086",
@@ -3831,6 +3831,50 @@
       "startTime": "2014-02-21T20:00:00+09:00",
       "viewCounter": 779937,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm45124777",
+      "title": "BA乱CE",
+      "artist": "梅とら",
+      "artistList": [
+        "梅とら"
+      ],
+      "startTime": "2025-06-29T18:00:00+09:00",
+      "viewCounter": 47392,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm22307037",
+      "title": "クライヤ",
+      "artist": "すこっぷ",
+      "artistList": [
+        "すこっぷ"
+      ],
+      "startTime": "2013-11-22T20:01:13+09:00",
+      "viewCounter": 1178067,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44664491",
+      "title": "あなたのいないデスクトップ",
+      "artist": "豆カカオ",
+      "artistList": [
+        "豆カカオ"
+      ],
+      "startTime": "2025-02-21T19:00:00+09:00",
+      "viewCounter": 58311,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44747244",
+      "title": "雑魚",
+      "artist": "柊マグネタイト",
+      "artistList": [
+        "柊マグネタイト"
+      ],
+      "startTime": "2025-03-10T19:00:00+09:00",
+      "viewCounter": 808759,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -3861,8 +3905,8 @@
     },
     {
       "artist": "柊マグネタイト",
-      "correctCount": 7,
-      "correctSongCount": 6
+      "correctCount": 8,
+      "correctSongCount": 7
     },
     {
       "artist": "MIMI",
@@ -3891,8 +3935,8 @@
     },
     {
       "artist": "梅とら",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "Fushi",
@@ -4181,7 +4225,7 @@
     },
     {
       "artist": "うたたP",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 2
     },
     {
@@ -4636,8 +4680,8 @@
     },
     {
       "artist": "すこっぷ",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "Aliey:S",
@@ -4646,6 +4690,11 @@
     },
     {
       "artist": "奏",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "豆カカオ",
       "correctCount": 1,
       "correctSongCount": 1
     }
@@ -4678,8 +4727,8 @@
     },
     {
       "era": "2013",
-      "correctCount": 61,
-      "correctSongCount": 51
+      "correctCount": 63,
+      "correctSongCount": 52
     },
     {
       "era": "2021",
@@ -4728,8 +4777,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 28,
-      "correctSongCount": 27
+      "correctCount": 31,
+      "correctSongCount": 30
     }
   ],
   "viewStats": [
@@ -4742,8 +4791,8 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 26,
-      "correctSongCount": 26
+      "correctCount": 28,
+      "correctSongCount": 28
     },
     {
       "range": "10-30万",
@@ -4760,14 +4809,14 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 88,
-      "correctSongCount": 85
+      "correctCount": 90,
+      "correctSongCount": 86
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 76,
-      "correctSongCount": 62
+      "correctCount": 77,
+      "correctSongCount": 63
     },
     {
       "range": "200-300万",
@@ -6876,18 +6925,183 @@
       "contentId": "sm22937799",
       "startTime": 1392980400000,
       "viewCounter": 779937
+    },
+    {
+      "title": "BA乱CE",
+      "contentId": "sm45124777",
+      "startTime": 1751187600000,
+      "viewCounter": 47392
+    },
+    {
+      "title": "クライヤ",
+      "contentId": "sm22307037",
+      "startTime": 1385118073000,
+      "viewCounter": 1178067
+    },
+    {
+      "title": "あなたのいないデスクトップ",
+      "contentId": "sm44664491",
+      "startTime": 1740132000000,
+      "viewCounter": 58311
+    },
+    {
+      "title": "雑魚",
+      "contentId": "sm44747244",
+      "startTime": 1741600800000,
+      "viewCounter": 808759
     }
   ],
   "summary": {
-    "totalAnswers": 499,
-    "okAnswers": 396,
-    "ngAnswers": 102,
-    "participatedQuizCount": 82,
-    "winQuizCount": 79,
+    "totalAnswers": 506,
+    "okAnswers": 401,
+    "ngAnswers": 104,
+    "participatedQuizCount": 83,
+    "winQuizCount": 80,
     "loseQuizCount": 1,
     "medianViews": 668644
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "B",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 8,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 30,
+          "contentId": "sm45124777",
+          "title": "BA乱CE",
+          "artistList": [
+            "梅とら"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45124777/45124777.68476317",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "よかずき"
+            }
+          ]
+        },
+        {
+          "order": 31,
+          "contentId": "sm27162599",
+          "title": "alternate",
+          "artistList": [
+            "keeno"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27162599/27162599",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "よかずき"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "とちこ"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm22307037",
+          "title": "クライヤ",
+          "artistList": [
+            "すこっぷ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22307037/22307037",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "よかずき"
+            }
+          ]
+        },
+        {
+          "order": 47,
+          "contentId": "sm44664491",
+          "title": "あなたのいないデスクトップ",
+          "artistList": [
+            "豆カカオ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44664491/44664491.8883406",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "よかずき"
+            }
+          ]
+        },
+        {
+          "order": 51,
+          "contentId": "sm41951446",
+          "title": "やっちゃえ！フレッシュヤング",
+          "artistList": [
+            "メドミア"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41951446/41951446.22129576",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "よかずき"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "祝公式"
+            }
+          ]
+        },
+        {
+          "order": 57,
+          "contentId": "sm21430267",
+          "title": "ホップ！ステップ！即死！シアワセダンスデストラップ",
+          "artistList": [
+            "うたたP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21430267/21430267",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "よかずき"
+            }
+          ]
+        },
+        {
+          "order": 60,
+          "contentId": "sm44747244",
+          "title": "雑魚",
+          "artistList": [
+            "柊マグネタイト"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44747244/44747244.75217431",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(8)",
+              "user": "よかずき"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "B",

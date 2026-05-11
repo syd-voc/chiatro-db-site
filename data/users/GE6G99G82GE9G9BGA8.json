@@ -1574,7 +1574,7 @@
       ],
       "startTime": "2023-08-23T20:00:00+09:00",
       "viewCounter": 462709,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm33484862",
@@ -2759,9 +2759,9 @@
     {
       "contentId": "sm42572901",
       "title": "不出来物",
-      "artist": "⌘ハイノミ",
+      "artist": "⌘ ハイノミ",
       "artistList": [
-        "⌘ハイノミ"
+        "⌘ ハイノミ"
       ],
       "startTime": "2023-08-05T00:00:00+09:00",
       "viewCounter": 94733,
@@ -4123,6 +4123,39 @@
       "startTime": "2021-09-30T18:00:00+09:00",
       "viewCounter": 2047872,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm32879352",
+      "title": "匿名希望",
+      "artist": "shino",
+      "artistList": [
+        "shino"
+      ],
+      "startTime": "2018-03-14T19:00:00+09:00",
+      "viewCounter": 344375,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm40700016",
+      "title": "海のサーチライト",
+      "artist": "子牛",
+      "artistList": [
+        "子牛"
+      ],
+      "startTime": "2022-07-01T20:00:00+09:00",
+      "viewCounter": 893179,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm36503255",
+      "title": "ポプリさん",
+      "artist": "いよわ",
+      "artistList": [
+        "いよわ"
+      ],
+      "startTime": "2020-03-13T20:00:00+09:00",
+      "viewCounter": 638298,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4303,7 +4336,7 @@
     },
     {
       "artist": "r-906",
-      "correctCount": 5,
+      "correctCount": 6,
       "correctSongCount": 5
     },
     {
@@ -4408,8 +4441,8 @@
     },
     {
       "artist": "いよわ",
-      "correctCount": 8,
-      "correctSongCount": 6
+      "correctCount": 9,
+      "correctSongCount": 7
     },
     {
       "artist": "和田たけあき",
@@ -4813,8 +4846,8 @@
     },
     {
       "artist": "shino",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "じょるじん",
@@ -4867,7 +4900,7 @@
       "correctSongCount": 1
     },
     {
-      "artist": "⌘ハイノミ",
+      "artist": "⌘ ハイノミ",
       "correctCount": 1,
       "correctSongCount": 1
     },
@@ -5165,6 +5198,11 @@
       "artist": "samfree",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "子牛",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -5180,8 +5218,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 28,
-      "correctSongCount": 24
+      "correctCount": 29,
+      "correctSongCount": 25
     },
     {
       "era": "2019",
@@ -5190,8 +5228,8 @@
     },
     {
       "era": "2018",
-      "correctCount": 30,
-      "correctSongCount": 28
+      "correctCount": 31,
+      "correctSongCount": 29
     },
     {
       "era": "2016",
@@ -5205,7 +5243,7 @@
     },
     {
       "era": "2023",
-      "correctCount": 60,
+      "correctCount": 61,
       "correctSongCount": 51
     },
     {
@@ -5215,8 +5253,8 @@
     },
     {
       "era": "2022",
-      "correctCount": 34,
-      "correctSongCount": 32
+      "correctCount": 35,
+      "correctSongCount": 33
     },
     {
       "era": "2012",
@@ -5281,14 +5319,14 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 50,
-      "correctSongCount": 43
+      "correctCount": 52,
+      "correctSongCount": 44
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 86,
-      "correctSongCount": 76
+      "correctCount": 88,
+      "correctSongCount": 78
     },
     {
       "range": "100-200万",
@@ -7565,18 +7603,135 @@
       "contentId": "sm39411572",
       "startTime": 1632992400000,
       "viewCounter": 2047872
+    },
+    {
+      "title": "匿名希望",
+      "contentId": "sm32879352",
+      "startTime": 1521021600000,
+      "viewCounter": 344375
+    },
+    {
+      "title": "海のサーチライト",
+      "contentId": "sm40700016",
+      "startTime": 1656673200000,
+      "viewCounter": 893179
+    },
+    {
+      "title": "ポプリさん",
+      "contentId": "sm36503255",
+      "startTime": 1584097200000,
+      "viewCounter": 638298
     }
   ],
   "summary": {
-    "totalAnswers": 599,
-    "okAnswers": 412,
-    "ngAnswers": 178,
-    "participatedQuizCount": 94,
-    "winQuizCount": 76,
+    "totalAnswers": 604,
+    "okAnswers": 416,
+    "ngAnswers": 179,
+    "participatedQuizCount": 95,
+    "winQuizCount": 77,
     "loseQuizCount": 9,
-    "medianViews": 527297
+    "medianViews": 526320
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "A",
+      "date": "2026-05-08",
+      "ok": 4,
+      "ng": 1,
+      "winRank": 17,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 70,
+          "contentId": "sm32879352",
+          "title": "匿名希望",
+          "artistList": [
+            "shino"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32879352/32879352",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "時雨"
+            }
+          ]
+        },
+        {
+          "order": 72,
+          "contentId": "sm40700016",
+          "title": "海のサーチライト",
+          "artistList": [
+            "子牛"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40700016/40700016.15525054",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "時雨"
+            }
+          ]
+        },
+        {
+          "order": 75,
+          "contentId": "sm42661336",
+          "title": "ボイドロイド",
+          "artistList": [
+            "r-906"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42661336/42661336.51914460",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "時雨"
+            }
+          ]
+        },
+        {
+          "order": 77,
+          "contentId": "sm33220899",
+          "title": "青春症候群",
+          "artistList": [
+            "れるりり"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33220899/33220899",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "時雨"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 80,
+          "contentId": "sm36503255",
+          "title": "ポプリさん",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36503255/36503255.28573267",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(17)",
+              "user": "時雨"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "A",
@@ -12435,7 +12590,7 @@
           "contentId": "sm42572901",
           "title": "不出来物",
           "artistList": [
-            "⌘ハイノミ"
+            "⌘ ハイノミ"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42572901/42572901.15075863",
           "tokens": [

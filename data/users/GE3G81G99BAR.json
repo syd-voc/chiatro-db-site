@@ -2127,7 +2127,7 @@
       ],
       "startTime": "2024-04-19T20:00:00+09:00",
       "viewCounter": 685967,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm44704781",
@@ -2249,6 +2249,50 @@
       "startTime": "2025-03-10T19:00:00+09:00",
       "viewCounter": 808759,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm44562274",
+      "title": "ロレムイプサム",
+      "artist": "ヨハク",
+      "artistList": [
+        "ヨハク"
+      ],
+      "startTime": "2025-02-21T19:00:00+09:00",
+      "viewCounter": 71234,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm20470051",
+      "title": "ロスタイムメモリー",
+      "artist": "じん",
+      "artistList": [
+        "じん"
+      ],
+      "startTime": "2013-03-30T02:27:23+09:00",
+      "viewCounter": 6550459,
+      "correctCount": 1
+    },
+    {
+      "contentId": "so45125163",
+      "title": "ラストラス",
+      "artist": "*Luna",
+      "artistList": [
+        "*Luna"
+      ],
+      "startTime": "2025-06-27T18:00:00+09:00",
+      "viewCounter": 270318,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm16417324",
+      "title": "初音ミクの消失-劇場版-",
+      "artist": "cosMo@暴走P",
+      "artistList": [
+        "cosMo@暴走P"
+      ],
+      "startTime": "2011-12-13T18:59:24+09:00",
+      "viewCounter": 618276,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -2264,8 +2308,8 @@
     },
     {
       "artist": "*Luna",
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "artist": "PIPPO",
@@ -2354,7 +2398,7 @@
     },
     {
       "artist": "稲葉曇",
-      "correctCount": 3,
+      "correctCount": 4,
       "correctSongCount": 3
     },
     {
@@ -2574,8 +2618,8 @@
     },
     {
       "artist": "ヨハク",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "EasyPop",
@@ -2609,13 +2653,13 @@
     },
     {
       "artist": "じん",
-      "correctCount": 3,
-      "correctSongCount": 2
+      "correctCount": 4,
+      "correctSongCount": 3
     },
     {
       "artist": "cosMo@暴走P",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "keeno",
@@ -2836,7 +2880,7 @@
     },
     {
       "era": "2024",
-      "correctCount": 21,
+      "correctCount": 22,
       "correctSongCount": 19
     },
     {
@@ -2871,8 +2915,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 37,
-      "correctSongCount": 34
+      "correctCount": 39,
+      "correctSongCount": 36
     },
     {
       "era": "2018",
@@ -2881,8 +2925,8 @@
     },
     {
       "era": "2013",
-      "correctCount": 9,
-      "correctSongCount": 8
+      "correctCount": 10,
+      "correctSongCount": 9
     },
     {
       "era": "2012",
@@ -2891,8 +2935,8 @@
     },
     {
       "era": "2011",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "era": "2007-2008",
@@ -2910,14 +2954,14 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 25,
-      "correctSongCount": 25
+      "correctCount": 26,
+      "correctSongCount": 26
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 32,
-      "correctSongCount": 32
+      "correctCount": 33,
+      "correctSongCount": 33
     },
     {
       "range": "30-50万",
@@ -2928,8 +2972,8 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 41,
-      "correctSongCount": 32
+      "correctCount": 43,
+      "correctSongCount": 33
     },
     {
       "range": "100-200万",
@@ -2952,8 +2996,8 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 20,
-      "correctSongCount": 17
+      "correctCount": 21,
+      "correctSongCount": 18
     },
     {
       "range": "1000万-",
@@ -4186,18 +4230,157 @@
       "contentId": "sm44747244",
       "startTime": 1741600800000,
       "viewCounter": 808759
+    },
+    {
+      "title": "ロレムイプサム",
+      "contentId": "sm44562274",
+      "startTime": 1740132000000,
+      "viewCounter": 71234
+    },
+    {
+      "title": "ロスタイムメモリー",
+      "contentId": "sm20470051",
+      "startTime": 1364578043000,
+      "viewCounter": 6550459
+    },
+    {
+      "title": "ラストラス",
+      "contentId": "so45125163",
+      "startTime": 1751014800000,
+      "viewCounter": 270318
+    },
+    {
+      "title": "初音ミクの消失-劇場版-",
+      "contentId": "sm16417324",
+      "startTime": 1323770364000,
+      "viewCounter": 618276
     }
   ],
   "summary": {
-    "totalAnswers": 273,
-    "okAnswers": 233,
-    "ngAnswers": 40,
-    "participatedQuizCount": 48,
-    "winQuizCount": 45,
+    "totalAnswers": 279,
+    "okAnswers": 238,
+    "ngAnswers": 41,
+    "participatedQuizCount": 49,
+    "winQuizCount": 46,
     "loseQuizCount": 0,
     "medianViews": 937307
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "D1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 4,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 10,
+          "contentId": "sm44562274",
+          "title": "ロレムイプサム",
+          "artistList": [
+            "ヨハク"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44562274/44562274.86840615",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "すBAR"
+            }
+          ]
+        },
+        {
+          "order": 11,
+          "contentId": "sm43679339",
+          "title": "私は雨",
+          "artistList": [
+            "稲葉曇"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43679339/43679339.7261039",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "すBAR"
+            }
+          ]
+        },
+        {
+          "order": 20,
+          "contentId": "sm20470051",
+          "title": "ロスタイムメモリー",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20470051/20470051",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "すBAR"
+            }
+          ]
+        },
+        {
+          "order": 23,
+          "contentId": "so45125163",
+          "title": "ラストラス",
+          "artistList": [
+            "*Luna"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45125163/45125163.73631309",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "すBAR"
+            }
+          ]
+        },
+        {
+          "order": 33,
+          "contentId": "sm46180736",
+          "title": "gONE",
+          "artistList": [
+            "鬱P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/46180736/46180736.80823751",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "すBAR"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 40,
+          "contentId": "sm16417324",
+          "title": "初音ミクの消失-劇場版-",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16417324/16417324",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(4)",
+              "user": "すBAR"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "D1",

@@ -354,6 +354,61 @@
       "startTime": "2022-04-23T00:00:00+09:00",
       "viewCounter": 1412824,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm35667721",
+      "title": "ホロン",
+      "artist": "wotaku",
+      "artistList": [
+        "wotaku"
+      ],
+      "startTime": "2019-09-13T19:00:00+09:00",
+      "viewCounter": 406444,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm42461482",
+      "title": "プロポーズ",
+      "artist": "内緒のピアス",
+      "artistList": [
+        "内緒のピアス"
+      ],
+      "startTime": "2023-07-10T21:00:00+09:00",
+      "viewCounter": 1867152,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm17930619",
+      "title": "如月アテンション",
+      "artist": "じん",
+      "artistList": [
+        "じん"
+      ],
+      "startTime": "2012-05-27T00:08:46+09:00",
+      "viewCounter": 4731451,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39746081",
+      "title": "アプリコット",
+      "artist": "いよわ",
+      "artistList": [
+        "いよわ"
+      ],
+      "startTime": "2021-12-12T21:00:00+09:00",
+      "viewCounter": 2089675,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm32492001",
+      "title": "何でも言うことを聞いてくれるアカネチャン",
+      "artist": "GYARI",
+      "artistList": [
+        "GYARI"
+      ],
+      "startTime": "2017-12-28T14:40:22+09:00",
+      "viewCounter": 7222785,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -434,8 +489,8 @@
     },
     {
       "artist": "いよわ",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "MARETU",
@@ -496,6 +551,26 @@
       "artist": "南ノ南",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "wotaku",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "内緒のピアス",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "じん",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "GYARI",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -506,8 +581,8 @@
     },
     {
       "era": "2021",
-      "correctCount": 3,
-      "correctSongCount": 2
+      "correctCount": 4,
+      "correctSongCount": 3
     },
     {
       "era": "2020",
@@ -531,18 +606,18 @@
     },
     {
       "era": "2023",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "era": "2012",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "era": "2017",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "era": "2010",
@@ -561,8 +636,8 @@
     },
     {
       "era": "2019",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "era": "2007-2008",
@@ -592,8 +667,8 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 0,
-      "correctSongCount": 0
+      "correctCount": 1,
+      "correctSongCount": 1
     },
     {
       "range": "50-100万",
@@ -604,26 +679,26 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 11,
-      "correctSongCount": 10
+      "correctCount": 12,
+      "correctSongCount": 11
     },
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 7,
-      "correctSongCount": 6
+      "correctCount": 8,
+      "correctSongCount": 7
     },
     {
       "range": "1000万-",
@@ -824,18 +899,148 @@
       "contentId": "sm40354298",
       "startTime": 1650639600000,
       "viewCounter": 1412824
+    },
+    {
+      "title": "ホロン",
+      "contentId": "sm35667721",
+      "startTime": 1568368800000,
+      "viewCounter": 406444
+    },
+    {
+      "title": "プロポーズ",
+      "contentId": "sm42461482",
+      "startTime": 1688990400000,
+      "viewCounter": 1867152
+    },
+    {
+      "title": "如月アテンション",
+      "contentId": "sm17930619",
+      "startTime": 1338044926000,
+      "viewCounter": 4731451
+    },
+    {
+      "title": "アプリコット",
+      "contentId": "sm39746081",
+      "startTime": 1639310400000,
+      "viewCounter": 2089675
+    },
+    {
+      "title": "何でも言うことを聞いてくれるアカネチャン",
+      "contentId": "sm32492001",
+      "startTime": 1514439622000,
+      "viewCounter": 7222785
     }
   ],
   "summary": {
-    "totalAnswers": 47,
-    "okAnswers": 35,
+    "totalAnswers": 52,
+    "okAnswers": 40,
     "ngAnswers": 12,
-    "participatedQuizCount": 8,
-    "winQuizCount": 7,
+    "participatedQuizCount": 9,
+    "winQuizCount": 8,
     "loseQuizCount": 0,
-    "medianViews": 4441030
+    "medianViews": 4282901
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "D2",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 6,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 21,
+          "contentId": "sm35667721",
+          "title": "ホロン",
+          "artistList": [
+            "wotaku"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35667721/35667721.81222331",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "aq瑠璃"
+            }
+          ]
+        },
+        {
+          "order": 31,
+          "contentId": "sm42461482",
+          "title": "プロポーズ",
+          "artistList": [
+            "内緒のピアス"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42461482/42461482.15717210",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "aq瑠璃"
+            }
+          ]
+        },
+        {
+          "order": 33,
+          "contentId": "sm17930619",
+          "title": "如月アテンション",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/17930619/17930619",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "aq瑠璃"
+            }
+          ]
+        },
+        {
+          "order": 41,
+          "contentId": "sm39746081",
+          "title": "アプリコット",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39746081/39746081.11018771",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "防虫剤"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "aq瑠璃"
+            }
+          ]
+        },
+        {
+          "order": 47,
+          "contentId": "sm32492001",
+          "title": "何でも言うことを聞いてくれるアカネチャン",
+          "artistList": [
+            "GYARI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32492001/32492001",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(6)",
+              "user": "aq瑠璃"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "D2",

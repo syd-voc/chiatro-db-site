@@ -993,6 +993,61 @@
       "startTime": "2019-08-25T17:10:00+09:00",
       "viewCounter": 2180053,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm22478322",
+      "title": "愛迷エレジー",
+      "artist": "DECO*27",
+      "artistList": [
+        "DECO*27"
+      ],
+      "startTime": "2013-12-18T20:00:00+09:00",
+      "viewCounter": 1682616,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39417976",
+      "title": "ハイド&ハイド",
+      "artist": "柊キライ",
+      "artistList": [
+        "柊キライ"
+      ],
+      "startTime": "2021-10-06T19:00:00+09:00",
+      "viewCounter": 135077,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm9639869",
+      "title": "WORLD'S END UMBRELLA",
+      "artist": "ハチ",
+      "artistList": [
+        "ハチ"
+      ],
+      "startTime": "2010-02-08T07:48:15+09:00",
+      "viewCounter": 1948487,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm16812983",
+      "title": "ネコミミアーカイブ",
+      "artist": "糞田舎P",
+      "artistList": [
+        "糞田舎P"
+      ],
+      "startTime": "2012-01-28T18:22:19+09:00",
+      "viewCounter": 1137590,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm9874560",
+      "title": "Nostalogic",
+      "artist": "yuukiss",
+      "artistList": [
+        "yuukiss"
+      ],
+      "startTime": "2010-03-01T07:01:51+09:00",
+      "viewCounter": 1189879,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -1013,8 +1068,8 @@
     },
     {
       "artist": "DECO*27",
-      "correctCount": 6,
-      "correctSongCount": 6
+      "correctCount": 7,
+      "correctSongCount": 7
     },
     {
       "artist": "すりぃ",
@@ -1300,6 +1355,26 @@
       "artist": "Neru",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "柊キライ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ハチ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "糞田舎P",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "yuukiss",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -1310,8 +1385,8 @@
     },
     {
       "era": "2013",
-      "correctCount": 7,
-      "correctSongCount": 6
+      "correctCount": 8,
+      "correctSongCount": 7
     },
     {
       "era": "2016",
@@ -1350,8 +1425,8 @@
     },
     {
       "era": "2012",
-      "correctCount": 8,
-      "correctSongCount": 8
+      "correctCount": 9,
+      "correctSongCount": 9
     },
     {
       "era": "2015",
@@ -1365,8 +1440,8 @@
     },
     {
       "era": "2010",
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 7,
+      "correctSongCount": 7
     },
     {
       "era": "2022",
@@ -1377,6 +1452,11 @@
       "era": "2009",
       "correctCount": 4,
       "correctSongCount": 4
+    },
+    {
+      "era": "2021",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "viewStats": [
@@ -1395,8 +1475,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 8,
-      "correctSongCount": 8
+      "correctCount": 9,
+      "correctSongCount": 9
     },
     {
       "range": "30-50万",
@@ -1413,8 +1493,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 30,
-      "correctSongCount": 30
+      "correctCount": 34,
+      "correctSongCount": 34
     },
     {
       "range": "200-300万",
@@ -1981,18 +2061,197 @@
       "contentId": "sm35586514",
       "startTime": 1566720600000,
       "viewCounter": 2180053
+    },
+    {
+      "title": "愛迷エレジー",
+      "contentId": "sm22478322",
+      "startTime": 1387364400000,
+      "viewCounter": 1682616
+    },
+    {
+      "title": "ハイド&ハイド",
+      "contentId": "sm39417976",
+      "startTime": 1633514400000,
+      "viewCounter": 135077
+    },
+    {
+      "title": "WORLD'S END UMBRELLA",
+      "contentId": "sm9639869",
+      "startTime": 1265582895000,
+      "viewCounter": 1948487
+    },
+    {
+      "title": "ネコミミアーカイブ",
+      "contentId": "sm16812983",
+      "startTime": 1327742539000,
+      "viewCounter": 1137590
+    },
+    {
+      "title": "Nostalogic",
+      "contentId": "sm9874560",
+      "startTime": 1267394511000,
+      "viewCounter": 1189879
     }
   ],
   "summary": {
-    "totalAnswers": 104,
-    "okAnswers": 91,
-    "ngAnswers": 13,
-    "participatedQuizCount": 20,
-    "winQuizCount": 18,
+    "totalAnswers": 111,
+    "okAnswers": 96,
+    "ngAnswers": 15,
+    "participatedQuizCount": 21,
+    "winQuizCount": 19,
     "loseQuizCount": 0,
-    "medianViews": 938102
+    "medianViews": 953733
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "D1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 9,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 2,
+          "contentId": "sm22478322",
+          "title": "愛迷エレジー",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22478322/22478322",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "惟月"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "contentId": "sm39417976",
+          "title": "ハイド&ハイド",
+          "artistList": [
+            "柊キライ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39417976/39417976.90350233",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "惟月"
+            }
+          ]
+        },
+        {
+          "order": 16,
+          "contentId": "sm45315642",
+          "title": "音声だけでお送りしますex",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45315642/45315642.35490233",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "たいこさん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "惟月"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(1)",
+              "user": "paradoxes"
+            }
+          ]
+        },
+        {
+          "order": 41,
+          "contentId": "sm9639869",
+          "title": "WORLD'S END UMBRELLA",
+          "artistList": [
+            "ハチ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9639869/9639869",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "惟月"
+            }
+          ]
+        },
+        {
+          "order": 49,
+          "contentId": "sm16203010",
+          "title": "ノスタルジックドリームガール",
+          "artistList": [
+            "トーマ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16203010/16203010",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "惟月"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 52,
+          "contentId": "sm16812983",
+          "title": "ネコミミアーカイブ",
+          "artistList": [
+            "糞田舎P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16812983/16812983",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "惟月"
+            }
+          ]
+        },
+        {
+          "order": 60,
+          "contentId": "sm9874560",
+          "title": "Nostalogic",
+          "artistList": [
+            "yuukiss"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9874560/9874560",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(9)",
+              "user": "惟月"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "D1",

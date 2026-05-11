@@ -2044,7 +2044,7 @@
       ],
       "startTime": "2023-03-18T19:00:00+09:00",
       "viewCounter": 977233,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm44395702",
@@ -2996,6 +2996,50 @@
       "startTime": "2008-10-08T00:48:44+09:00",
       "viewCounter": 837790,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm45124783",
+      "title": "T氏の話を信じるな",
+      "artist": "ピノキオピー",
+      "artistList": [
+        "ピノキオピー"
+      ],
+      "startTime": "2025-06-27T19:00:00+09:00",
+      "viewCounter": 812588,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm43802548",
+      "title": "頭ン痛",
+      "artist": "えいぷ",
+      "artistList": [
+        "えいぷ"
+      ],
+      "startTime": "2024-05-18T19:00:00+09:00",
+      "viewCounter": 254711,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45968104",
+      "title": "秘密のサボタージュ",
+      "artist": "いち野",
+      "artistList": [
+        "いち野"
+      ],
+      "startTime": "2026-02-21T00:00:00+09:00",
+      "viewCounter": 6346,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45315642",
+      "title": "音声だけでお送りしますex",
+      "artist": "いよわ",
+      "artistList": [
+        "いよわ"
+      ],
+      "startTime": "2025-08-21T19:00:00+09:00",
+      "viewCounter": 163695,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -3061,8 +3105,8 @@
     },
     {
       "artist": "いよわ",
-      "correctCount": 8,
-      "correctSongCount": 8
+      "correctCount": 9,
+      "correctSongCount": 9
     },
     {
       "artist": "malo",
@@ -3191,8 +3235,8 @@
     },
     {
       "artist": "ピノキオピー",
-      "correctCount": 6,
-      "correctSongCount": 6
+      "correctCount": 7,
+      "correctSongCount": 7
     },
     {
       "artist": "一二三",
@@ -3581,7 +3625,7 @@
     },
     {
       "artist": "なみぐる",
-      "correctCount": 3,
+      "correctCount": 4,
       "correctSongCount": 3
     },
     {
@@ -3788,6 +3832,16 @@
       "artist": "夜丹れにや",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "えいぷ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "いち野",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -3813,7 +3867,7 @@
     },
     {
       "era": "2023",
-      "correctCount": 36,
+      "correctCount": 37,
       "correctSongCount": 32
     },
     {
@@ -3848,8 +3902,8 @@
     },
     {
       "era": "2024",
-      "correctCount": 36,
-      "correctSongCount": 31
+      "correctCount": 37,
+      "correctSongCount": 32
     },
     {
       "era": "2011",
@@ -3878,16 +3932,16 @@
     },
     {
       "era": "2025-",
-      "correctCount": 25,
-      "correctSongCount": 22
+      "correctCount": 28,
+      "correctSongCount": 25
     }
   ],
   "viewStats": [
     {
       "range": "-1万",
       "order": 0,
-      "correctCount": 0,
-      "correctSongCount": 0
+      "correctCount": 1,
+      "correctSongCount": 1
     },
     {
       "range": "1-10万",
@@ -3898,8 +3952,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 47,
-      "correctSongCount": 44
+      "correctCount": 49,
+      "correctSongCount": 46
     },
     {
       "range": "30-50万",
@@ -3910,8 +3964,8 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 52,
-      "correctSongCount": 41
+      "correctCount": 54,
+      "correctSongCount": 42
     },
     {
       "range": "100-200万",
@@ -5570,18 +5624,160 @@
       "contentId": "nm4862028",
       "startTime": 1223394524000,
       "viewCounter": 837790
+    },
+    {
+      "title": "T氏の話を信じるな",
+      "contentId": "sm45124783",
+      "startTime": 1751018400000,
+      "viewCounter": 812588
+    },
+    {
+      "title": "頭ン痛",
+      "contentId": "sm43802548",
+      "startTime": 1716026400000,
+      "viewCounter": 254711
+    },
+    {
+      "title": "秘密のサボタージュ",
+      "contentId": "sm45968104",
+      "startTime": 1771599600000,
+      "viewCounter": 6346
+    },
+    {
+      "title": "音声だけでお送りしますex",
+      "contentId": "sm45315642",
+      "startTime": 1755770400000,
+      "viewCounter": 163695
     }
   ],
   "summary": {
-    "totalAnswers": 402,
-    "okAnswers": 318,
+    "totalAnswers": 407,
+    "okAnswers": 323,
     "ngAnswers": 84,
-    "participatedQuizCount": 66,
-    "winQuizCount": 62,
+    "participatedQuizCount": 67,
+    "winQuizCount": 63,
     "loseQuizCount": 0,
-    "medianViews": 901308
+    "medianViews": 900720
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "D1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 1,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 4,
+          "contentId": "sm41925983",
+          "title": "ずんだパーリナイ",
+          "artistList": [
+            "なみぐる"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41925983/41925983.86214949",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "paradoxes"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "contentId": "sm45124783",
+          "title": "T氏の話を信じるな",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45124783/45124783.60336447",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ニナ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "paradoxes"
+            }
+          ]
+        },
+        {
+          "order": 12,
+          "contentId": "sm43802548",
+          "title": "頭ン痛",
+          "artistList": [
+            "えいぷ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43802548/43802548.94638862",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "paradoxes"
+            }
+          ]
+        },
+        {
+          "order": 15,
+          "contentId": "sm45968104",
+          "title": "秘密のサボタージュ",
+          "artistList": [
+            "いち野"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45968104/45968104.94562018",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "paradoxes"
+            }
+          ]
+        },
+        {
+          "order": 16,
+          "contentId": "sm45315642",
+          "title": "音声だけでお送りしますex",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45315642/45315642.35490233",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "たいこさん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "惟月"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(1)",
+              "user": "paradoxes"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "D1",

@@ -1261,15 +1261,151 @@
     }
   ],
   "summary": {
-    "totalAnswers": 94,
+    "totalAnswers": 98,
     "okAnswers": 56,
-    "ngAnswers": 36,
-    "participatedQuizCount": 14,
+    "ngAnswers": 40,
+    "participatedQuizCount": 15,
     "winQuizCount": 9,
     "loseQuizCount": 2,
     "medianViews": 1089446
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "D2",
+      "date": "2026-05-09",
+      "ok": 0,
+      "ng": 4,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 1,
+          "contentId": "sm35618829",
+          "title": "フィクションブルー",
+          "artistList": [
+            "Ayase"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35618829/35618829.28386080",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あさぼらけ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "間宵"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "contentId": "sm37375876",
+          "title": "ルルージュ",
+          "artistList": [
+            "MIMI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37375876/37375876.2544431",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "間宵"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "花浅葱"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 17,
+          "contentId": "nm10406690",
+          "title": "オマーン湖",
+          "artistList": [
+            "乙P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10406690/10406690",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "間宵"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あご星人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "花浅葱"
+            }
+          ]
+        },
+        {
+          "order": 35,
+          "contentId": "sm42440400",
+          "title": "ミィハー",
+          "artistList": [
+            "Chinozo"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42440400/42440400.19246036",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "間宵"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "花浅葱"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "D1",

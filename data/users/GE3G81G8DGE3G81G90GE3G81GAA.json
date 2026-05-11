@@ -4520,7 +4520,7 @@
       ],
       "startTime": "2015-05-22T20:00:00+09:00",
       "viewCounter": 114814,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm29397079",
@@ -7644,6 +7644,50 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm17852502",
+      "title": "妄想するしかない",
+      "artist": "オワタP",
+      "artistList": [
+        "オワタP"
+      ],
+      "startTime": "2012-05-18T05:50:16+09:00",
+      "viewCounter": 181884,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm7843103",
+      "title": "ニトロベンゼン",
+      "artist": "オワタP",
+      "artistList": [
+        "オワタP"
+      ],
+      "startTime": "2009-08-05T05:55:57+09:00",
+      "viewCounter": 453572,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm5134729",
+      "title": "ヤンデ恋歌",
+      "artist": "れれれP",
+      "artistList": [
+        "れれれP"
+      ],
+      "startTime": "2008-11-03T14:18:21+09:00",
+      "viewCounter": 438102,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm10544006",
+      "title": "ARiA",
+      "artist": "とくP",
+      "artistList": [
+        "とくP"
+      ],
+      "startTime": "2010-04-29T11:32:13+09:00",
+      "viewCounter": 1172434,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm32894325",
       "title": "変身",
       "artist": "しじま",
@@ -9571,8 +9615,8 @@
     },
     {
       "artist": "オワタP",
-      "correctCount": 12,
-      "correctSongCount": 9
+      "correctCount": 14,
+      "correctSongCount": 11
     },
     {
       "artist": "新城P",
@@ -10686,7 +10730,7 @@
     },
     {
       "artist": "マッハ人生",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 1
     },
     {
@@ -10941,8 +10985,8 @@
     },
     {
       "artist": "れれれP",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "ⅥⅥ",
@@ -11175,6 +11219,11 @@
       "correctSongCount": 1
     },
     {
+      "artist": "とくP",
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
       "artist": "ryuryu",
       "correctCount": 1,
       "correctSongCount": 1
@@ -11370,11 +11419,6 @@
       "correctSongCount": 1
     },
     {
-      "artist": "とくP",
-      "correctCount": 1,
-      "correctSongCount": 1
-    },
-    {
       "artist": "もっふーP",
       "correctCount": 2,
       "correctSongCount": 1
@@ -11418,13 +11462,13 @@
   "eraStats": [
     {
       "era": "2007-2008",
-      "correctCount": 123,
-      "correctSongCount": 83
+      "correctCount": 124,
+      "correctSongCount": 84
     },
     {
       "era": "2010",
-      "correctCount": 118,
-      "correctSongCount": 78
+      "correctCount": 119,
+      "correctSongCount": 79
     },
     {
       "era": "2011",
@@ -11438,13 +11482,13 @@
     },
     {
       "era": "2012",
-      "correctCount": 176,
-      "correctSongCount": 124
+      "correctCount": 177,
+      "correctSongCount": 125
     },
     {
       "era": "2009",
-      "correctCount": 109,
-      "correctSongCount": 76
+      "correctCount": 110,
+      "correctSongCount": 77
     },
     {
       "era": "2019",
@@ -11458,7 +11502,7 @@
     },
     {
       "era": "2015",
-      "correctCount": 63,
+      "correctCount": 64,
       "correctSongCount": 49
     },
     {
@@ -11523,14 +11567,14 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 299,
-      "correctSongCount": 230
+      "correctCount": 301,
+      "correctSongCount": 231
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 198,
-      "correctSongCount": 140
+      "correctCount": 200,
+      "correctSongCount": 142
     },
     {
       "range": "50-100万",
@@ -11541,8 +11585,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 169,
-      "correctSongCount": 117
+      "correctCount": 170,
+      "correctSongCount": 118
     },
     {
       "range": "200-300万",
@@ -15729,6 +15773,30 @@
       "viewCounter": 481686
     },
     {
+      "title": "妄想するしかない",
+      "contentId": "sm17852502",
+      "startTime": 1337287816000,
+      "viewCounter": 181884
+    },
+    {
+      "title": "ニトロベンゼン",
+      "contentId": "sm7843103",
+      "startTime": 1249419357000,
+      "viewCounter": 453572
+    },
+    {
+      "title": "ヤンデ恋歌",
+      "contentId": "sm5134729",
+      "startTime": 1225689501000,
+      "viewCounter": 438102
+    },
+    {
+      "title": "ARiA",
+      "contentId": "sm10544006",
+      "startTime": 1272508333000,
+      "viewCounter": 1172434
+    },
+    {
       "title": "変身",
       "contentId": "sm32894325",
       "startTime": 1521198000000,
@@ -16762,15 +16830,216 @@
     }
   ],
   "summary": {
-    "totalAnswers": 1661,
-    "okAnswers": 1172,
-    "ngAnswers": 489,
-    "participatedQuizCount": 274,
-    "winQuizCount": 260,
+    "totalAnswers": 1669,
+    "okAnswers": 1177,
+    "ngAnswers": 492,
+    "participatedQuizCount": 275,
+    "winQuizCount": 261,
     "loseQuizCount": 0,
-    "medianViews": 471313
+    "medianViews": 469397
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "C1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 3,
+      "winRank": 4,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 13,
+          "contentId": "sm26299807",
+          "title": "人造人間ナマミマン",
+          "artistList": [
+            "マッハ人生"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26299807/26299807",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "フリスク"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "きぐな"
+            }
+          ]
+        },
+        {
+          "order": 30,
+          "contentId": "sm5525531",
+          "title": "Little Traveler",
+          "artistList": [
+            "ジミーサムP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/5525531/5525531",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠い人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "つみか"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "HAN"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きぐな"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "尾白もち"
+            }
+          ]
+        },
+        {
+          "order": 33,
+          "contentId": "sm17852502",
+          "title": "妄想するしかない",
+          "artistList": [
+            "オワタP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/17852502/17852502",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "きぐな"
+            }
+          ]
+        },
+        {
+          "order": 41,
+          "contentId": "sm7843103",
+          "title": "ニトロベンゼン",
+          "artistList": [
+            "オワタP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7843103/7843103",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "きぐな"
+            }
+          ]
+        },
+        {
+          "order": 48,
+          "contentId": "sm5134729",
+          "title": "ヤンデ恋歌",
+          "artistList": [
+            "れれれP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/5134729/5134729.93619643",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "きぐな"
+            }
+          ]
+        },
+        {
+          "order": 55,
+          "contentId": "sm14705584",
+          "title": "KiLLER LADY",
+          "artistList": [
+            "八王子P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14705584/14705584",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きぐな"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 59,
+          "contentId": "sm15070303",
+          "title": "I",
+          "artistList": [
+            "フェイP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15070303/15070303",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きぐな"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ぴーなっつ"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm10544006",
+          "title": "ARiA",
+          "artistList": [
+            "とくP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10544006/10544006",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(4)",
+              "user": "きぐな"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "C1",

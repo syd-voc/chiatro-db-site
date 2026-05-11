@@ -1162,19 +1162,64 @@
       ],
       "startTime": "2009-04-06T05:56:10+09:00",
       "viewCounter": 11111192,
+      "correctCount": 2
+    },
+    {
+      "contentId": "sm36936352",
+      "title": "さよなら、優等生",
+      "artist": "ちいたな",
+      "artistList": [
+        "ちいたな"
+      ],
+      "startTime": "2020-05-29T21:10:00+09:00",
+      "viewCounter": 213204,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm13715524",
+      "title": "キリトリセン",
+      "artist": "40mP",
+      "artistList": [
+        "40mP"
+      ],
+      "startTime": "2011-02-26T20:32:32+09:00",
+      "viewCounter": 2955259,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm34583356",
+      "title": "ロジカ",
+      "artist": "かいりきベア",
+      "artistList": [
+        "かいりきベア"
+      ],
+      "startTime": "2019-02-08T20:00:00+09:00",
+      "viewCounter": 1035419,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm29281205",
+      "title": "祝福のメシアとアイの塔",
+      "artist": "ひとしずく, やま△",
+      "artistList": [
+        "ひとしずく",
+        "やま△"
+      ],
+      "startTime": "2016-07-20T19:00:00+09:00",
+      "viewCounter": 1530850,
       "correctCount": 1
     }
   ],
   "artistStats": [
     {
       "artist": "ひとしずく",
-      "correctCount": 6,
-      "correctSongCount": 5
+      "correctCount": 7,
+      "correctSongCount": 6
     },
     {
       "artist": "やま△",
-      "correctCount": 6,
-      "correctSongCount": 5
+      "correctCount": 7,
+      "correctSongCount": 6
     },
     {
       "artist": "みきとP",
@@ -1208,8 +1253,8 @@
     },
     {
       "artist": "40mP",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "n-buna",
@@ -1293,7 +1338,7 @@
     },
     {
       "artist": "doriko",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 2
     },
     {
@@ -1313,8 +1358,8 @@
     },
     {
       "artist": "かいりきベア",
-      "correctCount": 4,
-      "correctSongCount": 3
+      "correctCount": 5,
+      "correctSongCount": 4
     },
     {
       "artist": "のぼる↑",
@@ -1530,6 +1575,11 @@
       "artist": "syudou",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "ちいたな",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -1560,8 +1610,8 @@
     },
     {
       "era": "2011",
-      "correctCount": 7,
-      "correctSongCount": 7
+      "correctCount": 8,
+      "correctSongCount": 8
     },
     {
       "era": "2017",
@@ -1570,23 +1620,23 @@
     },
     {
       "era": "2019",
-      "correctCount": 12,
-      "correctSongCount": 9
+      "correctCount": 13,
+      "correctSongCount": 10
     },
     {
       "era": "2009",
-      "correctCount": 9,
+      "correctCount": 10,
       "correctSongCount": 8
     },
     {
       "era": "2016",
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "era": "2020",
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "era": "2010",
@@ -1625,8 +1675,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 10,
-      "correctSongCount": 9
+      "correctCount": 11,
+      "correctSongCount": 10
     },
     {
       "range": "30-50万",
@@ -1643,14 +1693,14 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 18,
-      "correctSongCount": 17
+      "correctCount": 20,
+      "correctSongCount": 19
     },
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 11,
-      "correctSongCount": 10
+      "correctCount": 12,
+      "correctSongCount": 11
     },
     {
       "range": "300-500万",
@@ -1667,7 +1717,7 @@
     {
       "range": "1000万-",
       "order": 9,
-      "correctCount": 6,
+      "correctCount": 7,
       "correctSongCount": 6
     }
   ],
@@ -2301,18 +2351,208 @@
       "contentId": "sm6666016",
       "startTime": 1238964970000,
       "viewCounter": 11111192
+    },
+    {
+      "title": "さよなら、優等生",
+      "contentId": "sm36936352",
+      "startTime": 1590754200000,
+      "viewCounter": 213204
+    },
+    {
+      "title": "キリトリセン",
+      "contentId": "sm13715524",
+      "startTime": 1298719952000,
+      "viewCounter": 2955259
+    },
+    {
+      "title": "ロジカ",
+      "contentId": "sm34583356",
+      "startTime": 1549623600000,
+      "viewCounter": 1035419
+    },
+    {
+      "title": "祝福のメシアとアイの塔",
+      "contentId": "sm29281205",
+      "startTime": 1469008800000,
+      "viewCounter": 1530850
     }
   ],
   "summary": {
-    "totalAnswers": 169,
-    "okAnswers": 117,
-    "ngAnswers": 52,
-    "participatedQuizCount": 30,
-    "winQuizCount": 19,
+    "totalAnswers": 177,
+    "okAnswers": 122,
+    "ngAnswers": 55,
+    "participatedQuizCount": 31,
+    "winQuizCount": 20,
     "loseQuizCount": 0,
-    "medianViews": 956063
+    "medianViews": 1008950
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "D2",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 3,
+      "winRank": 4,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 14,
+          "contentId": "sm6666016",
+          "title": "ロミオとシンデレラ",
+          "artistList": [
+            "doriko"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6666016/6666016.67600511",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "防虫剤"
+            }
+          ]
+        },
+        {
+          "order": 16,
+          "contentId": "sm22001720",
+          "title": "いかないで",
+          "artistList": [
+            "想太"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22001720/22001720",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "防虫剤"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "あさぼらけ"
+            }
+          ]
+        },
+        {
+          "order": 20,
+          "contentId": "sm35868405",
+          "title": "ステラーバース",
+          "artistList": [
+            "yukkedoluce"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35868405/35868405.18953316",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "防虫剤"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 29,
+          "contentId": "sm36936352",
+          "title": "さよなら、優等生",
+          "artistList": [
+            "ちいたな"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36936352/36936352.70383789",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "防虫剤"
+            }
+          ]
+        },
+        {
+          "order": 32,
+          "contentId": "sm13715524",
+          "title": "キリトリセン",
+          "artistList": [
+            "40mP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13715524/13715524",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "防虫剤"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm34583356",
+          "title": "ロジカ",
+          "artistList": [
+            "かいりきベア"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34583356/34583356.91287",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "防虫剤"
+            }
+          ]
+        },
+        {
+          "order": 41,
+          "contentId": "sm39746081",
+          "title": "アプリコット",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39746081/39746081.11018771",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "防虫剤"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "aq瑠璃"
+            }
+          ]
+        },
+        {
+          "order": 45,
+          "contentId": "sm29281205",
+          "title": "祝福のメシアとアイの塔",
+          "artistList": [
+            "ひとしずく",
+            "やま△"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29281205/29281205",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(4)",
+              "user": "防虫剤"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 296,
       "group": "D1",

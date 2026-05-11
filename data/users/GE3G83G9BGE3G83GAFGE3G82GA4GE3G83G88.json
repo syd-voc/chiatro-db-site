@@ -2065,7 +2065,7 @@
       ],
       "startTime": "2019-03-08T19:00:00+09:00",
       "viewCounter": 845447,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm35808124",
@@ -6117,6 +6117,50 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm36106485",
+      "title": "アゴニー",
+      "artist": "ケダルイ",
+      "artistList": [
+        "ケダルイ"
+      ],
+      "startTime": "2019-12-19T20:20:00+09:00",
+      "viewCounter": 111765,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm19216490",
+      "title": "猿マネ椅子盗りゲーム",
+      "artist": "150P",
+      "artistList": [
+        "150P"
+      ],
+      "startTime": "2012-10-27T20:10:42+09:00",
+      "viewCounter": 876318,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm31347473",
+      "title": "7150日",
+      "artist": "瀬名航",
+      "artistList": [
+        "瀬名航"
+      ],
+      "startTime": "2017-06-07T19:00:00+09:00",
+      "viewCounter": 481730,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm37239551",
+      "title": "ごーまいうぇい！",
+      "artist": "キノシタ",
+      "artistList": [
+        "キノシタ"
+      ],
+      "startTime": "2020-07-24T19:10:02+09:00",
+      "viewCounter": 177806,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm32357820",
       "title": "nuit",
       "artist": "春野",
@@ -7880,8 +7924,8 @@
     },
     {
       "artist": "キノシタ",
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "artist": "無力P",
@@ -8360,7 +8404,7 @@
     },
     {
       "artist": "ろくろ",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -8500,8 +8544,8 @@
     },
     {
       "artist": "150P",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "ヘルニア",
@@ -9294,6 +9338,16 @@
       "correctSongCount": 1
     },
     {
+      "artist": "ケダルイ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "瀬名航",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
       "artist": "アサイウミ",
       "correctCount": 1,
       "correctSongCount": 1
@@ -9462,8 +9516,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 57,
-      "correctSongCount": 48
+      "correctCount": 58,
+      "correctSongCount": 49
     },
     {
       "era": "2016",
@@ -9472,8 +9526,8 @@
     },
     {
       "era": "2012",
-      "correctCount": 46,
-      "correctSongCount": 41
+      "correctCount": 47,
+      "correctSongCount": 42
     },
     {
       "era": "2014",
@@ -9487,8 +9541,8 @@
     },
     {
       "era": "2017",
-      "correctCount": 73,
-      "correctSongCount": 56
+      "correctCount": 74,
+      "correctSongCount": 57
     },
     {
       "era": "2015",
@@ -9507,8 +9561,8 @@
     },
     {
       "era": "2019",
-      "correctCount": 95,
-      "correctSongCount": 81
+      "correctCount": 97,
+      "correctSongCount": 82
     },
     {
       "era": "2010",
@@ -9562,20 +9616,20 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 299,
-      "correctSongCount": 256
+      "correctCount": 301,
+      "correctSongCount": 258
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 128,
-      "correctSongCount": 101
+      "correctCount": 129,
+      "correctSongCount": 102
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 143,
-      "correctSongCount": 108
+      "correctCount": 145,
+      "correctSongCount": 109
     },
     {
       "range": "100-200万",
@@ -12934,6 +12988,30 @@
       "viewCounter": 517137
     },
     {
+      "title": "アゴニー",
+      "contentId": "sm36106485",
+      "startTime": 1576754400000,
+      "viewCounter": 111765
+    },
+    {
+      "title": "猿マネ椅子盗りゲーム",
+      "contentId": "sm19216490",
+      "startTime": 1351336242000,
+      "viewCounter": 876318
+    },
+    {
+      "title": "7150日",
+      "contentId": "sm31347473",
+      "startTime": 1496829600000,
+      "viewCounter": 481730
+    },
+    {
+      "title": "ごーまいうぇい！",
+      "contentId": "sm37239551",
+      "startTime": 1595585402000,
+      "viewCounter": 177806
+    },
+    {
       "title": "nuit",
       "contentId": "sm32357820",
       "startTime": 1512381600000,
@@ -13781,15 +13859,157 @@
     }
   ],
   "summary": {
-    "totalAnswers": 946,
-    "okAnswers": 838,
-    "ngAnswers": 108,
-    "participatedQuizCount": 209,
-    "winQuizCount": 178,
+    "totalAnswers": 952,
+    "okAnswers": 843,
+    "ngAnswers": 109,
+    "participatedQuizCount": 210,
+    "winQuizCount": 179,
     "loseQuizCount": 0,
     "medianViews": 285464
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "B",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 2,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 17,
+          "contentId": "sm36106485",
+          "title": "アゴニー",
+          "artistList": [
+            "ケダルイ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36106485/36106485.98900821",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "わいえい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ホワイト"
+            }
+          ]
+        },
+        {
+          "order": 20,
+          "contentId": "sm19216490",
+          "title": "猿マネ椅子盗りゲーム",
+          "artistList": [
+            "150P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19216490/19216490",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "わいえい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ホワイト"
+            }
+          ]
+        },
+        {
+          "order": 21,
+          "contentId": "nm8821502",
+          "title": "コロコロ",
+          "artistList": [
+            "まーる"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8821502/8821502",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ホワイト"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 24,
+          "contentId": "sm31347473",
+          "title": "7150日",
+          "artistList": [
+            "瀬名航"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31347473/31347473",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ホワイト"
+            }
+          ]
+        },
+        {
+          "order": 27,
+          "contentId": "sm37239551",
+          "title": "ごーまいうぇい！",
+          "artistList": [
+            "キノシタ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37239551/37239551.7502865",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ホワイト"
+            }
+          ]
+        },
+        {
+          "order": 28,
+          "contentId": "sm34745078",
+          "title": "DADARUMA",
+          "artistList": [
+            "ろくろ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34745078/34745078.34340",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(2)",
+              "user": "ホワイト"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 296,
       "group": "A",

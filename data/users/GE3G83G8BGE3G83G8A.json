@@ -209,7 +209,7 @@
       ],
       "startTime": "2008-03-31T18:52:06+09:00",
       "viewCounter": 1189819,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm4410647",
@@ -1023,7 +1023,7 @@
       ],
       "startTime": "2008-01-05T04:54:17+09:00",
       "viewCounter": 1070654,
-      "correctCount": 3
+      "correctCount": 4
     },
     {
       "contentId": "sm6085510",
@@ -2667,7 +2667,7 @@
       ],
       "startTime": "2014-06-07T19:00:00+09:00",
       "viewCounter": 1865225,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm14387746",
@@ -3131,6 +3131,28 @@
       "startTime": "2014-02-14T19:19:00+09:00",
       "viewCounter": 1869986,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm21764582",
+      "title": "妄想税",
+      "artist": "DECO*27",
+      "artistList": [
+        "DECO*27"
+      ],
+      "startTime": "2013-09-07T20:00:00+09:00",
+      "viewCounter": 5514448,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm13774194",
+      "title": "Mr.Music",
+      "artist": "れるりり",
+      "artistList": [
+        "れるりり"
+      ],
+      "startTime": "2011-03-04T20:00:33+09:00",
+      "viewCounter": 1903916,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -3161,8 +3183,8 @@
     },
     {
       "artist": "DECO*27",
-      "correctCount": 26,
-      "correctSongCount": 18
+      "correctCount": 27,
+      "correctSongCount": 19
     },
     {
       "artist": "kemu",
@@ -3221,7 +3243,7 @@
     },
     {
       "artist": "れれれP",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -3316,8 +3338,8 @@
     },
     {
       "artist": "れるりり",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 5,
+      "correctSongCount": 4
     },
     {
       "artist": "どぶウサギ",
@@ -3451,7 +3473,7 @@
     },
     {
       "artist": "kz",
-      "correctCount": 5,
+      "correctCount": 6,
       "correctSongCount": 3
     },
     {
@@ -3791,7 +3813,7 @@
     },
     {
       "artist": "もじゃ",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -3898,7 +3920,7 @@
   "eraStats": [
     {
       "era": "2014",
-      "correctCount": 27,
+      "correctCount": 28,
       "correctSongCount": 20
     },
     {
@@ -3908,13 +3930,13 @@
     },
     {
       "era": "2007-2008",
-      "correctCount": 46,
+      "correctCount": 48,
       "correctSongCount": 29
     },
     {
       "era": "2011",
-      "correctCount": 45,
-      "correctSongCount": 29
+      "correctCount": 46,
+      "correctSongCount": 30
     },
     {
       "era": "2009",
@@ -3958,8 +3980,8 @@
     },
     {
       "era": "2013",
-      "correctCount": 18,
-      "correctSongCount": 16
+      "correctCount": 19,
+      "correctSongCount": 17
     },
     {
       "era": "2020",
@@ -4021,8 +4043,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 117,
-      "correctSongCount": 87
+      "correctCount": 121,
+      "correctSongCount": 88
     },
     {
       "range": "200-300万",
@@ -4039,8 +4061,8 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 65,
-      "correctSongCount": 43
+      "correctCount": 66,
+      "correctSongCount": 44
     },
     {
       "range": "1000万-",
@@ -5753,18 +5775,197 @@
       "contentId": "sm22872605",
       "startTime": 1392373140000,
       "viewCounter": 1869986
+    },
+    {
+      "title": "妄想税",
+      "contentId": "sm21764582",
+      "startTime": 1378551600000,
+      "viewCounter": 5514448
+    },
+    {
+      "title": "Mr.Music",
+      "contentId": "sm13774194",
+      "startTime": 1299236433000,
+      "viewCounter": 1903916
     }
   ],
   "summary": {
-    "totalAnswers": 614,
-    "okAnswers": 407,
-    "ngAnswers": 205,
-    "participatedQuizCount": 87,
-    "winQuizCount": 76,
+    "totalAnswers": 622,
+    "okAnswers": 412,
+    "ngAnswers": 208,
+    "participatedQuizCount": 88,
+    "winQuizCount": 77,
     "loseQuizCount": 2,
-    "medianViews": 2841737
+    "medianViews": 2777764
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "D1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 3,
+      "winRank": 3,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 1,
+          "contentId": "sm13275244",
+          "title": "腐れ外道とチョコレゐト",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13275244/13275244",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ニナ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "たいこさん"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "contentId": "sm45124783",
+          "title": "T氏の話を信じるな",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45124783/45124783.60336447",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ニナ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "paradoxes"
+            }
+          ]
+        },
+        {
+          "order": 9,
+          "contentId": "sm1952223",
+          "title": "ファインダー",
+          "artistList": [
+            "kz"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1952223/1952223",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ニナ"
+            }
+          ]
+        },
+        {
+          "order": 17,
+          "contentId": "sm43365493",
+          "title": "ひゅ〜どろどろ",
+          "artistList": [
+            "栗山夕璃(蜂屋ななし)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43365493/43365493.91414763",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ニナ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "りつりつ"
+            }
+          ]
+        },
+        {
+          "order": 27,
+          "contentId": "sm21764582",
+          "title": "妄想税",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21764582/21764582",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ニナ"
+            }
+          ]
+        },
+        {
+          "order": 29,
+          "contentId": "sm13774194",
+          "title": "Mr.Music",
+          "artistList": [
+            "れるりり"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13774194/13774194",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ニナ"
+            }
+          ]
+        },
+        {
+          "order": 30,
+          "contentId": "sm2849292",
+          "title": "イケ恋歌",
+          "artistList": [
+            "れれれP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2849292/2849292.47778356",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ニナ"
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "contentId": "sm23721916",
+          "title": "妄想疾患■ガール",
+          "artistList": [
+            "もじゃ",
+            "れるりり"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23721916/23721916",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(3)",
+              "user": "ニナ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "D1",

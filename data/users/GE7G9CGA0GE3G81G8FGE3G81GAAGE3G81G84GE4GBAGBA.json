@@ -178,7 +178,7 @@
       ],
       "startTime": "2020-03-23T19:00:02+09:00",
       "viewCounter": 444256,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm33213206",
@@ -233,7 +233,7 @@
       ],
       "startTime": "2021-04-24T00:15:00+09:00",
       "viewCounter": 480553,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm21965634",
@@ -794,7 +794,7 @@
       ],
       "startTime": "2009-01-30T21:15:47+09:00",
       "viewCounter": 3073193,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm19774756",
@@ -6815,6 +6815,17 @@
       "startTime": "2019-09-26T19:00:00+09:00",
       "viewCounter": 131398,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm32836542",
+      "title": "海を泳ぐ月",
+      "artist": "40mP",
+      "artistList": [
+        "40mP"
+      ],
+      "startTime": "2018-03-05T19:00:00+09:00",
+      "viewCounter": 334801,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -6840,8 +6851,8 @@
     },
     {
       "artist": "40mP",
-      "correctCount": 13,
-      "correctSongCount": 11
+      "correctCount": 14,
+      "correctSongCount": 12
     },
     {
       "artist": "ひとしずく",
@@ -6905,7 +6916,7 @@
     },
     {
       "artist": "なきそ",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -6930,7 +6941,7 @@
     },
     {
       "artist": "タケノコ少年",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -7095,7 +7106,7 @@
     },
     {
       "artist": "流星P",
-      "correctCount": 3,
+      "correctCount": 4,
       "correctSongCount": 2
     },
     {
@@ -8082,8 +8093,8 @@
   "eraStats": [
     {
       "era": "2018",
-      "correctCount": 47,
-      "correctSongCount": 38
+      "correctCount": 48,
+      "correctSongCount": 39
     },
     {
       "era": "2013",
@@ -8117,12 +8128,12 @@
     },
     {
       "era": "2020",
-      "correctCount": 60,
+      "correctCount": 61,
       "correctSongCount": 49
     },
     {
       "era": "2021",
-      "correctCount": 32,
+      "correctCount": 33,
       "correctSongCount": 23
     },
     {
@@ -8152,7 +8163,7 @@
     },
     {
       "era": "2009",
-      "correctCount": 62,
+      "correctCount": 63,
       "correctSongCount": 50
     },
     {
@@ -8193,8 +8204,8 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 150,
-      "correctSongCount": 117
+      "correctCount": 153,
+      "correctSongCount": 118
     },
     {
       "range": "50-100万",
@@ -8217,7 +8228,7 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 52,
+      "correctCount": 53,
       "correctSongCount": 42
     },
     {
@@ -11941,18 +11952,210 @@
       "contentId": "sm35731057",
       "startTime": 1569492000000,
       "viewCounter": 131398
+    },
+    {
+      "title": "海を泳ぐ月",
+      "contentId": "sm32836542",
+      "startTime": 1520244000000,
+      "viewCounter": 334801
     }
   ],
   "summary": {
-    "totalAnswers": 1071,
-    "okAnswers": 762,
-    "ngAnswers": 308,
-    "participatedQuizCount": 175,
-    "winQuizCount": 160,
+    "totalAnswers": 1078,
+    "okAnswers": 766,
+    "ngAnswers": 311,
+    "participatedQuizCount": 176,
+    "winQuizCount": 161,
     "loseQuizCount": 1,
-    "medianViews": 612730
+    "medianViews": 607581
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "A",
+      "date": "2026-05-08",
+      "ok": 4,
+      "ng": 3,
+      "winRank": 11,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 11,
+          "contentId": "sm36558614",
+          "title": "花めかない",
+          "artistList": [
+            "なきそ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36558614/36558614.64947255",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "眠くない人"
+            }
+          ]
+        },
+        {
+          "order": 16,
+          "contentId": "sm5992615",
+          "title": "RIP=RELEASE",
+          "artistList": [
+            "流星P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/5992615/5992615",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "眠くない人"
+            }
+          ]
+        },
+        {
+          "order": 24,
+          "contentId": "sm35477620",
+          "title": "くそったれ讃歌",
+          "artistList": [
+            "ちいたな"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35477620/35477620.86401685",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠くない人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "かなくり"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なごん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "エイミー"
+            }
+          ]
+        },
+        {
+          "order": 30,
+          "contentId": "sm19694866",
+          "title": "セツナデシコ",
+          "artistList": [
+            "ライブP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19694866/19694866.73010570",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "最強の私"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠くない人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "手下"
+            }
+          ]
+        },
+        {
+          "order": 36,
+          "contentId": "sm43413064",
+          "title": "あっぱれだ！",
+          "artistList": [
+            "シカクドット"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43413064/43413064.14865281",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠くない人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(4)",
+              "user": "世界のYAMADA"
+            }
+          ]
+        },
+        {
+          "order": 59,
+          "contentId": "sm32836542",
+          "title": "海を泳ぐ月",
+          "artistList": [
+            "40mP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32836542/32836542",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "眠くない人"
+            }
+          ]
+        },
+        {
+          "order": 64,
+          "contentId": "sm38613334",
+          "title": "そうだった！！",
+          "artistList": [
+            "タケノコ少年"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38613334/38613334.88335240",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(11)",
+              "user": "眠くない人"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "A",

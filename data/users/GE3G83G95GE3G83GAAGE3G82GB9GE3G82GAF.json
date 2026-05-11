@@ -443,7 +443,7 @@
       ],
       "startTime": "2021-12-26T19:00:00+09:00",
       "viewCounter": 1023830,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm31775813",
@@ -564,7 +564,7 @@
       ],
       "startTime": "2012-10-08T05:30:00+09:00",
       "viewCounter": 2228268,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm24892241",
@@ -2682,7 +2682,7 @@
       ],
       "startTime": "2024-09-14T23:00:00+09:00",
       "viewCounter": 152620,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm35933131",
@@ -4328,6 +4328,28 @@
       "startTime": "2017-01-20T20:00:00+09:00",
       "viewCounter": 1386416,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm43365493",
+      "title": "ひゅ〜どろどろ",
+      "artist": "栗山夕璃(蜂屋ななし)",
+      "artistList": [
+        "栗山夕璃(蜂屋ななし)"
+      ],
+      "startTime": "2024-02-09T18:39:00+09:00",
+      "viewCounter": 426465,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44755576",
+      "title": "アンコールダンス",
+      "artist": "MIMI",
+      "artistList": [
+        "MIMI"
+      ],
+      "startTime": "2025-03-13T19:00:00+09:00",
+      "viewCounter": 460133,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4348,7 +4370,7 @@
     },
     {
       "artist": "煮ル果実",
-      "correctCount": 18,
+      "correctCount": 19,
       "correctSongCount": 13
     },
     {
@@ -4358,8 +4380,8 @@
     },
     {
       "artist": "栗山夕璃(蜂屋ななし)",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "Neru",
@@ -4538,7 +4560,7 @@
     },
     {
       "artist": "ika",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -4678,7 +4700,7 @@
     },
     {
       "artist": "原口沙輔",
-      "correctCount": 6,
+      "correctCount": 7,
       "correctSongCount": 4
     },
     {
@@ -4833,8 +4855,8 @@
     },
     {
       "artist": "MIMI",
-      "correctCount": 7,
-      "correctSongCount": 3
+      "correctCount": 8,
+      "correctSongCount": 4
     },
     {
       "artist": "和田たけあき",
@@ -5260,7 +5282,7 @@
   "eraStats": [
     {
       "era": "2021",
-      "correctCount": 55,
+      "correctCount": 56,
       "correctSongCount": 40
     },
     {
@@ -5285,7 +5307,7 @@
     },
     {
       "era": "2012",
-      "correctCount": 7,
+      "correctCount": 8,
       "correctSongCount": 5
     },
     {
@@ -5325,8 +5347,8 @@
     },
     {
       "era": "2024",
-      "correctCount": 46,
-      "correctSongCount": 41
+      "correctCount": 48,
+      "correctSongCount": 42
     },
     {
       "era": "2010",
@@ -5345,8 +5367,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 19,
-      "correctSongCount": 19
+      "correctCount": 20,
+      "correctSongCount": 20
     }
   ],
   "viewStats": [
@@ -5365,14 +5387,14 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 69,
+      "correctCount": 70,
       "correctSongCount": 66
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 72,
-      "correctSongCount": 57
+      "correctCount": 74,
+      "correctSongCount": 59
     },
     {
       "range": "50-100万",
@@ -5383,13 +5405,13 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 108,
+      "correctCount": 109,
       "correctSongCount": 80
     },
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 43,
+      "correctCount": 44,
       "correctSongCount": 32
     },
     {
@@ -7763,18 +7785,228 @@
       "contentId": "sm30447915",
       "startTime": 1484910000000,
       "viewCounter": 1386416
+    },
+    {
+      "title": "ひゅ〜どろどろ",
+      "contentId": "sm43365493",
+      "startTime": 1707471540000,
+      "viewCounter": 426465
+    },
+    {
+      "title": "アンコールダンス",
+      "contentId": "sm44755576",
+      "startTime": 1741860000000,
+      "viewCounter": 460133
     }
   ],
   "summary": {
-    "totalAnswers": 800,
-    "okAnswers": 489,
-    "ngAnswers": 298,
-    "participatedQuizCount": 115,
-    "winQuizCount": 85,
+    "totalAnswers": 809,
+    "okAnswers": 494,
+    "ngAnswers": 302,
+    "participatedQuizCount": 116,
+    "winQuizCount": 86,
     "loseQuizCount": 13,
-    "medianViews": 930565
+    "medianViews": 926025
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "C1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 4,
+      "winRank": 10,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 2,
+          "contentId": "sm44102888",
+          "title": "ノシノシ",
+          "artistList": [
+            "原口沙輔"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44102888/44102888.57016815",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "フリスク"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "contentId": "sm43365493",
+          "title": "ひゅ〜どろどろ",
+          "artistList": [
+            "栗山夕璃(蜂屋ななし)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43365493/43365493.91414763",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "フリスク"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "contentId": "sm44755576",
+          "title": "アンコールダンス",
+          "artistList": [
+            "MIMI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44755576/44755576.50354348",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "フリスク"
+            }
+          ]
+        },
+        {
+          "order": 10,
+          "contentId": "sm17700880",
+          "title": "夢魅鳥",
+          "artistList": [
+            "azuma"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/17700880/17700880",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "フリスク"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "HAN"
+            }
+          ]
+        },
+        {
+          "order": 13,
+          "contentId": "sm26299807",
+          "title": "人造人間ナマミマン",
+          "artistList": [
+            "マッハ人生"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26299807/26299807",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "フリスク"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "きぐな"
+            }
+          ]
+        },
+        {
+          "order": 16,
+          "contentId": "sm44678886",
+          "title": "遡行録",
+          "artistList": [
+            "アモス"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44678886/44678886.53495187",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "フリスク"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 31,
+          "contentId": "sm39809011",
+          "title": "バーバヤーガ",
+          "artistList": [
+            "煮ル果実"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39809011/39809011.36218951",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "フリスク"
+            }
+          ]
+        },
+        {
+          "order": 32,
+          "contentId": "sm8384884",
+          "title": "ムゲンノホシゾラ",
+          "artistList": [
+            "azuma"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8384884/8384884",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "フリスク"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とある逢瀬"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 76,
+          "contentId": "sm19069321",
+          "title": "みんなみくみくにしてあげる♪",
+          "artistList": [
+            "ika"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19069321/19069321",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(10)",
+              "user": "フリスク"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "C1",

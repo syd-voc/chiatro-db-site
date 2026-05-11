@@ -5342,6 +5342,50 @@
       "startTime": "2020-07-24T19:57:02+09:00",
       "viewCounter": 75030,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm26824403",
+      "title": "ナイトメアカーニバル",
+      "artist": "けーだっしゅ",
+      "artistList": [
+        "けーだっしゅ"
+      ],
+      "startTime": "2015-07-31T19:00:00+09:00",
+      "viewCounter": 53705,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm30117882",
+      "title": "ツクリカケノ心象",
+      "artist": "稲葉曇",
+      "artistList": [
+        "稲葉曇"
+      ],
+      "startTime": "2016-11-26T19:00:00+09:00",
+      "viewCounter": 273098,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44677571",
+      "title": "夢遊病",
+      "artist": "イマニシ",
+      "artistList": [
+        "イマニシ"
+      ],
+      "startTime": "2025-02-22T00:00:00+09:00",
+      "viewCounter": 60864,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm38292635",
+      "title": "反芻シ考",
+      "artist": "れるりり",
+      "artistList": [
+        "れるりり"
+      ],
+      "startTime": "2021-02-19T18:00:00+09:00",
+      "viewCounter": 146427,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -5722,8 +5766,8 @@
     },
     {
       "artist": "れるりり",
-      "correctCount": 4,
-      "correctSongCount": 3
+      "correctCount": 5,
+      "correctSongCount": 4
     },
     {
       "artist": "玉木ちんたら",
@@ -5762,8 +5806,8 @@
     },
     {
       "artist": "けーだっしゅ",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "無力P",
@@ -5872,8 +5916,8 @@
     },
     {
       "artist": "稲葉曇",
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "artist": "tamon",
@@ -6839,13 +6883,18 @@
       "artist": "あ子",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "イマニシ",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2021",
-      "correctCount": 58,
-      "correctSongCount": 54
+      "correctCount": 59,
+      "correctSongCount": 55
     },
     {
       "era": "2020",
@@ -6859,8 +6908,8 @@
     },
     {
       "era": "2015",
-      "correctCount": 31,
-      "correctSongCount": 28
+      "correctCount": 32,
+      "correctSongCount": 29
     },
     {
       "era": "2014",
@@ -6874,8 +6923,8 @@
     },
     {
       "era": "2016",
-      "correctCount": 31,
-      "correctSongCount": 31
+      "correctCount": 32,
+      "correctSongCount": 32
     },
     {
       "era": "2018",
@@ -6929,8 +6978,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 16,
-      "correctSongCount": 16
+      "correctCount": 17,
+      "correctSongCount": 17
     }
   ],
   "viewStats": [
@@ -6943,14 +6992,14 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 136,
-      "correctSongCount": 128
+      "correctCount": 138,
+      "correctSongCount": 130
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 182,
-      "correctSongCount": 171
+      "correctCount": 184,
+      "correctSongCount": 173
     },
     {
       "range": "30-50万",
@@ -9899,18 +9948,237 @@
       "contentId": "sm37239626",
       "startTime": 1595588222000,
       "viewCounter": 75030
+    },
+    {
+      "title": "ナイトメアカーニバル",
+      "contentId": "sm26824403",
+      "startTime": 1438336800000,
+      "viewCounter": 53705
+    },
+    {
+      "title": "ツクリカケノ心象",
+      "contentId": "sm30117882",
+      "startTime": 1480154400000,
+      "viewCounter": 273098
+    },
+    {
+      "title": "夢遊病",
+      "contentId": "sm44677571",
+      "startTime": 1740150000000,
+      "viewCounter": 60864
+    },
+    {
+      "title": "反芻シ考",
+      "contentId": "sm38292635",
+      "startTime": 1613725200000,
+      "viewCounter": 146427
     }
   ],
   "summary": {
-    "totalAnswers": 693,
-    "okAnswers": 515,
-    "ngAnswers": 176,
-    "participatedQuizCount": 118,
-    "winQuizCount": 107,
+    "totalAnswers": 700,
+    "okAnswers": 519,
+    "ngAnswers": 179,
+    "participatedQuizCount": 119,
+    "winQuizCount": 108,
     "loseQuizCount": 2,
-    "medianViews": 174094
+    "medianViews": 173811
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "A",
+      "date": "2026-05-08",
+      "ok": 4,
+      "ng": 3,
+      "winRank": 8,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 17,
+          "contentId": "sm26824403",
+          "title": "ナイトメアカーニバル",
+          "artistList": [
+            "けーだっしゅ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26824403/26824403",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゲオス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ぬーん"
+            }
+          ]
+        },
+        {
+          "order": 19,
+          "contentId": "sm30117882",
+          "title": "ツクリカケノ心象",
+          "artistList": [
+            "稲葉曇"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30117882/30117882.85613728",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ぬーん"
+            }
+          ]
+        },
+        {
+          "order": 27,
+          "contentId": "sm44677571",
+          "title": "夢遊病",
+          "artistList": [
+            "イマニシ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44677571/44677571.13839557",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "エイミー"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ぬーん"
+            }
+          ]
+        },
+        {
+          "order": 30,
+          "contentId": "sm19694866",
+          "title": "セツナデシコ",
+          "artistList": [
+            "ライブP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19694866/19694866.73010570",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "最強の私"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠くない人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "手下"
+            }
+          ]
+        },
+        {
+          "order": 32,
+          "contentId": "sm45288442",
+          "title": "ぐちゃぐちゃぬるぽ",
+          "artistList": [
+            "STEAKA"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45288442/45288442.46228561",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ベガ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ゲオス"
+            }
+          ]
+        },
+        {
+          "order": 41,
+          "contentId": "sm44094606",
+          "title": "デュエルペット",
+          "artistList": [
+            "gaburyu"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44094606/44094606.95842043",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "まつせ"
+            }
+          ]
+        },
+        {
+          "order": 54,
+          "contentId": "sm38292635",
+          "title": "反芻シ考",
+          "artistList": [
+            "れるりり"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38292635/38292635.48833798",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(8)",
+              "user": "ぬーん"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "A",

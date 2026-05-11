@@ -22,7 +22,7 @@
       ],
       "startTime": "2019-09-30T19:00:00+09:00",
       "viewCounter": 222988,
-      "correctCount": 3
+      "correctCount": 4
     },
     {
       "contentId": "sm38333228",
@@ -562,7 +562,7 @@
       ],
       "startTime": "2019-10-26T18:00:00+09:00",
       "viewCounter": 3958828,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm32234716",
@@ -2317,6 +2317,39 @@
       "startTime": "2018-05-16T23:59:00+09:00",
       "viewCounter": 731084,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm3645817",
+      "title": "ブラック★ロックシューター",
+      "artist": "ryo",
+      "artistList": [
+        "ryo"
+      ],
+      "startTime": "2008-06-13T22:58:53+09:00",
+      "viewCounter": 9043087,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm43365493",
+      "title": "ひゅ〜どろどろ",
+      "artist": "栗山夕璃(蜂屋ななし)",
+      "artistList": [
+        "栗山夕璃(蜂屋ななし)"
+      ],
+      "startTime": "2024-02-09T18:39:00+09:00",
+      "viewCounter": 426465,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44601300",
+      "title": "ヘイヴン",
+      "artist": "煮ル果実",
+      "artistList": [
+        "煮ル果実"
+      ],
+      "startTime": "2025-02-01T19:10:00+09:00",
+      "viewCounter": 180292,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -2327,7 +2360,7 @@
     },
     {
       "artist": "キノシタ",
-      "correctCount": 19,
+      "correctCount": 20,
       "correctSongCount": 12
     },
     {
@@ -2487,7 +2520,7 @@
     },
     {
       "artist": "八王子P",
-      "correctCount": 3,
+      "correctCount": 4,
       "correctSongCount": 3
     },
     {
@@ -2507,8 +2540,8 @@
     },
     {
       "artist": "ryo",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "マサラダ",
@@ -2547,7 +2580,7 @@
     },
     {
       "artist": "ギガ",
-      "correctCount": 10,
+      "correctCount": 11,
       "correctSongCount": 6
     },
     {
@@ -2807,8 +2840,8 @@
     },
     {
       "artist": "栗山夕璃(蜂屋ななし)",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "はろける",
@@ -2984,6 +3017,11 @@
       "artist": "yanagi",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "煮ル果実",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -2994,7 +3032,7 @@
     },
     {
       "era": "2019",
-      "correctCount": 14,
+      "correctCount": 16,
       "correctSongCount": 9
     },
     {
@@ -3004,8 +3042,8 @@
     },
     {
       "era": "2007-2008",
-      "correctCount": 12,
-      "correctSongCount": 12
+      "correctCount": 13,
+      "correctSongCount": 13
     },
     {
       "era": "2017",
@@ -3049,8 +3087,8 @@
     },
     {
       "era": "2024",
-      "correctCount": 23,
-      "correctSongCount": 16
+      "correctCount": 24,
+      "correctSongCount": 17
     },
     {
       "era": "2013",
@@ -3074,8 +3112,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 7,
-      "correctSongCount": 6
+      "correctCount": 8,
+      "correctSongCount": 7
     }
   ],
   "viewStats": [
@@ -3094,14 +3132,14 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 43,
-      "correctSongCount": 32
+      "correctCount": 45,
+      "correctSongCount": 33
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 35,
-      "correctSongCount": 30
+      "correctCount": 36,
+      "correctSongCount": 31
     },
     {
       "range": "50-100万",
@@ -3124,14 +3162,14 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 29,
+      "correctCount": 30,
       "correctSongCount": 21
     },
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 28,
-      "correctSongCount": 20
+      "correctCount": 29,
+      "correctSongCount": 21
     },
     {
       "range": "1000万-",
@@ -4400,18 +4438,137 @@
       "contentId": "sm33219885",
       "startTime": 1526482740000,
       "viewCounter": 731084
+    },
+    {
+      "title": "ブラック★ロックシューター",
+      "contentId": "sm3645817",
+      "startTime": 1213365533000,
+      "viewCounter": 9043087
+    },
+    {
+      "title": "ひゅ〜どろどろ",
+      "contentId": "sm43365493",
+      "startTime": 1707471540000,
+      "viewCounter": 426465
+    },
+    {
+      "title": "ヘイヴン",
+      "contentId": "sm44601300",
+      "startTime": 1738404600000,
+      "viewCounter": 180292
     }
   ],
   "summary": {
-    "totalAnswers": 339,
-    "okAnswers": 276,
+    "totalAnswers": 344,
+    "okAnswers": 281,
     "ngAnswers": 63,
-    "participatedQuizCount": 59,
-    "winQuizCount": 52,
+    "participatedQuizCount": 60,
+    "winQuizCount": 53,
     "loseQuizCount": 0,
     "medianViews": 903079
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "D1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 2,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 8,
+          "contentId": "sm35752482",
+          "title": "人間のくせになまいきだ",
+          "artistList": [
+            "キノシタ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35752482/35752482.59256486",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "りつりつ"
+            }
+          ]
+        },
+        {
+          "order": 14,
+          "contentId": "sm3645817",
+          "title": "ブラック★ロックシューター",
+          "artistList": [
+            "ryo"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/3645817/3645817",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "りつりつ"
+            }
+          ]
+        },
+        {
+          "order": 17,
+          "contentId": "sm43365493",
+          "title": "ひゅ〜どろどろ",
+          "artistList": [
+            "栗山夕璃(蜂屋ななし)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43365493/43365493.91414763",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ニナ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "りつりつ"
+            }
+          ]
+        },
+        {
+          "order": 19,
+          "contentId": "sm35866152",
+          "title": "Gimme×Gimme",
+          "artistList": [
+            "ギガ",
+            "八王子P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35866152/35866152.16699174",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "りつりつ"
+            }
+          ]
+        },
+        {
+          "order": 28,
+          "contentId": "sm44601300",
+          "title": "ヘイヴン",
+          "artistList": [
+            "煮ル果実"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44601300/44601300.12961721",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(2)",
+              "user": "りつりつ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "B",

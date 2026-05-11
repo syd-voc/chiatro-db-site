@@ -6172,6 +6172,50 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm42698548",
+      "title": "ファーストラスト",
+      "artist": "せきこみごはん",
+      "artistList": [
+        "せきこみごはん"
+      ],
+      "startTime": "2023-08-31T20:00:00+09:00",
+      "viewCounter": 44615,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm31791630",
+      "title": "アンノウン・マザーグース",
+      "artist": "wowaka",
+      "artistList": [
+        "wowaka"
+      ],
+      "startTime": "2017-08-22T17:00:00+09:00",
+      "viewCounter": 14443896,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm37467621",
+      "title": "ネロイズム",
+      "artist": "かいりきベア",
+      "artistList": [
+        "かいりきベア"
+      ],
+      "startTime": "2020-09-04T19:10:03+09:00",
+      "viewCounter": 1028482,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm36902997",
+      "title": "ヒガン",
+      "artist": "john",
+      "artistList": [
+        "john"
+      ],
+      "startTime": "2020-05-22T19:00:02+09:00",
+      "viewCounter": 1959385,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm25771502",
       "title": "全く身にならないソング",
       "artist": "キヨ, レトルト, 露吐",
@@ -6373,8 +6417,8 @@
     },
     {
       "artist": "かいりきベア",
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "artist": "ナユタン星人",
@@ -6553,8 +6597,8 @@
     },
     {
       "artist": "wowaka",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "カルロス袴田(サイゼP)",
@@ -7293,8 +7337,8 @@
     },
     {
       "artist": "せきこみごはん",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "仕事してP",
@@ -7672,6 +7716,11 @@
       "correctSongCount": 1
     },
     {
+      "artist": "john",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
       "artist": "キヨ",
       "correctCount": 2,
       "correctSongCount": 1
@@ -7700,8 +7749,8 @@
     },
     {
       "era": "2017",
-      "correctCount": 28,
-      "correctSongCount": 26
+      "correctCount": 29,
+      "correctSongCount": 27
     },
     {
       "era": "2012",
@@ -7730,8 +7779,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 77,
-      "correctSongCount": 64
+      "correctCount": 79,
+      "correctSongCount": 66
     },
     {
       "era": "2021",
@@ -7765,8 +7814,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 19,
-      "correctSongCount": 17
+      "correctCount": 20,
+      "correctSongCount": 18
     },
     {
       "era": "2024",
@@ -7789,8 +7838,8 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 100,
-      "correctSongCount": 89
+      "correctCount": 101,
+      "correctSongCount": 90
     },
     {
       "range": "10-30万",
@@ -7813,8 +7862,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 94,
-      "correctSongCount": 71
+      "correctCount": 96,
+      "correctSongCount": 73
     },
     {
       "range": "200-300万",
@@ -7837,8 +7886,8 @@
     {
       "range": "1000万-",
       "order": 9,
-      "correctCount": 7,
-      "correctSongCount": 6
+      "correctCount": 8,
+      "correctSongCount": 7
     }
   ],
   "scatter": [
@@ -11203,6 +11252,30 @@
       "viewCounter": 4028123
     },
     {
+      "title": "ファーストラスト",
+      "contentId": "sm42698548",
+      "startTime": 1693479600000,
+      "viewCounter": 44615
+    },
+    {
+      "title": "アンノウン・マザーグース",
+      "contentId": "sm31791630",
+      "startTime": 1503388800000,
+      "viewCounter": 14443896
+    },
+    {
+      "title": "ネロイズム",
+      "contentId": "sm37467621",
+      "startTime": 1599214203000,
+      "viewCounter": 1028482
+    },
+    {
+      "title": "ヒガン",
+      "contentId": "sm36902997",
+      "startTime": 1590141602000,
+      "viewCounter": 1959385
+    },
+    {
       "title": "全く身にならないソング",
       "contentId": "sm25771502",
       "startTime": 1426158148000,
@@ -11300,15 +11373,201 @@
     }
   ],
   "summary": {
-    "totalAnswers": 985,
-    "okAnswers": 692,
-    "ngAnswers": 290,
-    "participatedQuizCount": 167,
-    "winQuizCount": 140,
+    "totalAnswers": 992,
+    "okAnswers": 696,
+    "ngAnswers": 293,
+    "participatedQuizCount": 168,
+    "winQuizCount": 141,
     "loseQuizCount": 3,
     "medianViews": 390535
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "A",
+      "date": "2026-05-08",
+      "ok": 4,
+      "ng": 3,
+      "winRank": 12,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 24,
+          "contentId": "sm35477620",
+          "title": "くそったれ讃歌",
+          "artistList": [
+            "ちいたな"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35477620/35477620.86401685",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠くない人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "かなくり"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なごん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "エイミー"
+            }
+          ]
+        },
+        {
+          "order": 35,
+          "contentId": "sm18938918",
+          "title": "「Ib」",
+          "artistList": [
+            "清水コウ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18938918/18938918",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なごん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "すべから"
+            }
+          ]
+        },
+        {
+          "order": 49,
+          "contentId": "sm42698548",
+          "title": "ファーストラスト",
+          "artistList": [
+            "せきこみごはん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42698548/42698548.81659667",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "××",
+              "user": "かなくり"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "なごん"
+            }
+          ]
+        },
+        {
+          "order": 50,
+          "contentId": "sm31791630",
+          "title": "アンノウン・マザーグース",
+          "artistList": [
+            "wowaka"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31791630/31791630",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "なごん"
+            }
+          ]
+        },
+        {
+          "order": 55,
+          "contentId": "sm22967724",
+          "title": "ドッペル押し問答",
+          "artistList": [
+            "ワンダフル★オポチュニティ！"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22967724/22967724",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なごん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "××",
+              "user": "ベガ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "手下"
+            }
+          ]
+        },
+        {
+          "order": 65,
+          "contentId": "sm37467621",
+          "title": "ネロイズム",
+          "artistList": [
+            "かいりきベア"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37467621/37467621.37016226",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "なごん"
+            }
+          ]
+        },
+        {
+          "order": 66,
+          "contentId": "sm36902997",
+          "title": "ヒガン",
+          "artistList": [
+            "john"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36902997/36902997.91411899",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(12)",
+              "user": "なごん"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "A",

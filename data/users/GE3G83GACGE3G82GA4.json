@@ -3284,6 +3284,61 @@
       "startTime": "2015-05-04T18:00:00+09:00",
       "viewCounter": 458685,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm34312814",
+      "title": "クレイジー・ビート",
+      "artist": "さつき が てんこもり",
+      "artistList": [
+        "さつき が てんこもり"
+      ],
+      "startTime": "2018-12-13T18:02:02+09:00",
+      "viewCounter": 2014246,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm14703600",
+      "title": "うそつき",
+      "artist": "つなまる",
+      "artistList": [
+        "つなまる"
+      ],
+      "startTime": "2011-06-10T19:06:34+09:00",
+      "viewCounter": 2923682,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44907235",
+      "title": "ゾンビアタック",
+      "artist": "DIVELA",
+      "artistList": [
+        "DIVELA"
+      ],
+      "startTime": "2025-04-25T20:00:00+09:00",
+      "viewCounter": 140718,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39300654",
+      "title": "エゴロック",
+      "artist": "すりぃ",
+      "artistList": [
+        "すりぃ"
+      ],
+      "startTime": "2021-09-07T19:00:00+09:00",
+      "viewCounter": 5755833,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm8590504",
+      "title": "ずれていく",
+      "artist": "wowaka",
+      "artistList": [
+        "wowaka"
+      ],
+      "startTime": "2009-10-23T06:07:45+09:00",
+      "viewCounter": 1927474,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -3349,8 +3404,8 @@
     },
     {
       "artist": "DIVELA",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "DECO*27",
@@ -3454,8 +3509,8 @@
     },
     {
       "artist": "wowaka",
-      "correctCount": 3,
-      "correctSongCount": 2
+      "correctCount": 4,
+      "correctSongCount": 3
     },
     {
       "artist": "じん",
@@ -3744,8 +3799,8 @@
     },
     {
       "artist": "つなまる",
-      "correctCount": 2,
-      "correctSongCount": 1
+      "correctCount": 3,
+      "correctSongCount": 2
     },
     {
       "artist": "ハチ",
@@ -3929,8 +3984,8 @@
     },
     {
       "artist": "すりぃ",
-      "correctCount": 3,
-      "correctSongCount": 2
+      "correctCount": 4,
+      "correctSongCount": 3
     },
     {
       "artist": "想太",
@@ -4051,6 +4106,11 @@
       "artist": "いよわ",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "さつき が てんこもり",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -4061,13 +4121,13 @@
     },
     {
       "era": "2018",
-      "correctCount": 35,
-      "correctSongCount": 27
+      "correctCount": 36,
+      "correctSongCount": 28
     },
     {
       "era": "2011",
-      "correctCount": 22,
-      "correctSongCount": 19
+      "correctCount": 23,
+      "correctSongCount": 20
     },
     {
       "era": "2017",
@@ -4086,8 +4146,8 @@
     },
     {
       "era": "2009",
-      "correctCount": 13,
-      "correctSongCount": 11
+      "correctCount": 14,
+      "correctSongCount": 12
     },
     {
       "era": "2014",
@@ -4106,8 +4166,8 @@
     },
     {
       "era": "2021",
-      "correctCount": 24,
-      "correctSongCount": 20
+      "correctCount": 25,
+      "correctSongCount": 21
     },
     {
       "era": "2016",
@@ -4138,6 +4198,11 @@
       "era": "2024",
       "correctCount": 12,
       "correctSongCount": 10
+    },
+    {
+      "era": "2025-",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "viewStats": [
@@ -4156,8 +4221,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 36,
-      "correctSongCount": 34
+      "correctCount": 37,
+      "correctSongCount": 35
     },
     {
       "range": "30-50万",
@@ -4174,14 +4239,14 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 54,
-      "correctSongCount": 49
+      "correctCount": 55,
+      "correctSongCount": 50
     },
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 31,
-      "correctSongCount": 25
+      "correctCount": 33,
+      "correctSongCount": 27
     },
     {
       "range": "300-500万",
@@ -4192,8 +4257,8 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 35,
-      "correctSongCount": 29
+      "correctCount": 36,
+      "correctSongCount": 30
     },
     {
       "range": "1000万-",
@@ -5990,18 +6055,189 @@
       "contentId": "sm26174993",
       "startTime": 1430730000000,
       "viewCounter": 458685
+    },
+    {
+      "title": "クレイジー・ビート",
+      "contentId": "sm34312814",
+      "startTime": 1544691722000,
+      "viewCounter": 2014246
+    },
+    {
+      "title": "うそつき",
+      "contentId": "sm14703600",
+      "startTime": 1307700394000,
+      "viewCounter": 2923682
+    },
+    {
+      "title": "ゾンビアタック",
+      "contentId": "sm44907235",
+      "startTime": 1745578800000,
+      "viewCounter": 140718
+    },
+    {
+      "title": "エゴロック",
+      "contentId": "sm39300654",
+      "startTime": 1631008800000,
+      "viewCounter": 5755833
+    },
+    {
+      "title": "ずれていく",
+      "contentId": "sm8590504",
+      "startTime": 1256245665000,
+      "viewCounter": 1927474
     }
   ],
   "summary": {
-    "totalAnswers": 497,
-    "okAnswers": 350,
-    "ngAnswers": 145,
-    "participatedQuizCount": 75,
-    "winQuizCount": 68,
+    "totalAnswers": 504,
+    "okAnswers": 355,
+    "ngAnswers": 147,
+    "participatedQuizCount": 76,
+    "winQuizCount": 69,
     "loseQuizCount": 2,
-    "medianViews": 916577
+    "medianViews": 928289
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "C1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 8,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 43,
+          "contentId": "sm34312814",
+          "title": "クレイジー・ビート",
+          "artistList": [
+            "さつき が てんこもり"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34312814/34312814",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "レイ"
+            }
+          ]
+        },
+        {
+          "order": 56,
+          "contentId": "sm37716686",
+          "title": "ジャックポットサッドガール",
+          "artistList": [
+            "syudou"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37716686/37716686.44435585",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "レイ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(3)",
+              "user": "くちば"
+            }
+          ]
+        },
+        {
+          "order": 62,
+          "contentId": "sm14703600",
+          "title": "うそつき",
+          "artistList": [
+            "つなまる"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14703600/14703600",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "レイ"
+            }
+          ]
+        },
+        {
+          "order": 64,
+          "contentId": "sm44907235",
+          "title": "ゾンビアタック",
+          "artistList": [
+            "DIVELA"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44907235/44907235.22510053",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "レイ"
+            }
+          ]
+        },
+        {
+          "order": 65,
+          "contentId": "sm39300654",
+          "title": "エゴロック",
+          "artistList": [
+            "すりぃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39300654/39300654.58465574",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "レイ"
+            }
+          ]
+        },
+        {
+          "order": 67,
+          "contentId": "sm23134050",
+          "title": "＋♂",
+          "artistList": [
+            "ギガ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23134050/23134050",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "レイ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(5)",
+              "user": "眠い人"
+            }
+          ]
+        },
+        {
+          "order": 72,
+          "contentId": "sm8590504",
+          "title": "ずれていく",
+          "artistList": [
+            "wowaka"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8590504/8590504",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(8)",
+              "user": "レイ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 296,
       "group": "C1",

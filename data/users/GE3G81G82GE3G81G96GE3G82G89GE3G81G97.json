@@ -3559,7 +3559,7 @@
       ],
       "startTime": "2011-02-10T21:36:17+09:00",
       "viewCounter": 459612,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm38449353",
@@ -3603,6 +3603,50 @@
       ],
       "startTime": "2017-09-29T19:39:00+09:00",
       "viewCounter": 4882541,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm16468372",
+      "title": "「I」",
+      "artist": "蝶々P",
+      "artistList": [
+        "蝶々P"
+      ],
+      "startTime": "2011-12-19T20:55:43+09:00",
+      "viewCounter": 153642,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm5094908",
+      "title": "trick and treat",
+      "artist": "OSTER project",
+      "artistList": [
+        "OSTER project"
+      ],
+      "startTime": "2008-10-30T18:43:32+09:00",
+      "viewCounter": 2190746,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm10122021",
+      "title": "え？あぁ、そう。",
+      "artist": "蝶々P",
+      "artistList": [
+        "蝶々P"
+      ],
+      "startTime": "2010-03-22T21:01:17+09:00",
+      "viewCounter": 4324865,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm32076378",
+      "title": "ドラマツルギー",
+      "artist": "Eve",
+      "artistList": [
+        "Eve"
+      ],
+      "startTime": "2017-10-10T19:00:00+09:00",
+      "viewCounter": 5717346,
       "correctCount": 1
     }
   ],
@@ -3784,7 +3828,7 @@
     },
     {
       "artist": "buzzG",
-      "correctCount": 6,
+      "correctCount": 7,
       "correctSongCount": 5
     },
     {
@@ -3974,8 +4018,8 @@
     },
     {
       "artist": "Eve",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "歪P",
@@ -4089,8 +4133,8 @@
     },
     {
       "artist": "OSTER project",
-      "correctCount": 3,
-      "correctSongCount": 2
+      "correctCount": 4,
+      "correctSongCount": 3
     },
     {
       "artist": "シグナルP",
@@ -4456,6 +4500,11 @@
       "artist": "しじま",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "蝶々P",
+      "correctCount": 2,
+      "correctSongCount": 2
     }
   ],
   "eraStats": [
@@ -4471,8 +4520,8 @@
     },
     {
       "era": "2011",
-      "correctCount": 30,
-      "correctSongCount": 27
+      "correctCount": 32,
+      "correctSongCount": 28
     },
     {
       "era": "2020",
@@ -4481,8 +4530,8 @@
     },
     {
       "era": "2017",
-      "correctCount": 21,
-      "correctSongCount": 20
+      "correctCount": 22,
+      "correctSongCount": 21
     },
     {
       "era": "2016",
@@ -4506,13 +4555,13 @@
     },
     {
       "era": "2010",
-      "correctCount": 13,
-      "correctSongCount": 12
+      "correctCount": 14,
+      "correctSongCount": 13
     },
     {
       "era": "2007-2008",
-      "correctCount": 15,
-      "correctSongCount": 13
+      "correctCount": 16,
+      "correctSongCount": 14
     },
     {
       "era": "2009",
@@ -4561,13 +4610,13 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 75,
-      "correctSongCount": 69
+      "correctCount": 76,
+      "correctSongCount": 70
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 72,
+      "correctCount": 73,
       "correctSongCount": 63
     },
     {
@@ -4585,20 +4634,20 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 27,
-      "correctSongCount": 24
+      "correctCount": 28,
+      "correctSongCount": 25
     },
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 22,
-      "correctSongCount": 17
+      "correctCount": 23,
+      "correctSongCount": 18
     },
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "range": "1000万-",
@@ -6569,18 +6618,185 @@
       "contentId": "sm32012728",
       "startTime": 1506681540000,
       "viewCounter": 4882541
+    },
+    {
+      "title": "「I」",
+      "contentId": "sm16468372",
+      "startTime": 1324295743000,
+      "viewCounter": 153642
+    },
+    {
+      "title": "trick and treat",
+      "contentId": "sm5094908",
+      "startTime": 1225359812000,
+      "viewCounter": 2190746
+    },
+    {
+      "title": "え？あぁ、そう。",
+      "contentId": "sm10122021",
+      "startTime": 1269259277000,
+      "viewCounter": 4324865
+    },
+    {
+      "title": "ドラマツルギー",
+      "contentId": "sm32076378",
+      "startTime": 1507629600000,
+      "viewCounter": 5717346
     }
   ],
   "summary": {
-    "totalAnswers": 422,
-    "okAnswers": 372,
-    "ngAnswers": 50,
-    "participatedQuizCount": 78,
-    "winQuizCount": 74,
+    "totalAnswers": 428,
+    "okAnswers": 377,
+    "ngAnswers": 51,
+    "participatedQuizCount": 79,
+    "winQuizCount": 75,
     "loseQuizCount": 0,
-    "medianViews": 573728
+    "medianViews": 578708
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "C1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 16,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 61,
+          "contentId": "sm16468372",
+          "title": "「I」",
+          "artistList": [
+            "蝶々P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16468372/16468372",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぴーなっつ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "トラノオ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "つみか"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "あざらし"
+            }
+          ]
+        },
+        {
+          "order": 74,
+          "contentId": "sm5094908",
+          "title": "trick and treat",
+          "artistList": [
+            "OSTER project"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/5094908/5094908",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "あざらし"
+            }
+          ]
+        },
+        {
+          "order": 90,
+          "contentId": "sm10122021",
+          "title": "え？あぁ、そう。",
+          "artistList": [
+            "蝶々P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10122021/10122021",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "あざらし"
+            }
+          ]
+        },
+        {
+          "order": 96,
+          "contentId": "sm26616325",
+          "title": "はじめまして地球人さん",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26616325/26616325",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あざらし"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(15)",
+              "user": "HAN"
+            }
+          ]
+        },
+        {
+          "order": 98,
+          "contentId": "sm32076378",
+          "title": "ドラマツルギー",
+          "artistList": [
+            "Eve"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32076378/32076378",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "あざらし"
+            }
+          ]
+        },
+        {
+          "order": 99,
+          "contentId": "sm13556282",
+          "title": "Symphony",
+          "artistList": [
+            "buzzG"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13556282/13556282",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(16)",
+              "user": "あざらし"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 291,
       "group": "C2",

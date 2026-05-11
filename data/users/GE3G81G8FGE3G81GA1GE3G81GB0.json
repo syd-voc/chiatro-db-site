@@ -2492,7 +2492,7 @@
       ],
       "startTime": "2021-10-15T00:05:00+09:00",
       "viewCounter": 137001,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm24990461",
@@ -3188,6 +3188,50 @@
       "startTime": "2025-04-25T20:00:00+09:00",
       "viewCounter": 140718,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm38835941",
+      "title": "偽物人間40号",
+      "artist": "¿?shimon",
+      "artistList": [
+        "¿?shimon"
+      ],
+      "startTime": "2021-06-05T19:00:00+09:00",
+      "viewCounter": 766479,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm41028385",
+      "title": "あ。",
+      "artist": "yuha",
+      "artistList": [
+        "yuha"
+      ],
+      "startTime": "2022-09-05T19:00:00+09:00",
+      "viewCounter": 94321,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm41050489",
+      "title": "侵蝕",
+      "artist": "niki",
+      "artistList": [
+        "niki"
+      ],
+      "startTime": "2022-09-08T21:13:02+09:00",
+      "viewCounter": 765888,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm37716686",
+      "title": "ジャックポットサッドガール",
+      "artist": "syudou",
+      "artistList": [
+        "syudou"
+      ],
+      "startTime": "2020-10-24T19:00:00+09:00",
+      "viewCounter": 2253579,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -3308,8 +3352,8 @@
     },
     {
       "artist": "niki",
-      "correctCount": 3,
-      "correctSongCount": 2
+      "correctCount": 4,
+      "correctSongCount": 3
     },
     {
       "artist": "buzzG",
@@ -3403,8 +3447,8 @@
     },
     {
       "artist": "syudou",
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "artist": "もちうつね",
@@ -3863,7 +3907,7 @@
     },
     {
       "artist": "きさら",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -3980,13 +4024,23 @@
       "artist": "加賀(ネギシャワーP)",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "¿?shimon",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "yuha",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2022",
-      "correctCount": 35,
-      "correctSongCount": 27
+      "correctCount": 37,
+      "correctSongCount": 29
     },
     {
       "era": "2011",
@@ -4025,8 +4079,8 @@
     },
     {
       "era": "2021",
-      "correctCount": 32,
-      "correctSongCount": 26
+      "correctCount": 34,
+      "correctSongCount": 27
     },
     {
       "era": "2024",
@@ -4055,8 +4109,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 18,
-      "correctSongCount": 16
+      "correctCount": 19,
+      "correctSongCount": 17
     },
     {
       "era": "2014",
@@ -4084,13 +4138,13 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 27,
-      "correctSongCount": 27
+      "correctCount": 28,
+      "correctSongCount": 28
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 54,
+      "correctCount": 55,
       "correctSongCount": 47
     },
     {
@@ -4102,8 +4156,8 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 52,
-      "correctSongCount": 40
+      "correctCount": 54,
+      "correctSongCount": 42
     },
     {
       "range": "100-200万",
@@ -4114,8 +4168,8 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 37,
-      "correctSongCount": 32
+      "correctCount": 38,
+      "correctSongCount": 33
     },
     {
       "range": "300-500万",
@@ -5870,18 +5924,250 @@
       "contentId": "sm44907235",
       "startTime": 1745578800000,
       "viewCounter": 140718
+    },
+    {
+      "title": "偽物人間40号",
+      "contentId": "sm38835941",
+      "startTime": 1622887200000,
+      "viewCounter": 766479
+    },
+    {
+      "title": "あ。",
+      "contentId": "sm41028385",
+      "startTime": 1662372000000,
+      "viewCounter": 94321
+    },
+    {
+      "title": "侵蝕",
+      "contentId": "sm41050489",
+      "startTime": 1662639182000,
+      "viewCounter": 765888
+    },
+    {
+      "title": "ジャックポットサッドガール",
+      "contentId": "sm37716686",
+      "startTime": 1603533600000,
+      "viewCounter": 2253579
     }
   ],
   "summary": {
-    "totalAnswers": 521,
-    "okAnswers": 351,
-    "ngAnswers": 165,
-    "participatedQuizCount": 76,
-    "winQuizCount": 67,
+    "totalAnswers": 530,
+    "okAnswers": 356,
+    "ngAnswers": 169,
+    "participatedQuizCount": 77,
+    "winQuizCount": 68,
     "loseQuizCount": 5,
-    "medianViews": 845447
+    "medianViews": 821999
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "C1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 4,
+      "winRank": 3,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 4,
+          "contentId": "sm38835941",
+          "title": "偽物人間40号",
+          "artistList": [
+            "¿?shimon"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38835941/38835941.94530163",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "くちば"
+            }
+          ]
+        },
+        {
+          "order": 9,
+          "contentId": "sm41028385",
+          "title": "あ。",
+          "artistList": [
+            "yuha"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41028385/41028385.2583493",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "くちば"
+            }
+          ]
+        },
+        {
+          "order": 14,
+          "contentId": "sm45330291",
+          "title": "よっしゃ宇宙、いこう",
+          "artistList": [
+            "あだちかすか"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45330291/45330291.24002050",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "くちば"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とある逢瀬"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 21,
+          "contentId": "sm7781905",
+          "title": "ANTI THE∞HOLiC",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7781905/7781905",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "くちば"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "眠い人"
+            }
+          ]
+        },
+        {
+          "order": 27,
+          "contentId": "sm41050489",
+          "title": "侵蝕",
+          "artistList": [
+            "niki"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41050489/41050489.13407749",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "くちば"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm39872037",
+          "title": "行き場をなくしたこどもたち",
+          "artistList": [
+            "電ǂ鯨"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39872037/39872037.46735400",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "くちば"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "しゃい"
+            }
+          ]
+        },
+        {
+          "order": 45,
+          "contentId": "sm30701192",
+          "title": "元気でいてね。",
+          "artistList": [
+            "カルロス袴田(サイゼP)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30701192/30701192",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "くちば"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ゆーと"
+            }
+          ]
+        },
+        {
+          "order": 53,
+          "contentId": "sm39361076",
+          "title": "AIDANA!!!!",
+          "artistList": [
+            "きさら"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39361076/39361076.70010238",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "くちば"
+            }
+          ]
+        },
+        {
+          "order": 56,
+          "contentId": "sm37716686",
+          "title": "ジャックポットサッドガール",
+          "artistList": [
+            "syudou"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37716686/37716686.44435585",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "レイ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(3)",
+              "user": "くちば"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "C1",

@@ -1257,7 +1257,7 @@
       ],
       "startTime": "2017-09-07T19:00:00+09:00",
       "viewCounter": 1072017,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm41949570",
@@ -5282,6 +5282,50 @@
       "startTime": "2008-04-30T17:01:16+09:00",
       "viewCounter": 2285785,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm36898171",
+      "title": "サイドワインダー",
+      "artist": "ナナホシ管弦楽団",
+      "artistList": [
+        "ナナホシ管弦楽団"
+      ],
+      "startTime": "2020-05-21T19:00:00+09:00",
+      "viewCounter": 127968,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm9410950",
+      "title": "ボーカロイドのうた",
+      "artist": "ピノキオピー",
+      "artistList": [
+        "ピノキオピー"
+      ],
+      "startTime": "2010-01-17T06:52:52+09:00",
+      "viewCounter": 364924,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm26234161",
+      "title": "散るカラスと静謐な白巨塔の崩落",
+      "artist": "こんにちは谷田さん",
+      "artistList": [
+        "こんにちは谷田さん"
+      ],
+      "startTime": "2015-05-11T19:25:02+09:00",
+      "viewCounter": 143091,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm13636905",
+      "title": "memory",
+      "artist": "164",
+      "artistList": [
+        "164"
+      ],
+      "startTime": "2011-02-18T21:00:35+09:00",
+      "viewCounter": 226943,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -5317,8 +5361,8 @@
     },
     {
       "artist": "ナナホシ管弦楽団",
-      "correctCount": 8,
-      "correctSongCount": 8
+      "correctCount": 9,
+      "correctSongCount": 9
     },
     {
       "artist": "Misumi",
@@ -5342,8 +5386,8 @@
     },
     {
       "artist": "ピノキオピー",
-      "correctCount": 7,
-      "correctSongCount": 7
+      "correctCount": 8,
+      "correctSongCount": 8
     },
     {
       "artist": "MARETU",
@@ -5417,8 +5461,8 @@
     },
     {
       "artist": "164",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "カラスヤサボウ",
@@ -5627,8 +5671,8 @@
     },
     {
       "artist": "こんにちは谷田さん",
-      "correctCount": 3,
-      "correctSongCount": 2
+      "correctCount": 4,
+      "correctSongCount": 3
     },
     {
       "artist": "有機酸",
@@ -5747,7 +5791,7 @@
     },
     {
       "artist": "Omoi",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -6574,8 +6618,8 @@
     },
     {
       "era": "2011",
-      "correctCount": 34,
-      "correctSongCount": 32
+      "correctCount": 35,
+      "correctSongCount": 33
     },
     {
       "era": "2018",
@@ -6584,8 +6628,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 32,
-      "correctSongCount": 29
+      "correctCount": 33,
+      "correctSongCount": 30
     },
     {
       "era": "2016",
@@ -6594,7 +6638,7 @@
     },
     {
       "era": "2017",
-      "correctCount": 39,
+      "correctCount": 40,
       "correctSongCount": 34
     },
     {
@@ -6614,8 +6658,8 @@
     },
     {
       "era": "2015",
-      "correctCount": 32,
-      "correctSongCount": 25
+      "correctCount": 33,
+      "correctSongCount": 26
     },
     {
       "era": "2012",
@@ -6624,8 +6668,8 @@
     },
     {
       "era": "2010",
-      "correctCount": 26,
-      "correctSongCount": 22
+      "correctCount": 27,
+      "correctSongCount": 23
     },
     {
       "era": "2014",
@@ -6674,14 +6718,14 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 127,
-      "correctSongCount": 113
+      "correctCount": 130,
+      "correctSongCount": 116
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 88,
-      "correctSongCount": 82
+      "correctCount": 89,
+      "correctSongCount": 83
     },
     {
       "range": "50-100万",
@@ -6692,7 +6736,7 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 68,
+      "correctCount": 69,
       "correctSongCount": 60
     },
     {
@@ -9594,18 +9638,176 @@
       "contentId": "sm3143714",
       "startTime": 1209542476000,
       "viewCounter": 2285785
+    },
+    {
+      "title": "サイドワインダー",
+      "contentId": "sm36898171",
+      "startTime": 1590055200000,
+      "viewCounter": 127968
+    },
+    {
+      "title": "ボーカロイドのうた",
+      "contentId": "sm9410950",
+      "startTime": 1263678772000,
+      "viewCounter": 364924
+    },
+    {
+      "title": "散るカラスと静謐な白巨塔の崩落",
+      "contentId": "sm26234161",
+      "startTime": 1431339902000,
+      "viewCounter": 143091
+    },
+    {
+      "title": "memory",
+      "contentId": "sm13636905",
+      "startTime": 1298030435000,
+      "viewCounter": 226943
     }
   ],
   "summary": {
-    "totalAnswers": 862,
-    "okAnswers": 538,
-    "ngAnswers": 312,
-    "participatedQuizCount": 123,
-    "winQuizCount": 108,
+    "totalAnswers": 868,
+    "okAnswers": 543,
+    "ngAnswers": 313,
+    "participatedQuizCount": 124,
+    "winQuizCount": 109,
     "loseQuizCount": 12,
-    "medianViews": 523737
+    "medianViews": 521808
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "B",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 6,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 1,
+          "contentId": "sm36898171",
+          "title": "サイドワインダー",
+          "artistList": [
+            "ナナホシ管弦楽団"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36898171/36898171.39908589",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "テフミネ"
+            }
+          ]
+        },
+        {
+          "order": 18,
+          "contentId": "sm7513121",
+          "title": "新世界",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7513121/7513121",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "テフミネ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "グルーガン"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "クロ"
+            }
+          ]
+        },
+        {
+          "order": 23,
+          "contentId": "sm9410950",
+          "title": "ボーカロイドのうた",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9410950/9410950",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "テフミネ"
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "contentId": "sm31883007",
+          "title": "ファイヴ",
+          "artistList": [
+            "Omoi"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31883007/31883007",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "テフミネ"
+            }
+          ]
+        },
+        {
+          "order": 42,
+          "contentId": "sm26234161",
+          "title": "散るカラスと静謐な白巨塔の崩落",
+          "artistList": [
+            "こんにちは谷田さん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26234161/26234161",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "テフミネ"
+            }
+          ]
+        },
+        {
+          "order": 53,
+          "contentId": "sm13636905",
+          "title": "memory",
+          "artistList": [
+            "164"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13636905/13636905",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(6)",
+              "user": "テフミネ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "B",

@@ -300,6 +300,61 @@
       "startTime": "2024-09-15T21:57:04+09:00",
       "viewCounter": 616143,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm34379001",
+      "title": "スチールワンダー",
+      "artist": "はるまきごはん",
+      "artistList": [
+        "はるまきごはん"
+      ],
+      "startTime": "2018-12-26T18:58:03+09:00",
+      "viewCounter": 237418,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm15085899",
+      "title": "物をぱらぱら壊す",
+      "artist": "きくお",
+      "artistList": [
+        "きくお"
+      ],
+      "startTime": "2011-07-22T14:39:11+09:00",
+      "viewCounter": 1158379,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm12825985",
+      "title": "ハッピーシンセサイザ",
+      "artist": "EasyPop",
+      "artistList": [
+        "EasyPop"
+      ],
+      "startTime": "2010-11-22T20:10:37+09:00",
+      "viewCounter": 8028756,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm37287661",
+      "title": "KING",
+      "artist": "Kanaria",
+      "artistList": [
+        "Kanaria"
+      ],
+      "startTime": "2020-08-02T18:57:02+09:00",
+      "viewCounter": 9039045,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm41958959",
+      "title": "ビビビビ",
+      "artist": "フロクロ",
+      "artistList": [
+        "フロクロ"
+      ],
+      "startTime": "2023-03-19T21:43:02+09:00",
+      "viewCounter": 409440,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -437,18 +492,43 @@
       "artist": "佐藤乃子",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "はるまきごはん",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "きくお",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "EasyPop",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "Kanaria",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "フロクロ",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2023",
-      "correctCount": 3,
-      "correctSongCount": 2
+      "correctCount": 4,
+      "correctSongCount": 3
     },
     {
       "era": "2011",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "era": "2025-",
@@ -467,13 +547,13 @@
     },
     {
       "era": "2018",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "era": "2020",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "era": "2022",
@@ -499,6 +579,11 @@
       "era": "2009",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "era": "2010",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "viewStats": [
@@ -517,14 +602,14 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 6,
-      "correctSongCount": 5
+      "correctCount": 7,
+      "correctSongCount": 6
     },
     {
       "range": "50-100万",
@@ -535,8 +620,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 0,
-      "correctSongCount": 0
+      "correctCount": 1,
+      "correctSongCount": 1
     },
     {
       "range": "200-300万",
@@ -553,8 +638,8 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "range": "1000万-",
@@ -725,18 +810,212 @@
       "contentId": "sm44107550",
       "startTime": 1726405024000,
       "viewCounter": 616143
+    },
+    {
+      "title": "スチールワンダー",
+      "contentId": "sm34379001",
+      "startTime": 1545818283000,
+      "viewCounter": 237418
+    },
+    {
+      "title": "物をぱらぱら壊す",
+      "contentId": "sm15085899",
+      "startTime": 1311313151000,
+      "viewCounter": 1158379
+    },
+    {
+      "title": "ハッピーシンセサイザ",
+      "contentId": "sm12825985",
+      "startTime": 1290424237000,
+      "viewCounter": 8028756
+    },
+    {
+      "title": "KING",
+      "contentId": "sm37287661",
+      "startTime": 1596362222000,
+      "viewCounter": 9039045
+    },
+    {
+      "title": "ビビビビ",
+      "contentId": "sm41958959",
+      "startTime": 1679229782000,
+      "viewCounter": 409440
     }
   ],
   "summary": {
-    "totalAnswers": 36,
-    "okAnswers": 28,
-    "ngAnswers": 8,
-    "participatedQuizCount": 6,
-    "winQuizCount": 5,
+    "totalAnswers": 44,
+    "okAnswers": 33,
+    "ngAnswers": 11,
+    "participatedQuizCount": 7,
+    "winQuizCount": 6,
     "loseQuizCount": 0,
-    "medianViews": 496955
+    "medianViews": 621242
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "D2",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 3,
+      "winRank": 8,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 3,
+          "contentId": "sm42568847",
+          "title": "ラブマシーン3。",
+          "artistList": [
+            "A4。"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42568847/42568847.62022084",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "おはよう"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 10,
+          "contentId": "sm34379001",
+          "title": "スチールワンダー",
+          "artistList": [
+            "はるまきごはん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34379001/34379001.85864",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "おはよう"
+            }
+          ]
+        },
+        {
+          "order": 11,
+          "contentId": "sm9705925",
+          "title": "愛ト茄子ト平和ナ果実",
+          "artistList": [
+            "saiB"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9705925/9705925",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "おはよう"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "千夜"
+            }
+          ]
+        },
+        {
+          "order": 42,
+          "contentId": "sm15085899",
+          "title": "物をぱらぱら壊す",
+          "artistList": [
+            "きくお"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15085899/15085899",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "おはよう"
+            }
+          ]
+        },
+        {
+          "order": 52,
+          "contentId": "sm12825985",
+          "title": "ハッピーシンセサイザ",
+          "artistList": [
+            "EasyPop"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12825985/12825985",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "おはよう"
+            }
+          ]
+        },
+        {
+          "order": 57,
+          "contentId": "sm37287661",
+          "title": "KING",
+          "artistList": [
+            "Kanaria"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37287661/37287661.84477986",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "おはよう"
+            }
+          ]
+        },
+        {
+          "order": 59,
+          "contentId": "sm42176244",
+          "title": "なんとか鉄道の夕",
+          "artistList": [
+            "海茶"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42176244/42176244.87255111",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "おはよう"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 61,
+          "contentId": "sm41958959",
+          "title": "ビビビビ",
+          "artistList": [
+            "フロクロ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41958959/41958959.13878667",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(8)",
+              "user": "おはよう"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "D1",

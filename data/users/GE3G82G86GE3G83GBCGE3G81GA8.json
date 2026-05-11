@@ -1322,7 +1322,7 @@
       ],
       "startTime": "2017-02-24T19:00:00+09:00",
       "viewCounter": 188979,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm33430841",
@@ -2945,7 +2945,7 @@
       ],
       "startTime": "2017-06-13T20:00:00+09:00",
       "viewCounter": 1407259,
-      "correctCount": 3
+      "correctCount": 4
     },
     {
       "contentId": "sm35550598",
@@ -3198,7 +3198,7 @@
       ],
       "startTime": "2020-10-03T20:10:00+09:00",
       "viewCounter": 379108,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm41727839",
@@ -5249,6 +5249,28 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm45261441",
+      "title": "サワーチェリーが輝いたから",
+      "artist": "海茶",
+      "artistList": [
+        "海茶"
+      ],
+      "startTime": "2025-08-08T19:00:00+09:00",
+      "viewCounter": 264960,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm29525474",
+      "title": "アンドロメダ迄一瞬で",
+      "artist": "Omoi",
+      "artistList": [
+        "Omoi"
+      ],
+      "startTime": "2016-08-26T17:53:10+09:00",
+      "viewCounter": 204995,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm31970404",
       "title": "いえないや",
       "artist": "カルロス袴田(サイゼP)",
@@ -5359,7 +5381,7 @@
     },
     {
       "artist": "ちいたな",
-      "correctCount": 5,
+      "correctCount": 6,
       "correctSongCount": 3
     },
     {
@@ -5369,7 +5391,7 @@
     },
     {
       "artist": "カルロス袴田(サイゼP)",
-      "correctCount": 37,
+      "correctCount": 38,
       "correctSongCount": 21
     },
     {
@@ -5394,8 +5416,8 @@
     },
     {
       "artist": "Omoi",
-      "correctCount": 5,
-      "correctSongCount": 4
+      "correctCount": 6,
+      "correctSongCount": 5
     },
     {
       "artist": "ぷく",
@@ -5529,7 +5551,7 @@
     },
     {
       "artist": "一二三",
-      "correctCount": 9,
+      "correctCount": 10,
       "correctSongCount": 6
     },
     {
@@ -6513,6 +6535,11 @@
       "correctSongCount": 1
     },
     {
+      "artist": "海茶",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
       "artist": "ゆよゆっぺ",
       "correctCount": 1,
       "correctSongCount": 1
@@ -6531,7 +6558,7 @@
     },
     {
       "era": "2020",
-      "correctCount": 104,
+      "correctCount": 105,
       "correctSongCount": 65
     },
     {
@@ -6541,12 +6568,12 @@
     },
     {
       "era": "2016",
-      "correctCount": 28,
-      "correctSongCount": 23
+      "correctCount": 29,
+      "correctSongCount": 24
     },
     {
       "era": "2017",
-      "correctCount": 56,
+      "correctCount": 58,
       "correctSongCount": 37
     },
     {
@@ -6606,8 +6633,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 6,
+      "correctSongCount": 6
     }
   ],
   "viewStats": [
@@ -6626,13 +6653,13 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 123,
-      "correctSongCount": 93
+      "correctCount": 126,
+      "correctSongCount": 95
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 97,
+      "correctCount": 98,
       "correctSongCount": 72
     },
     {
@@ -6644,7 +6671,7 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 122,
+      "correctCount": 123,
       "correctSongCount": 92
     },
     {
@@ -9530,6 +9557,18 @@
       "viewCounter": 1129013
     },
     {
+      "title": "サワーチェリーが輝いたから",
+      "contentId": "sm45261441",
+      "startTime": 1754647200000,
+      "viewCounter": 264960
+    },
+    {
+      "title": "アンドロメダ迄一瞬で",
+      "contentId": "sm29525474",
+      "startTime": 1472201590000,
+      "viewCounter": 204995
+    },
+    {
       "title": "いえないや",
       "contentId": "sm31970404",
       "startTime": 1506162600000,
@@ -9573,15 +9612,166 @@
     }
   ],
   "summary": {
-    "totalAnswers": 1042,
-    "okAnswers": 646,
-    "ngAnswers": 396,
-    "participatedQuizCount": 174,
-    "winQuizCount": 116,
+    "totalAnswers": 1048,
+    "okAnswers": 651,
+    "ngAnswers": 397,
+    "participatedQuizCount": 175,
+    "winQuizCount": 117,
     "loseQuizCount": 0,
-    "medianViews": 653950
+    "medianViews": 653400
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "C1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 7,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 38,
+          "contentId": "sm31388743",
+          "title": "猛独が襲う",
+          "artistList": [
+            "一二三"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31388743/31388743",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ゆーと"
+            }
+          ]
+        },
+        {
+          "order": 45,
+          "contentId": "sm30701192",
+          "title": "元気でいてね。",
+          "artistList": [
+            "カルロス袴田(サイゼP)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30701192/30701192",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "くちば"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ゆーと"
+            }
+          ]
+        },
+        {
+          "order": 52,
+          "contentId": "sm45261441",
+          "title": "サワーチェリーが輝いたから",
+          "artistList": [
+            "海茶"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45261441/45261441.63238820",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "そい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ゆーと"
+            }
+          ]
+        },
+        {
+          "order": 57,
+          "contentId": "sm29525474",
+          "title": "アンドロメダ迄一瞬で",
+          "artistList": [
+            "Omoi"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29525474/29525474",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ゆーと"
+            }
+          ]
+        },
+        {
+          "order": 60,
+          "contentId": "sm9004249",
+          "title": "金の入日に手風琴",
+          "artistList": [
+            "■P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9004249/9004249",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠い人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゆーと"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 70,
+          "contentId": "sm37613360",
+          "title": "共依存",
+          "artistList": [
+            "ちいたな"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37613360/37613360.28449004",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とある逢瀬"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(7)",
+              "user": "ゆーと"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "C1",

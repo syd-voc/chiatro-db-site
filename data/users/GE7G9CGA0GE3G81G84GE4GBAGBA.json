@@ -573,7 +573,7 @@
       ],
       "startTime": "2014-03-20T21:00:00+09:00",
       "viewCounter": 2884290,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm38767428",
@@ -2712,6 +2712,50 @@
       "startTime": "2022-07-06T19:00:00+09:00",
       "viewCounter": 734603,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm7781905",
+      "title": "ANTI THE∞HOLiC",
+      "artist": "cosMo@暴走P",
+      "artistList": [
+        "cosMo@暴走P"
+      ],
+      "startTime": "2009-07-29T22:54:42+09:00",
+      "viewCounter": 2108537,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm37010925",
+      "title": "パアプルマジック",
+      "artist": "Glue",
+      "artistList": [
+        "Glue"
+      ],
+      "startTime": "2020-06-13T18:00:00+09:00",
+      "viewCounter": 179754,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm34923750",
+      "title": "ロンリーユニバース",
+      "artist": "Aqu3ra",
+      "artistList": [
+        "Aqu3ra"
+      ],
+      "startTime": "2019-04-06T21:05:12+09:00",
+      "viewCounter": 873203,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm33219885",
+      "title": "神曲",
+      "artist": "R Sound Design",
+      "artistList": [
+        "R Sound Design"
+      ],
+      "startTime": "2018-05-16T23:59:00+09:00",
+      "viewCounter": 731084,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -2742,8 +2786,8 @@
     },
     {
       "artist": "cosMo@暴走P",
-      "correctCount": 4,
-      "correctSongCount": 3
+      "correctCount": 5,
+      "correctSongCount": 4
     },
     {
       "artist": "kemu",
@@ -2792,8 +2836,8 @@
     },
     {
       "artist": "Aqu3ra",
-      "correctCount": 5,
-      "correctSongCount": 4
+      "correctCount": 6,
+      "correctSongCount": 5
     },
     {
       "artist": "Neru",
@@ -2912,7 +2956,7 @@
     },
     {
       "artist": "ギガ",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 1
     },
     {
@@ -3067,8 +3111,8 @@
     },
     {
       "artist": "R Sound Design",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "dezzy(一億円P)",
@@ -3262,8 +3306,8 @@
     },
     {
       "artist": "Glue",
-      "correctCount": 2,
-      "correctSongCount": 1
+      "correctCount": 3,
+      "correctSongCount": 2
     },
     {
       "artist": "ろくろ",
@@ -3414,7 +3458,7 @@
     },
     {
       "era": "2014",
-      "correctCount": 9,
+      "correctCount": 10,
       "correctSongCount": 8
     },
     {
@@ -3424,8 +3468,8 @@
     },
     {
       "era": "2018",
-      "correctCount": 29,
-      "correctSongCount": 19
+      "correctCount": 30,
+      "correctSongCount": 20
     },
     {
       "era": "2010",
@@ -3439,8 +3483,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 40,
-      "correctSongCount": 34
+      "correctCount": 41,
+      "correctSongCount": 35
     },
     {
       "era": "2021",
@@ -3449,8 +3493,8 @@
     },
     {
       "era": "2019",
-      "correctCount": 18,
-      "correctSongCount": 17
+      "correctCount": 19,
+      "correctSongCount": 18
     },
     {
       "era": "2016",
@@ -3489,8 +3533,8 @@
     },
     {
       "era": "2009",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "era": "2011",
@@ -3514,8 +3558,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 65,
-      "correctSongCount": 57
+      "correctCount": 66,
+      "correctSongCount": 58
     },
     {
       "range": "30-50万",
@@ -3526,8 +3570,8 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 50,
-      "correctSongCount": 39
+      "correctCount": 52,
+      "correctSongCount": 41
     },
     {
       "range": "100-200万",
@@ -3538,8 +3582,8 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 23,
-      "correctSongCount": 17
+      "correctCount": 25,
+      "correctSongCount": 18
     },
     {
       "range": "300-500万",
@@ -5036,18 +5080,270 @@
       "contentId": "sm40727304",
       "startTime": 1657101600000,
       "viewCounter": 734603
+    },
+    {
+      "title": "ANTI THE∞HOLiC",
+      "contentId": "sm7781905",
+      "startTime": 1248875682000,
+      "viewCounter": 2108537
+    },
+    {
+      "title": "パアプルマジック",
+      "contentId": "sm37010925",
+      "startTime": 1592038800000,
+      "viewCounter": 179754
+    },
+    {
+      "title": "ロンリーユニバース",
+      "contentId": "sm34923750",
+      "startTime": 1554552312000,
+      "viewCounter": 873203
+    },
+    {
+      "title": "神曲",
+      "contentId": "sm33219885",
+      "startTime": 1526482740000,
+      "viewCounter": 731084
     }
   ],
   "summary": {
-    "totalAnswers": 379,
-    "okAnswers": 294,
-    "ngAnswers": 85,
-    "participatedQuizCount": 69,
-    "winQuizCount": 54,
+    "totalAnswers": 387,
+    "okAnswers": 299,
+    "ngAnswers": 88,
+    "participatedQuizCount": 70,
+    "winQuizCount": 55,
     "loseQuizCount": 0,
-    "medianViews": 525501
+    "medianViews": 529077
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "C1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 3,
+      "winRank": 5,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 21,
+          "contentId": "sm7781905",
+          "title": "ANTI THE∞HOLiC",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7781905/7781905",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "くちば"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "眠い人"
+            }
+          ]
+        },
+        {
+          "order": 23,
+          "contentId": "sm37010925",
+          "title": "パアプルマジック",
+          "artistList": [
+            "Glue"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37010925/37010925.17525420",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "眠い人"
+            }
+          ]
+        },
+        {
+          "order": 30,
+          "contentId": "sm5525531",
+          "title": "Little Traveler",
+          "artistList": [
+            "ジミーサムP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/5525531/5525531",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠い人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "つみか"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "HAN"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きぐな"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "尾白もち"
+            }
+          ]
+        },
+        {
+          "order": 40,
+          "contentId": "sm34923750",
+          "title": "ロンリーユニバース",
+          "artistList": [
+            "Aqu3ra"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34923750/34923750.21700",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "眠い人"
+            }
+          ]
+        },
+        {
+          "order": 44,
+          "contentId": "sm33219885",
+          "title": "神曲",
+          "artistList": [
+            "R Sound Design"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33219885/33219885",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "眠い人"
+            }
+          ]
+        },
+        {
+          "order": 50,
+          "contentId": "sm43642792",
+          "title": "あの子は悪魔",
+          "artistList": [
+            "こめだわら"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43642792/43642792.88457264",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠い人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぴーなっつ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(2)",
+              "user": "尾白もち"
+            }
+          ]
+        },
+        {
+          "order": 60,
+          "contentId": "sm9004249",
+          "title": "金の入日に手風琴",
+          "artistList": [
+            "■P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9004249/9004249",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠い人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゆーと"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 67,
+          "contentId": "sm23134050",
+          "title": "＋♂",
+          "artistList": [
+            "ギガ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23134050/23134050",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "レイ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(5)",
+              "user": "眠い人"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "B",

@@ -3419,6 +3419,51 @@
       "startTime": "2025-12-26T19:07:05+09:00",
       "viewCounter": 482209,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm38099931",
+      "title": "霽れを待つ",
+      "artist": "Orangestar",
+      "artistList": [
+        "Orangestar"
+      ],
+      "startTime": "2021-01-10T17:15:02+09:00",
+      "viewCounter": 1017171,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm38809270",
+      "title": "ノスタルジック・ブルー",
+      "artist": "Aqu3ra",
+      "artistList": [
+        "Aqu3ra"
+      ],
+      "startTime": "2021-05-29T20:42:02+09:00",
+      "viewCounter": 125791,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm42983761",
+      "title": "のだ",
+      "artist": "大漠波新, 無色透名祭公式",
+      "artistList": [
+        "大漠波新",
+        "無色透名祭公式"
+      ],
+      "startTime": "2023-11-06T18:00:00+09:00",
+      "viewCounter": 4153724,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm43413064",
+      "title": "あっぱれだ！",
+      "artist": "シカクドット",
+      "artistList": [
+        "シカクドット"
+      ],
+      "startTime": "2024-02-23T00:00:00+09:00",
+      "viewCounter": 17973,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -3654,8 +3699,8 @@
     },
     {
       "artist": "無色透名祭公式",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "keeno",
@@ -3764,8 +3809,8 @@
     },
     {
       "artist": "Aqu3ra",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "とあ",
@@ -4231,6 +4276,21 @@
       "artist": "雨良",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "Orangestar",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "大漠波新",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "シカクドット",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -4251,8 +4311,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 42,
-      "correctSongCount": 34
+      "correctCount": 43,
+      "correctSongCount": 35
     },
     {
       "era": "2020",
@@ -4296,8 +4356,8 @@
     },
     {
       "era": "2021",
-      "correctCount": 36,
-      "correctSongCount": 28
+      "correctCount": 38,
+      "correctSongCount": 30
     },
     {
       "era": "2007-2008",
@@ -4306,8 +4366,8 @@
     },
     {
       "era": "2024",
-      "correctCount": 28,
-      "correctSongCount": 24
+      "correctCount": 29,
+      "correctSongCount": 25
     },
     {
       "era": "2014",
@@ -4335,14 +4395,14 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 18,
-      "correctSongCount": 18
+      "correctCount": 19,
+      "correctSongCount": 19
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 48,
-      "correctSongCount": 38
+      "correctCount": 49,
+      "correctSongCount": 39
     },
     {
       "range": "30-50万",
@@ -4359,8 +4419,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 77,
-      "correctSongCount": 65
+      "correctCount": 78,
+      "correctSongCount": 66
     },
     {
       "range": "200-300万",
@@ -4371,8 +4431,8 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 26,
-      "correctSongCount": 23
+      "correctCount": 27,
+      "correctSongCount": 24
     },
     {
       "range": "500-1000万",
@@ -6247,18 +6307,161 @@
       "contentId": "sm45768297",
       "startTime": 1766743625000,
       "viewCounter": 482209
+    },
+    {
+      "title": "霽れを待つ",
+      "contentId": "sm38099931",
+      "startTime": 1610266502000,
+      "viewCounter": 1017171
+    },
+    {
+      "title": "ノスタルジック・ブルー",
+      "contentId": "sm38809270",
+      "startTime": 1622288522000,
+      "viewCounter": 125791
+    },
+    {
+      "title": "のだ",
+      "contentId": "sm42983761",
+      "startTime": 1699261200000,
+      "viewCounter": 4153724
+    },
+    {
+      "title": "あっぱれだ！",
+      "contentId": "sm43413064",
+      "startTime": 1708614000000,
+      "viewCounter": 17973
     }
   ],
   "summary": {
-    "totalAnswers": 528,
-    "okAnswers": 360,
-    "ngAnswers": 167,
-    "participatedQuizCount": 76,
-    "winQuizCount": 68,
+    "totalAnswers": 533,
+    "okAnswers": 364,
+    "ngAnswers": 168,
+    "participatedQuizCount": 77,
+    "winQuizCount": 69,
     "loseQuizCount": 1,
     "medianViews": 967927
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "A",
+      "date": "2026-05-08",
+      "ok": 4,
+      "ng": 1,
+      "winRank": 4,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 12,
+          "contentId": "sm38099931",
+          "title": "霽れを待つ",
+          "artistList": [
+            "Orangestar"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38099931/38099931.4155505",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "世界のYAMADA"
+            }
+          ]
+        },
+        {
+          "order": 21,
+          "contentId": "sm38809270",
+          "title": "ノスタルジック・ブルー",
+          "artistList": [
+            "Aqu3ra"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38809270/38809270.50766193",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ベガ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "世界のYAMADA"
+            }
+          ]
+        },
+        {
+          "order": 23,
+          "contentId": "sm42983761",
+          "title": "のだ",
+          "artistList": [
+            "大漠波新",
+            "無色透名祭公式"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42983761/42983761.86547216",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "世界のYAMADA"
+            }
+          ]
+        },
+        {
+          "order": 31,
+          "contentId": "sm43606350",
+          "title": "乖離するゲンザイ",
+          "artistList": [
+            "阿修"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43606350/43606350.74794129",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "世界のYAMADA"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Takuan"
+            }
+          ]
+        },
+        {
+          "order": 36,
+          "contentId": "sm43413064",
+          "title": "あっぱれだ！",
+          "artistList": [
+            "シカクドット"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43413064/43413064.14865281",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠くない人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(4)",
+              "user": "世界のYAMADA"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 295,
       "group": "B",

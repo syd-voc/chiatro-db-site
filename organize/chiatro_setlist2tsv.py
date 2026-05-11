@@ -73,7 +73,8 @@ SPLIT_ARTIST_EXCEPTIONS = {
     "マリー・アンドロイド",
     "もう、ダメ",
     "キャプテン・ミライ",
-    "キャプテン・ソプラノ"
+    "キャプテン・ソプラノ",
+    "（「・ω・）「 "
 }
 
 ARTIST_TAIL_EXCEPTIONS = [

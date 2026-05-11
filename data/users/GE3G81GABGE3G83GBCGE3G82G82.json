@@ -1995,7 +1995,7 @@
       ],
       "startTime": "2018-10-19T20:00:00+09:00",
       "viewCounter": 411517,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm32405306",
@@ -4035,6 +4035,39 @@
       "startTime": "2018-06-13T19:45:25+09:00",
       "viewCounter": 3999653,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm32899091",
+      "title": "地球をあげる",
+      "artist": "はるまきごはん",
+      "artistList": [
+        "はるまきごはん"
+      ],
+      "startTime": "2018-03-17T18:00:07+09:00",
+      "viewCounter": 522519,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm11519178",
+      "title": "ヴェノマニア公の狂気",
+      "artist": "悪ノP",
+      "artistList": [
+        "悪ノP"
+      ],
+      "startTime": "2010-07-26T07:24:00+09:00",
+      "viewCounter": 2496417,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44657618",
+      "title": "ムーンアイズ・キャット",
+      "artist": "瀬名航",
+      "artistList": [
+        "瀬名航"
+      ],
+      "startTime": "2025-02-22T00:00:00+09:00",
+      "viewCounter": 99081,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4165,8 +4198,8 @@
     },
     {
       "artist": "はるまきごはん",
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "artist": "ピノキオピー",
@@ -4485,7 +4518,7 @@
     },
     {
       "artist": "koyori(電ポルP)",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 2
     },
     {
@@ -5117,6 +5150,16 @@
       "artist": "亜沙",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "悪ノP",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "瀬名航",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -5167,8 +5210,8 @@
     },
     {
       "era": "2018",
-      "correctCount": 47,
-      "correctSongCount": 40
+      "correctCount": 49,
+      "correctSongCount": 41
     },
     {
       "era": "2022",
@@ -5182,8 +5225,8 @@
     },
     {
       "era": "2010",
-      "correctCount": 11,
-      "correctSongCount": 10
+      "correctCount": 12,
+      "correctSongCount": 11
     },
     {
       "era": "2020",
@@ -5207,8 +5250,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 7,
-      "correctSongCount": 7
+      "correctCount": 8,
+      "correctSongCount": 8
     }
   ],
   "viewStats": [
@@ -5221,8 +5264,8 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 39,
-      "correctSongCount": 32
+      "correctCount": 40,
+      "correctSongCount": 33
     },
     {
       "range": "10-30万",
@@ -5233,14 +5276,14 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 63,
+      "correctCount": 64,
       "correctSongCount": 54
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 64,
-      "correctSongCount": 59
+      "correctCount": 65,
+      "correctSongCount": 60
     },
     {
       "range": "100-200万",
@@ -5251,8 +5294,8 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 37,
-      "correctSongCount": 31
+      "correctCount": 38,
+      "correctSongCount": 32
     },
     {
       "range": "300-500万",
@@ -7469,18 +7512,120 @@
       "contentId": "sm33360604",
       "startTime": 1528886725000,
       "viewCounter": 3999653
+    },
+    {
+      "title": "地球をあげる",
+      "contentId": "sm32899091",
+      "startTime": 1521277207000,
+      "viewCounter": 522519
+    },
+    {
+      "title": "ヴェノマニア公の狂気",
+      "contentId": "sm11519178",
+      "startTime": 1280096640000,
+      "viewCounter": 2496417
+    },
+    {
+      "title": "ムーンアイズ・キャット",
+      "contentId": "sm44657618",
+      "startTime": 1740150000000,
+      "viewCounter": 99081
     }
   ],
   "summary": {
-    "totalAnswers": 505,
-    "okAnswers": 426,
+    "totalAnswers": 509,
+    "okAnswers": 430,
     "ngAnswers": 78,
-    "participatedQuizCount": 90,
-    "winQuizCount": 86,
+    "participatedQuizCount": 91,
+    "winQuizCount": 87,
     "loseQuizCount": 1,
     "medianViews": 468762
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "A",
+      "date": "2026-05-08",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 14,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 22,
+          "contentId": "sm32899091",
+          "title": "地球をあげる",
+          "artistList": [
+            "はるまきごはん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32899091/32899091",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "にーも"
+            }
+          ]
+        },
+        {
+          "order": 43,
+          "contentId": "sm34040571",
+          "title": "はらぺこのルベル",
+          "artistList": [
+            "koyori(電ポルP)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34040571/34040571",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "最強の私"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "にーも"
+            }
+          ]
+        },
+        {
+          "order": 56,
+          "contentId": "sm11519178",
+          "title": "ヴェノマニア公の狂気",
+          "artistList": [
+            "悪ノP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/11519178/11519178",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "にーも"
+            }
+          ]
+        },
+        {
+          "order": 69,
+          "contentId": "sm44657618",
+          "title": "ムーンアイズ・キャット",
+          "artistList": [
+            "瀬名航"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44657618/44657618.57736397",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(14)",
+              "user": "にーも"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "A",

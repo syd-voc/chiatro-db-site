@@ -2274,6 +2274,61 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm33314626",
+      "title": "Currant",
+      "artist": "春野",
+      "artistList": [
+        "春野"
+      ],
+      "startTime": "2018-06-04T19:00:00+09:00",
+      "viewCounter": 202378,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm5525531",
+      "title": "Little Traveler",
+      "artist": "ジミーサムP",
+      "artistList": [
+        "ジミーサムP"
+      ],
+      "startTime": "2008-12-12T22:50:31+09:00",
+      "viewCounter": 633577,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm26470008",
+      "title": "ドクター=ファンクビート",
+      "artist": "nyanyannya",
+      "artistList": [
+        "nyanyannya"
+      ],
+      "startTime": "2015-06-12T18:03:00+09:00",
+      "viewCounter": 2077888,
+      "correctCount": 2
+    },
+    {
+      "contentId": "sm38874555",
+      "title": "メンティーラ",
+      "artist": "ど〜ぱみん",
+      "artistList": [
+        "ど〜ぱみん"
+      ],
+      "startTime": "2021-06-12T20:00:00+09:00",
+      "viewCounter": 60779,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm43642792",
+      "title": "あの子は悪魔",
+      "artist": "こめだわら",
+      "artistList": [
+        "こめだわら"
+      ],
+      "startTime": "2024-04-12T18:00:00+09:00",
+      "viewCounter": 47669,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm33510542",
       "title": "劣等上等",
       "artist": "ギガ",
@@ -3064,17 +3119,6 @@
       ],
       "startTime": "2017-08-28T19:00:00+09:00",
       "viewCounter": 1184903,
-      "correctCount": 1
-    },
-    {
-      "contentId": "sm26470008",
-      "title": "ドクター=ファンクビート",
-      "artist": "nyanyannya",
-      "artistList": [
-        "nyanyannya"
-      ],
-      "startTime": "2015-06-12T18:03:00+09:00",
-      "viewCounter": 2077888,
       "correctCount": 1
     },
     {
@@ -4410,8 +4454,8 @@
     },
     {
       "artist": "ど〜ぱみん",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "HoneyWorks",
@@ -4535,7 +4579,7 @@
     },
     {
       "artist": "nyanyannya",
-      "correctCount": 4,
+      "correctCount": 5,
       "correctSongCount": 2
     },
     {
@@ -4615,6 +4659,21 @@
     },
     {
       "artist": "Treow",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "春野",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ジミーサムP",
+      "correctCount": 4,
+      "correctSongCount": 4
+    },
+    {
+      "artist": "こめだわら",
       "correctCount": 1,
       "correctSongCount": 1
     },
@@ -4789,11 +4848,6 @@
       "correctSongCount": 1
     },
     {
-      "artist": "ジミーサムP",
-      "correctCount": 3,
-      "correctSongCount": 3
-    },
-    {
       "artist": "椎名もた",
       "correctCount": 2,
       "correctSongCount": 1
@@ -4912,18 +4966,18 @@
     },
     {
       "era": "2015",
-      "correctCount": 25,
+      "correctCount": 26,
       "correctSongCount": 20
     },
     {
       "era": "2018",
-      "correctCount": 69,
-      "correctSongCount": 50
+      "correctCount": 70,
+      "correctSongCount": 51
     },
     {
       "era": "2021",
-      "correctCount": 35,
-      "correctSongCount": 31
+      "correctCount": 36,
+      "correctSongCount": 32
     },
     {
       "era": "2019",
@@ -4977,11 +5031,16 @@
     },
     {
       "era": "2007-2008",
-      "correctCount": 10,
-      "correctSongCount": 9
+      "correctCount": 11,
+      "correctSongCount": 10
     },
     {
       "era": "2023",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2024",
       "correctCount": 1,
       "correctSongCount": 1
     }
@@ -4996,14 +5055,14 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 30,
-      "correctSongCount": 28
+      "correctCount": 32,
+      "correctSongCount": 30
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 79,
-      "correctSongCount": 68
+      "correctCount": 80,
+      "correctSongCount": 69
     },
     {
       "range": "30-50万",
@@ -5014,8 +5073,8 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 98,
-      "correctSongCount": 68
+      "correctCount": 99,
+      "correctSongCount": 69
     },
     {
       "range": "100-200万",
@@ -5026,7 +5085,7 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 43,
+      "correctCount": 44,
       "correctSongCount": 32
     },
     {
@@ -6286,6 +6345,36 @@
       "viewCounter": 876646
     },
     {
+      "title": "Currant",
+      "contentId": "sm33314626",
+      "startTime": 1528106400000,
+      "viewCounter": 202378
+    },
+    {
+      "title": "Little Traveler",
+      "contentId": "sm5525531",
+      "startTime": 1229089831000,
+      "viewCounter": 633577
+    },
+    {
+      "title": "ドクター=ファンクビート",
+      "contentId": "sm26470008",
+      "startTime": 1434099780000,
+      "viewCounter": 2077888
+    },
+    {
+      "title": "メンティーラ",
+      "contentId": "sm38874555",
+      "startTime": 1623495600000,
+      "viewCounter": 60779
+    },
+    {
+      "title": "あの子は悪魔",
+      "contentId": "sm43642792",
+      "startTime": 1712912400000,
+      "viewCounter": 47669
+    },
+    {
       "title": "劣等上等",
       "contentId": "sm33510542",
       "startTime": 1531476000000,
@@ -6716,12 +6805,6 @@
       "contentId": "sm31825358",
       "startTime": 1503914400000,
       "viewCounter": 1184903
-    },
-    {
-      "title": "ドクター=ファンクビート",
-      "contentId": "sm26470008",
-      "startTime": 1434099780000,
-      "viewCounter": 2077888
     },
     {
       "title": "人生はコメディ",
@@ -7247,15 +7330,169 @@
     }
   ],
   "summary": {
-    "totalAnswers": 544,
-    "okAnswers": 489,
+    "totalAnswers": 549,
+    "okAnswers": 494,
     "ngAnswers": 55,
-    "participatedQuizCount": 117,
-    "winQuizCount": 110,
+    "participatedQuizCount": 118,
+    "winQuizCount": 111,
     "loseQuizCount": 0,
-    "medianViews": 747851
+    "medianViews": 745265
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "C1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 2,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 19,
+          "contentId": "sm33314626",
+          "title": "Currant",
+          "artistList": [
+            "春野"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33314626/33314626",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "尾白もち"
+            }
+          ]
+        },
+        {
+          "order": 30,
+          "contentId": "sm5525531",
+          "title": "Little Traveler",
+          "artistList": [
+            "ジミーサムP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/5525531/5525531",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠い人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "つみか"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "HAN"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きぐな"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "尾白もち"
+            }
+          ]
+        },
+        {
+          "order": 39,
+          "contentId": "sm26470008",
+          "title": "ドクター=ファンクビート",
+          "artistList": [
+            "nyanyannya"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26470008/26470008",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "尾白もち"
+            }
+          ]
+        },
+        {
+          "order": 47,
+          "contentId": "sm38874555",
+          "title": "メンティーラ",
+          "artistList": [
+            "ど〜ぱみん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38874555/38874555.39892451",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "つみか"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "尾白もち"
+            }
+          ]
+        },
+        {
+          "order": 50,
+          "contentId": "sm43642792",
+          "title": "あの子は悪魔",
+          "artistList": [
+            "こめだわら"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43642792/43642792.88457264",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠い人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぴーなっつ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(2)",
+              "user": "尾白もち"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "C1",

@@ -1678,7 +1678,7 @@
       ],
       "startTime": "2009-12-02T21:03:40+09:00",
       "viewCounter": 1477275,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm21283394",
@@ -3586,7 +3586,7 @@
       ],
       "startTime": "2022-04-13T19:00:00+09:00",
       "viewCounter": 265801,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm30177801",
@@ -3719,6 +3719,28 @@
       ],
       "startTime": "2021-08-20T20:50:00+09:00",
       "viewCounter": 286905,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm37447987",
+      "title": "ディジーディジー",
+      "artist": "栗山夕璃(蜂屋ななし)",
+      "artistList": [
+        "栗山夕璃(蜂屋ななし)"
+      ],
+      "startTime": "2020-09-01T00:00:00+09:00",
+      "viewCounter": 520359,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm42848749",
+      "title": "アイムマイン",
+      "artist": "halyosy",
+      "artistList": [
+        "halyosy"
+      ],
+      "startTime": "2023-10-05T18:00:00+09:00",
+      "viewCounter": 508538,
       "correctCount": 1
     },
     {
@@ -3896,8 +3918,8 @@
     },
     {
       "artist": "栗山夕璃(蜂屋ななし)",
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "artist": "まらしぃ",
@@ -4306,7 +4328,7 @@
     },
     {
       "artist": "wowaka",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 2
     },
     {
@@ -4391,8 +4413,8 @@
     },
     {
       "artist": "halyosy",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "銀河方面P",
@@ -4726,7 +4748,7 @@
     },
     {
       "artist": "卯花ロク",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -4768,7 +4790,7 @@
     },
     {
       "era": "2009",
-      "correctCount": 19,
+      "correctCount": 20,
       "correctSongCount": 18
     },
     {
@@ -4783,8 +4805,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 20,
-      "correctSongCount": 17
+      "correctCount": 21,
+      "correctSongCount": 18
     },
     {
       "era": "2016",
@@ -4803,7 +4825,7 @@
     },
     {
       "era": "2022",
-      "correctCount": 19,
+      "correctCount": 20,
       "correctSongCount": 17
     },
     {
@@ -4833,8 +4855,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 9,
-      "correctSongCount": 9
+      "correctCount": 10,
+      "correctSongCount": 10
     },
     {
       "era": "2024",
@@ -4863,7 +4885,7 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 38,
+      "correctCount": 39,
       "correctSongCount": 37
     },
     {
@@ -4875,13 +4897,13 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 109,
-      "correctSongCount": 103
+      "correctCount": 111,
+      "correctSongCount": 105
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 86,
+      "correctCount": 87,
       "correctSongCount": 74
     },
     {
@@ -6933,6 +6955,18 @@
       "viewCounter": 286905
     },
     {
+      "title": "ディジーディジー",
+      "contentId": "sm37447987",
+      "startTime": 1598886000000,
+      "viewCounter": 520359
+    },
+    {
+      "title": "アイムマイン",
+      "contentId": "sm42848749",
+      "startTime": 1696496400000,
+      "viewCounter": 508538
+    },
+    {
       "title": "セツナトリップ",
       "contentId": "sm17720979",
       "startTime": 1336042873000,
@@ -6940,15 +6974,108 @@
     }
   ],
   "summary": {
-    "totalAnswers": 447,
-    "okAnswers": 371,
+    "totalAnswers": 451,
+    "okAnswers": 375,
     "ngAnswers": 76,
-    "participatedQuizCount": 83,
-    "winQuizCount": 80,
+    "participatedQuizCount": 84,
+    "winQuizCount": 81,
     "loseQuizCount": 0,
-    "medianViews": 786434
+    "medianViews": 783844
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "A",
+      "date": "2026-05-08",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 7,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 29,
+          "contentId": "sm8981824",
+          "title": "積み木の人形",
+          "artistList": [
+            "wowaka"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8981824/8981824",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "しょうま"
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "contentId": "sm40303213",
+          "title": "オーダー、仰せのままに",
+          "artistList": [
+            "卯花ロク"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40303213/40303213.66492686",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "かなくり"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Takuan"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "しょうま"
+            }
+          ]
+        },
+        {
+          "order": 51,
+          "contentId": "sm37447987",
+          "title": "ディジーディジー",
+          "artistList": [
+            "栗山夕璃(蜂屋ななし)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37447987/37447987.38063133",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "しょうま"
+            }
+          ]
+        },
+        {
+          "order": 52,
+          "contentId": "sm42848749",
+          "title": "アイムマイン",
+          "artistList": [
+            "halyosy"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42848749/42848749.99914",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(7)",
+              "user": "しょうま"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 295,
       "group": "A",

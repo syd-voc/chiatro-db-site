@@ -2065,7 +2065,7 @@
       ],
       "startTime": "2021-09-30T18:00:00+09:00",
       "viewCounter": 2047872,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm14808982",
@@ -2232,7 +2232,7 @@
       ],
       "startTime": "2011-12-15T07:00:31+09:00",
       "viewCounter": 3929017,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm29782999",
@@ -2727,7 +2727,7 @@
       ],
       "startTime": "2010-08-22T00:00:14+09:00",
       "viewCounter": 2657198,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm31098605",
@@ -2817,6 +2817,28 @@
       "startTime": "2018-07-09T19:00:00+09:00",
       "viewCounter": 527474,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm8901412",
+      "title": "シザーハンズ",
+      "artist": "Nem",
+      "artistList": [
+        "Nem"
+      ],
+      "startTime": "2009-11-24T04:25:34+09:00",
+      "viewCounter": 1181536,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm38495939",
+      "title": "『んっあっあっ。』",
+      "artist": "SLAVE.V-V-R",
+      "artistList": [
+        "SLAVE.V-V-R"
+      ],
+      "startTime": "2021-03-28T10:15:00+09:00",
+      "viewCounter": 1282024,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -2852,7 +2874,7 @@
     },
     {
       "artist": "じん",
-      "correctCount": 13,
+      "correctCount": 14,
       "correctSongCount": 11
     },
     {
@@ -2917,8 +2939,8 @@
     },
     {
       "artist": "SLAVE.V-V-R",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "ピノキオピー",
@@ -3112,7 +3134,7 @@
     },
     {
       "artist": "Eve",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 2
     },
     {
@@ -3467,7 +3489,7 @@
     },
     {
       "artist": "蝶々P",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 2
     },
     {
@@ -3524,6 +3546,11 @@
       "artist": "梅とら",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "Nem",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -3549,7 +3576,7 @@
     },
     {
       "era": "2011",
-      "correctCount": 44,
+      "correctCount": 45,
       "correctSongCount": 34
     },
     {
@@ -3564,8 +3591,8 @@
     },
     {
       "era": "2009",
-      "correctCount": 31,
-      "correctSongCount": 21
+      "correctCount": 32,
+      "correctSongCount": 22
     },
     {
       "era": "2020",
@@ -3594,13 +3621,13 @@
     },
     {
       "era": "2010",
-      "correctCount": 18,
+      "correctCount": 19,
       "correctSongCount": 16
     },
     {
       "era": "2021",
-      "correctCount": 14,
-      "correctSongCount": 12
+      "correctCount": 16,
+      "correctSongCount": 13
     },
     {
       "era": "2022",
@@ -3647,19 +3674,19 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 107,
-      "correctSongCount": 86
+      "correctCount": 109,
+      "correctSongCount": 88
     },
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 58,
+      "correctCount": 60,
       "correctSongCount": 45
     },
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 27,
+      "correctCount": 28,
       "correctSongCount": 23
     },
     {
@@ -5205,18 +5232,121 @@
       "contentId": "sm33465330",
       "startTime": 1531130400000,
       "viewCounter": 527474
+    },
+    {
+      "title": "シザーハンズ",
+      "contentId": "sm8901412",
+      "startTime": 1259004334000,
+      "viewCounter": 1181536
+    },
+    {
+      "title": "『んっあっあっ。』",
+      "contentId": "sm38495939",
+      "startTime": 1616894100000,
+      "viewCounter": 1282024
     }
   ],
   "summary": {
-    "totalAnswers": 351,
-    "okAnswers": 312,
+    "totalAnswers": 356,
+    "okAnswers": 317,
     "ngAnswers": 39,
-    "participatedQuizCount": 67,
-    "winQuizCount": 57,
+    "participatedQuizCount": 68,
+    "winQuizCount": 58,
     "loseQuizCount": 0,
-    "medianViews": 1421926
+    "medianViews": 1424840
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "D2",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 2,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 7,
+          "contentId": "sm16429826",
+          "title": "ヘッドフォンアクター",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16429826/16429826",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "つばさ"
+            }
+          ]
+        },
+        {
+          "order": 9,
+          "contentId": "sm39411572",
+          "title": "群青讃歌",
+          "artistList": [
+            "Eve"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39411572/39411572.5041558",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "つばさ"
+            }
+          ]
+        },
+        {
+          "order": 15,
+          "contentId": "sm11834233",
+          "title": "心拍数♯0822",
+          "artistList": [
+            "蝶々P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/11834233/11834233",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "つばさ"
+            }
+          ]
+        },
+        {
+          "order": 22,
+          "contentId": "sm8901412",
+          "title": "シザーハンズ",
+          "artistList": [
+            "Nem"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8901412/8901412.5179723",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "つばさ"
+            }
+          ]
+        },
+        {
+          "order": 27,
+          "contentId": "sm38495939",
+          "title": "『んっあっあっ。』",
+          "artistList": [
+            "SLAVE.V-V-R"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38495939/38495939.26505646",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(2)",
+              "user": "つばさ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "D2",

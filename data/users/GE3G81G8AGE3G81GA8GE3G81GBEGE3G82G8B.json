@@ -1952,7 +1952,7 @@
       ],
       "startTime": "2011-05-29T20:10:03+09:00",
       "viewCounter": 2895224,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm15488191",
@@ -2294,7 +2294,7 @@
       ],
       "startTime": "2014-01-27T19:00:00+09:00",
       "viewCounter": 474071,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm36143386",
@@ -2736,6 +2736,39 @@
       "startTime": "2014-04-06T02:03:16+09:00",
       "viewCounter": 311502,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm36783926",
+      "title": "ハイパーサピエンス",
+      "artist": "lumo",
+      "artistList": [
+        "lumo"
+      ],
+      "startTime": "2020-05-02T15:12:03+09:00",
+      "viewCounter": 140323,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm4596128",
+      "title": "Transmit",
+      "artist": "シグナルP",
+      "artistList": [
+        "シグナルP"
+      ],
+      "startTime": "2008-09-12T06:18:12+09:00",
+      "viewCounter": 632490,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm20296308",
+      "title": "ブリキノダンス",
+      "artist": "日向電工",
+      "artistList": [
+        "日向電工"
+      ],
+      "startTime": "2013-03-10T17:26:53+09:00",
+      "viewCounter": 5190982,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -2896,7 +2929,7 @@
     },
     {
       "artist": "ピノキオピー",
-      "correctCount": 13,
+      "correctCount": 14,
       "correctSongCount": 10
     },
     {
@@ -3126,7 +3159,7 @@
     },
     {
       "artist": "じん",
-      "correctCount": 5,
+      "correctCount": 6,
       "correctSongCount": 4
     },
     {
@@ -3186,8 +3219,8 @@
     },
     {
       "artist": "lumo",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "ゆちゃ",
@@ -3206,8 +3239,8 @@
     },
     {
       "artist": "シグナルP",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "SubStreet",
@@ -3423,6 +3456,11 @@
       "artist": "samfree",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "日向電工",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -3438,12 +3476,12 @@
     },
     {
       "era": "2014",
-      "correctCount": 20,
+      "correctCount": 21,
       "correctSongCount": 18
     },
     {
       "era": "2011",
-      "correctCount": 24,
+      "correctCount": 25,
       "correctSongCount": 19
     },
     {
@@ -3463,8 +3501,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 15,
-      "correctSongCount": 14
+      "correctCount": 16,
+      "correctSongCount": 15
     },
     {
       "era": "2017",
@@ -3478,13 +3516,13 @@
     },
     {
       "era": "2013",
-      "correctCount": 7,
-      "correctSongCount": 7
+      "correctCount": 8,
+      "correctSongCount": 8
     },
     {
       "era": "2007-2008",
-      "correctCount": 11,
-      "correctSongCount": 10
+      "correctCount": 12,
+      "correctSongCount": 11
     },
     {
       "era": "2012",
@@ -3528,20 +3566,20 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 28,
-      "correctSongCount": 26
+      "correctCount": 29,
+      "correctSongCount": 27
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 29,
+      "correctCount": 30,
       "correctSongCount": 25
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 49,
-      "correctSongCount": 44
+      "correctCount": 50,
+      "correctSongCount": 45
     },
     {
       "range": "100-200万",
@@ -3552,7 +3590,7 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 43,
+      "correctCount": 44,
       "correctSongCount": 36
     },
     {
@@ -3564,8 +3602,8 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 14,
-      "correctSongCount": 12
+      "correctCount": 15,
+      "correctSongCount": 13
     },
     {
       "range": "1000万-",
@@ -5062,18 +5100,136 @@
       "contentId": "sm23265517",
       "startTime": 1396717396000,
       "viewCounter": 311502
+    },
+    {
+      "title": "ハイパーサピエンス",
+      "contentId": "sm36783926",
+      "startTime": 1588399923000,
+      "viewCounter": 140323
+    },
+    {
+      "title": "Transmit",
+      "contentId": "sm4596128",
+      "startTime": 1221167892000,
+      "viewCounter": 632490
+    },
+    {
+      "title": "ブリキノダンス",
+      "contentId": "sm20296308",
+      "startTime": 1362904013000,
+      "viewCounter": 5190982
     }
   ],
   "summary": {
-    "totalAnswers": 365,
-    "okAnswers": 282,
+    "totalAnswers": 370,
+    "okAnswers": 287,
     "ngAnswers": 83,
-    "participatedQuizCount": 59,
-    "winQuizCount": 56,
+    "participatedQuizCount": 60,
+    "winQuizCount": 57,
     "loseQuizCount": 0,
-    "medianViews": 1294605
+    "medianViews": 1292891
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "C2",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 5,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 10,
+          "contentId": "sm22748403",
+          "title": "それぞれに人生がある",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22748403/22748403",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "おとまる"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm36783926",
+          "title": "ハイパーサピエンス",
+          "artistList": [
+            "lumo"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36783926/36783926.97550453",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "おとまる"
+            }
+          ]
+        },
+        {
+          "order": 36,
+          "contentId": "sm4596128",
+          "title": "Transmit",
+          "artistList": [
+            "シグナルP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/4596128/4596128",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぽんぬ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "おとまる"
+            }
+          ]
+        },
+        {
+          "order": 39,
+          "contentId": "sm14595248",
+          "title": "メカクシコード",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14595248/14595248",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "おとまる"
+            }
+          ]
+        },
+        {
+          "order": 47,
+          "contentId": "sm20296308",
+          "title": "ブリキノダンス",
+          "artistList": [
+            "日向電工"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20296308/20296308",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(5)",
+              "user": "おとまる"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 295,
       "group": "D1",

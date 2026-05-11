@@ -3899,7 +3899,7 @@
       ],
       "startTime": "2017-04-07T19:00:00+09:00",
       "viewCounter": 299469,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm30495535",
@@ -4219,6 +4219,39 @@
       ],
       "startTime": "2019-05-03T20:00:00+09:00",
       "viewCounter": 438719,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44664536",
+      "title": "BLUE BACK",
+      "artist": "じん",
+      "artistList": [
+        "じん"
+      ],
+      "startTime": "2025-02-19T19:00:00+09:00",
+      "viewCounter": 2209720,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44094606",
+      "title": "デュエルペット",
+      "artist": "gaburyu",
+      "artistList": [
+        "gaburyu"
+      ],
+      "startTime": "2024-09-12T21:00:00+09:00",
+      "viewCounter": 14165,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44050675",
+      "title": "全部夢だった！",
+      "artist": "黒うさぎ",
+      "artistList": [
+        "黒うさぎ"
+      ],
+      "startTime": "2024-09-01T20:00:00+09:00",
+      "viewCounter": 799149,
       "correctCount": 1
     },
     {
@@ -6335,8 +6368,8 @@
     },
     {
       "artist": "じん",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "19's Sound Factory",
@@ -7320,7 +7353,7 @@
     },
     {
       "artist": "遼遼",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 2
     },
     {
@@ -7392,6 +7425,16 @@
       "artist": "とあ",
       "correctCount": 3,
       "correctSongCount": 2
+    },
+    {
+      "artist": "gaburyu",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "黒うさぎ",
+      "correctCount": 1,
+      "correctSongCount": 1
     },
     {
       "artist": "まふまふ",
@@ -7762,7 +7805,7 @@
     },
     {
       "era": "2017",
-      "correctCount": 54,
+      "correctCount": 55,
       "correctSongCount": 43
     },
     {
@@ -7797,13 +7840,13 @@
     },
     {
       "era": "2025-",
-      "correctCount": 13,
-      "correctSongCount": 13
+      "correctCount": 14,
+      "correctSongCount": 14
     },
     {
       "era": "2024",
-      "correctCount": 6,
-      "correctSongCount": 6
+      "correctCount": 8,
+      "correctSongCount": 8
     }
   ],
   "viewStats": [
@@ -7816,13 +7859,13 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 86,
-      "correctSongCount": 79
+      "correctCount": 87,
+      "correctSongCount": 80
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 218,
+      "correctCount": 219,
       "correctSongCount": 192
     },
     {
@@ -7834,8 +7877,8 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 98,
-      "correctSongCount": 74
+      "correctCount": 99,
+      "correctSongCount": 75
     },
     {
       "range": "100-200万",
@@ -7846,8 +7889,8 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 27,
-      "correctSongCount": 23
+      "correctCount": 28,
+      "correctSongCount": 24
     },
     {
       "range": "300-500万",
@@ -10168,6 +10211,24 @@
       "viewCounter": 438719
     },
     {
+      "title": "BLUE BACK",
+      "contentId": "sm44664536",
+      "startTime": 1739959200000,
+      "viewCounter": 2209720
+    },
+    {
+      "title": "デュエルペット",
+      "contentId": "sm44094606",
+      "startTime": 1726142400000,
+      "viewCounter": 14165
+    },
+    {
+      "title": "全部夢だった！",
+      "contentId": "sm44050675",
+      "startTime": 1725188400000,
+      "viewCounter": 799149
+    },
+    {
       "title": "ジグソーパズル",
       "contentId": "sm34214810",
       "startTime": 1542963600000,
@@ -11171,15 +11232,123 @@
     }
   ],
   "summary": {
-    "totalAnswers": 974,
-    "okAnswers": 644,
-    "ngAnswers": 323,
-    "participatedQuizCount": 166,
-    "winQuizCount": 135,
+    "totalAnswers": 979,
+    "okAnswers": 648,
+    "ngAnswers": 324,
+    "participatedQuizCount": 167,
+    "winQuizCount": 136,
     "loseQuizCount": 7,
-    "medianViews": 306678
+    "medianViews": 306970
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "A",
+      "date": "2026-05-08",
+      "ok": 4,
+      "ng": 1,
+      "winRank": 13,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 28,
+          "contentId": "sm44664536",
+          "title": "BLUE BACK",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44664536/44664536.25310356",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "まつせ"
+            }
+          ]
+        },
+        {
+          "order": 41,
+          "contentId": "sm44094606",
+          "title": "デュエルペット",
+          "artistList": [
+            "gaburyu"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44094606/44094606.95842043",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "まつせ"
+            }
+          ]
+        },
+        {
+          "order": 60,
+          "contentId": "sm44110174",
+          "title": "ていたいむず",
+          "artistList": [
+            "綿ナラシ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44110174/44110174.28753611",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "まつせ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 67,
+          "contentId": "sm44050675",
+          "title": "全部夢だった！",
+          "artistList": [
+            "黒うさぎ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44050675/44050675.92586431",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "まつせ"
+            }
+          ]
+        },
+        {
+          "order": 68,
+          "contentId": "sm30982346",
+          "title": "ハイタ",
+          "artistList": [
+            "遼遼"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30982346/30982346",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(13)",
+              "user": "まつせ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "B",

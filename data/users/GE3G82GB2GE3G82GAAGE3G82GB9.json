@@ -4924,6 +4924,50 @@
       "startTime": "2010-03-13T13:57:10+09:00",
       "viewCounter": 841961,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm45288442",
+      "title": "ぐちゃぐちゃぬるぽ",
+      "artist": "STEAKA",
+      "artistList": [
+        "STEAKA"
+      ],
+      "startTime": "2025-08-23T00:00:00+09:00",
+      "viewCounter": 88842,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm21858462",
+      "title": "in the rain",
+      "artist": "keeno",
+      "artistList": [
+        "keeno"
+      ],
+      "startTime": "2013-09-18T20:39:41+09:00",
+      "viewCounter": 1008458,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm32027180",
+      "title": "ひとごろしのバケモノ",
+      "artist": "和田たけあき",
+      "artistList": [
+        "和田たけあき"
+      ],
+      "startTime": "2017-10-01T19:00:00+09:00",
+      "viewCounter": 645972,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45344669",
+      "title": "そのたび",
+      "artist": "大漠波新",
+      "artistList": [
+        "大漠波新"
+      ],
+      "startTime": "2025-08-30T19:20:00+09:00",
+      "viewCounter": 442183,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -5084,8 +5128,8 @@
     },
     {
       "artist": "STEAKA",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "Dixie Flatline",
@@ -5604,8 +5648,8 @@
     },
     {
       "artist": "和田たけあき",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "獅子志司",
@@ -5789,8 +5833,8 @@
     },
     {
       "artist": "keeno",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "MOSAIC.TUNE",
@@ -6246,6 +6290,11 @@
       "artist": "かぴたろう",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "大漠波新",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -6301,8 +6350,8 @@
     },
     {
       "era": "2017",
-      "correctCount": 26,
-      "correctSongCount": 24
+      "correctCount": 27,
+      "correctSongCount": 25
     },
     {
       "era": "2015",
@@ -6316,8 +6365,8 @@
     },
     {
       "era": "2013",
-      "correctCount": 32,
-      "correctSongCount": 30
+      "correctCount": 33,
+      "correctSongCount": 31
     },
     {
       "era": "2009",
@@ -6336,8 +6385,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 4,
+      "correctSongCount": 4
     }
   ],
   "viewStats": [
@@ -6350,8 +6399,8 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 53,
-      "correctSongCount": 52
+      "correctCount": 54,
+      "correctSongCount": 53
     },
     {
       "range": "10-30万",
@@ -6362,20 +6411,20 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 98,
-      "correctSongCount": 89
+      "correctCount": 99,
+      "correctSongCount": 90
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 91,
-      "correctSongCount": 81
+      "correctCount": 92,
+      "correctSongCount": 82
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 53,
-      "correctSongCount": 50
+      "correctCount": 54,
+      "correctSongCount": 51
     },
     {
       "range": "200-300万",
@@ -9078,18 +9127,203 @@
       "contentId": "sm10009443",
       "startTime": 1268456230000,
       "viewCounter": 841961
+    },
+    {
+      "title": "ぐちゃぐちゃぬるぽ",
+      "contentId": "sm45288442",
+      "startTime": 1755874800000,
+      "viewCounter": 88842
+    },
+    {
+      "title": "in the rain",
+      "contentId": "sm21858462",
+      "startTime": 1379504381000,
+      "viewCounter": 1008458
+    },
+    {
+      "title": "ひとごろしのバケモノ",
+      "contentId": "sm32027180",
+      "startTime": 1506852000000,
+      "viewCounter": 645972
+    },
+    {
+      "title": "そのたび",
+      "contentId": "sm45344669",
+      "startTime": 1756549200000,
+      "viewCounter": 442183
     }
   ],
   "summary": {
-    "totalAnswers": 650,
-    "okAnswers": 482,
-    "ngAnswers": 161,
-    "participatedQuizCount": 117,
-    "winQuizCount": 95,
+    "totalAnswers": 656,
+    "okAnswers": 486,
+    "ngAnswers": 163,
+    "participatedQuizCount": 118,
+    "winQuizCount": 96,
     "loseQuizCount": 7,
-    "medianViews": 352177
+    "medianViews": 352655
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "A",
+      "date": "2026-05-08",
+      "ok": 4,
+      "ng": 2,
+      "winRank": 6,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 6,
+          "contentId": "sm38603052",
+          "title": "flare",
+          "artistList": [
+            "歩く人"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38603052/38603052.68312653",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゲオス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Takuan"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "maruma"
+            }
+          ]
+        },
+        {
+          "order": 17,
+          "contentId": "sm26824403",
+          "title": "ナイトメアカーニバル",
+          "artistList": [
+            "けーだっしゅ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26824403/26824403",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゲオス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ぬーん"
+            }
+          ]
+        },
+        {
+          "order": 32,
+          "contentId": "sm45288442",
+          "title": "ぐちゃぐちゃぬるぽ",
+          "artistList": [
+            "STEAKA"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45288442/45288442.46228561",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ベガ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ゲオス"
+            }
+          ]
+        },
+        {
+          "order": 38,
+          "contentId": "sm21858462",
+          "title": "in the rain",
+          "artistList": [
+            "keeno"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21858462/21858462",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ゲオス"
+            }
+          ]
+        },
+        {
+          "order": 42,
+          "contentId": "sm32027180",
+          "title": "ひとごろしのバケモノ",
+          "artistList": [
+            "和田たけあき"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32027180/32027180",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "エイミー"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ゲオス"
+            }
+          ]
+        },
+        {
+          "order": 47,
+          "contentId": "sm45344669",
+          "title": "そのたび",
+          "artistList": [
+            "大漠波新"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45344669/45344669.71503085",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(6)",
+              "user": "ゲオス"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 296,
       "group": "A",

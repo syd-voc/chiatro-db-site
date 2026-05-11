@@ -222,6 +222,61 @@
       "startTime": "2014-07-02T19:00:00+09:00",
       "viewCounter": 1559947,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm33063364",
+      "title": "シエレトワール",
+      "artist": "蝶々P",
+      "artistList": [
+        "蝶々P"
+      ],
+      "startTime": "2018-04-17T19:00:00+09:00",
+      "viewCounter": 330244,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm22888888",
+      "title": "シンクロサイクロトロン・スピリチュアライザー。",
+      "artist": "砂粒",
+      "artistList": [
+        "砂粒"
+      ],
+      "startTime": "2014-02-14T22:44:00+09:00",
+      "viewCounter": 273923,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm37081741",
+      "title": "アイ情劣等生",
+      "artist": "かいりきベア",
+      "artistList": [
+        "かいりきベア"
+      ],
+      "startTime": "2020-06-27T19:30:00+09:00",
+      "viewCounter": 2729216,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm18821036",
+      "title": "九龍レトロ",
+      "artist": "トーマ",
+      "artistList": [
+        "トーマ"
+      ],
+      "startTime": "2012-09-07T19:00:29+09:00",
+      "viewCounter": 2411455,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm36314325",
+      "title": "孤独の宗教",
+      "artist": "syudou",
+      "artistList": [
+        "syudou"
+      ],
+      "startTime": "2020-02-03T19:00:00+09:00",
+      "viewCounter": 2863852,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -247,8 +302,8 @@
     },
     {
       "artist": "かいりきベア",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "HoneyWorks",
@@ -319,6 +374,26 @@
       "artist": "椎名もた",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "蝶々P",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "砂粒",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "トーマ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "syudou",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -329,8 +404,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "era": "2017",
@@ -339,8 +414,8 @@
     },
     {
       "era": "2018",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "era": "2022",
@@ -349,8 +424,8 @@
     },
     {
       "era": "2012",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "era": "2010",
@@ -379,8 +454,8 @@
     },
     {
       "era": "2014",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     }
   ],
   "viewStats": [
@@ -399,14 +474,14 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "range": "50-100万",
@@ -423,8 +498,8 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "range": "300-500万",
@@ -565,18 +640,247 @@
       "contentId": "sm23910729",
       "startTime": 1404295200000,
       "viewCounter": 1559947
+    },
+    {
+      "title": "シエレトワール",
+      "contentId": "sm33063364",
+      "startTime": 1523959200000,
+      "viewCounter": 330244
+    },
+    {
+      "title": "シンクロサイクロトロン・スピリチュアライザー。",
+      "contentId": "sm22888888",
+      "startTime": 1392385440000,
+      "viewCounter": 273923
+    },
+    {
+      "title": "アイ情劣等生",
+      "contentId": "sm37081741",
+      "startTime": 1593253800000,
+      "viewCounter": 2729216
+    },
+    {
+      "title": "九龍レトロ",
+      "contentId": "sm18821036",
+      "startTime": 1347012029000,
+      "viewCounter": 2411455
+    },
+    {
+      "title": "孤独の宗教",
+      "contentId": "sm36314325",
+      "startTime": 1580724000000,
+      "viewCounter": 2863852
     }
   ],
   "summary": {
-    "totalAnswers": 28,
-    "okAnswers": 20,
-    "ngAnswers": 8,
-    "participatedQuizCount": 4,
-    "winQuizCount": 4,
+    "totalAnswers": 36,
+    "okAnswers": 25,
+    "ngAnswers": 11,
+    "participatedQuizCount": 5,
+    "winQuizCount": 5,
     "loseQuizCount": 0,
     "medianViews": 602778
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "D1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 3,
+      "winRank": 11,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 26,
+          "contentId": "sm42574146",
+          "title": "ミズイロ",
+          "artistList": [
+            "higma"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42574146/42574146.16653572",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "しがない炭酸飲料"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 35,
+          "contentId": "sm33063364",
+          "title": "シエレトワール",
+          "artistList": [
+            "蝶々P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33063364/33063364",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "しがない炭酸飲料"
+            }
+          ]
+        },
+        {
+          "order": 50,
+          "contentId": "sm41618118",
+          "title": "オマジナイ",
+          "artistList": [
+            "MIMI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41618118/41618118.60299901",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ひーた"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "水筒"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "しがない炭酸飲料"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 56,
+          "contentId": "sm22888888",
+          "title": "シンクロサイクロトロン・スピリチュアライザー。",
+          "artistList": [
+            "砂粒"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22888888/22888888",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "しがない炭酸飲料"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm45938997",
+          "title": "愛言葉V",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45938997/45938997.13561173",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "しがない炭酸飲料"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 67,
+          "contentId": "sm37081741",
+          "title": "アイ情劣等生",
+          "artistList": [
+            "かいりきベア"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37081741/37081741.57992817",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "水筒"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "しがない炭酸飲料"
+            }
+          ]
+        },
+        {
+          "order": 69,
+          "contentId": "sm18821036",
+          "title": "九龍レトロ",
+          "artistList": [
+            "トーマ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18821036/18821036",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "しがない炭酸飲料"
+            }
+          ]
+        },
+        {
+          "order": 75,
+          "contentId": "sm36314325",
+          "title": "孤独の宗教",
+          "artistList": [
+            "syudou"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36314325/36314325.81492408",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "水筒"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(11)",
+              "user": "しがない炭酸飲料"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "D1",

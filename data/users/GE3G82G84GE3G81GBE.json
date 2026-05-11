@@ -1630,7 +1630,7 @@
       ],
       "startTime": "2013-08-20T19:12:55+09:00",
       "viewCounter": 1076870,
-      "correctCount": 3
+      "correctCount": 4
     },
     {
       "contentId": "sm32234716",
@@ -4917,6 +4917,39 @@
       ],
       "startTime": "2024-12-14T18:30:00+09:00",
       "viewCounter": 854861,
+      "correctCount": 2
+    },
+    {
+      "contentId": "sm38562062",
+      "title": "エライエライエライ！",
+      "artist": "キノシタ",
+      "artistList": [
+        "キノシタ"
+      ],
+      "startTime": "2021-04-10T19:00:05+09:00",
+      "viewCounter": 310657,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39963104",
+      "title": "さよならプリンセス",
+      "artist": "Kai",
+      "artistList": [
+        "Kai"
+      ],
+      "startTime": "2022-01-29T19:05:02+09:00",
+      "viewCounter": 1549521,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm42577641",
+      "title": "巫",
+      "artist": "柊マグネタイト",
+      "artistList": [
+        "柊マグネタイト"
+      ],
+      "startTime": "2023-08-05T00:00:00+09:00",
+      "viewCounter": 305422,
       "correctCount": 1
     },
     {
@@ -5140,7 +5173,7 @@
     },
     {
       "artist": "n-buna",
-      "correctCount": 21,
+      "correctCount": 22,
       "correctSongCount": 13
     },
     {
@@ -5380,8 +5413,8 @@
     },
     {
       "artist": "柊マグネタイト",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "wowaka",
@@ -6070,6 +6103,16 @@
     },
     {
       "artist": "MIMI",
+      "correctCount": 2,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "キノシタ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "Kai",
       "correctCount": 1,
       "correctSongCount": 1
     }
@@ -6082,8 +6125,8 @@
     },
     {
       "era": "2021",
-      "correctCount": 28,
-      "correctSongCount": 22
+      "correctCount": 29,
+      "correctSongCount": 23
     },
     {
       "era": "2016",
@@ -6112,7 +6155,7 @@
     },
     {
       "era": "2013",
-      "correctCount": 42,
+      "correctCount": 43,
       "correctSongCount": 30
     },
     {
@@ -6127,8 +6170,8 @@
     },
     {
       "era": "2022",
-      "correctCount": 20,
-      "correctSongCount": 14
+      "correctCount": 21,
+      "correctSongCount": 15
     },
     {
       "era": "2020",
@@ -6147,8 +6190,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 20,
-      "correctSongCount": 20
+      "correctCount": 21,
+      "correctSongCount": 21
     },
     {
       "era": "2007-2008",
@@ -6157,7 +6200,7 @@
     },
     {
       "era": "2024",
-      "correctCount": 20,
+      "correctCount": 21,
       "correctSongCount": 17
     },
     {
@@ -6188,20 +6231,20 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 113,
-      "correctSongCount": 69
+      "correctCount": 115,
+      "correctSongCount": 71
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 107,
+      "correctCount": 108,
       "correctSongCount": 71
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 93,
-      "correctSongCount": 71
+      "correctCount": 95,
+      "correctSongCount": 72
     },
     {
       "range": "200-300万",
@@ -8906,6 +8949,24 @@
       "viewCounter": 854861
     },
     {
+      "title": "エライエライエライ！",
+      "contentId": "sm38562062",
+      "startTime": 1618048805000,
+      "viewCounter": 310657
+    },
+    {
+      "title": "さよならプリンセス",
+      "contentId": "sm39963104",
+      "startTime": 1643450702000,
+      "viewCounter": 1549521
+    },
+    {
+      "title": "巫",
+      "contentId": "sm42577641",
+      "startTime": 1691161200000,
+      "viewCounter": 305422
+    },
+    {
       "title": "あさきゆめみし",
       "contentId": "sm26630733",
       "startTime": 1435996800000,
@@ -8949,15 +9010,148 @@
     }
   ],
   "summary": {
-    "totalAnswers": 834,
-    "okAnswers": 629,
-    "ngAnswers": 205,
-    "participatedQuizCount": 178,
-    "winQuizCount": 101,
+    "totalAnswers": 840,
+    "okAnswers": 634,
+    "ngAnswers": 206,
+    "participatedQuizCount": 179,
+    "winQuizCount": 102,
     "loseQuizCount": 0,
-    "medianViews": 462855
+    "medianViews": 464862
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "C1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 14,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 79,
+          "contentId": "sm25110352",
+          "title": "僕だけのロックスター",
+          "artistList": [
+            "伊東歌詞太郎"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25110352/25110352",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "つみか"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "やま"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 86,
+          "contentId": "sm21638600",
+          "title": "背景、夏に溺れる",
+          "artistList": [
+            "n-buna"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21638600/21638600",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "やま"
+            }
+          ]
+        },
+        {
+          "order": 88,
+          "contentId": "sm38562062",
+          "title": "エライエライエライ！",
+          "artistList": [
+            "キノシタ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38562062/38562062.32988362",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "やま"
+            }
+          ]
+        },
+        {
+          "order": 89,
+          "contentId": "sm44409858",
+          "title": "サイエンス",
+          "artistList": [
+            "MIMI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44409858/44409858.57374584",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "つみか"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "やま"
+            }
+          ]
+        },
+        {
+          "order": 91,
+          "contentId": "sm39963104",
+          "title": "さよならプリンセス",
+          "artistList": [
+            "Kai"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39963104/39963104.77012946",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "やま"
+            }
+          ]
+        },
+        {
+          "order": 95,
+          "contentId": "sm42577641",
+          "title": "巫",
+          "artistList": [
+            "柊マグネタイト"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42577641/42577641.41274199",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(14)",
+              "user": "やま"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "C1",

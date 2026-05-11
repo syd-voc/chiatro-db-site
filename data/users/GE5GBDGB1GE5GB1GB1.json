@@ -2071,7 +2071,7 @@
       ],
       "startTime": "2017-01-20T21:12:00+09:00",
       "viewCounter": 7187206,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm42945191",
@@ -3483,7 +3483,7 @@
       ],
       "startTime": "2008-02-22T02:23:05+09:00",
       "viewCounter": 4768115,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm28562822",
@@ -4154,7 +4154,7 @@
       ],
       "startTime": "2022-06-15T20:12:02+09:00",
       "viewCounter": 179640,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm39411026",
@@ -4674,6 +4674,28 @@
       "startTime": "2025-08-01T19:00:00+09:00",
       "viewCounter": 2223532,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm33334184",
+      "title": "METEOR",
+      "artist": "DIVELA",
+      "artistList": [
+        "DIVELA"
+      ],
+      "startTime": "2018-06-08T20:00:00+09:00",
+      "viewCounter": 1581986,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm42646085",
+      "title": "リアライズ",
+      "artist": "柊マグネタイト",
+      "artistList": [
+        "柊マグネタイト"
+      ],
+      "startTime": "2023-08-19T22:15:00+09:00",
+      "viewCounter": 1790036,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4924,8 +4946,8 @@
     },
     {
       "artist": "柊マグネタイト",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "おにゅうP",
@@ -4974,7 +4996,7 @@
     },
     {
       "artist": "ナユタン星人",
-      "correctCount": 5,
+      "correctCount": 6,
       "correctSongCount": 4
     },
     {
@@ -5179,8 +5201,8 @@
     },
     {
       "artist": "DIVELA",
-      "correctCount": 4,
-      "correctSongCount": 3
+      "correctCount": 5,
+      "correctSongCount": 4
     },
     {
       "artist": "無色透名祭公式",
@@ -5229,7 +5251,7 @@
     },
     {
       "artist": "ryo",
-      "correctCount": 4,
+      "correctCount": 5,
       "correctSongCount": 3
     },
     {
@@ -5259,7 +5281,7 @@
     },
     {
       "artist": "フロクロ",
-      "correctCount": 4,
+      "correctCount": 5,
       "correctSongCount": 3
     },
     {
@@ -5806,7 +5828,7 @@
   "eraStats": [
     {
       "era": "2017",
-      "correctCount": 22,
+      "correctCount": 23,
       "correctSongCount": 21
     },
     {
@@ -5831,7 +5853,7 @@
     },
     {
       "era": "2022",
-      "correctCount": 44,
+      "correctCount": 45,
       "correctSongCount": 38
     },
     {
@@ -5856,8 +5878,8 @@
     },
     {
       "era": "2018",
-      "correctCount": 25,
-      "correctSongCount": 21
+      "correctCount": 26,
+      "correctSongCount": 22
     },
     {
       "era": "2019",
@@ -5866,7 +5888,7 @@
     },
     {
       "era": "2007-2008",
-      "correctCount": 20,
+      "correctCount": 21,
       "correctSongCount": 18
     },
     {
@@ -5881,8 +5903,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 49,
-      "correctSongCount": 42
+      "correctCount": 50,
+      "correctSongCount": 43
     },
     {
       "era": "2024",
@@ -5911,7 +5933,7 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 103,
+      "correctCount": 104,
       "correctSongCount": 96
     },
     {
@@ -5929,8 +5951,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 74,
-      "correctSongCount": 62
+      "correctCount": 76,
+      "correctSongCount": 64
     },
     {
       "range": "200-300万",
@@ -5941,13 +5963,13 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 27,
+      "correctCount": 28,
       "correctSongCount": 22
     },
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 20,
+      "correctCount": 21,
       "correctSongCount": 16
     },
     {
@@ -8501,18 +8523,146 @@
       "contentId": "sm45241713",
       "startTime": 1754042400000,
       "viewCounter": 2223532
+    },
+    {
+      "title": "METEOR",
+      "contentId": "sm33334184",
+      "startTime": 1528455600000,
+      "viewCounter": 1581986
+    },
+    {
+      "title": "リアライズ",
+      "contentId": "sm42646085",
+      "startTime": 1692450900000,
+      "viewCounter": 1790036
     }
   ],
   "summary": {
-    "totalAnswers": 767,
-    "okAnswers": 481,
-    "ngAnswers": 278,
-    "participatedQuizCount": 108,
-    "winQuizCount": 95,
+    "totalAnswers": 773,
+    "okAnswers": 486,
+    "ngAnswers": 279,
+    "participatedQuizCount": 109,
+    "winQuizCount": 96,
     "loseQuizCount": 8,
-    "medianViews": 481209
+    "medianViews": 482291
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "B",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 1,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 2,
+          "contentId": "sm33334184",
+          "title": "METEOR",
+          "artistList": [
+            "DIVELA"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33334184/33334184",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "影山"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "contentId": "sm2397344",
+          "title": "恋は戦争",
+          "artistList": [
+            "ryo"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2397344/2397344",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "影山"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "contentId": "sm42696023",
+          "title": "Be With Master",
+          "artistList": [
+            "ラマーズP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42696023/42696023.87701111",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "影山"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "わいえい"
+            }
+          ]
+        },
+        {
+          "order": 9,
+          "contentId": "sm42646085",
+          "title": "リアライズ",
+          "artistList": [
+            "柊マグネタイト"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42646085/42646085.52209206",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "影山"
+            }
+          ]
+        },
+        {
+          "order": 11,
+          "contentId": "sm40627337",
+          "title": "空を満たして",
+          "artistList": [
+            "フロクロ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40627337/40627337.98620140",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "影山"
+            }
+          ]
+        },
+        {
+          "order": 12,
+          "contentId": "sm30469574",
+          "title": "太陽系デスコ",
+          "artistList": [
+            "ナユタン星人"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30469574/30469574",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(1)",
+              "user": "影山"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 296,
       "group": "A",

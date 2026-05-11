@@ -396,7 +396,7 @@
       ],
       "startTime": "2021-07-23T19:00:00+09:00",
       "viewCounter": 449303,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm43490001",
@@ -562,6 +562,50 @@
       "startTime": "2019-02-12T20:00:00+09:00",
       "viewCounter": 370784,
       "correctCount": 1
+    },
+    {
+      "contentId": "nm10406690",
+      "title": "オマーン湖",
+      "artist": "乙P",
+      "artistList": [
+        "乙P"
+      ],
+      "startTime": "2010-04-16T17:30:06+09:00",
+      "viewCounter": 704308,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm42440400",
+      "title": "ミィハー",
+      "artist": "Chinozo",
+      "artistList": [
+        "Chinozo"
+      ],
+      "startTime": "2023-07-05T20:00:00+09:00",
+      "viewCounter": 301933,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm14990051",
+      "title": "嗚呼、素晴らしきニャン生",
+      "artist": "Nem",
+      "artistList": [
+        "Nem"
+      ],
+      "startTime": "2011-07-11T20:17:45+09:00",
+      "viewCounter": 2371093,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm30880504",
+      "title": "世界の真ん中を歩く",
+      "artist": "夏代孝明",
+      "artistList": [
+        "夏代孝明"
+      ],
+      "startTime": "2017-03-23T21:00:00+09:00",
+      "viewCounter": 682653,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -707,7 +751,7 @@
     },
     {
       "artist": "wotaku",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 2
     },
     {
@@ -749,6 +793,26 @@
       "artist": "栗山夕璃(蜂屋ななし)",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "乙P",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "Chinozo",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "Nem",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "夏代孝明",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -759,8 +823,8 @@
     },
     {
       "era": "2010",
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "era": "2019",
@@ -774,22 +838,22 @@
     },
     {
       "era": "2011",
+      "correctCount": 7,
+      "correctSongCount": 6
+    },
+    {
+      "era": "2023",
+      "correctCount": 7,
+      "correctSongCount": 7
+    },
+    {
+      "era": "2017",
       "correctCount": 6,
       "correctSongCount": 5
     },
     {
-      "era": "2023",
-      "correctCount": 6,
-      "correctSongCount": 6
-    },
-    {
-      "era": "2017",
-      "correctCount": 5,
-      "correctSongCount": 4
-    },
-    {
       "era": "2021",
-      "correctCount": 7,
+      "correctCount": 8,
       "correctSongCount": 7
     },
     {
@@ -845,14 +909,14 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 8,
-      "correctSongCount": 8
+      "correctCount": 10,
+      "correctSongCount": 9
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 10,
-      "correctSongCount": 8
+      "correctCount": 12,
+      "correctSongCount": 10
     },
     {
       "range": "100-200万",
@@ -863,8 +927,8 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 6,
-      "correctSongCount": 6
+      "correctCount": 7,
+      "correctSongCount": 7
     },
     {
       "range": "300-500万",
@@ -1191,18 +1255,193 @@
       "contentId": "sm34621103",
       "startTime": 1549969200000,
       "viewCounter": 370784
+    },
+    {
+      "title": "オマーン湖",
+      "contentId": "nm10406690",
+      "startTime": 1271406606000,
+      "viewCounter": 704308
+    },
+    {
+      "title": "ミィハー",
+      "contentId": "sm42440400",
+      "startTime": 1688554800000,
+      "viewCounter": 301933
+    },
+    {
+      "title": "嗚呼、素晴らしきニャン生",
+      "contentId": "sm14990051",
+      "startTime": 1310383065000,
+      "viewCounter": 2371093
+    },
+    {
+      "title": "世界の真ん中を歩く",
+      "contentId": "sm30880504",
+      "startTime": 1490270400000,
+      "viewCounter": 682653
     }
   ],
   "summary": {
-    "totalAnswers": 64,
-    "okAnswers": 55,
-    "ngAnswers": 9,
-    "participatedQuizCount": 11,
-    "winQuizCount": 11,
+    "totalAnswers": 70,
+    "okAnswers": 60,
+    "ngAnswers": 10,
+    "participatedQuizCount": 12,
+    "winQuizCount": 12,
     "loseQuizCount": 0,
-    "medianViews": 1141178
+    "medianViews": 1134900
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "D2",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 5,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 8,
+          "contentId": "sm37375876",
+          "title": "ルルージュ",
+          "artistList": [
+            "MIMI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37375876/37375876.2544431",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "間宵"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "花浅葱"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 17,
+          "contentId": "nm10406690",
+          "title": "オマーン湖",
+          "artistList": [
+            "乙P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10406690/10406690",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "間宵"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あご星人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "花浅葱"
+            }
+          ]
+        },
+        {
+          "order": 23,
+          "contentId": "sm39058555",
+          "title": "リテラシー",
+          "artistList": [
+            "wotaku"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39058555/39058555.82334774",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "花浅葱"
+            }
+          ]
+        },
+        {
+          "order": 35,
+          "contentId": "sm42440400",
+          "title": "ミィハー",
+          "artistList": [
+            "Chinozo"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42440400/42440400.19246036",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "間宵"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "花浅葱"
+            }
+          ]
+        },
+        {
+          "order": 40,
+          "contentId": "sm14990051",
+          "title": "嗚呼、素晴らしきニャン生",
+          "artistList": [
+            "Nem"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14990051/14990051.78193077",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "花浅葱"
+            }
+          ]
+        },
+        {
+          "order": 46,
+          "contentId": "sm30880504",
+          "title": "世界の真ん中を歩く",
+          "artistList": [
+            "夏代孝明"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30880504/30880504",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(5)",
+              "user": "花浅葱"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 296,
       "group": "D1",

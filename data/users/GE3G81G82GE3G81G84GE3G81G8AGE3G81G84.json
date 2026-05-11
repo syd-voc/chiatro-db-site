@@ -286,7 +286,7 @@
       ],
       "startTime": "2023-07-10T21:00:00+09:00",
       "viewCounter": 1867152,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm8619805",
@@ -2066,6 +2066,50 @@
       "startTime": "2016-05-02T19:00:00+09:00",
       "viewCounter": 324174,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm44568500",
+      "title": "煙の湊",
+      "artist": "世界電力",
+      "artistList": [
+        "世界電力"
+      ],
+      "startTime": "2025-02-22T00:00:00+09:00",
+      "viewCounter": 44147,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm16417324",
+      "title": "初音ミクの消失-劇場版-",
+      "artist": "cosMo@暴走P",
+      "artistList": [
+        "cosMo@暴走P"
+      ],
+      "startTime": "2011-12-13T18:59:24+09:00",
+      "viewCounter": 618276,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm40215522",
+      "title": "ヴィータ",
+      "artist": "柊キライ",
+      "artistList": [
+        "柊キライ"
+      ],
+      "startTime": "2022-03-25T19:00:00+09:00",
+      "viewCounter": 763499,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm43436583",
+      "title": "まちのこひとり",
+      "artist": "◈*ゆくえわっと",
+      "artistList": [
+        "◈*ゆくえわっと"
+      ],
+      "startTime": "2024-02-23T19:00:00+09:00",
+      "viewCounter": 58479,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -2191,7 +2235,7 @@
     },
     {
       "artist": "内緒のピアス",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -2336,8 +2380,8 @@
     },
     {
       "artist": "cosMo@暴走P",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "youまん",
@@ -2461,8 +2505,8 @@
     },
     {
       "artist": "柊キライ",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "駄菓子O型",
@@ -2643,6 +2687,16 @@
       "artist": "子牛",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "世界電力",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "◈*ゆくえわっと",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -2653,7 +2707,7 @@
     },
     {
       "era": "2023",
-      "correctCount": 28,
+      "correctCount": 29,
       "correctSongCount": 27
     },
     {
@@ -2668,13 +2722,13 @@
     },
     {
       "era": "2022",
-      "correctCount": 26,
-      "correctSongCount": 24
+      "correctCount": 27,
+      "correctSongCount": 25
     },
     {
       "era": "2024",
-      "correctCount": 38,
-      "correctSongCount": 30
+      "correctCount": 39,
+      "correctSongCount": 31
     },
     {
       "era": "2021",
@@ -2683,8 +2737,8 @@
     },
     {
       "era": "2011",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "era": "2012",
@@ -2728,8 +2782,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 11,
-      "correctSongCount": 10
+      "correctCount": 12,
+      "correctSongCount": 11
     },
     {
       "era": "2010",
@@ -2747,8 +2801,8 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 13,
-      "correctSongCount": 12
+      "correctCount": 15,
+      "correctSongCount": 14
     },
     {
       "range": "10-30万",
@@ -2765,13 +2819,13 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 55,
-      "correctSongCount": 44
+      "correctCount": 57,
+      "correctSongCount": 46
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 24,
+      "correctCount": 25,
       "correctSongCount": 24
     },
     {
@@ -3921,18 +3975,158 @@
       "contentId": "sm28758529",
       "startTime": 1462183200000,
       "viewCounter": 324174
+    },
+    {
+      "title": "煙の湊",
+      "contentId": "sm44568500",
+      "startTime": 1740150000000,
+      "viewCounter": 44147
+    },
+    {
+      "title": "初音ミクの消失-劇場版-",
+      "contentId": "sm16417324",
+      "startTime": 1323770364000,
+      "viewCounter": 618276
+    },
+    {
+      "title": "ヴィータ",
+      "contentId": "sm40215522",
+      "startTime": 1648202400000,
+      "viewCounter": 763499
+    },
+    {
+      "title": "まちのこひとり",
+      "contentId": "sm43436583",
+      "startTime": 1708682400000,
+      "viewCounter": 58479
     }
   ],
   "summary": {
-    "totalAnswers": 325,
-    "okAnswers": 215,
-    "ngAnswers": 109,
-    "participatedQuizCount": 47,
-    "winQuizCount": 41,
+    "totalAnswers": 331,
+    "okAnswers": 220,
+    "ngAnswers": 110,
+    "participatedQuizCount": 48,
+    "winQuizCount": 42,
     "loseQuizCount": 1,
     "medianViews": 603430
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "C1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 6,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 17,
+          "contentId": "sm44568500",
+          "title": "煙の湊",
+          "artistList": [
+            "世界電力"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44568500/44568500.35372154",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "あいおい"
+            }
+          ]
+        },
+        {
+          "order": 20,
+          "contentId": "sm41183602",
+          "title": "創作性シンドローム",
+          "artistList": [
+            "Shu"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41183602/41183602.52159691",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あいおい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "とある逢瀬"
+            }
+          ]
+        },
+        {
+          "order": 22,
+          "contentId": "sm16417324",
+          "title": "初音ミクの消失-劇場版-",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16417324/16417324",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "あいおい"
+            }
+          ]
+        },
+        {
+          "order": 26,
+          "contentId": "sm40215522",
+          "title": "ヴィータ",
+          "artistList": [
+            "柊キライ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40215522/40215522.64655512",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "あいおい"
+            }
+          ]
+        },
+        {
+          "order": 49,
+          "contentId": "sm43436583",
+          "title": "まちのこひとり",
+          "artistList": [
+            "◈*ゆくえわっと"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43436583/43436583.60848234",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "あいおい"
+            }
+          ]
+        },
+        {
+          "order": 68,
+          "contentId": "sm42461482",
+          "title": "プロポーズ",
+          "artistList": [
+            "内緒のピアス"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42461482/42461482.15717210",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(6)",
+              "user": "あいおい"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "C1",

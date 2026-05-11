@@ -914,7 +914,7 @@
       ],
       "startTime": "2018-10-06T19:00:00+09:00",
       "viewCounter": 857514,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm5671863",
@@ -2592,7 +2592,7 @@
       ],
       "startTime": "2012-01-02T18:53:53+09:00",
       "viewCounter": 1118396,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm38767428",
@@ -3730,6 +3730,40 @@
       "startTime": "2016-10-22T20:11:48+09:00",
       "viewCounter": 385738,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm26047465",
+      "title": "主命とあらば",
+      "artist": "あー民P, すずきP",
+      "artistList": [
+        "あー民P",
+        "すずきP"
+      ],
+      "startTime": "2015-04-17T19:12:54+09:00",
+      "viewCounter": 335030,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm36332327",
+      "title": "ヴィラン",
+      "artist": "てにをは",
+      "artistList": [
+        "てにをは"
+      ],
+      "startTime": "2020-02-07T20:10:02+09:00",
+      "viewCounter": 4693024,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm42282526",
+      "title": "箱庭のコラル",
+      "artist": "koyori(電ポルP)",
+      "artistList": [
+        "koyori(電ポルP)"
+      ],
+      "startTime": "2023-05-29T22:30:00+09:00",
+      "viewCounter": 235092,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -3955,8 +3989,8 @@
     },
     {
       "artist": "てにをは",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "デッドボールP",
@@ -4045,7 +4079,7 @@
     },
     {
       "artist": "EasyPop",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -4160,8 +4194,8 @@
     },
     {
       "artist": "koyori(電ポルP)",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "デスおはぎ",
@@ -4340,7 +4374,7 @@
     },
     {
       "artist": "まらしぃ",
-      "correctCount": 4,
+      "correctCount": 5,
       "correctSongCount": 4
     },
     {
@@ -4647,6 +4681,16 @@
       "artist": "CapsLack",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "あー民P",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "すずきP",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -4657,8 +4701,8 @@
     },
     {
       "era": "2015",
-      "correctCount": 12,
-      "correctSongCount": 12
+      "correctCount": 13,
+      "correctSongCount": 13
     },
     {
       "era": "2014",
@@ -4672,8 +4716,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 9,
-      "correctSongCount": 8
+      "correctCount": 10,
+      "correctSongCount": 9
     },
     {
       "era": "2011",
@@ -4697,7 +4741,7 @@
     },
     {
       "era": "2018",
-      "correctCount": 22,
+      "correctCount": 23,
       "correctSongCount": 18
     },
     {
@@ -4717,7 +4761,7 @@
     },
     {
       "era": "2012",
-      "correctCount": 32,
+      "correctCount": 33,
       "correctSongCount": 27
     },
     {
@@ -4727,8 +4771,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 19,
-      "correctSongCount": 17
+      "correctCount": 20,
+      "correctSongCount": 18
     },
     {
       "era": "2024",
@@ -4757,25 +4801,25 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 10,
-      "correctSongCount": 10
+      "correctCount": 11,
+      "correctSongCount": 11
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 19,
-      "correctSongCount": 17
+      "correctCount": 20,
+      "correctSongCount": 18
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 105,
+      "correctCount": 106,
       "correctSongCount": 100
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 119,
+      "correctCount": 120,
       "correctSongCount": 101
     },
     {
@@ -4787,8 +4831,8 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 42,
-      "correctSongCount": 33
+      "correctCount": 43,
+      "correctSongCount": 34
     },
     {
       "range": "500-1000万",
@@ -6831,18 +6875,137 @@
       "contentId": "sm29886155",
       "startTime": 1477134708000,
       "viewCounter": 385738
+    },
+    {
+      "title": "主命とあらば",
+      "contentId": "sm26047465",
+      "startTime": 1429265574000,
+      "viewCounter": 335030
+    },
+    {
+      "title": "ヴィラン",
+      "contentId": "sm36332327",
+      "startTime": 1581073802000,
+      "viewCounter": 4693024
+    },
+    {
+      "title": "箱庭のコラル",
+      "contentId": "sm42282526",
+      "startTime": 1685367000000,
+      "viewCounter": 235092
     }
   ],
   "summary": {
-    "totalAnswers": 461,
-    "okAnswers": 387,
+    "totalAnswers": 466,
+    "okAnswers": 392,
     "ngAnswers": 74,
-    "participatedQuizCount": 85,
-    "winQuizCount": 74,
+    "participatedQuizCount": 86,
+    "winQuizCount": 75,
     "loseQuizCount": 0,
     "medianViews": 1382117
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "C2",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 4,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 3,
+          "contentId": "sm26047465",
+          "title": "主命とあらば",
+          "artistList": [
+            "あー民P",
+            "すずきP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26047465/26047465",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "クスノキ"
+            }
+          ]
+        },
+        {
+          "order": 12,
+          "contentId": "sm33972704",
+          "title": "だから言ったでしょ？",
+          "artistList": [
+            "EasyPop"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33972704/33972704",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "クスノキ"
+            }
+          ]
+        },
+        {
+          "order": 29,
+          "contentId": "sm36332327",
+          "title": "ヴィラン",
+          "artistList": [
+            "てにをは"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36332327/36332327.81681242",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きょうぼく"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "クスノキ"
+            }
+          ]
+        },
+        {
+          "order": 33,
+          "contentId": "sm16591615",
+          "title": "cat's dance",
+          "artistList": [
+            "まらしぃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16591615/16591615",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "クスノキ"
+            }
+          ]
+        },
+        {
+          "order": 46,
+          "contentId": "sm42282526",
+          "title": "箱庭のコラル",
+          "artistList": [
+            "koyori(電ポルP)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42282526/42282526.20745804",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(4)",
+              "user": "クスノキ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "B",

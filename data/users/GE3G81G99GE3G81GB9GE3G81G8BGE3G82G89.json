@@ -44,7 +44,7 @@
       ],
       "startTime": "2011-01-01T00:29:35+09:00",
       "viewCounter": 1865250,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm21174960",
@@ -1006,7 +1006,7 @@
       ],
       "startTime": "2012-09-21T20:00:46+09:00",
       "viewCounter": 1597595,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm20797677",
@@ -5838,6 +5838,28 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm13306896",
+      "title": "ドミノ倒シ",
+      "artist": "すこっぷ",
+      "artistList": [
+        "すこっぷ"
+      ],
+      "startTime": "2011-01-14T22:22:44+09:00",
+      "viewCounter": 1207701,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm9241207",
+      "title": "マリオネットシンドローム",
+      "artist": "すこっぷ",
+      "artistList": [
+        "すこっぷ"
+      ],
+      "startTime": "2009-12-30T06:56:01+09:00",
+      "viewCounter": 1015514,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm11616761",
       "title": "トワイライトプランク",
       "artist": "悪ノP",
@@ -6654,7 +6676,7 @@
     },
     {
       "artist": "ゆよゆっぺ",
-      "correctCount": 3,
+      "correctCount": 4,
       "correctSongCount": 2
     },
     {
@@ -6694,8 +6716,8 @@
     },
     {
       "artist": "すこっぷ",
-      "correctCount": 7,
-      "correctSongCount": 4
+      "correctCount": 9,
+      "correctSongCount": 6
     },
     {
       "artist": "ひとしずく",
@@ -6949,7 +6971,7 @@
     },
     {
       "artist": "清水コウ",
-      "correctCount": 3,
+      "correctCount": 4,
       "correctSongCount": 3
     },
     {
@@ -7686,8 +7708,8 @@
   "eraStats": [
     {
       "era": "2011",
-      "correctCount": 65,
-      "correctSongCount": 46
+      "correctCount": 67,
+      "correctSongCount": 47
     },
     {
       "era": "2016",
@@ -7706,8 +7728,8 @@
     },
     {
       "era": "2009",
-      "correctCount": 52,
-      "correctSongCount": 38
+      "correctCount": 53,
+      "correctSongCount": 39
     },
     {
       "era": "2015",
@@ -7721,7 +7743,7 @@
     },
     {
       "era": "2012",
-      "correctCount": 120,
+      "correctCount": 121,
       "correctSongCount": 64
     },
     {
@@ -7809,8 +7831,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 209,
-      "correctSongCount": 131
+      "correctCount": 213,
+      "correctSongCount": 133
     },
     {
       "range": "200-300万",
@@ -11001,6 +11023,18 @@
       "viewCounter": 430745
     },
     {
+      "title": "ドミノ倒シ",
+      "contentId": "sm13306896",
+      "startTime": 1295011364000,
+      "viewCounter": 1207701
+    },
+    {
+      "title": "マリオネットシンドローム",
+      "contentId": "sm9241207",
+      "startTime": 1262123761000,
+      "viewCounter": 1015514
+    },
+    {
       "title": "トワイライトプランク",
       "contentId": "sm11616761",
       "startTime": 1280818186000,
@@ -11434,15 +11468,99 @@
     }
   ],
   "summary": {
-    "totalAnswers": 1075,
-    "okAnswers": 930,
+    "totalAnswers": 1079,
+    "okAnswers": 934,
     "ngAnswers": 145,
-    "participatedQuizCount": 222,
-    "winQuizCount": 202,
+    "participatedQuizCount": 223,
+    "winQuizCount": 203,
     "loseQuizCount": 0,
     "medianViews": 1369908
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "A",
+      "date": "2026-05-08",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 10,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 35,
+          "contentId": "sm18938918",
+          "title": "「Ib」",
+          "artistList": [
+            "清水コウ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18938918/18938918",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なごん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "すべから"
+            }
+          ]
+        },
+        {
+          "order": 44,
+          "contentId": "sm13185918",
+          "title": "Leia",
+          "artistList": [
+            "ゆよゆっぺ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13185918/13185918",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "すべから"
+            }
+          ]
+        },
+        {
+          "order": 61,
+          "contentId": "sm13306896",
+          "title": "ドミノ倒シ",
+          "artistList": [
+            "すこっぷ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13306896/13306896",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "すべから"
+            }
+          ]
+        },
+        {
+          "order": 62,
+          "contentId": "sm9241207",
+          "title": "マリオネットシンドローム",
+          "artistList": [
+            "すこっぷ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9241207/9241207",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(10)",
+              "user": "すべから"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "A",

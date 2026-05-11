@@ -1,20 +1,16 @@
 {
   "song": {
-    "song": "不出来物",
     "contentId": "sm42572901",
-    "title": "不出来物 / ⌘ 重音テト",
+    "song": "不出来物",
+    "artist": [
+      "⌘ ハイノミ"
+    ],
+    "channelId": null,
     "commentCounter": 640,
     "lengthSeconds": 213,
     "likeCounter": 2312,
     "mylistCounter": 1085,
-    "rank": 255,
     "startTime": "2023-08-05T00:00:00+09:00",
-    "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42572901/42572901.15075863",
-    "userId": 118946958,
-    "viewCounter": 94733,
-    "artist": [
-      "⌘ハイノミ"
-    ],
     "tags": [
       "ボカコレ2023夏TOP100ランキング参加曲",
       "VOCALOID",
@@ -27,9 +23,19 @@
       "SynthesizerVオリジナル曲",
       "重音テトオリジナル曲"
     ],
-    "channelId": null
+    "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42572901/42572901.15075863",
+    "title": "不出来物 / ⌘ 重音テト",
+    "userId": 118946958,
+    "viewCounter": 94733,
+    "rank": 255
   },
   "histories": [
+    {
+      "date": "2026-05-08",
+      "quizNo": 298,
+      "group": "C1",
+      "order": 46
+    },
     {
       "date": "2025-08-16",
       "quizNo": 263,
@@ -70,8 +76,8 @@
       "winner": "STN"
     }
   ],
-  "appearanceCount": 6,
+  "appearanceCount": 7,
   "correctCount": 3,
-  "accuracy": 50,
+  "accuracy": 43,
   "anotherVersions": []
 }

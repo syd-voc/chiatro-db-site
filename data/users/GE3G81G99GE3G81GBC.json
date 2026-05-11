@@ -1655,6 +1655,63 @@
       "startTime": "2009-10-05T21:42:41+09:00",
       "viewCounter": 5380439,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm36153076",
+      "title": "永遠にゲームで対戦したいキリタン",
+      "artist": "GYARI",
+      "artistList": [
+        "GYARI"
+      ],
+      "startTime": "2019-12-29T20:00:00+09:00",
+      "viewCounter": 1151313,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45950299",
+      "title": "私たちの距離 ── Scale of Us",
+      "artist": "nyanyannya",
+      "artistList": [
+        "nyanyannya"
+      ],
+      "startTime": "2026-02-21T00:00:00+09:00",
+      "viewCounter": 105995,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44886492",
+      "title": "WOLF",
+      "artist": "バルーン, ヒトリエ",
+      "artistList": [
+        "バルーン",
+        "ヒトリエ"
+      ],
+      "startTime": "2025-04-18T19:00:00+09:00",
+      "viewCounter": 104468,
+      "correctCount": 1
+    },
+    {
+      "contentId": "so42102391",
+      "title": "季節の頬とワンダーランド",
+      "artist": "Kai",
+      "artistList": [
+        "Kai"
+      ],
+      "startTime": "2023-04-19T18:00:00+09:00",
+      "viewCounter": 66242,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm16702635",
+      "title": "Bad ∞ End ∞ Night",
+      "artist": "ひとしずく, やま△",
+      "artistList": [
+        "ひとしずく",
+        "やま△"
+      ],
+      "startTime": "2012-01-15T18:30:38+09:00",
+      "viewCounter": 4852488,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -1720,8 +1777,8 @@
     },
     {
       "artist": "バルーン",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "サツキ",
@@ -1970,8 +2027,8 @@
     },
     {
       "artist": "GYARI",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "ねじ式",
@@ -2000,8 +2057,8 @@
     },
     {
       "artist": "nyanyannya",
-      "correctCount": 2,
-      "correctSongCount": 1
+      "correctCount": 3,
+      "correctSongCount": 2
     },
     {
       "artist": "柊キライ",
@@ -2167,13 +2224,33 @@
       "artist": "T-POCKET",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "ヒトリエ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "Kai",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ひとしずく",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "やま△",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2019",
-      "correctCount": 4,
-      "correctSongCount": 3
+      "correctCount": 5,
+      "correctSongCount": 4
     },
     {
       "era": "2009",
@@ -2192,13 +2269,13 @@
     },
     {
       "era": "2025-",
-      "correctCount": 26,
-      "correctSongCount": 25
+      "correctCount": 28,
+      "correctSongCount": 27
     },
     {
       "era": "2023",
-      "correctCount": 12,
-      "correctSongCount": 12
+      "correctCount": 13,
+      "correctSongCount": 13
     },
     {
       "era": "2011",
@@ -2207,8 +2284,8 @@
     },
     {
       "era": "2012",
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "era": "2017",
@@ -2271,14 +2348,14 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 14,
-      "correctSongCount": 13
+      "correctCount": 15,
+      "correctSongCount": 14
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 34,
-      "correctSongCount": 32
+      "correctCount": 36,
+      "correctSongCount": 34
     },
     {
       "range": "30-50万",
@@ -2295,8 +2372,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 28,
-      "correctSongCount": 25
+      "correctCount": 29,
+      "correctSongCount": 26
     },
     {
       "range": "200-300万",
@@ -2307,8 +2384,8 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 8,
-      "correctSongCount": 8
+      "correctCount": 9,
+      "correctSongCount": 9
     },
     {
       "range": "500-1000万",
@@ -3223,18 +3300,141 @@
       "contentId": "sm8430328",
       "startTime": 1254746561000,
       "viewCounter": 5380439
+    },
+    {
+      "title": "永遠にゲームで対戦したいキリタン",
+      "contentId": "sm36153076",
+      "startTime": 1577617200000,
+      "viewCounter": 1151313
+    },
+    {
+      "title": "私たちの距離 ── Scale of Us",
+      "contentId": "sm45950299",
+      "startTime": 1771599600000,
+      "viewCounter": 105995
+    },
+    {
+      "title": "WOLF",
+      "contentId": "sm44886492",
+      "startTime": 1744970400000,
+      "viewCounter": 104468
+    },
+    {
+      "title": "季節の頬とワンダーランド",
+      "contentId": "so42102391",
+      "startTime": 1681894800000,
+      "viewCounter": 66242
+    },
+    {
+      "title": "Bad ∞ End ∞ Night",
+      "contentId": "sm16702635",
+      "startTime": 1326619838000,
+      "viewCounter": 4852488
     }
   ],
   "summary": {
-    "totalAnswers": 192,
-    "okAnswers": 159,
+    "totalAnswers": 197,
+    "okAnswers": 164,
     "ngAnswers": 33,
-    "participatedQuizCount": 32,
-    "winQuizCount": 32,
+    "participatedQuizCount": 33,
+    "winQuizCount": 33,
     "loseQuizCount": 0,
-    "medianViews": 782279
+    "medianViews": 624488
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "C2",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 1,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 6,
+          "contentId": "sm36153076",
+          "title": "永遠にゲームで対戦したいキリタン",
+          "artistList": [
+            "GYARI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36153076/36153076.77933718",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "すぼ"
+            }
+          ]
+        },
+        {
+          "order": 14,
+          "contentId": "sm45950299",
+          "title": "私たちの距離 ── Scale of Us",
+          "artistList": [
+            "nyanyannya"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45950299/45950299.30837102",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "すぼ"
+            }
+          ]
+        },
+        {
+          "order": 17,
+          "contentId": "sm44886492",
+          "title": "WOLF",
+          "artistList": [
+            "バルーン",
+            "ヒトリエ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44886492/44886492.67529437",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "すぼ"
+            }
+          ]
+        },
+        {
+          "order": 18,
+          "contentId": "so42102391",
+          "title": "季節の頬とワンダーランド",
+          "artistList": [
+            "Kai"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42102391/42102391.97488733",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "すぼ"
+            }
+          ]
+        },
+        {
+          "order": 19,
+          "contentId": "sm16702635",
+          "title": "Bad ∞ End ∞ Night",
+          "artistList": [
+            "ひとしずく",
+            "やま△"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16702635/16702635",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(1)",
+              "user": "すぼ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "B",

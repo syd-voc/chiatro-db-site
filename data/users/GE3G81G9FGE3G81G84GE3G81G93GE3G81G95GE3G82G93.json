@@ -56,7 +56,7 @@
       ],
       "startTime": "2024-11-22T19:00:00+09:00",
       "viewCounter": 4784227,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm37441963",
@@ -1345,7 +1345,7 @@
       ],
       "startTime": "2025-08-21T19:00:00+09:00",
       "viewCounter": 119101,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm44053464",
@@ -1400,7 +1400,7 @@
       ],
       "startTime": "2022-03-29T20:00:04+09:00",
       "viewCounter": 354080,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm41962993",
@@ -1533,6 +1533,28 @@
       "startTime": "2021-08-20T20:50:00+09:00",
       "viewCounter": 286905,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm13275244",
+      "title": "腐れ外道とチョコレゐト",
+      "artist": "ピノキオピー",
+      "artistList": [
+        "ピノキオピー"
+      ],
+      "startTime": "2011-01-10T23:44:19+09:00",
+      "viewCounter": 4460894,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm42445494",
+      "title": "あいのうた",
+      "artist": "大漠波新",
+      "artistList": [
+        "大漠波新"
+      ],
+      "startTime": "2023-08-05T00:00:00+09:00",
+      "viewCounter": 1450440,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -1558,7 +1580,7 @@
     },
     {
       "artist": "DECO*27",
-      "correctCount": 4,
+      "correctCount": 5,
       "correctSongCount": 3
     },
     {
@@ -1673,8 +1695,8 @@
     },
     {
       "artist": "ピノキオピー",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "YASUHIRO(康寛)",
@@ -1918,7 +1940,7 @@
     },
     {
       "artist": "はるまきごはん",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -1933,7 +1955,7 @@
     },
     {
       "artist": "しゃいと",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -1948,6 +1970,11 @@
     },
     {
       "artist": "Noz.",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "大漠波新",
       "correctCount": 1,
       "correctSongCount": 1
     }
@@ -1970,7 +1997,7 @@
     },
     {
       "era": "2024",
-      "correctCount": 22,
+      "correctCount": 23,
       "correctSongCount": 16
     },
     {
@@ -1990,7 +2017,7 @@
     },
     {
       "era": "2022",
-      "correctCount": 18,
+      "correctCount": 19,
       "correctSongCount": 14
     },
     {
@@ -2005,8 +2032,8 @@
     },
     {
       "era": "2011",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "era": "2021",
@@ -2020,8 +2047,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 19,
-      "correctSongCount": 15
+      "correctCount": 20,
+      "correctSongCount": 16
     },
     {
       "era": "2014",
@@ -2030,7 +2057,7 @@
     },
     {
       "era": "2025-",
-      "correctCount": 15,
+      "correctCount": 16,
       "correctSongCount": 13
     },
     {
@@ -2060,13 +2087,13 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 16,
+      "correctCount": 17,
       "correctSongCount": 14
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 16,
+      "correctCount": 17,
       "correctSongCount": 14
     },
     {
@@ -2078,8 +2105,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 36,
-      "correctSongCount": 26
+      "correctCount": 37,
+      "correctSongCount": 27
     },
     {
       "range": "200-300万",
@@ -2090,8 +2117,8 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 27,
-      "correctSongCount": 21
+      "correctCount": 29,
+      "correctSongCount": 22
     },
     {
       "range": "500-1000万",
@@ -2940,18 +2967,164 @@
       "contentId": "sm39185178",
       "startTime": 1629460200000,
       "viewCounter": 286905
+    },
+    {
+      "title": "腐れ外道とチョコレゐト",
+      "contentId": "sm13275244",
+      "startTime": 1294670659000,
+      "viewCounter": 4460894
+    },
+    {
+      "title": "あいのうた",
+      "contentId": "sm42445494",
+      "startTime": 1691161200000,
+      "viewCounter": 1450440
     }
   ],
   "summary": {
-    "totalAnswers": 243,
-    "okAnswers": 177,
-    "ngAnswers": 66,
-    "participatedQuizCount": 40,
-    "winQuizCount": 30,
+    "totalAnswers": 249,
+    "okAnswers": 182,
+    "ngAnswers": 67,
+    "participatedQuizCount": 41,
+    "winQuizCount": 31,
     "loseQuizCount": 0,
-    "medianViews": 1419284
+    "medianViews": 1426096
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "D1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 10,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 1,
+          "contentId": "sm13275244",
+          "title": "腐れ外道とチョコレゐト",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13275244/13275244",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ニナ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "たいこさん"
+            }
+          ]
+        },
+        {
+          "order": 16,
+          "contentId": "sm45315642",
+          "title": "音声だけでお送りしますex",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45315642/45315642.35490233",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "たいこさん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "惟月"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(1)",
+              "user": "paradoxes"
+            }
+          ]
+        },
+        {
+          "order": 43,
+          "contentId": "sm44317852",
+          "title": "モニタリング",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44317852/44317852.3751477",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "たいこさん"
+            }
+          ]
+        },
+        {
+          "order": 65,
+          "contentId": "sm42445494",
+          "title": "あいのうた",
+          "artistList": [
+            "大漠波新"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42445494/42445494.73665570",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "たいこさん"
+            }
+          ]
+        },
+        {
+          "order": 70,
+          "contentId": "sm40244309",
+          "title": "未完成讃歌",
+          "artistList": [
+            "しゃいと"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40244309/40244309.88568940",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "たいこさん"
+            }
+          ]
+        },
+        {
+          "order": 71,
+          "contentId": "sm45315882",
+          "title": "アタマモミ",
+          "artistList": [
+            "はるまきごはん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45315882/45315882.94515817",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(10)",
+              "user": "たいこさん"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "B",

@@ -1722,7 +1722,7 @@
       ],
       "startTime": "2012-05-01T20:46:10+09:00",
       "viewCounter": 403006,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm6874320",
@@ -2329,7 +2329,7 @@
       ],
       "startTime": "2009-09-14T18:40:35+09:00",
       "viewCounter": 2516804,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm33876740",
@@ -2948,6 +2948,39 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm17232159",
+      "title": "シルバーバレット",
+      "artist": "ぺぺろんP",
+      "artistList": [
+        "ぺぺろんP"
+      ],
+      "startTime": "2012-03-12T21:21:32+09:00",
+      "viewCounter": 1330788,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm25308401",
+      "title": "ショパンと氷の白鍵",
+      "artist": "まふまふ",
+      "artistList": [
+        "まふまふ"
+      ],
+      "startTime": "2015-01-09T18:00:00+09:00",
+      "viewCounter": 526320,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm26616325",
+      "title": "はじめまして地球人さん",
+      "artist": "ピノキオピー",
+      "artistList": [
+        "ピノキオピー"
+      ],
+      "startTime": "2015-07-02T19:00:00+09:00",
+      "viewCounter": 633225,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm21390666",
       "title": "White Prism",
       "artist": "蝶々P",
@@ -3035,7 +3068,7 @@
     },
     {
       "artist": "ジミーサムP",
-      "correctCount": 10,
+      "correctCount": 11,
       "correctSongCount": 9
     },
     {
@@ -3110,7 +3143,7 @@
     },
     {
       "artist": "azuma",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 2
     },
     {
@@ -3150,8 +3183,8 @@
     },
     {
       "artist": "ぺぺろんP",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "ep0d",
@@ -3210,8 +3243,8 @@
     },
     {
       "artist": "まふまふ",
-      "correctCount": 4,
-      "correctSongCount": 3
+      "correctCount": 5,
+      "correctSongCount": 4
     },
     {
       "artist": "youまん",
@@ -3779,6 +3812,11 @@
       "correctSongCount": 1
     },
     {
+      "artist": "ピノキオピー",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
       "artist": "蝶々P",
       "correctCount": 1,
       "correctSongCount": 1
@@ -3792,7 +3830,7 @@
   "eraStats": [
     {
       "era": "2009",
-      "correctCount": 46,
+      "correctCount": 47,
       "correctSongCount": 39
     },
     {
@@ -3807,8 +3845,8 @@
     },
     {
       "era": "2015",
-      "correctCount": 15,
-      "correctSongCount": 14
+      "correctCount": 17,
+      "correctSongCount": 16
     },
     {
       "era": "2014",
@@ -3822,8 +3860,8 @@
     },
     {
       "era": "2012",
-      "correctCount": 32,
-      "correctSongCount": 28
+      "correctCount": 34,
+      "correctSongCount": 29
     },
     {
       "era": "2011",
@@ -3903,25 +3941,25 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 66,
+      "correctCount": 67,
       "correctSongCount": 58
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 47,
-      "correctSongCount": 44
+      "correctCount": 49,
+      "correctSongCount": 46
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 32,
-      "correctSongCount": 28
+      "correctCount": 33,
+      "correctSongCount": 29
     },
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 17,
+      "correctCount": 18,
       "correctSongCount": 16
     },
     {
@@ -5547,6 +5585,24 @@
       "viewCounter": 1351809
     },
     {
+      "title": "シルバーバレット",
+      "contentId": "sm17232159",
+      "startTime": 1331554892000,
+      "viewCounter": 1330788
+    },
+    {
+      "title": "ショパンと氷の白鍵",
+      "contentId": "sm25308401",
+      "startTime": 1420794000000,
+      "viewCounter": 526320
+    },
+    {
+      "title": "はじめまして地球人さん",
+      "contentId": "sm26616325",
+      "startTime": 1435831200000,
+      "viewCounter": 633225
+    },
+    {
       "title": "White Prism",
       "contentId": "sm21390666",
       "startTime": 1374232219000,
@@ -5572,15 +5628,176 @@
     }
   ],
   "summary": {
-    "totalAnswers": 352,
-    "okAnswers": 300,
-    "ngAnswers": 52,
-    "participatedQuizCount": 85,
-    "winQuizCount": 53,
+    "totalAnswers": 358,
+    "okAnswers": 305,
+    "ngAnswers": 53,
+    "participatedQuizCount": 86,
+    "winQuizCount": 54,
     "loseQuizCount": 0,
-    "medianViews": 326849
+    "medianViews": 330438
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "C1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 15,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 10,
+          "contentId": "sm17700880",
+          "title": "夢魅鳥",
+          "artistList": [
+            "azuma"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/17700880/17700880",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "フリスク"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "HAN"
+            }
+          ]
+        },
+        {
+          "order": 30,
+          "contentId": "sm5525531",
+          "title": "Little Traveler",
+          "artistList": [
+            "ジミーサムP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/5525531/5525531",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠い人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "つみか"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "HAN"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きぐな"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "尾白もち"
+            }
+          ]
+        },
+        {
+          "order": 81,
+          "contentId": "sm17232159",
+          "title": "シルバーバレット",
+          "artistList": [
+            "ぺぺろんP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/17232159/17232159",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "HAN"
+            }
+          ]
+        },
+        {
+          "order": 93,
+          "contentId": "sm25308401",
+          "title": "ショパンと氷の白鍵",
+          "artistList": [
+            "まふまふ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25308401/25308401",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "HAN"
+            }
+          ]
+        },
+        {
+          "order": 94,
+          "contentId": "sm8228650",
+          "title": "No Logic",
+          "artistList": [
+            "ジミーサムP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8228650/8228650",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "HAN"
+            }
+          ]
+        },
+        {
+          "order": 96,
+          "contentId": "sm26616325",
+          "title": "はじめまして地球人さん",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26616325/26616325",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あざらし"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(15)",
+              "user": "HAN"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "C1",

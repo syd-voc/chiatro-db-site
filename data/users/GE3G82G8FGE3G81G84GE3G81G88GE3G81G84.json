@@ -4010,6 +4010,61 @@
       "startTime": "2025-01-10T18:00:00+09:00",
       "viewCounter": 65238,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm44409858",
+      "title": "サイエンス",
+      "artist": "MIMI",
+      "artistList": [
+        "MIMI"
+      ],
+      "startTime": "2024-12-14T18:30:00+09:00",
+      "viewCounter": 854861,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm42696023",
+      "title": "Be With Master",
+      "artist": "ラマーズP",
+      "artistList": [
+        "ラマーズP"
+      ],
+      "startTime": "2023-08-31T09:00:00+09:00",
+      "viewCounter": 169857,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45493410",
+      "title": "第n次元",
+      "artist": "サツキ",
+      "artistList": [
+        "サツキ"
+      ],
+      "startTime": "2025-10-10T19:00:00+09:00",
+      "viewCounter": 115960,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm37439262",
+      "title": "萌す心を",
+      "artist": "一二三",
+      "artistList": [
+        "一二三"
+      ],
+      "startTime": "2020-08-31T16:00:00+09:00",
+      "viewCounter": 859118,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm41714284",
+      "title": "Flyway",
+      "artist": "halyosy",
+      "artistList": [
+        "halyosy"
+      ],
+      "startTime": "2023-01-29T21:30:00+09:00",
+      "viewCounter": 503360,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4680,8 +4735,8 @@
     },
     {
       "artist": "MIMI",
-      "correctCount": 6,
-      "correctSongCount": 6
+      "correctCount": 7,
+      "correctSongCount": 7
     },
     {
       "artist": "ぴける（満足P）",
@@ -4950,8 +5005,8 @@
     },
     {
       "artist": "ラマーズP",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "くりたにか",
@@ -4960,8 +5015,8 @@
     },
     {
       "artist": "サツキ",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "もちうつね",
@@ -5187,13 +5242,23 @@
       "artist": "Aqu3ra",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "一二三",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "halyosy",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2020",
-      "correctCount": 12,
-      "correctSongCount": 11
+      "correctCount": 13,
+      "correctSongCount": 12
     },
     {
       "era": "2009",
@@ -5202,13 +5267,13 @@
     },
     {
       "era": "2024",
-      "correctCount": 77,
-      "correctSongCount": 63
+      "correctCount": 78,
+      "correctSongCount": 64
     },
     {
       "era": "2023",
-      "correctCount": 44,
-      "correctSongCount": 41
+      "correctCount": 46,
+      "correctSongCount": 43
     },
     {
       "era": "2007-2008",
@@ -5277,8 +5342,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 44,
-      "correctSongCount": 41
+      "correctCount": 45,
+      "correctSongCount": 42
     }
   ],
   "viewStats": [
@@ -5297,8 +5362,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 77,
-      "correctSongCount": 67
+      "correctCount": 79,
+      "correctSongCount": 69
     },
     {
       "range": "30-50万",
@@ -5309,8 +5374,8 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 93,
-      "correctSongCount": 83
+      "correctCount": 96,
+      "correctSongCount": 86
     },
     {
       "range": "100-200万",
@@ -7515,18 +7580,198 @@
       "contentId": "so44513485",
       "startTime": 1736499600000,
       "viewCounter": 65238
+    },
+    {
+      "title": "サイエンス",
+      "contentId": "sm44409858",
+      "startTime": 1734168600000,
+      "viewCounter": 854861
+    },
+    {
+      "title": "Be With Master",
+      "contentId": "sm42696023",
+      "startTime": 1693440000000,
+      "viewCounter": 169857
+    },
+    {
+      "title": "第n次元",
+      "contentId": "sm45493410",
+      "startTime": 1760090400000,
+      "viewCounter": 115960
+    },
+    {
+      "title": "萌す心を",
+      "contentId": "sm37439262",
+      "startTime": 1598857200000,
+      "viewCounter": 859118
+    },
+    {
+      "title": "Flyway",
+      "contentId": "sm41714284",
+      "startTime": 1674995400000,
+      "viewCounter": 503360
     }
   ],
   "summary": {
-    "totalAnswers": 546,
-    "okAnswers": 400,
-    "ngAnswers": 144,
-    "participatedQuizCount": 86,
-    "winQuizCount": 78,
+    "totalAnswers": 553,
+    "okAnswers": 405,
+    "ngAnswers": 146,
+    "participatedQuizCount": 87,
+    "winQuizCount": 79,
     "loseQuizCount": 2,
     "medianViews": 537149
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "B",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 3,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 3,
+          "contentId": "sm44409858",
+          "title": "サイエンス",
+          "artistList": [
+            "MIMI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44409858/44409858.57374584",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "わいえい"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "contentId": "sm42696023",
+          "title": "Be With Master",
+          "artistList": [
+            "ラマーズP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42696023/42696023.87701111",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "影山"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "わいえい"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "contentId": "sm45493410",
+          "title": "第n次元",
+          "artistList": [
+            "サツキ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45493410/45493410.3364680",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "わいえい"
+            }
+          ]
+        },
+        {
+          "order": 10,
+          "contentId": "sm37439262",
+          "title": "萌す心を",
+          "artistList": [
+            "一二三"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37439262/37439262.55105678",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "わいえい"
+            }
+          ]
+        },
+        {
+          "order": 17,
+          "contentId": "sm36106485",
+          "title": "アゴニー",
+          "artistList": [
+            "ケダルイ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36106485/36106485.98900821",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "わいえい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ホワイト"
+            }
+          ]
+        },
+        {
+          "order": 20,
+          "contentId": "sm19216490",
+          "title": "猿マネ椅子盗りゲーム",
+          "artistList": [
+            "150P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19216490/19216490",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "わいえい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ホワイト"
+            }
+          ]
+        },
+        {
+          "order": 29,
+          "contentId": "sm41714284",
+          "title": "Flyway",
+          "artistList": [
+            "halyosy"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41714284/41714284.33974654",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(3)",
+              "user": "わいえい"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "A",

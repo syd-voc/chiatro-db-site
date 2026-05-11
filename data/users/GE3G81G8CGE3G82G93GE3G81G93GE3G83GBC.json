@@ -618,7 +618,7 @@
       ],
       "startTime": "2021-06-25T19:00:00+09:00",
       "viewCounter": 469748,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "so13743433",
@@ -3683,7 +3683,7 @@
       ],
       "startTime": "2019-05-24T19:00:00+09:00",
       "viewCounter": 541651,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm6909505",
@@ -4281,6 +4281,39 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm14695840",
+      "title": "嘘つきの世界",
+      "artist": "すこっぷ",
+      "artistList": [
+        "すこっぷ"
+      ],
+      "startTime": "2011-06-09T20:14:55+09:00",
+      "viewCounter": 726244,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm8298201",
+      "title": "キミ以上、ボク未満。",
+      "artist": "DECO*27",
+      "artistList": [
+        "DECO*27"
+      ],
+      "startTime": "2009-09-22T00:43:26+09:00",
+      "viewCounter": 1003440,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm20116702",
+      "title": "夜咄ディセイブ",
+      "artist": "じん",
+      "artistList": [
+        "じん"
+      ],
+      "startTime": "2013-02-17T21:03:21+09:00",
+      "viewCounter": 6504592,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm35267639",
       "title": "義翼",
       "artist": "傘村トータ",
@@ -4441,8 +4474,8 @@
     },
     {
       "artist": "DECO*27",
-      "correctCount": 47,
-      "correctSongCount": 30
+      "correctCount": 49,
+      "correctSongCount": 31
     },
     {
       "artist": "夏代孝明",
@@ -4571,8 +4604,8 @@
     },
     {
       "artist": "じん",
-      "correctCount": 15,
-      "correctSongCount": 8
+      "correctCount": 16,
+      "correctSongCount": 9
     },
     {
       "artist": "一行P",
@@ -4606,7 +4639,7 @@
     },
     {
       "artist": "DIVELA",
-      "correctCount": 11,
+      "correctCount": 12,
       "correctSongCount": 6
     },
     {
@@ -4926,8 +4959,8 @@
     },
     {
       "artist": "すこっぷ",
-      "correctCount": 4,
-      "correctSongCount": 3
+      "correctCount": 5,
+      "correctSongCount": 4
     },
     {
       "artist": "ジミーサムP",
@@ -5193,12 +5226,12 @@
     },
     {
       "era": "2013",
-      "correctCount": 50,
-      "correctSongCount": 36
+      "correctCount": 51,
+      "correctSongCount": 37
     },
     {
       "era": "2019",
-      "correctCount": 28,
+      "correctCount": 29,
       "correctSongCount": 16
     },
     {
@@ -5208,8 +5241,8 @@
     },
     {
       "era": "2009",
-      "correctCount": 31,
-      "correctSongCount": 25
+      "correctCount": 32,
+      "correctSongCount": 26
     },
     {
       "era": "2012",
@@ -5233,12 +5266,12 @@
     },
     {
       "era": "2011",
-      "correctCount": 24,
-      "correctSongCount": 16
+      "correctCount": 25,
+      "correctSongCount": 17
     },
     {
       "era": "2021",
-      "correctCount": 29,
+      "correctCount": 30,
       "correctSongCount": 25
     },
     {
@@ -5279,20 +5312,20 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 70,
+      "correctCount": 71,
       "correctSongCount": 48
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 101,
-      "correctSongCount": 68
+      "correctCount": 103,
+      "correctSongCount": 69
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 123,
-      "correctSongCount": 76
+      "correctCount": 124,
+      "correctSongCount": 77
     },
     {
       "range": "200-300万",
@@ -5309,8 +5342,8 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 32,
-      "correctSongCount": 21
+      "correctCount": 33,
+      "correctSongCount": 22
     },
     {
       "range": "1000万-",
@@ -7649,6 +7682,24 @@
       "viewCounter": 186406
     },
     {
+      "title": "嘘つきの世界",
+      "contentId": "sm14695840",
+      "startTime": 1307618095000,
+      "viewCounter": 726244
+    },
+    {
+      "title": "キミ以上、ボク未満。",
+      "contentId": "sm8298201",
+      "startTime": 1253547806000,
+      "viewCounter": 1003440
+    },
+    {
+      "title": "夜咄ディセイブ",
+      "contentId": "sm20116702",
+      "startTime": 1361102601000,
+      "viewCounter": 6504592
+    },
+    {
       "title": "義翼",
       "contentId": "sm35267639",
       "startTime": 1560596400000,
@@ -7722,15 +7773,131 @@
     }
   ],
   "summary": {
-    "totalAnswers": 826,
-    "okAnswers": 588,
-    "ngAnswers": 238,
-    "participatedQuizCount": 144,
-    "winQuizCount": 128,
+    "totalAnswers": 832,
+    "okAnswers": 593,
+    "ngAnswers": 239,
+    "participatedQuizCount": 145,
+    "winQuizCount": 129,
     "loseQuizCount": 0,
-    "medianViews": 1050790
+    "medianViews": 1025810
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "B",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 11,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 15,
+          "contentId": "sm18396337",
+          "title": "Birthday Song for ミク",
+          "artistList": [
+            "Mitchie M"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18396337/18396337.47444356",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "がんこー"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ルナ・アリス"
+            }
+          ]
+        },
+        {
+          "order": 36,
+          "contentId": "sm35145654",
+          "title": "そこに命はありますか。",
+          "artistList": [
+            "DIVELA"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35145654/35145654.66897",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "がんこー"
+            }
+          ]
+        },
+        {
+          "order": 52,
+          "contentId": "sm38936794",
+          "title": "おじゃま虫Ⅱ",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38936794/38936794.55019569",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "がんこー"
+            }
+          ]
+        },
+        {
+          "order": 64,
+          "contentId": "sm14695840",
+          "title": "嘘つきの世界",
+          "artistList": [
+            "すこっぷ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14695840/14695840",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "がんこー"
+            }
+          ]
+        },
+        {
+          "order": 68,
+          "contentId": "sm8298201",
+          "title": "キミ以上、ボク未満。",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8298201/8298201",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "がんこー"
+            }
+          ]
+        },
+        {
+          "order": 69,
+          "contentId": "sm20116702",
+          "title": "夜咄ディセイブ",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20116702/20116702",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(11)",
+              "user": "がんこー"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 295,
       "group": "B",

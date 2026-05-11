@@ -421,6 +421,61 @@
       "startTime": "2016-09-16T20:00:00+09:00",
       "viewCounter": 4818371,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm41383081",
+      "title": "ハナタバ",
+      "artist": "MIMI",
+      "artistList": [
+        "MIMI"
+      ],
+      "startTime": "2022-11-19T19:00:00+09:00",
+      "viewCounter": 3424074,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45880142",
+      "title": "たびだちのうた",
+      "artist": "カラスヤサボウ",
+      "artistList": [
+        "カラスヤサボウ"
+      ],
+      "startTime": "2026-01-28T18:39:00+09:00",
+      "viewCounter": 335976,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm38271953",
+      "title": "オーバー！",
+      "artist": "いよわ",
+      "artistList": [
+        "いよわ"
+      ],
+      "startTime": "2021-02-14T21:00:00+09:00",
+      "viewCounter": 563003,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44397533",
+      "title": "み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ",
+      "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ",
+      "artistList": [
+        "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ"
+      ],
+      "startTime": "2024-12-06T19:19:00+09:00",
+      "viewCounter": 1709544,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm40132412",
+      "title": "ド屑",
+      "artist": "なきそ",
+      "artistList": [
+        "なきそ"
+      ],
+      "startTime": "2022-03-05T18:00:00+09:00",
+      "viewCounter": 3794010,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -496,8 +551,8 @@
     },
     {
       "artist": "カラスヤサボウ",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "Omoi",
@@ -566,13 +621,13 @@
     },
     {
       "artist": "なきそ",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "デッドボールP",
@@ -581,6 +636,16 @@
     },
     {
       "artist": "n-buna",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "MIMI",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "いよわ",
       "correctCount": 1,
       "correctSongCount": 1
     }
@@ -603,8 +668,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 6,
-      "correctSongCount": 6
+      "correctCount": 7,
+      "correctSongCount": 7
     },
     {
       "era": "2019",
@@ -618,8 +683,8 @@
     },
     {
       "era": "2024",
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "era": "2009",
@@ -643,13 +708,18 @@
     },
     {
       "era": "2021",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "era": "2023",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "era": "2022",
+      "correctCount": 2,
+      "correctSongCount": 2
     }
   ],
   "viewStats": [
@@ -674,20 +744,20 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 9,
-      "correctSongCount": 9
+      "correctCount": 10,
+      "correctSongCount": 10
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 7,
-      "correctSongCount": 7
+      "correctCount": 8,
+      "correctSongCount": 8
     },
     {
       "range": "200-300万",
@@ -698,8 +768,8 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 6,
-      "correctSongCount": 6
+      "correctCount": 8,
+      "correctSongCount": 8
     },
     {
       "range": "500-1000万",
@@ -942,18 +1012,230 @@
       "contentId": "sm29654974",
       "startTime": 1474023600000,
       "viewCounter": 4818371
+    },
+    {
+      "title": "ハナタバ",
+      "contentId": "sm41383081",
+      "startTime": 1668852000000,
+      "viewCounter": 3424074
+    },
+    {
+      "title": "たびだちのうた",
+      "contentId": "sm45880142",
+      "startTime": 1769593140000,
+      "viewCounter": 335976
+    },
+    {
+      "title": "オーバー！",
+      "contentId": "sm38271953",
+      "startTime": 1613304000000,
+      "viewCounter": 563003
+    },
+    {
+      "title": "み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ",
+      "contentId": "sm44397533",
+      "startTime": 1733480340000,
+      "viewCounter": 1709544
+    },
+    {
+      "title": "ド屑",
+      "contentId": "sm40132412",
+      "startTime": 1646470800000,
+      "viewCounter": 3794010
     }
   ],
   "summary": {
-    "totalAnswers": 56,
-    "okAnswers": 38,
-    "ngAnswers": 17,
-    "participatedQuizCount": 8,
-    "winQuizCount": 7,
+    "totalAnswers": 64,
+    "okAnswers": 43,
+    "ngAnswers": 20,
+    "participatedQuizCount": 9,
+    "winQuizCount": 8,
     "loseQuizCount": 1,
     "medianViews": 942294
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "C2",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 3,
+      "winRank": 6,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 23,
+          "contentId": "sm41383081",
+          "title": "ハナタバ",
+          "artistList": [
+            "MIMI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41383081/41383081.19577756",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "きょうぼく"
+            }
+          ]
+        },
+        {
+          "order": 27,
+          "contentId": "sm45880142",
+          "title": "たびだちのうた",
+          "artistList": [
+            "カラスヤサボウ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45880142/45880142.24157052",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "きょうぼく"
+            }
+          ]
+        },
+        {
+          "order": 29,
+          "contentId": "sm36332327",
+          "title": "ヴィラン",
+          "artistList": [
+            "てにをは"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36332327/36332327.81681242",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きょうぼく"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "クスノキ"
+            }
+          ]
+        },
+        {
+          "order": 32,
+          "contentId": "sm4217141",
+          "title": "ぱんつのうた",
+          "artistList": [
+            "ヨーコ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/4217141/4217141",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きょうぼく"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 35,
+          "contentId": "sm38271953",
+          "title": "オーバー！",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38271953/38271953.6331807",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "きょうぼく"
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "contentId": "sm44397533",
+          "title": "み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ",
+          "artistList": [
+            "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44397533/44397533.98839564",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "きょうぼく"
+            }
+          ]
+        },
+        {
+          "order": 40,
+          "contentId": "sm43891004",
+          "title": "神様じゃなくてごめんね",
+          "artistList": [
+            "Aliey:S"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43891004/43891004.90615135",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "稲葉快晴"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぶどくん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きょうぼく"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 54,
+          "contentId": "sm40132412",
+          "title": "ド屑",
+          "artistList": [
+            "なきそ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40132412/40132412.18901743",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(6)",
+              "user": "きょうぼく"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "D1",

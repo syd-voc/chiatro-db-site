@@ -454,7 +454,7 @@
       ],
       "startTime": "2008-01-07T07:15:11+09:00",
       "viewCounter": 914451,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "so18274463",
@@ -1328,7 +1328,7 @@
       ],
       "startTime": "2014-08-08T20:00:00+09:00",
       "viewCounter": 698525,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm25771502",
@@ -2240,6 +2240,40 @@
       "startTime": "2009-02-08T18:27:38+09:00",
       "viewCounter": 1051889,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm38495939",
+      "title": "『んっあっあっ。』",
+      "artist": "SLAVE.V-V-R",
+      "artistList": [
+        "SLAVE.V-V-R"
+      ],
+      "startTime": "2021-03-28T10:15:00+09:00",
+      "viewCounter": 1282024,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39578262",
+      "title": "HappY EnD",
+      "artist": "清水コウ",
+      "artistList": [
+        "清水コウ"
+      ],
+      "startTime": "2021-11-04T19:00:00+09:00",
+      "viewCounter": 38225,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35484027",
+      "title": "Vampire’s ∞ pathoS",
+      "artist": "ひとしずく, やま△",
+      "artistList": [
+        "ひとしずく",
+        "やま△"
+      ],
+      "startTime": "2019-08-03T20:00:00+09:00",
+      "viewCounter": 625301,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -2420,8 +2454,8 @@
     },
     {
       "artist": "SLAVE.V-V-R",
-      "correctCount": 2,
-      "correctSongCount": 1
+      "correctCount": 3,
+      "correctSongCount": 2
     },
     {
       "artist": "ラマーズP",
@@ -2440,7 +2474,7 @@
     },
     {
       "artist": "シグナルP",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 2
     },
     {
@@ -2465,13 +2499,13 @@
     },
     {
       "artist": "ひとしずく",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "やま△",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "Last Note.",
@@ -2505,7 +2539,7 @@
     },
     {
       "artist": "悪ノP",
-      "correctCount": 4,
+      "correctCount": 5,
       "correctSongCount": 3
     },
     {
@@ -2932,6 +2966,11 @@
       "artist": "あー民P",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "清水コウ",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -2942,7 +2981,7 @@
     },
     {
       "era": "2007-2008",
-      "correctCount": 22,
+      "correctCount": 23,
       "correctSongCount": 19
     },
     {
@@ -2957,8 +2996,8 @@
     },
     {
       "era": "2019",
-      "correctCount": 13,
-      "correctSongCount": 12
+      "correctCount": 14,
+      "correctSongCount": 13
     },
     {
       "era": "2009",
@@ -2972,8 +3011,8 @@
     },
     {
       "era": "2021",
-      "correctCount": 17,
-      "correctSongCount": 16
+      "correctCount": 19,
+      "correctSongCount": 18
     },
     {
       "era": "2022",
@@ -2982,7 +3021,7 @@
     },
     {
       "era": "2014",
-      "correctCount": 7,
+      "correctCount": 8,
       "correctSongCount": 7
     },
     {
@@ -3036,8 +3075,8 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 7,
-      "correctSongCount": 7
+      "correctCount": 8,
+      "correctSongCount": 8
     },
     {
       "range": "10-30万",
@@ -3054,14 +3093,14 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 66,
-      "correctSongCount": 61
+      "correctCount": 69,
+      "correctSongCount": 62
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 36,
-      "correctSongCount": 32
+      "correctCount": 37,
+      "correctSongCount": 33
     },
     {
       "range": "200-300万",
@@ -4300,18 +4339,178 @@
       "contentId": "sm6085510",
       "startTime": 1234085258000,
       "viewCounter": 1051889
+    },
+    {
+      "title": "『んっあっあっ。』",
+      "contentId": "sm38495939",
+      "startTime": 1616894100000,
+      "viewCounter": 1282024
+    },
+    {
+      "title": "HappY EnD",
+      "contentId": "sm39578262",
+      "startTime": 1636020000000,
+      "viewCounter": 38225
+    },
+    {
+      "title": "Vampire’s ∞ pathoS",
+      "contentId": "sm35484027",
+      "startTime": 1564830000000,
+      "viewCounter": 625301
     }
   ],
   "summary": {
-    "totalAnswers": 318,
-    "okAnswers": 216,
-    "ngAnswers": 102,
-    "participatedQuizCount": 44,
-    "winQuizCount": 42,
+    "totalAnswers": 325,
+    "okAnswers": 221,
+    "ngAnswers": 104,
+    "participatedQuizCount": 45,
+    "winQuizCount": 43,
     "loseQuizCount": 0,
     "medianViews": 722805
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "D1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 5,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 7,
+          "contentId": "sm24189059",
+          "title": "ネメシスの銃口",
+          "artistList": [
+            "悪ノP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24189059/24189059",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "なすの惑星"
+            }
+          ]
+        },
+        {
+          "order": 18,
+          "contentId": "sm16547768",
+          "title": "背徳の花",
+          "artistList": [
+            "ひとしずく",
+            "やま△"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16547768/16547768",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なすの惑星"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ぷれいやあ"
+            }
+          ]
+        },
+        {
+          "order": 21,
+          "contentId": "sm38495939",
+          "title": "『んっあっあっ。』",
+          "artistList": [
+            "SLAVE.V-V-R"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38495939/38495939.26505646",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "なすの惑星"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm44910634",
+          "title": "Word Eater",
+          "artistList": [
+            "わかばマークおじさん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44910634/44910634.14773293",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なすの惑星"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 38,
+          "contentId": "sm1971028",
+          "title": "リンリンシグナル",
+          "artistList": [
+            "シグナルP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1971028/1971028",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "なすの惑星"
+            }
+          ]
+        },
+        {
+          "order": 44,
+          "contentId": "sm39578262",
+          "title": "HappY EnD",
+          "artistList": [
+            "清水コウ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39578262/39578262.67431375",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "なすの惑星"
+            }
+          ]
+        },
+        {
+          "order": 45,
+          "contentId": "sm35484027",
+          "title": "Vampire’s ∞ pathoS",
+          "artistList": [
+            "ひとしずく",
+            "やま△"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35484027/35484027.81175392",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(5)",
+              "user": "なすの惑星"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "D1",

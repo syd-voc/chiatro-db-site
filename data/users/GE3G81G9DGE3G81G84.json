@@ -3857,6 +3857,61 @@
       "startTime": "2021-01-10T17:15:02+09:00",
       "viewCounter": 1017171,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm43995315",
+      "title": "ガード下のメニュー",
+      "artist": "歩く人",
+      "artistList": [
+        "歩く人"
+      ],
+      "startTime": "2024-08-22T20:00:00+09:00",
+      "viewCounter": 41371,
+      "correctCount": 1
+    },
+    {
+      "contentId": "nm13517807",
+      "title": "Plus/Space",
+      "artist": "AVTechNO!",
+      "artistList": [
+        "AVTechNO!"
+      ],
+      "startTime": "2011-02-06T18:06:59+09:00",
+      "viewCounter": 95041,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm28923164",
+      "title": "furete",
+      "artist": "mao sasagawa",
+      "artistList": [
+        "mao sasagawa"
+      ],
+      "startTime": "2016-05-26T19:00:00+09:00",
+      "viewCounter": 34162,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm11302054",
+      "title": "フタリボシ",
+      "artist": "40mP",
+      "artistList": [
+        "40mP"
+      ],
+      "startTime": "2010-07-07T00:00:42+09:00",
+      "viewCounter": 827801,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm24276234",
+      "title": "アスノヨゾラ哨戒班",
+      "artist": "Orangestar",
+      "artistList": [
+        "Orangestar"
+      ],
+      "startTime": "2014-08-19T20:37:55+09:00",
+      "viewCounter": 13006590,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4022,8 +4077,8 @@
     },
     {
       "artist": "40mP",
-      "correctCount": 9,
-      "correctSongCount": 6
+      "correctCount": 10,
+      "correctSongCount": 7
     },
     {
       "artist": "wotaku",
@@ -4712,8 +4767,8 @@
     },
     {
       "artist": "Orangestar",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "Aqu3ra",
@@ -4942,8 +4997,8 @@
     },
     {
       "artist": "歩く人",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "すりぃ",
@@ -4952,6 +5007,16 @@
     },
     {
       "artist": "駒木優",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "AVTechNO!",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "mao sasagawa",
       "correctCount": 1,
       "correctSongCount": 1
     }
@@ -4974,13 +5039,13 @@
     },
     {
       "era": "2014",
-      "correctCount": 31,
-      "correctSongCount": 24
+      "correctCount": 32,
+      "correctSongCount": 25
     },
     {
       "era": "2011",
-      "correctCount": 20,
-      "correctSongCount": 17
+      "correctCount": 21,
+      "correctSongCount": 18
     },
     {
       "era": "2022",
@@ -4999,13 +5064,13 @@
     },
     {
       "era": "2010",
-      "correctCount": 17,
-      "correctSongCount": 16
+      "correctCount": 18,
+      "correctSongCount": 17
     },
     {
       "era": "2024",
-      "correctCount": 48,
-      "correctSongCount": 43
+      "correctCount": 49,
+      "correctSongCount": 44
     },
     {
       "era": "2017",
@@ -5034,8 +5099,8 @@
     },
     {
       "era": "2016",
-      "correctCount": 14,
-      "correctSongCount": 12
+      "correctCount": 15,
+      "correctSongCount": 13
     },
     {
       "era": "2018",
@@ -5058,8 +5123,8 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 32,
-      "correctSongCount": 31
+      "correctCount": 35,
+      "correctSongCount": 34
     },
     {
       "range": "10-30万",
@@ -5076,8 +5141,8 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 106,
-      "correctSongCount": 86
+      "correctCount": 107,
+      "correctSongCount": 87
     },
     {
       "range": "100-200万",
@@ -5106,8 +5171,8 @@
     {
       "range": "1000万-",
       "order": 9,
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     }
   ],
   "scatter": [
@@ -7204,18 +7269,164 @@
       "contentId": "sm38099931",
       "startTime": 1610266502000,
       "viewCounter": 1017171
+    },
+    {
+      "title": "ガード下のメニュー",
+      "contentId": "sm43995315",
+      "startTime": 1724324400000,
+      "viewCounter": 41371
+    },
+    {
+      "title": "Plus/Space",
+      "contentId": "nm13517807",
+      "startTime": 1296983219000,
+      "viewCounter": 95041
+    },
+    {
+      "title": "furete",
+      "contentId": "sm28923164",
+      "startTime": 1464256800000,
+      "viewCounter": 34162
+    },
+    {
+      "title": "フタリボシ",
+      "contentId": "sm11302054",
+      "startTime": 1278428442000,
+      "viewCounter": 827801
+    },
+    {
+      "title": "アスノヨゾラ哨戒班",
+      "contentId": "sm24276234",
+      "startTime": 1408448275000,
+      "viewCounter": 13006590
     }
   ],
   "summary": {
-    "totalAnswers": 558,
-    "okAnswers": 404,
-    "ngAnswers": 153,
-    "participatedQuizCount": 92,
-    "winQuizCount": 73,
+    "totalAnswers": 564,
+    "okAnswers": 409,
+    "ngAnswers": 154,
+    "participatedQuizCount": 93,
+    "winQuizCount": 74,
     "loseQuizCount": 1,
-    "medianViews": 565757
+    "medianViews": 564391
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "C1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 11,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 8,
+          "contentId": "sm43995315",
+          "title": "ガード下のメニュー",
+          "artistList": [
+            "歩く人"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43995315/43995315.48105094",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "そい"
+            }
+          ]
+        },
+        {
+          "order": 42,
+          "contentId": "nm13517807",
+          "title": "Plus/Space",
+          "artistList": [
+            "AVTechNO!"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13517807/13517807",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "そい"
+            }
+          ]
+        },
+        {
+          "order": 52,
+          "contentId": "sm45261441",
+          "title": "サワーチェリーが輝いたから",
+          "artistList": [
+            "海茶"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45261441/45261441.63238820",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "そい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ゆーと"
+            }
+          ]
+        },
+        {
+          "order": 54,
+          "contentId": "sm28923164",
+          "title": "furete",
+          "artistList": [
+            "mao sasagawa"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28923164/28923164",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "そい"
+            }
+          ]
+        },
+        {
+          "order": 66,
+          "contentId": "sm11302054",
+          "title": "フタリボシ",
+          "artistList": [
+            "40mP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/11302054/11302054",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "そい"
+            }
+          ]
+        },
+        {
+          "order": 78,
+          "contentId": "sm24276234",
+          "title": "アスノヨゾラ哨戒班",
+          "artistList": [
+            "Orangestar"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24276234/24276234",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(11)",
+              "user": "そい"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 295,
       "group": "C2",

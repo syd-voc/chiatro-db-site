@@ -2378,7 +2378,7 @@
       ],
       "startTime": "2008-11-24T13:47:15+09:00",
       "viewCounter": 257884,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm35671123",
@@ -4740,6 +4740,50 @@
       "startTime": "2021-03-14T19:15:00+09:00",
       "viewCounter": 341309,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm7513121",
+      "title": "新世界",
+      "artist": "cosMo@暴走P",
+      "artistList": [
+        "cosMo@暴走P"
+      ],
+      "startTime": "2009-07-02T16:57:07+09:00",
+      "viewCounter": 150100,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm40438693",
+      "title": "遠心力",
+      "artist": "ナナホシ管弦楽団",
+      "artistList": [
+        "ナナホシ管弦楽団"
+      ],
+      "startTime": "2022-05-08T17:00:00+09:00",
+      "viewCounter": 99796,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm11454957",
+      "title": "星屑メソッド",
+      "artist": "蝶々P",
+      "artistList": [
+        "蝶々P"
+      ],
+      "startTime": "2010-07-20T20:22:14+09:00",
+      "viewCounter": 221082,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm16152203",
+      "title": "桜",
+      "artist": "nakano4",
+      "artistList": [
+        "nakano4"
+      ],
+      "startTime": "2011-11-12T21:22:52+09:00",
+      "viewCounter": 232197,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4750,8 +4794,8 @@
     },
     {
       "artist": "蝶々P",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "ササノマリイ",
@@ -4940,8 +4984,8 @@
     },
     {
       "artist": "cosMo@暴走P",
-      "correctCount": 19,
-      "correctSongCount": 13
+      "correctCount": 20,
+      "correctSongCount": 14
     },
     {
       "artist": "kz",
@@ -4975,7 +5019,7 @@
     },
     {
       "artist": "ナノウ",
-      "correctCount": 8,
+      "correctCount": 9,
       "correctSongCount": 7
     },
     {
@@ -5110,8 +5154,8 @@
     },
     {
       "artist": "ナナホシ管弦楽団",
-      "correctCount": 9,
-      "correctSongCount": 9
+      "correctCount": 10,
+      "correctSongCount": 10
     },
     {
       "artist": "和田たけあき",
@@ -5637,6 +5681,11 @@
       "artist": "Aqu3ra",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "nakano4",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -5657,8 +5706,8 @@
     },
     {
       "era": "2011",
-      "correctCount": 48,
-      "correctSongCount": 44
+      "correctCount": 49,
+      "correctSongCount": 45
     },
     {
       "era": "2023",
@@ -5677,7 +5726,7 @@
     },
     {
       "era": "2007-2008",
-      "correctCount": 54,
+      "correctCount": 55,
       "correctSongCount": 48
     },
     {
@@ -5687,13 +5736,13 @@
     },
     {
       "era": "2009",
-      "correctCount": 52,
-      "correctSongCount": 43
+      "correctCount": 53,
+      "correctSongCount": 44
     },
     {
       "era": "2010",
-      "correctCount": 47,
-      "correctSongCount": 41
+      "correctCount": 48,
+      "correctSongCount": 42
     },
     {
       "era": "2020",
@@ -5702,8 +5751,8 @@
     },
     {
       "era": "2022",
-      "correctCount": 7,
-      "correctSongCount": 7
+      "correctCount": 8,
+      "correctSongCount": 8
     },
     {
       "era": "2017",
@@ -5736,14 +5785,14 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 28,
-      "correctSongCount": 26
+      "correctCount": 29,
+      "correctSongCount": 27
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 176,
-      "correctSongCount": 155
+      "correctCount": 180,
+      "correctSongCount": 158
     },
     {
       "range": "30-50万",
@@ -8368,18 +8417,169 @@
       "contentId": "sm38419315",
       "startTime": 1615716900000,
       "viewCounter": 341309
+    },
+    {
+      "title": "新世界",
+      "contentId": "sm7513121",
+      "startTime": 1246521427000,
+      "viewCounter": 150100
+    },
+    {
+      "title": "遠心力",
+      "contentId": "sm40438693",
+      "startTime": 1651996800000,
+      "viewCounter": 99796
+    },
+    {
+      "title": "星屑メソッド",
+      "contentId": "sm11454957",
+      "startTime": 1279624934000,
+      "viewCounter": 221082
+    },
+    {
+      "title": "桜",
+      "contentId": "sm16152203",
+      "startTime": 1321100572000,
+      "viewCounter": 232197
     }
   ],
   "summary": {
-    "totalAnswers": 545,
-    "okAnswers": 491,
+    "totalAnswers": 550,
+    "okAnswers": 496,
     "ngAnswers": 54,
-    "participatedQuizCount": 104,
-    "winQuizCount": 97,
+    "participatedQuizCount": 105,
+    "winQuizCount": 98,
     "loseQuizCount": 0,
-    "medianViews": 355565
+    "medianViews": 350370
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "B",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 9,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 5,
+          "contentId": "sm5342008",
+          "title": "カナシキヒステリックガール",
+          "artistList": [
+            "ナノウ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/5342008/5342008",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "クロ"
+            }
+          ]
+        },
+        {
+          "order": 18,
+          "contentId": "sm7513121",
+          "title": "新世界",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7513121/7513121",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "テフミネ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "グルーガン"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "クロ"
+            }
+          ]
+        },
+        {
+          "order": 48,
+          "contentId": "sm40438693",
+          "title": "遠心力",
+          "artistList": [
+            "ナナホシ管弦楽団"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40438693/40438693.50921040",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "祝公式"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "クロ"
+            }
+          ]
+        },
+        {
+          "order": 58,
+          "contentId": "sm11454957",
+          "title": "星屑メソッド",
+          "artistList": [
+            "蝶々P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/11454957/11454957",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "クロ"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm16152203",
+          "title": "桜",
+          "artistList": [
+            "nakano4"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16152203/16152203",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(9)",
+              "user": "クロ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 296,
       "group": "B",

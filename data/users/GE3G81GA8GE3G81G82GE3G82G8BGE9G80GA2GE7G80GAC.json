@@ -1875,6 +1875,63 @@
       "startTime": "2025-12-26T19:07:05+09:00",
       "viewCounter": 482209,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm16829416",
+      "title": "イアイア★ナイトオブデザイア",
+      "artist": "samfree",
+      "artistList": [
+        "samfree"
+      ],
+      "startTime": "2012-01-30T06:20:08+09:00",
+      "viewCounter": 941579,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm41183602",
+      "title": "創作性シンドローム",
+      "artist": "Shu",
+      "artistList": [
+        "Shu"
+      ],
+      "startTime": "2022-10-07T19:00:00+09:00",
+      "viewCounter": 172699,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm42595400",
+      "title": "ちっちゃな私",
+      "artist": "マサラダ",
+      "artistList": [
+        "マサラダ"
+      ],
+      "startTime": "2023-08-08T17:43:02+09:00",
+      "viewCounter": 922543,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45025054",
+      "title": "拍動",
+      "artist": "ギガ, kemu",
+      "artistList": [
+        "ギガ",
+        "kemu"
+      ],
+      "startTime": "2025-05-27T17:00:00+09:00",
+      "viewCounter": 71972,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm24643818",
+      "title": "ECHO",
+      "artist": "CircusP, Crusher",
+      "artistList": [
+        "CircusP",
+        "Crusher"
+      ],
+      "startTime": "2014-10-08T13:39:07+09:00",
+      "viewCounter": 9069893,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -1960,8 +2017,8 @@
     },
     {
       "artist": "samfree",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "Aqu3ra",
@@ -2020,8 +2077,8 @@
     },
     {
       "artist": "kemu",
-      "correctCount": 2,
-      "correctSongCount": 1
+      "correctCount": 3,
+      "correctSongCount": 2
     },
     {
       "artist": "橘しとら",
@@ -2120,8 +2177,8 @@
     },
     {
       "artist": "ギガ",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "綿飴",
@@ -2472,6 +2529,26 @@
       "artist": "雨良",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "Shu",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "マサラダ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "CircusP",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "Crusher",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -2492,23 +2569,23 @@
     },
     {
       "era": "2023",
-      "correctCount": 8,
-      "correctSongCount": 7
+      "correctCount": 9,
+      "correctSongCount": 8
     },
     {
       "era": "2014",
-      "correctCount": 14,
-      "correctSongCount": 13
+      "correctCount": 15,
+      "correctSongCount": 14
     },
     {
       "era": "2025-",
-      "correctCount": 11,
-      "correctSongCount": 11
+      "correctCount": 12,
+      "correctSongCount": 12
     },
     {
       "era": "2022",
-      "correctCount": 6,
-      "correctSongCount": 5
+      "correctCount": 7,
+      "correctSongCount": 6
     },
     {
       "era": "2017",
@@ -2562,8 +2639,8 @@
     },
     {
       "era": "2012",
-      "correctCount": 13,
-      "correctSongCount": 11
+      "correctCount": 14,
+      "correctSongCount": 12
     }
   ],
   "viewStats": [
@@ -2576,14 +2653,14 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 8,
-      "correctSongCount": 8
+      "correctCount": 9,
+      "correctSongCount": 9
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 47,
-      "correctSongCount": 45
+      "correctCount": 48,
+      "correctSongCount": 46
     },
     {
       "range": "30-50万",
@@ -2594,8 +2671,8 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 35,
-      "correctSongCount": 32
+      "correctCount": 37,
+      "correctSongCount": 34
     },
     {
       "range": "100-200万",
@@ -2618,8 +2695,8 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 6,
-      "correctSongCount": 5
+      "correctCount": 7,
+      "correctSongCount": 6
     },
     {
       "range": "1000万-",
@@ -3648,18 +3725,266 @@
       "contentId": "sm45768297",
       "startTime": 1766743625000,
       "viewCounter": 482209
+    },
+    {
+      "title": "イアイア★ナイトオブデザイア",
+      "contentId": "sm16829416",
+      "startTime": 1327872008000,
+      "viewCounter": 941579
+    },
+    {
+      "title": "創作性シンドローム",
+      "contentId": "sm41183602",
+      "startTime": 1665136800000,
+      "viewCounter": 172699
+    },
+    {
+      "title": "ちっちゃな私",
+      "contentId": "sm42595400",
+      "startTime": 1691484182000,
+      "viewCounter": 922543
+    },
+    {
+      "title": "拍動",
+      "contentId": "sm45025054",
+      "startTime": 1748332800000,
+      "viewCounter": 71972
+    },
+    {
+      "title": "ECHO",
+      "contentId": "sm24643818",
+      "startTime": 1412743147000,
+      "viewCounter": 9069893
     }
   ],
   "summary": {
-    "totalAnswers": 278,
-    "okAnswers": 191,
-    "ngAnswers": 86,
-    "participatedQuizCount": 39,
-    "winQuizCount": 37,
+    "totalAnswers": 287,
+    "okAnswers": 196,
+    "ngAnswers": 90,
+    "participatedQuizCount": 40,
+    "winQuizCount": 38,
     "loseQuizCount": 1,
     "medianViews": 579606
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "C1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 4,
+      "winRank": 13,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 6,
+          "contentId": "sm16829416",
+          "title": "イアイア★ナイトオブデザイア",
+          "artistList": [
+            "samfree"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16829416/16829416",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "とある逢瀬"
+            }
+          ]
+        },
+        {
+          "order": 14,
+          "contentId": "sm45330291",
+          "title": "よっしゃ宇宙、いこう",
+          "artistList": [
+            "あだちかすか"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45330291/45330291.24002050",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "くちば"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とある逢瀬"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 20,
+          "contentId": "sm41183602",
+          "title": "創作性シンドローム",
+          "artistList": [
+            "Shu"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41183602/41183602.52159691",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あいおい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "とある逢瀬"
+            }
+          ]
+        },
+        {
+          "order": 24,
+          "contentId": "sm42595400",
+          "title": "ちっちゃな私",
+          "artistList": [
+            "マサラダ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42595400/42595400.50858449",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "とある逢瀬"
+            }
+          ]
+        },
+        {
+          "order": 32,
+          "contentId": "sm8384884",
+          "title": "ムゲンノホシゾラ",
+          "artistList": [
+            "azuma"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8384884/8384884",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "フリスク"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とある逢瀬"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 70,
+          "contentId": "sm37613360",
+          "title": "共依存",
+          "artistList": [
+            "ちいたな"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37613360/37613360.28449004",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とある逢瀬"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(7)",
+              "user": "ゆーと"
+            }
+          ]
+        },
+        {
+          "order": 77,
+          "contentId": "sm45025054",
+          "title": "拍動",
+          "artistList": [
+            "ギガ",
+            "kemu"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45025054/45025054.80642359",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "とある逢瀬"
+            }
+          ]
+        },
+        {
+          "order": 80,
+          "contentId": "sm45426911",
+          "title": "マシュマロ",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45426911/45426911.79837292",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とある逢瀬"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "トラノオ"
+            }
+          ]
+        },
+        {
+          "order": 87,
+          "contentId": "sm24643818",
+          "title": "ECHO",
+          "artistList": [
+            "CircusP",
+            "Crusher"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24643818/24643818",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(13)",
+              "user": "とある逢瀬"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "B",

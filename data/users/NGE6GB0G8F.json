@@ -871,7 +871,7 @@
       ],
       "startTime": "2014-11-07T19:54:18+09:00",
       "viewCounter": 1007502,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm31347473",
@@ -2498,6 +2498,51 @@
       "correctCount": 1
     },
     {
+      "contentId": "nm14629738",
+      "title": "アストロノーツ",
+      "artist": "椎名もた",
+      "artistList": [
+        "椎名もた"
+      ],
+      "startTime": "2011-06-02T19:37:22+09:00",
+      "viewCounter": 1213336,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm10533832",
+      "title": "指切り",
+      "artist": "すこっぷ",
+      "artistList": [
+        "すこっぷ"
+      ],
+      "startTime": "2010-04-28T11:23:26+09:00",
+      "viewCounter": 2732105,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm24643818",
+      "title": "ECHO",
+      "artist": "CircusP, Crusher",
+      "artistList": [
+        "CircusP",
+        "Crusher"
+      ],
+      "startTime": "2014-10-08T13:39:07+09:00",
+      "viewCounter": 9069893,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm40350984",
+      "title": "身体は正直だって言ってんの",
+      "artist": "式浦躁吾",
+      "artistList": [
+        "式浦躁吾"
+      ],
+      "startTime": "2022-04-22T00:00:00+09:00",
+      "viewCounter": 526007,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm27480641",
       "title": "ミライ",
       "artist": "ATOLS",
@@ -2527,7 +2572,7 @@
     },
     {
       "artist": "keeno",
-      "correctCount": 6,
+      "correctCount": 7,
       "correctSongCount": 5
     },
     {
@@ -2717,8 +2762,8 @@
     },
     {
       "artist": "椎名もた",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "カルロス袴田(サイゼP)",
@@ -3101,6 +3146,26 @@
       "correctSongCount": 1
     },
     {
+      "artist": "すこっぷ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "CircusP",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "Crusher",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "式浦躁吾",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
       "artist": "ATOLS",
       "correctCount": 1,
       "correctSongCount": 1
@@ -3134,8 +3199,8 @@
     },
     {
       "era": "2014",
-      "correctCount": 22,
-      "correctSongCount": 17
+      "correctCount": 24,
+      "correctSongCount": 18
     },
     {
       "era": "2007-2008",
@@ -3149,8 +3214,8 @@
     },
     {
       "era": "2010",
-      "correctCount": 20,
-      "correctSongCount": 15
+      "correctCount": 21,
+      "correctSongCount": 16
     },
     {
       "era": "2017",
@@ -3184,13 +3249,13 @@
     },
     {
       "era": "2011",
-      "correctCount": 10,
-      "correctSongCount": 9
+      "correctCount": 11,
+      "correctSongCount": 10
     },
     {
       "era": "2022",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     }
   ],
   "viewStats": [
@@ -3221,20 +3286,20 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 44,
-      "correctSongCount": 31
+      "correctCount": 45,
+      "correctSongCount": 32
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 94,
-      "correctSongCount": 73
+      "correctCount": 96,
+      "correctSongCount": 74
     },
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 34,
-      "correctSongCount": 26
+      "correctCount": 35,
+      "correctSongCount": 27
     },
     {
       "range": "300-500万",
@@ -3245,8 +3310,8 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 13,
-      "correctSongCount": 10
+      "correctCount": 14,
+      "correctSongCount": 11
     },
     {
       "range": "1000万-",
@@ -4613,6 +4678,30 @@
       "viewCounter": 1090543
     },
     {
+      "title": "アストロノーツ",
+      "contentId": "nm14629738",
+      "startTime": 1307011042000,
+      "viewCounter": 1213336
+    },
+    {
+      "title": "指切り",
+      "contentId": "sm10533832",
+      "startTime": 1272421406000,
+      "viewCounter": 2732105
+    },
+    {
+      "title": "ECHO",
+      "contentId": "sm24643818",
+      "startTime": 1412743147000,
+      "viewCounter": 9069893
+    },
+    {
+      "title": "身体は正直だって言ってんの",
+      "contentId": "sm40350984",
+      "startTime": 1650553200000,
+      "viewCounter": 526007
+    },
+    {
       "title": "ミライ",
       "contentId": "sm27480641",
       "startTime": 1446204600000,
@@ -4620,15 +4709,107 @@
     }
   ],
   "summary": {
-    "totalAnswers": 393,
-    "okAnswers": 301,
+    "totalAnswers": 398,
+    "okAnswers": 306,
     "ngAnswers": 92,
-    "participatedQuizCount": 65,
-    "winQuizCount": 54,
+    "participatedQuizCount": 66,
+    "winQuizCount": 55,
     "loseQuizCount": 0,
-    "medianViews": 1102751
+    "medianViews": 1105509
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "D1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 6,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 13,
+          "contentId": "nm14629738",
+          "title": "アストロノーツ",
+          "artistList": [
+            "椎名もた"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14629738/14629738",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "N氏"
+            }
+          ]
+        },
+        {
+          "order": 24,
+          "contentId": "sm10533832",
+          "title": "指切り",
+          "artistList": [
+            "すこっぷ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10533832/10533832",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "N氏"
+            }
+          ]
+        },
+        {
+          "order": 36,
+          "contentId": "sm24643818",
+          "title": "ECHO",
+          "artistList": [
+            "CircusP",
+            "Crusher"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24643818/24643818",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "N氏"
+            }
+          ]
+        },
+        {
+          "order": 42,
+          "contentId": "sm24862460",
+          "title": "morning haze",
+          "artistList": [
+            "keeno"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24862460/24862460",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "N氏"
+            }
+          ]
+        },
+        {
+          "order": 47,
+          "contentId": "sm40350984",
+          "title": "身体は正直だって言ってんの",
+          "artistList": [
+            "式浦躁吾"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40350984/40350984.68316215",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(6)",
+              "user": "N氏"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "D1",

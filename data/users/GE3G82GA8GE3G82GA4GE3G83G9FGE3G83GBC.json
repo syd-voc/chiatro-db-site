@@ -2460,7 +2460,7 @@
       ],
       "startTime": "2017-11-03T19:59:03+09:00",
       "viewCounter": 1749635,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm21724524",
@@ -3210,6 +3210,39 @@
       "startTime": "2016-09-08T19:10:17+09:00",
       "viewCounter": 745251,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm26065324",
+      "title": "UNDER CONSTRUCTION",
+      "artist": "けんまP",
+      "artistList": [
+        "けんまP"
+      ],
+      "startTime": "2015-04-19T20:31:13+09:00",
+      "viewCounter": 1090021,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35477620",
+      "title": "くそったれ讃歌",
+      "artist": "ちいたな",
+      "artistList": [
+        "ちいたな"
+      ],
+      "startTime": "2019-08-01T18:00:00+09:00",
+      "viewCounter": 70027,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39875678",
+      "title": "蛍はいなかった",
+      "artist": "はるまきごはん",
+      "artistList": [
+        "はるまきごはん"
+      ],
+      "startTime": "2022-01-09T19:00:00+09:00",
+      "viewCounter": 267380,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -3300,8 +3333,8 @@
     },
     {
       "artist": "はるまきごはん",
-      "correctCount": 5,
-      "correctSongCount": 4
+      "correctCount": 6,
+      "correctSongCount": 5
     },
     {
       "artist": "Kanaria",
@@ -3840,7 +3873,7 @@
     },
     {
       "artist": "RINGO",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -4002,13 +4035,23 @@
       "artist": "原口沙輔",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "けんまP",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ちいたな",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2022",
-      "correctCount": 23,
-      "correctSongCount": 17
+      "correctCount": 24,
+      "correctSongCount": 18
     },
     {
       "era": "2021",
@@ -4027,7 +4070,7 @@
     },
     {
       "era": "2017",
-      "correctCount": 22,
+      "correctCount": 23,
       "correctSongCount": 19
     },
     {
@@ -4047,8 +4090,8 @@
     },
     {
       "era": "2015",
-      "correctCount": 27,
-      "correctSongCount": 24
+      "correctCount": 28,
+      "correctSongCount": 25
     },
     {
       "era": "2013",
@@ -4057,8 +4100,8 @@
     },
     {
       "era": "2019",
-      "correctCount": 27,
-      "correctSongCount": 23
+      "correctCount": 28,
+      "correctSongCount": 24
     },
     {
       "era": "2023",
@@ -4101,14 +4144,14 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 22,
-      "correctSongCount": 22
+      "correctCount": 23,
+      "correctSongCount": 23
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 53,
-      "correctSongCount": 52
+      "correctCount": 54,
+      "correctSongCount": 53
     },
     {
       "range": "30-50万",
@@ -4125,8 +4168,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 76,
-      "correctSongCount": 58
+      "correctCount": 78,
+      "correctSongCount": 59
     },
     {
       "range": "200-300万",
@@ -5899,18 +5942,188 @@
       "contentId": "sm29609558",
       "startTime": 1473329417000,
       "viewCounter": 745251
+    },
+    {
+      "title": "UNDER CONSTRUCTION",
+      "contentId": "sm26065324",
+      "startTime": 1429443073000,
+      "viewCounter": 1090021
+    },
+    {
+      "title": "くそったれ讃歌",
+      "contentId": "sm35477620",
+      "startTime": 1564650000000,
+      "viewCounter": 70027
+    },
+    {
+      "title": "蛍はいなかった",
+      "contentId": "sm39875678",
+      "startTime": 1641722400000,
+      "viewCounter": 267380
     }
   ],
   "summary": {
-    "totalAnswers": 406,
-    "okAnswers": 341,
-    "ngAnswers": 65,
-    "participatedQuizCount": 80,
-    "winQuizCount": 70,
+    "totalAnswers": 412,
+    "okAnswers": 345,
+    "ngAnswers": 67,
+    "participatedQuizCount": 81,
+    "winQuizCount": 71,
     "loseQuizCount": 0,
-    "medianViews": 1010894
+    "medianViews": 1005947
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "A",
+      "date": "2026-05-08",
+      "ok": 4,
+      "ng": 2,
+      "winRank": 5,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 7,
+          "contentId": "sm26065324",
+          "title": "UNDER CONSTRUCTION",
+          "artistList": [
+            "けんまP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26065324/26065324",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "エイミー"
+            }
+          ]
+        },
+        {
+          "order": 24,
+          "contentId": "sm35477620",
+          "title": "くそったれ讃歌",
+          "artistList": [
+            "ちいたな"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35477620/35477620.86401685",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠くない人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "かなくり"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なごん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "エイミー"
+            }
+          ]
+        },
+        {
+          "order": 27,
+          "contentId": "sm44677571",
+          "title": "夢遊病",
+          "artistList": [
+            "イマニシ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44677571/44677571.13839557",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "エイミー"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ぬーん"
+            }
+          ]
+        },
+        {
+          "order": 42,
+          "contentId": "sm32027180",
+          "title": "ひとごろしのバケモノ",
+          "artistList": [
+            "和田たけあき"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32027180/32027180",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "エイミー"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ゲオス"
+            }
+          ]
+        },
+        {
+          "order": 45,
+          "contentId": "sm39875678",
+          "title": "蛍はいなかった",
+          "artistList": [
+            "はるまきごはん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39875678/39875678.43994919",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "エイミー"
+            }
+          ]
+        },
+        {
+          "order": 46,
+          "contentId": "sm32209048",
+          "title": "再演",
+          "artistList": [
+            "RINGO"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32209048/32209048",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(5)",
+              "user": "エイミー"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 295,
       "group": "A",

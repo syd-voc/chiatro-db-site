@@ -5258,7 +5258,7 @@
       ],
       "startTime": "2020-01-30T18:00:00+09:00",
       "viewCounter": 154320,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm35205082",
@@ -7182,6 +7182,50 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm39034813",
+      "title": "キャットラビング",
+      "artist": "香椎モイミ",
+      "artistList": [
+        "香椎モイミ"
+      ],
+      "startTime": "2021-07-17T18:00:00+09:00",
+      "viewCounter": 3048426,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm32673722",
+      "title": "メリーバッドエンド",
+      "artist": "まふまふ",
+      "artistList": [
+        "まふまふ"
+      ],
+      "startTime": "2018-02-02T18:00:00+09:00",
+      "viewCounter": 2841737,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35543930",
+      "title": "無辜のあなた",
+      "artist": "いよわ",
+      "artistList": [
+        "いよわ"
+      ],
+      "startTime": "2019-08-16T19:00:00+09:00",
+      "viewCounter": 826097,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm1085336",
+      "title": "あなたの歌姫",
+      "artist": "azuma",
+      "artistList": [
+        "azuma"
+      ],
+      "startTime": "2007-09-18T06:46:53+09:00",
+      "viewCounter": 1336128,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm11572166",
       "title": "はたらきたくないでござる",
       "artist": "かにみそP",
@@ -7405,8 +7449,8 @@
     },
     {
       "artist": "香椎モイミ",
-      "correctCount": 5,
-      "correctSongCount": 3
+      "correctCount": 6,
+      "correctSongCount": 4
     },
     {
       "artist": "ラムネ(村人P)",
@@ -7460,8 +7504,8 @@
     },
     {
       "artist": "いよわ",
-      "correctCount": 8,
-      "correctSongCount": 4
+      "correctCount": 9,
+      "correctSongCount": 5
     },
     {
       "artist": "MARETU",
@@ -7725,8 +7769,8 @@
     },
     {
       "artist": "まふまふ",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "モモカシュー",
@@ -8535,7 +8579,7 @@
     },
     {
       "artist": "youまん",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -8849,6 +8893,11 @@
       "correctSongCount": 1
     },
     {
+      "artist": "azuma",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
       "artist": "littlebylittle",
       "correctCount": 1,
       "correctSongCount": 1
@@ -8877,8 +8926,8 @@
     },
     {
       "era": "2021",
-      "correctCount": 56,
-      "correctSongCount": 46
+      "correctCount": 57,
+      "correctSongCount": 47
     },
     {
       "era": "2013",
@@ -8902,8 +8951,8 @@
     },
     {
       "era": "2018",
-      "correctCount": 28,
-      "correctSongCount": 26
+      "correctCount": 29,
+      "correctSongCount": 27
     },
     {
       "era": "2015",
@@ -8912,17 +8961,17 @@
     },
     {
       "era": "2007-2008",
-      "correctCount": 77,
-      "correctSongCount": 63
+      "correctCount": 78,
+      "correctSongCount": 64
     },
     {
       "era": "2019",
-      "correctCount": 39,
-      "correctSongCount": 31
+      "correctCount": 40,
+      "correctSongCount": 32
     },
     {
       "era": "2020",
-      "correctCount": 46,
+      "correctCount": 47,
       "correctSongCount": 32
     },
     {
@@ -8967,7 +9016,7 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 288,
+      "correctCount": 289,
       "correctSongCount": 235
     },
     {
@@ -8979,26 +9028,26 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 177,
-      "correctSongCount": 133
+      "correctCount": 178,
+      "correctSongCount": 134
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 89,
-      "correctSongCount": 73
+      "correctCount": 90,
+      "correctSongCount": 74
     },
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 31,
-      "correctSongCount": 22
+      "correctCount": 32,
+      "correctSongCount": 23
     },
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 15,
-      "correctSongCount": 14
+      "correctCount": 16,
+      "correctSongCount": 15
     },
     {
       "range": "500-1000万",
@@ -12915,6 +12964,30 @@
       "viewCounter": 5175250
     },
     {
+      "title": "キャットラビング",
+      "contentId": "sm39034813",
+      "startTime": 1626512400000,
+      "viewCounter": 3048426
+    },
+    {
+      "title": "メリーバッドエンド",
+      "contentId": "sm32673722",
+      "startTime": 1517562000000,
+      "viewCounter": 2841737
+    },
+    {
+      "title": "無辜のあなた",
+      "contentId": "sm35543930",
+      "startTime": 1565949600000,
+      "viewCounter": 826097
+    },
+    {
+      "title": "あなたの歌姫",
+      "contentId": "sm1085336",
+      "startTime": 1190065613000,
+      "viewCounter": 1336128
+    },
+    {
       "title": "はたらきたくないでござる",
       "contentId": "sm11572166",
       "startTime": 1280497717000,
@@ -12946,15 +13019,106 @@
     }
   ],
   "summary": {
-    "totalAnswers": 1126,
-    "okAnswers": 811,
+    "totalAnswers": 1131,
+    "okAnswers": 816,
     "ngAnswers": 312,
-    "participatedQuizCount": 199,
-    "winQuizCount": 157,
+    "participatedQuizCount": 200,
+    "winQuizCount": 158,
     "loseQuizCount": 3,
-    "medianViews": 349085
+    "medianViews": 350518
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "B",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 13,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 67,
+          "contentId": "sm36292829",
+          "title": "ゾイトロープ",
+          "artistList": [
+            "youまん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36292829/36292829.34677236",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Moai太郎"
+            }
+          ]
+        },
+        {
+          "order": 71,
+          "contentId": "sm39034813",
+          "title": "キャットラビング",
+          "artistList": [
+            "香椎モイミ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39034813/39034813.20703816",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "Moai太郎"
+            }
+          ]
+        },
+        {
+          "order": 74,
+          "contentId": "sm32673722",
+          "title": "メリーバッドエンド",
+          "artistList": [
+            "まふまふ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32673722/32673722",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "Moai太郎"
+            }
+          ]
+        },
+        {
+          "order": 78,
+          "contentId": "sm35543930",
+          "title": "無辜のあなた",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35543930/35543930.98250086",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "Moai太郎"
+            }
+          ]
+        },
+        {
+          "order": 81,
+          "contentId": "sm1085336",
+          "title": "あなたの歌姫",
+          "artistList": [
+            "azuma"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1085336/1085336",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(13)",
+              "user": "Moai太郎"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "B",

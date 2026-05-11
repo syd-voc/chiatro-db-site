@@ -2892,7 +2892,7 @@
       ],
       "startTime": "2011-10-22T20:02:36+09:00",
       "viewCounter": 3865415,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm7215575",
@@ -4259,6 +4259,50 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm43462792",
+      "title": "エスパーエスパー",
+      "artist": "ナユタン星人",
+      "artistList": [
+        "ナユタン星人"
+      ],
+      "startTime": "2024-03-01T18:39:00+09:00",
+      "viewCounter": 341029,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm30871618",
+      "title": "ヘドニストの幸福な食卓",
+      "artist": "TaKU.K",
+      "artistList": [
+        "TaKU.K"
+      ],
+      "startTime": "2017-03-22T20:00:00+09:00",
+      "viewCounter": 545102,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39872037",
+      "title": "行き場をなくしたこどもたち",
+      "artist": "電ǂ鯨",
+      "artistList": [
+        "電ǂ鯨"
+      ],
+      "startTime": "2022-01-08T22:06:02+09:00",
+      "viewCounter": 205475,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44329857",
+      "title": "む",
+      "artist": "大漠波新",
+      "artistList": [
+        "大漠波新"
+      ],
+      "startTime": "2024-11-18T18:00:00+09:00",
+      "viewCounter": 568348,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm17191781",
       "title": "現実的論理主義者",
       "artist": "ゴボウメン",
@@ -4711,8 +4755,8 @@
     },
     {
       "artist": "ナユタン星人",
-      "correctCount": 4,
-      "correctSongCount": 3
+      "correctCount": 5,
+      "correctSongCount": 4
     },
     {
       "artist": "ぬゆり",
@@ -4841,7 +4885,7 @@
     },
     {
       "artist": "トーマ",
-      "correctCount": 6,
+      "correctCount": 7,
       "correctSongCount": 4
     },
     {
@@ -4916,8 +4960,8 @@
     },
     {
       "artist": "電ǂ鯨",
-      "correctCount": 2,
-      "correctSongCount": 1
+      "correctCount": 3,
+      "correctSongCount": 2
     },
     {
       "artist": "いよわ",
@@ -5061,8 +5105,8 @@
     },
     {
       "artist": "TaKU.K",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "Nem",
@@ -5415,6 +5459,11 @@
       "correctSongCount": 1
     },
     {
+      "artist": "大漠波新",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
       "artist": "ゴボウメン",
       "correctCount": 1,
       "correctSongCount": 1
@@ -5443,7 +5492,7 @@
   "eraStats": [
     {
       "era": "2011",
-      "correctCount": 38,
+      "correctCount": 39,
       "correctSongCount": 30
     },
     {
@@ -5473,8 +5522,8 @@
     },
     {
       "era": "2017",
-      "correctCount": 29,
-      "correctSongCount": 25
+      "correctCount": 30,
+      "correctSongCount": 26
     },
     {
       "era": "2020",
@@ -5518,13 +5567,13 @@
     },
     {
       "era": "2022",
-      "correctCount": 10,
-      "correctSongCount": 9
+      "correctCount": 11,
+      "correctSongCount": 10
     },
     {
       "era": "2024",
-      "correctCount": 8,
-      "correctSongCount": 8
+      "correctCount": 10,
+      "correctSongCount": 10
     },
     {
       "era": "2025-",
@@ -5548,20 +5597,20 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 70,
-      "correctSongCount": 61
+      "correctCount": 71,
+      "correctSongCount": 62
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 63,
-      "correctSongCount": 51
+      "correctCount": 64,
+      "correctSongCount": 52
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 90,
-      "correctSongCount": 69
+      "correctCount": 92,
+      "correctSongCount": 71
     },
     {
       "range": "100-200万",
@@ -5578,7 +5627,7 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 48,
+      "correctCount": 49,
       "correctSongCount": 43
     },
     {
@@ -7906,6 +7955,30 @@
       "viewCounter": 6504592
     },
     {
+      "title": "エスパーエスパー",
+      "contentId": "sm43462792",
+      "startTime": 1709285940000,
+      "viewCounter": 341029
+    },
+    {
+      "title": "ヘドニストの幸福な食卓",
+      "contentId": "sm30871618",
+      "startTime": 1490180400000,
+      "viewCounter": 545102
+    },
+    {
+      "title": "行き場をなくしたこどもたち",
+      "contentId": "sm39872037",
+      "startTime": 1641647162000,
+      "viewCounter": 205475
+    },
+    {
+      "title": "む",
+      "contentId": "sm44329857",
+      "startTime": 1731920400000,
+      "viewCounter": 568348
+    },
+    {
       "title": "現実的論理主義者",
       "contentId": "sm17191781",
       "startTime": 1331211793000,
@@ -7961,15 +8034,139 @@
     }
   ],
   "summary": {
-    "totalAnswers": 642,
-    "okAnswers": 471,
-    "ngAnswers": 171,
-    "participatedQuizCount": 118,
-    "winQuizCount": 89,
+    "totalAnswers": 648,
+    "okAnswers": 476,
+    "ngAnswers": 172,
+    "participatedQuizCount": 119,
+    "winQuizCount": 90,
     "loseQuizCount": 0,
-    "medianViews": 903797
+    "medianViews": 901711
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "C1",
+      "date": "2026-05-08",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 1,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 11,
+          "contentId": "sm43462792",
+          "title": "エスパーエスパー",
+          "artistList": [
+            "ナユタン星人"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43462792/43462792.87710025",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "しゃい"
+            }
+          ]
+        },
+        {
+          "order": 15,
+          "contentId": "sm15956806",
+          "title": "エンヴィキャットウォーク",
+          "artistList": [
+            "トーマ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15956806/15956806",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "しゃい"
+            }
+          ]
+        },
+        {
+          "order": 18,
+          "contentId": "sm20979838",
+          "title": "regret",
+          "artistList": [
+            "葵木ゴウ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20979838/20979838",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "しゃい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 28,
+          "contentId": "sm30871618",
+          "title": "ヘドニストの幸福な食卓",
+          "artistList": [
+            "TaKU.K"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30871618/30871618",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "しゃい"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm39872037",
+          "title": "行き場をなくしたこどもたち",
+          "artistList": [
+            "電ǂ鯨"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39872037/39872037.46735400",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "くちば"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "しゃい"
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "contentId": "sm44329857",
+          "title": "む",
+          "artistList": [
+            "大漠波新"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44329857/44329857.49107378",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(1)",
+              "user": "しゃい"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 296,
       "group": "C1",
@@ -20777,7 +20974,7 @@
           "contentId": "sm42572901",
           "title": "不出来物",
           "artistList": [
-            "⌘ハイノミ"
+            "⌘ ハイノミ"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42572901/42572901.15075863",
           "tokens": [

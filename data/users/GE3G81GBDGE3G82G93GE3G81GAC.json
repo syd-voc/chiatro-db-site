@@ -3752,6 +3752,62 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm10385613",
+      "title": "初音ミクの暴走",
+      "artist": "cosMo@暴走P",
+      "artistList": [
+        "cosMo@暴走P"
+      ],
+      "startTime": "2010-04-14T04:57:25+09:00",
+      "viewCounter": 1395323,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm2135243",
+      "title": "既成事実",
+      "artist": "デッドボールP",
+      "artistList": [
+        "デッドボールP"
+      ],
+      "startTime": "2008-01-25T23:44:31+09:00",
+      "viewCounter": 446923,
+      "correctCount": 1
+    },
+    {
+      "contentId": "nm20363726",
+      "title": "MISTAKE",
+      "artist": "ナナホシ管弦楽団",
+      "artistList": [
+        "ナナホシ管弦楽団"
+      ],
+      "startTime": "2013-03-18T00:09:02+09:00",
+      "viewCounter": 381743,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm22792498",
+      "title": "夜更けのシュクレ",
+      "artist": "k_zero+A, monaca:factory",
+      "artistList": [
+        "k_zero+A",
+        "monaca:factory"
+      ],
+      "startTime": "2014-02-01T19:00:00+09:00",
+      "viewCounter": 180219,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm15167605",
+      "title": "梨本ういが僕を殺す",
+      "artist": "とある厨二の大学生",
+      "artistList": [
+        "とある厨二の大学生"
+      ],
+      "startTime": "2011-07-31T01:45:32+09:00",
+      "viewCounter": 192171,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm11269476",
       "title": "Choose Me",
       "artist": "ヒャダイン",
@@ -4153,8 +4209,8 @@
     },
     {
       "artist": "デッドボールP",
-      "correctCount": 6,
-      "correctSongCount": 6
+      "correctCount": 7,
+      "correctSongCount": 7
     },
     {
       "artist": "OSTER project",
@@ -4388,8 +4444,8 @@
     },
     {
       "artist": "cosMo@暴走P",
-      "correctCount": 5,
-      "correctSongCount": 4
+      "correctCount": 6,
+      "correctSongCount": 5
     },
     {
       "artist": "nagi-P",
@@ -4473,8 +4529,8 @@
     },
     {
       "artist": "ナナホシ管弦楽団",
-      "correctCount": 5,
-      "correctSongCount": 4
+      "correctCount": 6,
+      "correctSongCount": 5
     },
     {
       "artist": "銀サク",
@@ -5137,6 +5193,21 @@
       "correctSongCount": 1
     },
     {
+      "artist": "k_zero+A",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "monaca:factory",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "とある厨二の大学生",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
       "artist": "ヒャダイン",
       "correctCount": 1,
       "correctSongCount": 1
@@ -5205,8 +5276,8 @@
   "eraStats": [
     {
       "era": "2010",
-      "correctCount": 77,
-      "correctSongCount": 64
+      "correctCount": 78,
+      "correctSongCount": 65
     },
     {
       "era": "2009",
@@ -5220,13 +5291,13 @@
     },
     {
       "era": "2007-2008",
-      "correctCount": 61,
-      "correctSongCount": 50
+      "correctCount": 62,
+      "correctSongCount": 51
     },
     {
       "era": "2011",
-      "correctCount": 58,
-      "correctSongCount": 44
+      "correctCount": 59,
+      "correctSongCount": 45
     },
     {
       "era": "2020",
@@ -5270,8 +5341,8 @@
     },
     {
       "era": "2014",
-      "correctCount": 14,
-      "correctSongCount": 13
+      "correctCount": 15,
+      "correctSongCount": 14
     },
     {
       "era": "2023",
@@ -5285,8 +5356,8 @@
     },
     {
       "era": "2013",
-      "correctCount": 11,
-      "correctSongCount": 11
+      "correctCount": 12,
+      "correctSongCount": 12
     },
     {
       "era": "2025-",
@@ -5310,14 +5381,14 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 129,
-      "correctSongCount": 113
+      "correctCount": 131,
+      "correctSongCount": 115
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 101,
-      "correctSongCount": 82
+      "correctCount": 103,
+      "correctSongCount": 84
     },
     {
       "range": "50-100万",
@@ -5328,8 +5399,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 42,
-      "correctSongCount": 38
+      "correctCount": 43,
+      "correctSongCount": 39
     },
     {
       "range": "200-300万",
@@ -7398,6 +7469,36 @@
       "viewCounter": 179699
     },
     {
+      "title": "初音ミクの暴走",
+      "contentId": "sm10385613",
+      "startTime": 1271188645000,
+      "viewCounter": 1395323
+    },
+    {
+      "title": "既成事実",
+      "contentId": "sm2135243",
+      "startTime": 1201272271000,
+      "viewCounter": 446923
+    },
+    {
+      "title": "MISTAKE",
+      "contentId": "nm20363726",
+      "startTime": 1363532942000,
+      "viewCounter": 381743
+    },
+    {
+      "title": "夜更けのシュクレ",
+      "contentId": "sm22792498",
+      "startTime": 1391248800000,
+      "viewCounter": 180219
+    },
+    {
+      "title": "梨本ういが僕を殺す",
+      "contentId": "sm15167605",
+      "startTime": 1312044332000,
+      "viewCounter": 192171
+    },
+    {
       "title": "Choose Me",
       "contentId": "sm11269476",
       "startTime": 1278169261000,
@@ -7609,15 +7710,141 @@
     }
   ],
   "summary": {
-    "totalAnswers": 489,
-    "okAnswers": 439,
-    "ngAnswers": 50,
-    "participatedQuizCount": 124,
-    "winQuizCount": 80,
+    "totalAnswers": 495,
+    "okAnswers": 444,
+    "ngAnswers": 51,
+    "participatedQuizCount": 125,
+    "winQuizCount": 81,
     "loseQuizCount": 0,
     "medianViews": 388399
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "C2",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 3,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 2,
+          "contentId": "sm10385613",
+          "title": "初音ミクの暴走",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10385613/10385613",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ぽんぬ"
+            }
+          ]
+        },
+        {
+          "order": 9,
+          "contentId": "sm2135243",
+          "title": "既成事実",
+          "artistList": [
+            "デッドボールP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2135243/2135243",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "うつ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ぽんぬ"
+            }
+          ]
+        },
+        {
+          "order": 16,
+          "contentId": "nm20363726",
+          "title": "MISTAKE",
+          "artistList": [
+            "ナナホシ管弦楽団"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20363726/20363726",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ぽんぬ"
+            }
+          ]
+        },
+        {
+          "order": 28,
+          "contentId": "sm22792498",
+          "title": "夜更けのシュクレ",
+          "artistList": [
+            "k_zero+A",
+            "monaca:factory"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22792498/22792498",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ぽんぬ"
+            }
+          ]
+        },
+        {
+          "order": 36,
+          "contentId": "sm4596128",
+          "title": "Transmit",
+          "artistList": [
+            "シグナルP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/4596128/4596128",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぽんぬ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "おとまる"
+            }
+          ]
+        },
+        {
+          "order": 38,
+          "contentId": "sm15167605",
+          "title": "梨本ういが僕を殺す",
+          "artistList": [
+            "とある厨二の大学生"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15167605/15167605",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(3)",
+              "user": "ぽんぬ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 295,
       "group": "C2",

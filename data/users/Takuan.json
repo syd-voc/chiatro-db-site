@@ -2592,7 +2592,7 @@
       ],
       "startTime": "2015-12-09T19:07:00+09:00",
       "viewCounter": 1657148,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm35880454",
@@ -6790,6 +6790,39 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm43606350",
+      "title": "乖離するゲンザイ",
+      "artist": "阿修",
+      "artistList": [
+        "阿修"
+      ],
+      "startTime": "2024-04-01T19:08:02+09:00",
+      "viewCounter": 123671,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm26169133",
+      "title": "愛及屋烏",
+      "artist": "バルーン",
+      "artistList": [
+        "バルーン"
+      ],
+      "startTime": "2015-05-04T20:00:00+09:00",
+      "viewCounter": 1511172,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm37944844",
+      "title": "1000年生きてる",
+      "artist": "いよわ",
+      "artistList": [
+        "いよわ"
+      ],
+      "startTime": "2020-12-11T21:00:00+09:00",
+      "viewCounter": 5790228,
+      "correctCount": 1
+    },
+    {
       "contentId": "so40969481",
       "title": "セカイ",
       "artist": "DECO*27, kemu",
@@ -7092,7 +7125,7 @@
     },
     {
       "artist": "ナユタン星人",
-      "correctCount": 20,
+      "correctCount": 21,
       "correctSongCount": 10
     },
     {
@@ -7427,8 +7460,8 @@
     },
     {
       "artist": "バルーン",
-      "correctCount": 11,
-      "correctSongCount": 6
+      "correctCount": 12,
+      "correctSongCount": 7
     },
     {
       "artist": "すりぃ",
@@ -8002,8 +8035,8 @@
     },
     {
       "artist": "いよわ",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "KeN",
@@ -8331,6 +8364,11 @@
       "correctSongCount": 1
     },
     {
+      "artist": "阿修",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
       "artist": "さいたまにすと",
       "correctCount": 1,
       "correctSongCount": 1
@@ -8399,13 +8437,13 @@
     },
     {
       "era": "2015",
-      "correctCount": 48,
-      "correctSongCount": 32
+      "correctCount": 50,
+      "correctSongCount": 33
     },
     {
       "era": "2020",
-      "correctCount": 75,
-      "correctSongCount": 54
+      "correctCount": 76,
+      "correctSongCount": 55
     },
     {
       "era": "2021",
@@ -8439,8 +8477,8 @@
     },
     {
       "era": "2024",
-      "correctCount": 24,
-      "correctSongCount": 23
+      "correctCount": 25,
+      "correctSongCount": 24
     },
     {
       "era": "2025-",
@@ -8464,8 +8502,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 155,
-      "correctSongCount": 121
+      "correctCount": 156,
+      "correctSongCount": 122
     },
     {
       "range": "30-50万",
@@ -8482,8 +8520,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 140,
-      "correctSongCount": 97
+      "correctCount": 142,
+      "correctSongCount": 98
     },
     {
       "range": "200-300万",
@@ -8500,8 +8538,8 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 75,
-      "correctSongCount": 42
+      "correctCount": 76,
+      "correctSongCount": 43
     },
     {
       "range": "1000万-",
@@ -12202,6 +12240,24 @@
       "viewCounter": 590702
     },
     {
+      "title": "乖離するゲンザイ",
+      "contentId": "sm43606350",
+      "startTime": 1711966082000,
+      "viewCounter": 123671
+    },
+    {
+      "title": "愛及屋烏",
+      "contentId": "sm26169133",
+      "startTime": 1430737200000,
+      "viewCounter": 1511172
+    },
+    {
+      "title": "1000年生きてる",
+      "contentId": "sm37944844",
+      "startTime": 1607688000000,
+      "viewCounter": 5790228
+    },
+    {
       "title": "セカイ",
       "contentId": "so40969481",
       "startTime": 1661396400000,
@@ -12311,15 +12367,192 @@
     }
   ],
   "summary": {
-    "totalAnswers": 1277,
-    "okAnswers": 889,
-    "ngAnswers": 388,
-    "participatedQuizCount": 207,
-    "winQuizCount": 189,
+    "totalAnswers": 1284,
+    "okAnswers": 893,
+    "ngAnswers": 391,
+    "participatedQuizCount": 208,
+    "winQuizCount": 190,
     "loseQuizCount": 0,
     "medianViews": 774803
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "A",
+      "date": "2026-05-08",
+      "ok": 4,
+      "ng": 3,
+      "winRank": 15,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 6,
+          "contentId": "sm38603052",
+          "title": "flare",
+          "artistList": [
+            "歩く人"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38603052/38603052.68312653",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゲオス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Takuan"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "maruma"
+            }
+          ]
+        },
+        {
+          "order": 31,
+          "contentId": "sm43606350",
+          "title": "乖離するゲンザイ",
+          "artistList": [
+            "阿修"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43606350/43606350.74794129",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "世界のYAMADA"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Takuan"
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "contentId": "sm40303213",
+          "title": "オーダー、仰せのままに",
+          "artistList": [
+            "卯花ロク"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40303213/40303213.66492686",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "かなくり"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Takuan"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "しょうま"
+            }
+          ]
+        },
+        {
+          "order": 48,
+          "contentId": "sm27758211",
+          "title": "ストラトステラ",
+          "artistList": [
+            "ナユタン星人"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27758211/27758211.8446653",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "Takuan"
+            }
+          ]
+        },
+        {
+          "order": 58,
+          "contentId": "sm42900807",
+          "title": "心を刺す言葉だけ",
+          "artistList": [
+            "MIMI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42900807/42900807.48868659",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Takuan"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "最強の私"
+            }
+          ]
+        },
+        {
+          "order": 73,
+          "contentId": "sm26169133",
+          "title": "愛及屋烏",
+          "artistList": [
+            "バルーン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26169133/26169133",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "Takuan"
+            }
+          ]
+        },
+        {
+          "order": 74,
+          "contentId": "sm37944844",
+          "title": "1000年生きてる",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37944844/37944844.79264053",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(15)",
+              "user": "Takuan"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "B",

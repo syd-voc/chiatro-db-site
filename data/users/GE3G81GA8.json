@@ -4289,6 +4289,50 @@
       "startTime": "2021-10-14T00:01:00+09:00",
       "viewCounter": 56932,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm31084095",
+      "title": "記憶の水槽",
+      "artist": "こんにちは谷田さん",
+      "artistList": [
+        "こんにちは谷田さん"
+      ],
+      "startTime": "2017-04-24T18:00:00+09:00",
+      "viewCounter": 202683,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39889004",
+      "title": "くうになる",
+      "artist": "MIMI",
+      "artistList": [
+        "MIMI"
+      ],
+      "startTime": "2022-01-15T19:00:00+09:00",
+      "viewCounter": 1966355,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm33333516",
+      "title": "ポジティヴ・ハラスメント！！！",
+      "artist": "和田たけあき",
+      "artistList": [
+        "和田たけあき"
+      ],
+      "startTime": "2018-06-08T18:00:00+09:00",
+      "viewCounter": 293471,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm37391856",
+      "title": "ヘイジー",
+      "artist": "センラ",
+      "artistList": [
+        "センラ"
+      ],
+      "startTime": "2020-08-21T20:00:00+09:00",
+      "viewCounter": 124020,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4564,8 +4608,8 @@
     },
     {
       "artist": "こんにちは谷田さん",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "鬱P",
@@ -4589,8 +4633,8 @@
     },
     {
       "artist": "MIMI",
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "artist": "まらしぃ",
@@ -4999,8 +5043,8 @@
     },
     {
       "artist": "和田たけあき",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "柊キライ",
@@ -5456,13 +5500,18 @@
       "artist": "ねこまんま",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "センラ",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2017",
-      "correctCount": 21,
-      "correctSongCount": 20
+      "correctCount": 22,
+      "correctSongCount": 21
     },
     {
       "era": "2015",
@@ -5486,8 +5535,8 @@
     },
     {
       "era": "2018",
-      "correctCount": 29,
-      "correctSongCount": 26
+      "correctCount": 30,
+      "correctSongCount": 27
     },
     {
       "era": "2007-2008",
@@ -5496,8 +5545,8 @@
     },
     {
       "era": "2022",
-      "correctCount": 29,
-      "correctSongCount": 29
+      "correctCount": 30,
+      "correctSongCount": 30
     },
     {
       "era": "2021",
@@ -5531,8 +5580,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 25,
-      "correctSongCount": 24
+      "correctCount": 26,
+      "correctSongCount": 25
     },
     {
       "era": "2011",
@@ -5566,8 +5615,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 133,
-      "correctSongCount": 126
+      "correctCount": 136,
+      "correctSongCount": 129
     },
     {
       "range": "30-50万",
@@ -5584,8 +5633,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 29,
-      "correctSongCount": 29
+      "correctCount": 30,
+      "correctSongCount": 30
     },
     {
       "range": "200-300万",
@@ -7946,18 +7995,126 @@
       "contentId": "sm39473284",
       "startTime": 1634137260000,
       "viewCounter": 56932
+    },
+    {
+      "title": "記憶の水槽",
+      "contentId": "sm31084095",
+      "startTime": 1493024400000,
+      "viewCounter": 202683
+    },
+    {
+      "title": "くうになる",
+      "contentId": "sm39889004",
+      "startTime": 1642240800000,
+      "viewCounter": 1966355
+    },
+    {
+      "title": "ポジティヴ・ハラスメント！！！",
+      "contentId": "sm33333516",
+      "startTime": 1528448400000,
+      "viewCounter": 293471
+    },
+    {
+      "title": "ヘイジー",
+      "contentId": "sm37391856",
+      "startTime": 1598007600000,
+      "viewCounter": 124020
     }
   ],
   "summary": {
-    "totalAnswers": 525,
-    "okAnswers": 407,
+    "totalAnswers": 529,
+    "okAnswers": 411,
     "ngAnswers": 117,
-    "participatedQuizCount": 85,
-    "winQuizCount": 81,
+    "participatedQuizCount": 86,
+    "winQuizCount": 82,
     "loseQuizCount": 1,
-    "medianViews": 191753
+    "medianViews": 193889
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "A",
+      "date": "2026-05-08",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 1,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 1,
+          "contentId": "sm31084095",
+          "title": "記憶の水槽",
+          "artistList": [
+            "こんにちは谷田さん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31084095/31084095",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ベガ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "と"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "contentId": "sm39889004",
+          "title": "くうになる",
+          "artistList": [
+            "MIMI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39889004/39889004.10137479",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "と"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "contentId": "sm33333516",
+          "title": "ポジティヴ・ハラスメント！！！",
+          "artistList": [
+            "和田たけあき"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33333516/33333516",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "と"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "contentId": "sm37391856",
+          "title": "ヘイジー",
+          "artistList": [
+            "センラ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37391856/37391856.15066891",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(1)",
+              "user": "と"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "A",

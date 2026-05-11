@@ -5265,6 +5265,61 @@
       "startTime": "2017-09-07T19:00:00+09:00",
       "viewCounter": 1072017,
       "correctCount": 1
+    },
+    {
+      "contentId": "nm14629738",
+      "title": "アストロノーツ",
+      "artist": "椎名もた",
+      "artistList": [
+        "椎名もた"
+      ],
+      "startTime": "2011-06-02T19:37:22+09:00",
+      "viewCounter": 1213336,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm27042325",
+      "title": "濫觴生命",
+      "artist": "Orangestar",
+      "artistList": [
+        "Orangestar"
+      ],
+      "startTime": "2015-08-29T21:43:00+09:00",
+      "viewCounter": 1645577,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm30587751",
+      "title": "OXYPETALUM",
+      "artist": "栗山夕璃(蜂屋ななし)",
+      "artistList": [
+        "栗山夕璃(蜂屋ななし)"
+      ],
+      "startTime": "2017-02-07T20:00:00+09:00",
+      "viewCounter": 160406,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm32866776",
+      "title": "ハグ",
+      "artist": "カンザキイオリ",
+      "artistList": [
+        "カンザキイオリ"
+      ],
+      "startTime": "2018-03-11T10:59:34+09:00",
+      "viewCounter": 1250171,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm26364502",
+      "title": "マインドブランド",
+      "artist": "MARETU",
+      "artistList": [
+        "MARETU"
+      ],
+      "startTime": "2015-05-29T19:05:00+09:00",
+      "viewCounter": 3243292,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -5400,8 +5455,8 @@
     },
     {
       "artist": "MARETU",
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "artist": "傘村トータ",
@@ -5425,8 +5480,8 @@
     },
     {
       "artist": "椎名もた",
-      "correctCount": 4,
-      "correctSongCount": 3
+      "correctCount": 5,
+      "correctSongCount": 4
     },
     {
       "artist": "ナナホシ管弦楽団",
@@ -5510,8 +5565,8 @@
     },
     {
       "artist": "Orangestar",
-      "correctCount": 18,
-      "correctSongCount": 16
+      "correctCount": 19,
+      "correctSongCount": 17
     },
     {
       "artist": "Re:nG",
@@ -5910,8 +5965,8 @@
     },
     {
       "artist": "カンザキイオリ",
-      "correctCount": 3,
-      "correctSongCount": 2
+      "correctCount": 4,
+      "correctSongCount": 3
     },
     {
       "artist": "GYARI",
@@ -6350,8 +6405,8 @@
     },
     {
       "artist": "栗山夕璃(蜂屋ななし)",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "もちづき",
@@ -6627,13 +6682,13 @@
     },
     {
       "era": "2017",
-      "correctCount": 37,
-      "correctSongCount": 31
+      "correctCount": 38,
+      "correctSongCount": 32
     },
     {
       "era": "2011",
-      "correctCount": 12,
-      "correctSongCount": 10
+      "correctCount": 13,
+      "correctSongCount": 11
     },
     {
       "era": "2016",
@@ -6667,8 +6722,8 @@
     },
     {
       "era": "2015",
-      "correctCount": 36,
-      "correctSongCount": 29
+      "correctCount": 38,
+      "correctSongCount": 31
     },
     {
       "era": "2014",
@@ -6677,8 +6732,8 @@
     },
     {
       "era": "2018",
-      "correctCount": 43,
-      "correctSongCount": 36
+      "correctCount": 44,
+      "correctSongCount": 37
     },
     {
       "era": "2012",
@@ -6722,8 +6777,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 162,
-      "correctSongCount": 147
+      "correctCount": 163,
+      "correctSongCount": 148
     },
     {
       "range": "30-50万",
@@ -6740,8 +6795,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 68,
-      "correctSongCount": 59
+      "correctCount": 71,
+      "correctSongCount": 62
     },
     {
       "range": "200-300万",
@@ -6752,8 +6807,8 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 8,
-      "correctSongCount": 7
+      "correctCount": 9,
+      "correctSongCount": 8
     },
     {
       "range": "500-1000万",
@@ -9630,18 +9685,148 @@
       "contentId": "sm31883007",
       "startTime": 1504778400000,
       "viewCounter": 1072017
+    },
+    {
+      "title": "アストロノーツ",
+      "contentId": "nm14629738",
+      "startTime": 1307011042000,
+      "viewCounter": 1213336
+    },
+    {
+      "title": "濫觴生命",
+      "contentId": "sm27042325",
+      "startTime": 1440852180000,
+      "viewCounter": 1645577
+    },
+    {
+      "title": "OXYPETALUM",
+      "contentId": "sm30587751",
+      "startTime": 1486465200000,
+      "viewCounter": 160406
+    },
+    {
+      "title": "ハグ",
+      "contentId": "sm32866776",
+      "startTime": 1520733574000,
+      "viewCounter": 1250171
+    },
+    {
+      "title": "マインドブランド",
+      "contentId": "sm26364502",
+      "startTime": 1432893900000,
+      "viewCounter": 3243292
     }
   ],
   "summary": {
-    "totalAnswers": 638,
-    "okAnswers": 543,
+    "totalAnswers": 643,
+    "okAnswers": 548,
     "ngAnswers": 95,
-    "participatedQuizCount": 118,
-    "winQuizCount": 112,
+    "participatedQuizCount": 119,
+    "winQuizCount": 113,
     "loseQuizCount": 0,
-    "medianViews": 300029
+    "medianViews": 300740
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "B",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 5,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 19,
+          "contentId": "nm14629738",
+          "title": "アストロノーツ",
+          "artistList": [
+            "椎名もた"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14629738/14629738",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "たかそう"
+            }
+          ]
+        },
+        {
+          "order": 32,
+          "contentId": "sm27042325",
+          "title": "濫觴生命",
+          "artistList": [
+            "Orangestar"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27042325/27042325",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "たかそう"
+            }
+          ]
+        },
+        {
+          "order": 33,
+          "contentId": "sm30587751",
+          "title": "OXYPETALUM",
+          "artistList": [
+            "栗山夕璃(蜂屋ななし)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30587751/30587751",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "たかそう"
+            }
+          ]
+        },
+        {
+          "order": 39,
+          "contentId": "sm32866776",
+          "title": "ハグ",
+          "artistList": [
+            "カンザキイオリ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32866776/32866776",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "グルーガン"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "たかそう"
+            }
+          ]
+        },
+        {
+          "order": 41,
+          "contentId": "sm26364502",
+          "title": "マインドブランド",
+          "artistList": [
+            "MARETU"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26364502/26364502",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(5)",
+              "user": "たかそう"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "B",

@@ -727,7 +727,7 @@
       ],
       "startTime": "2015-11-26T19:01:00+09:00",
       "viewCounter": 212937,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm32166989",
@@ -903,7 +903,7 @@
       ],
       "startTime": "2012-07-20T13:01:48+09:00",
       "viewCounter": 643261,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm29021785",
@@ -5566,7 +5566,7 @@
       ],
       "startTime": "2017-09-02T20:00:00+09:00",
       "viewCounter": 48091,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm34715059",
@@ -5935,6 +5935,28 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm33741803",
+      "title": "キャラバン",
+      "artist": "syudou",
+      "artistList": [
+        "syudou"
+      ],
+      "startTime": "2018-08-24T18:38:02+09:00",
+      "viewCounter": 782279,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm41895209",
+      "title": "マネキン",
+      "artist": "DECO*27",
+      "artistList": [
+        "DECO*27"
+      ],
+      "startTime": "2023-03-09T19:00:00+09:00",
+      "viewCounter": 619874,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm21021649",
       "title": "未来永劫",
       "artist": "梅とら",
@@ -6018,8 +6040,8 @@
     },
     {
       "artist": "DECO*27",
-      "correctCount": 17,
-      "correctSongCount": 13
+      "correctCount": 18,
+      "correctSongCount": 14
     },
     {
       "artist": "ナユタン星人",
@@ -6268,7 +6290,7 @@
     },
     {
       "artist": "Mitchie M",
-      "correctCount": 6,
+      "correctCount": 7,
       "correctSongCount": 6
     },
     {
@@ -6283,7 +6305,7 @@
     },
     {
       "artist": "ユリイ・カノン",
-      "correctCount": 5,
+      "correctCount": 6,
       "correctSongCount": 4
     },
     {
@@ -6523,8 +6545,8 @@
     },
     {
       "artist": "syudou",
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "artist": "猫虫",
@@ -6858,7 +6880,7 @@
     },
     {
       "artist": "奏音69",
-      "correctCount": 5,
+      "correctCount": 6,
       "correctSongCount": 5
     },
     {
@@ -7270,7 +7292,7 @@
   "eraStats": [
     {
       "era": "2015",
-      "correctCount": 34,
+      "correctCount": 35,
       "correctSongCount": 27
     },
     {
@@ -7280,7 +7302,7 @@
     },
     {
       "era": "2012",
-      "correctCount": 50,
+      "correctCount": 51,
       "correctSongCount": 41
     },
     {
@@ -7290,13 +7312,13 @@
     },
     {
       "era": "2017",
-      "correctCount": 36,
+      "correctCount": 37,
       "correctSongCount": 30
     },
     {
       "era": "2018",
-      "correctCount": 47,
-      "correctSongCount": 38
+      "correctCount": 48,
+      "correctSongCount": 39
     },
     {
       "era": "2011",
@@ -7345,8 +7367,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 21,
-      "correctSongCount": 18
+      "correctCount": 22,
+      "correctSongCount": 19
     },
     {
       "era": "2024",
@@ -7369,13 +7391,13 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 54,
+      "correctCount": 55,
       "correctSongCount": 44
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 169,
+      "correctCount": 170,
       "correctSongCount": 139
     },
     {
@@ -7387,8 +7409,8 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 140,
-      "correctSongCount": 113
+      "correctCount": 143,
+      "correctSongCount": 115
     },
     {
       "range": "100-200万",
@@ -10645,6 +10667,18 @@
       "viewCounter": 137055
     },
     {
+      "title": "キャラバン",
+      "contentId": "sm33741803",
+      "startTime": 1535103482000,
+      "viewCounter": 782279
+    },
+    {
+      "title": "マネキン",
+      "contentId": "sm41895209",
+      "startTime": 1678356000000,
+      "viewCounter": 619874
+    },
+    {
       "title": "未来永劫",
       "contentId": "sm21021649",
       "startTime": 1370168161000,
@@ -10676,15 +10710,224 @@
     }
   ],
   "summary": {
-    "totalAnswers": 1153,
-    "okAnswers": 663,
-    "ngAnswers": 481,
-    "participatedQuizCount": 163,
-    "winQuizCount": 130,
+    "totalAnswers": 1161,
+    "okAnswers": 668,
+    "ngAnswers": 484,
+    "participatedQuizCount": 164,
+    "winQuizCount": 131,
     "loseQuizCount": 9,
     "medianViews": 505682
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "B",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 3,
+      "winRank": 10,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 15,
+          "contentId": "sm18396337",
+          "title": "Birthday Song for ミク",
+          "artistList": [
+            "Mitchie M"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18396337/18396337.47444356",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "がんこー"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ルナ・アリス"
+            }
+          ]
+        },
+        {
+          "order": 16,
+          "contentId": "sm20860166",
+          "title": "スノーワープ",
+          "artistList": [
+            "もももも"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20860166/20860166",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とちこ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 18,
+          "contentId": "sm7513121",
+          "title": "新世界",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7513121/7513121",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "テフミネ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "グルーガン"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "クロ"
+            }
+          ]
+        },
+        {
+          "order": 21,
+          "contentId": "nm8821502",
+          "title": "コロコロ",
+          "artistList": [
+            "まーる"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8821502/8821502",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ホワイト"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 40,
+          "contentId": "sm27671486",
+          "title": "あしたは死ぬことにした",
+          "artistList": [
+            "ユリイ・カノン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27671486/27671486",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ルナ・アリス"
+            }
+          ]
+        },
+        {
+          "order": 50,
+          "contentId": "sm31851732",
+          "title": "U",
+          "artistList": [
+            "奏音69"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31851732/31851732",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ルナ・アリス"
+            }
+          ]
+        },
+        {
+          "order": 65,
+          "contentId": "sm33741803",
+          "title": "キャラバン",
+          "artistList": [
+            "syudou"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33741803/33741803",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ルナ・アリス"
+            }
+          ]
+        },
+        {
+          "order": 66,
+          "contentId": "sm41895209",
+          "title": "マネキン",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41895209/41895209.33190000",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(10)",
+              "user": "ルナ・アリス"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "C1",
@@ -24447,7 +24690,7 @@
           "contentId": "sm42572901",
           "title": "不出来物",
           "artistList": [
-            "⌘ハイノミ"
+            "⌘ ハイノミ"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42572901/42572901.15075863",
           "tokens": [

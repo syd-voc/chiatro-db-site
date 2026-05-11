@@ -3816,6 +3816,61 @@
       "startTime": "2012-05-22T17:05:19+09:00",
       "viewCounter": 179067,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm2393562",
+      "title": "カンタレラ",
+      "artist": "黒うさP",
+      "artistList": [
+        "黒うさP"
+      ],
+      "startTime": "2008-02-21T19:29:56+09:00",
+      "viewCounter": 3196509,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm31693281",
+      "title": "水色照明",
+      "artist": "歩く人",
+      "artistList": [
+        "歩く人"
+      ],
+      "startTime": "2017-08-05T20:00:00+09:00",
+      "viewCounter": 339793,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm34470195",
+      "title": "乙女解剖",
+      "artist": "DECO*27",
+      "artistList": [
+        "DECO*27"
+      ],
+      "startTime": "2019-01-18T19:00:00+09:00",
+      "viewCounter": 8771567,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm24555945",
+      "title": "金曜日のおはよう -another story-",
+      "artist": "HoneyWorks",
+      "artistList": [
+        "HoneyWorks"
+      ],
+      "startTime": "2014-09-26T20:01:15+09:00",
+      "viewCounter": 1388720,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39426624",
+      "title": "マシンガンポエムドール",
+      "artist": "cosMo@暴走P",
+      "artistList": [
+        "cosMo@暴走P"
+      ],
+      "startTime": "2021-10-03T16:00:00+09:00",
+      "viewCounter": 1696453,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -3956,8 +4011,8 @@
     },
     {
       "artist": "DECO*27",
-      "correctCount": 8,
-      "correctSongCount": 8
+      "correctCount": 9,
+      "correctSongCount": 9
     },
     {
       "artist": "YASUHIRO(康寛)",
@@ -4316,8 +4371,8 @@
     },
     {
       "artist": "cosMo@暴走P",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "家の裏でマンボウが死んでるP",
@@ -4386,8 +4441,8 @@
     },
     {
       "artist": "黒うさP",
-      "correctCount": 4,
-      "correctSongCount": 3
+      "correctCount": 5,
+      "correctSongCount": 4
     },
     {
       "artist": "おにゅうP",
@@ -4481,8 +4536,8 @@
     },
     {
       "artist": "HoneyWorks",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "john",
@@ -4838,6 +4893,11 @@
       "artist": "ゆずひこ",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "歩く人",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -4863,18 +4923,18 @@
     },
     {
       "era": "2007-2008",
-      "correctCount": 25,
-      "correctSongCount": 21
+      "correctCount": 26,
+      "correctSongCount": 22
     },
     {
       "era": "2021",
-      "correctCount": 33,
-      "correctSongCount": 27
+      "correctCount": 34,
+      "correctSongCount": 28
     },
     {
       "era": "2014",
-      "correctCount": 24,
-      "correctSongCount": 21
+      "correctCount": 25,
+      "correctSongCount": 22
     },
     {
       "era": "2022",
@@ -4908,8 +4968,8 @@
     },
     {
       "era": "2017",
-      "correctCount": 20,
-      "correctSongCount": 16
+      "correctCount": 21,
+      "correctSongCount": 17
     },
     {
       "era": "2023",
@@ -4918,8 +4978,8 @@
     },
     {
       "era": "2019",
-      "correctCount": 18,
-      "correctSongCount": 14
+      "correctCount": 19,
+      "correctSongCount": 15
     },
     {
       "era": "2024",
@@ -4954,8 +5014,8 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 38,
-      "correctSongCount": 35
+      "correctCount": 39,
+      "correctSongCount": 36
     },
     {
       "range": "50-100万",
@@ -4966,8 +5026,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 91,
-      "correctSongCount": 75
+      "correctCount": 93,
+      "correctSongCount": 77
     },
     {
       "range": "200-300万",
@@ -4978,14 +5038,14 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 58,
-      "correctSongCount": 43
+      "correctCount": 59,
+      "correctSongCount": 44
     },
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 33,
-      "correctSongCount": 26
+      "correctCount": 34,
+      "correctSongCount": 27
     },
     {
       "range": "1000万-",
@@ -7070,18 +7130,207 @@
       "contentId": "sm17892739",
       "startTime": 1337673919000,
       "viewCounter": 179067
+    },
+    {
+      "title": "カンタレラ",
+      "contentId": "sm2393562",
+      "startTime": 1203589796000,
+      "viewCounter": 3196509
+    },
+    {
+      "title": "水色照明",
+      "contentId": "sm31693281",
+      "startTime": 1501930800000,
+      "viewCounter": 339793
+    },
+    {
+      "title": "乙女解剖",
+      "contentId": "sm34470195",
+      "startTime": 1547805600000,
+      "viewCounter": 8771567
+    },
+    {
+      "title": "金曜日のおはよう -another story-",
+      "contentId": "sm24555945",
+      "startTime": 1411729275000,
+      "viewCounter": 1388720
+    },
+    {
+      "title": "マシンガンポエムドール",
+      "contentId": "sm39426624",
+      "startTime": 1633244400000,
+      "viewCounter": 1696453
     }
   ],
   "summary": {
-    "totalAnswers": 559,
-    "okAnswers": 408,
-    "ngAnswers": 148,
-    "participatedQuizCount": 87,
-    "winQuizCount": 80,
+    "totalAnswers": 566,
+    "okAnswers": 413,
+    "ngAnswers": 150,
+    "participatedQuizCount": 88,
+    "winQuizCount": 81,
     "loseQuizCount": 3,
     "medianViews": 1513654
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "B",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 7,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 7,
+          "contentId": "sm2393562",
+          "title": "カンタレラ",
+          "artistList": [
+            "黒うさP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2393562/2393562",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "グルーガン"
+            }
+          ]
+        },
+        {
+          "order": 13,
+          "contentId": "sm31693281",
+          "title": "水色照明",
+          "artistList": [
+            "歩く人"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31693281/31693281",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "グルーガン"
+            }
+          ]
+        },
+        {
+          "order": 18,
+          "contentId": "sm7513121",
+          "title": "新世界",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7513121/7513121",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "テフミネ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "グルーガン"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "クロ"
+            }
+          ]
+        },
+        {
+          "order": 39,
+          "contentId": "sm32866776",
+          "title": "ハグ",
+          "artistList": [
+            "カンザキイオリ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32866776/32866776",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "グルーガン"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "たかそう"
+            }
+          ]
+        },
+        {
+          "order": 54,
+          "contentId": "sm34470195",
+          "title": "乙女解剖",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34470195/34470195.6486",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "グルーガン"
+            }
+          ]
+        },
+        {
+          "order": 55,
+          "contentId": "sm24555945",
+          "title": "金曜日のおはよう -another story-",
+          "artistList": [
+            "HoneyWorks"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24555945/24555945",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "グルーガン"
+            }
+          ]
+        },
+        {
+          "order": 56,
+          "contentId": "sm39426624",
+          "title": "マシンガンポエムドール",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39426624/39426624.76131781",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(7)",
+              "user": "グルーガン"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "B",

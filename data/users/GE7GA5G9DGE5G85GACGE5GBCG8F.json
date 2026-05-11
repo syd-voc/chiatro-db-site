@@ -232,7 +232,7 @@
       ],
       "startTime": "2023-03-19T00:00:00+09:00",
       "viewCounter": 116976,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm42383403",
@@ -727,7 +727,7 @@
       ],
       "startTime": "2009-10-17T22:55:34+09:00",
       "viewCounter": 1151990,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm20529644",
@@ -3864,7 +3864,7 @@
       ],
       "startTime": "2022-08-29T20:00:00+09:00",
       "viewCounter": 116624,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm42540286",
@@ -5600,6 +5600,28 @@
       "startTime": "2011-09-03T02:53:12+09:00",
       "viewCounter": 648399,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm41949855",
+      "title": "フィナーレをあなたに。",
+      "artist": "Aira",
+      "artistList": [
+        "Aira"
+      ],
+      "startTime": "2023-03-18T19:09:24+09:00",
+      "viewCounter": 336429,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35253049",
+      "title": "Jump for Joy",
+      "artist": "EasyPop",
+      "artistList": [
+        "EasyPop"
+      ],
+      "startTime": "2019-06-14T19:00:00+09:00",
+      "viewCounter": 178797,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -5710,7 +5732,7 @@
     },
     {
       "artist": "メドミア",
-      "correctCount": 5,
+      "correctCount": 6,
       "correctSongCount": 4
     },
     {
@@ -5885,7 +5907,7 @@
     },
     {
       "artist": "ジミーサムP",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -6350,7 +6372,7 @@
     },
     {
       "artist": "無色透名祭公式",
-      "correctCount": 10,
+      "correctCount": 11,
       "correctSongCount": 10
     },
     {
@@ -6545,8 +6567,8 @@
     },
     {
       "artist": "Aira",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "Ray",
@@ -6720,7 +6742,7 @@
     },
     {
       "artist": "もちづき",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -7067,18 +7089,23 @@
       "artist": "椎名もた",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "EasyPop",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2022",
-      "correctCount": 60,
+      "correctCount": 61,
       "correctSongCount": 54
     },
     {
       "era": "2023",
-      "correctCount": 213,
-      "correctSongCount": 165
+      "correctCount": 215,
+      "correctSongCount": 166
     },
     {
       "era": "2014",
@@ -7097,8 +7124,8 @@
     },
     {
       "era": "2019",
-      "correctCount": 32,
-      "correctSongCount": 26
+      "correctCount": 33,
+      "correctSongCount": 27
     },
     {
       "era": "2017",
@@ -7142,7 +7169,7 @@
     },
     {
       "era": "2009",
-      "correctCount": 10,
+      "correctCount": 11,
       "correctSongCount": 9
     },
     {
@@ -7177,14 +7204,14 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 187,
-      "correctSongCount": 152
+      "correctCount": 190,
+      "correctSongCount": 153
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 96,
-      "correctSongCount": 82
+      "correctCount": 97,
+      "correctSongCount": 83
     },
     {
       "range": "50-100万",
@@ -7195,7 +7222,7 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 39,
+      "correctCount": 40,
       "correctSongCount": 31
     },
     {
@@ -10265,18 +10292,156 @@
       "contentId": "sm15496537",
       "startTime": 1314985992000,
       "viewCounter": 648399
+    },
+    {
+      "title": "フィナーレをあなたに。",
+      "contentId": "sm41949855",
+      "startTime": 1679134164000,
+      "viewCounter": 336429
+    },
+    {
+      "title": "Jump for Joy",
+      "contentId": "sm35253049",
+      "startTime": 1560506400000,
+      "viewCounter": 178797
     }
   ],
   "summary": {
-    "totalAnswers": 740,
-    "okAnswers": 606,
-    "ngAnswers": 134,
-    "participatedQuizCount": 138,
-    "winQuizCount": 115,
+    "totalAnswers": 746,
+    "okAnswers": 611,
+    "ngAnswers": 135,
+    "participatedQuizCount": 139,
+    "winQuizCount": 116,
     "loseQuizCount": 0,
-    "medianViews": 258539
+    "medianViews": 255406
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "B",
+      "date": "2026-05-09",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 12,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 44,
+          "contentId": "sm41000600",
+          "title": "夏空へ、オーバー",
+          "artistList": [
+            "もちづき",
+            "無色透名祭公式"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41000600/41000600.25611376",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "祝公式"
+            }
+          ]
+        },
+        {
+          "order": 48,
+          "contentId": "sm40438693",
+          "title": "遠心力",
+          "artistList": [
+            "ナナホシ管弦楽団"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40438693/40438693.50921040",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "祝公式"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "クロ"
+            }
+          ]
+        },
+        {
+          "order": 51,
+          "contentId": "sm41951446",
+          "title": "やっちゃえ！フレッシュヤング",
+          "artistList": [
+            "メドミア"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41951446/41951446.22129576",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "よかずき"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "祝公式"
+            }
+          ]
+        },
+        {
+          "order": 72,
+          "contentId": "sm41949855",
+          "title": "フィナーレをあなたに。",
+          "artistList": [
+            "Aira"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41949855/41949855.53627629",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "祝公式"
+            }
+          ]
+        },
+        {
+          "order": 76,
+          "contentId": "sm35253049",
+          "title": "Jump for Joy",
+          "artistList": [
+            "EasyPop"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35253049/35253049.23553737",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "祝公式"
+            }
+          ]
+        },
+        {
+          "order": 80,
+          "contentId": "sm8541371",
+          "title": "Starduster",
+          "artistList": [
+            "ジミーサムP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8541371/8541371",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(12)",
+              "user": "祝公式"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "B",

@@ -880,7 +880,7 @@
       ],
       "startTime": "2014-02-19T19:14:36+09:00",
       "viewCounter": 454497,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm28055698",
@@ -2679,7 +2679,7 @@
       ],
       "startTime": "2018-02-27T20:00:00+09:00",
       "viewCounter": 2188950,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm33677965",
@@ -3980,6 +3980,28 @@
       "startTime": "2022-01-19T22:30:00+09:00",
       "viewCounter": 1137493,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm42900807",
+      "title": "心を刺す言葉だけ",
+      "artist": "MIMI",
+      "artistList": [
+        "MIMI"
+      ],
+      "startTime": "2023-10-18T17:00:00+09:00",
+      "viewCounter": 325662,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35731057",
+      "title": "猿芝居",
+      "artist": "Noz.",
+      "artistList": [
+        "Noz."
+      ],
+      "startTime": "2019-09-26T19:00:00+09:00",
+      "viewCounter": 131398,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4060,7 +4082,7 @@
     },
     {
       "artist": "椎名もた",
-      "correctCount": 14,
+      "correctCount": 15,
       "correctSongCount": 6
     },
     {
@@ -4160,7 +4182,7 @@
     },
     {
       "artist": "稲葉曇",
-      "correctCount": 11,
+      "correctCount": 12,
       "correctSongCount": 8
     },
     {
@@ -4200,8 +4222,8 @@
     },
     {
       "artist": "MIMI",
-      "correctCount": 9,
-      "correctSongCount": 4
+      "correctCount": 10,
+      "correctSongCount": 5
     },
     {
       "artist": "Omoi",
@@ -4220,8 +4242,8 @@
     },
     {
       "artist": "Noz.",
-      "correctCount": 14,
-      "correctSongCount": 7
+      "correctCount": 15,
+      "correctSongCount": 8
     },
     {
       "artist": "海茶",
@@ -4862,8 +4884,8 @@
   "eraStats": [
     {
       "era": "2019",
-      "correctCount": 30,
-      "correctSongCount": 24
+      "correctCount": 31,
+      "correctSongCount": 25
     },
     {
       "era": "2016",
@@ -4877,12 +4899,12 @@
     },
     {
       "era": "2018",
-      "correctCount": 31,
+      "correctCount": 32,
       "correctSongCount": 26
     },
     {
       "era": "2014",
-      "correctCount": 18,
+      "correctCount": 19,
       "correctSongCount": 15
     },
     {
@@ -4917,8 +4939,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 57,
-      "correctSongCount": 43
+      "correctCount": 58,
+      "correctSongCount": 44
     },
     {
       "era": "2021",
@@ -4967,14 +4989,14 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 59,
-      "correctSongCount": 48
+      "correctCount": 60,
+      "correctSongCount": 49
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 61,
-      "correctSongCount": 46
+      "correctCount": 63,
+      "correctSongCount": 47
     },
     {
       "range": "50-100万",
@@ -4991,7 +5013,7 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 35,
+      "correctCount": 36,
       "correctSongCount": 29
     },
     {
@@ -7179,18 +7201,182 @@
       "contentId": "sm39919568",
       "startTime": 1642599000000,
       "viewCounter": 1137493
+    },
+    {
+      "title": "心を刺す言葉だけ",
+      "contentId": "sm42900807",
+      "startTime": 1697616000000,
+      "viewCounter": 325662
+    },
+    {
+      "title": "猿芝居",
+      "contentId": "sm35731057",
+      "startTime": 1569492000000,
+      "viewCounter": 131398
     }
   ],
   "summary": {
-    "totalAnswers": 713,
-    "okAnswers": 482,
-    "ngAnswers": 224,
-    "participatedQuizCount": 107,
-    "winQuizCount": 94,
+    "totalAnswers": 719,
+    "okAnswers": 486,
+    "ngAnswers": 226,
+    "participatedQuizCount": 108,
+    "winQuizCount": 95,
     "loseQuizCount": 7,
-    "medianViews": 1117822
+    "medianViews": 1086478
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 298,
+      "group": "A",
+      "date": "2026-05-08",
+      "ok": 4,
+      "ng": 2,
+      "winRank": 16,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 30,
+          "contentId": "sm19694866",
+          "title": "セツナデシコ",
+          "artistList": [
+            "ライブP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19694866/19694866.73010570",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "最強の私"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠くない人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "手下"
+            }
+          ]
+        },
+        {
+          "order": 40,
+          "contentId": "sm32801250",
+          "title": "ロストアンブレラ",
+          "artistList": [
+            "稲葉曇"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32801250/32801250.44542291",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "最強の私"
+            }
+          ]
+        },
+        {
+          "order": 43,
+          "contentId": "sm34040571",
+          "title": "はらぺこのルベル",
+          "artistList": [
+            "koyori(電ポルP)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34040571/34040571",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "最強の私"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "にーも"
+            }
+          ]
+        },
+        {
+          "order": 53,
+          "contentId": "sm22924659",
+          "title": "nee",
+          "artistList": [
+            "椎名もた"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22924659/22924659",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "最強の私"
+            }
+          ]
+        },
+        {
+          "order": 58,
+          "contentId": "sm42900807",
+          "title": "心を刺す言葉だけ",
+          "artistList": [
+            "MIMI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42900807/42900807.48868659",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Takuan"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "最強の私"
+            }
+          ]
+        },
+        {
+          "order": 78,
+          "contentId": "sm35731057",
+          "title": "猿芝居",
+          "artistList": [
+            "Noz."
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35731057/35731057.74913206",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(16)",
+              "user": "最強の私"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "A",
