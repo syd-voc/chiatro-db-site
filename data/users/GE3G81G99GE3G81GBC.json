@@ -3437,15 +3437,15 @@
     },
     {
       "quiz_no": 297,
-      "group": "B",
+      "group": "C2",
       "date": "2026-05-02",
       "ok": 5,
       "ng": 2,
-      "winRank": 16,
+      "winRank": 2,
       "hasLose": false,
       "songs": [
         {
-          "order": 87,
+          "order": 5,
           "contentId": "sm30681505",
           "title": "フリィダム ロリィタ",
           "artistList": [
@@ -3461,7 +3461,7 @@
           ]
         },
         {
-          "order": 88,
+          "order": 6,
           "contentId": "sm27470707",
           "title": "ミスルトウ〜転生の宿り木〜",
           "artistList": [
@@ -3504,7 +3504,7 @@
           ]
         },
         {
-          "order": 94,
+          "order": 12,
           "contentId": "sm45561181",
           "title": "アポフェニア",
           "artistList": [
@@ -3529,7 +3529,7 @@
           ]
         },
         {
-          "order": 96,
+          "order": 14,
           "contentId": "sm44755576",
           "title": "アンコールダンス",
           "artistList": [
@@ -3545,7 +3545,7 @@
           ]
         },
         {
-          "order": 103,
+          "order": 21,
           "contentId": "sm43416549",
           "title": "ころしちゃった!",
           "artistList": [
@@ -3561,7 +3561,7 @@
           ]
         },
         {
-          "order": 112,
+          "order": 30,
           "contentId": "sm30281701",
           "title": "月を探して",
           "artistList": [
@@ -3589,13 +3589,13 @@
             },
             {
               "type": "user",
-              "prefix": "★(15)",
+              "prefix": "★(1)",
               "user": "Ha.Ru."
             }
           ]
         },
         {
-          "order": 118,
+          "order": 36,
           "contentId": "sm8430328",
           "title": "1925",
           "artistList": [
@@ -3605,7 +3605,7 @@
           "tokens": [
             {
               "type": "user",
-              "prefix": "★(16)",
+              "prefix": "★(2)",
               "user": "すぼ"
             }
           ]

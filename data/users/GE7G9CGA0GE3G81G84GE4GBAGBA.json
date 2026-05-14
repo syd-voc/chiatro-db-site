@@ -5346,15 +5346,15 @@
     },
     {
       "quiz_no": 297,
-      "group": "B",
+      "group": "C2",
       "date": "2026-05-02",
       "ok": 5,
       "ng": 3,
-      "winRank": 21,
+      "winRank": 7,
       "hasLose": false,
       "songs": [
         {
-          "order": 108,
+          "order": 26,
           "contentId": "sm25251454",
           "title": "牆壁",
           "artistList": [
@@ -5370,7 +5370,7 @@
           ]
         },
         {
-          "order": 121,
+          "order": 39,
           "contentId": "sm43428811",
           "title": "ローレル",
           "artistList": [
@@ -5403,7 +5403,7 @@
           ]
         },
         {
-          "order": 126,
+          "order": 44,
           "contentId": "sm30647385",
           "title": "少年少女家出綺譚",
           "artistList": [
@@ -5437,7 +5437,7 @@
           ]
         },
         {
-          "order": 129,
+          "order": 47,
           "contentId": "sm41148658",
           "title": "さらば名も無き日々よ",
           "artistList": [
@@ -5453,7 +5453,7 @@
           ]
         },
         {
-          "order": 135,
+          "order": 53,
           "contentId": "sm29544351",
           "title": "チェチェ・チェック・ワンツー！",
           "artistList": [
@@ -5469,7 +5469,7 @@
           ]
         },
         {
-          "order": 136,
+          "order": 54,
           "contentId": "sm36453788",
           "title": "テンキアメ",
           "artistList": [
@@ -5493,7 +5493,7 @@
           ]
         },
         {
-          "order": 141,
+          "order": 59,
           "contentId": "sm36093941",
           "title": "ネガティブ進化論",
           "artistList": [
@@ -5517,7 +5517,7 @@
           ]
         },
         {
-          "order": 146,
+          "order": 64,
           "contentId": "sm40727304",
           "title": "ヒミツ",
           "artistList": [
@@ -5527,7 +5527,7 @@
           "tokens": [
             {
               "type": "user",
-              "prefix": "★(21)",
+              "prefix": "★(7)",
               "user": "眠い人"
             }
           ]

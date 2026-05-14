@@ -4487,15 +4487,15 @@
   "joinedQuizzes": [
     {
       "quiz_no": 297,
-      "group": "B",
+      "group": "C2",
       "date": "2026-05-02",
       "ok": 5,
       "ng": 1,
-      "winRank": 18,
+      "winRank": 4,
       "hasLose": false,
       "songs": [
         {
-          "order": 85,
+          "order": 3,
           "contentId": "sm45982119",
           "title": "まっさら",
           "artistList": [
@@ -4511,7 +4511,7 @@
           ]
         },
         {
-          "order": 92,
+          "order": 10,
           "contentId": "sm6928368",
           "title": "右肩の蝶",
           "artistList": [
@@ -4527,7 +4527,7 @@
           ]
         },
         {
-          "order": 94,
+          "order": 12,
           "contentId": "sm45561181",
           "title": "アポフェニア",
           "artistList": [
@@ -4552,7 +4552,7 @@
           ]
         },
         {
-          "order": 113,
+          "order": 31,
           "contentId": "sm34470195",
           "title": "乙女解剖",
           "artistList": [
@@ -4568,7 +4568,7 @@
           ]
         },
         {
-          "order": 115,
+          "order": 33,
           "contentId": "sm44319312",
           "title": "サイレンナイトアリス",
           "artistList": [
@@ -4584,7 +4584,7 @@
           ]
         },
         {
-          "order": 130,
+          "order": 48,
           "contentId": "sm38479434",
           "title": "アンティーク",
           "artistList": [
@@ -4594,7 +4594,7 @@
           "tokens": [
             {
               "type": "user",
-              "prefix": "★(18)",
+              "prefix": "★(4)",
               "user": "きゅーいちさん"
             }
           ]
