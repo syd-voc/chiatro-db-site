@@ -134,6 +134,34 @@ body {
     border-color: rgb(31, 156, 239);
 }
 
+.site-footer {
+    min-height: 44px;
+    width: 100%;
+    background: rgb(18, 120, 190);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 16px;
+    color: #fff;
+    font-size: 13px;
+}
+
+.footer-main {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.site-footer a {
+    color: #fff;
+    text-decoration: underline;
+    opacity: 0.9;
+}
+
+.site-footer a:hover {
+    opacity: 1;
+}
+
 /* ========================= Headings ========================= */
 h1,
 h2,
