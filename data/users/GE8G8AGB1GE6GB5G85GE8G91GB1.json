@@ -594,7 +594,7 @@
       ],
       "startTime": "2011-07-11T20:17:45+09:00",
       "viewCounter": 2372230,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm30880504",
@@ -606,6 +606,50 @@
       "startTime": "2017-03-23T21:00:00+09:00",
       "viewCounter": 683130,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm35791694",
+      "title": "YY",
+      "artist": "23.exe",
+      "artistList": [
+        "23.exe"
+      ],
+      "startTime": "2019-10-09T20:15:02+09:00",
+      "viewCounter": 425384,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm42492046",
+      "title": "ロースピードフェイクリリック",
+      "artist": "cosMo@暴走P",
+      "artistList": [
+        "cosMo@暴走P"
+      ],
+      "startTime": "2023-07-16T20:00:00+09:00",
+      "viewCounter": 115962,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm40881707",
+      "title": "QUEEN",
+      "artist": "Kanaria",
+      "artistList": [
+        "Kanaria"
+      ],
+      "startTime": "2022-08-06T19:05:03+09:00",
+      "viewCounter": 4239841,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm43336037",
+      "title": "凡愚",
+      "artist": "のすけ",
+      "artistList": [
+        "のすけ"
+      ],
+      "startTime": "2024-01-31T18:30:00+09:00",
+      "viewCounter": 369138,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -616,8 +660,8 @@
     },
     {
       "artist": "cosMo@暴走P",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "Misumi",
@@ -806,11 +850,26 @@
     },
     {
       "artist": "Nem",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
       "artist": "夏代孝明",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "23.exe",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "Kanaria",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "のすけ",
       "correctCount": 1,
       "correctSongCount": 1
     }
@@ -828,23 +887,23 @@
     },
     {
       "era": "2019",
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "era": "2024",
-      "correctCount": 7,
-      "correctSongCount": 7
+      "correctCount": 8,
+      "correctSongCount": 8
     },
     {
       "era": "2011",
-      "correctCount": 7,
+      "correctCount": 8,
       "correctSongCount": 6
     },
     {
       "era": "2023",
-      "correctCount": 7,
-      "correctSongCount": 7
+      "correctCount": 8,
+      "correctSongCount": 8
     },
     {
       "era": "2017",
@@ -868,8 +927,8 @@
     },
     {
       "era": "2022",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "era": "2016",
@@ -903,14 +962,14 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 10,
-      "correctSongCount": 9
+      "correctCount": 12,
+      "correctSongCount": 11
     },
     {
       "range": "50-100万",
@@ -927,14 +986,14 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 7,
+      "correctCount": 8,
       "correctSongCount": 7
     },
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 11,
-      "correctSongCount": 9
+      "correctCount": 12,
+      "correctSongCount": 10
     },
     {
       "range": "500-1000万",
@@ -1279,18 +1338,133 @@
       "contentId": "sm30880504",
       "startTime": 1490270400000,
       "viewCounter": 683130
+    },
+    {
+      "title": "YY",
+      "contentId": "sm35791694",
+      "startTime": 1570619702000,
+      "viewCounter": 425384
+    },
+    {
+      "title": "ロースピードフェイクリリック",
+      "contentId": "sm42492046",
+      "startTime": 1689505200000,
+      "viewCounter": 115962
+    },
+    {
+      "title": "QUEEN",
+      "contentId": "sm40881707",
+      "startTime": 1659780303000,
+      "viewCounter": 4239841
+    },
+    {
+      "title": "凡愚",
+      "contentId": "sm43336037",
+      "startTime": 1706693400000,
+      "viewCounter": 369138
     }
   ],
   "summary": {
-    "totalAnswers": 70,
-    "okAnswers": 60,
+    "totalAnswers": 75,
+    "okAnswers": 65,
     "ngAnswers": 10,
-    "participatedQuizCount": 12,
-    "winQuizCount": 12,
+    "participatedQuizCount": 13,
+    "winQuizCount": 13,
     "loseQuizCount": 0,
-    "medianViews": 1137293
+    "medianViews": 1045150
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "D2",
+      "date": "2026-05-16",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 9,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 33,
+          "contentId": "sm35791694",
+          "title": "YY",
+          "artistList": [
+            "23.exe"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35791694/35791694.5327467",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "花浅葱"
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "contentId": "sm42492046",
+          "title": "ロースピードフェイクリリック",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42492046/42492046.15092139",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "花浅葱"
+            }
+          ]
+        },
+        {
+          "order": 54,
+          "contentId": "sm40881707",
+          "title": "QUEEN",
+          "artistList": [
+            "Kanaria"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40881707/40881707.27220799",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "花浅葱"
+            }
+          ]
+        },
+        {
+          "order": 59,
+          "contentId": "sm43336037",
+          "title": "凡愚",
+          "artistList": [
+            "のすけ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43336037/43336037.79839885",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "花浅葱"
+            }
+          ]
+        },
+        {
+          "order": 60,
+          "contentId": "sm14990051",
+          "title": "嗚呼、素晴らしきニャン生",
+          "artistList": [
+            "Nem"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14990051/14990051.78193077",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(9)",
+              "user": "花浅葱"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "D2",

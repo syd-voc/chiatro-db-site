@@ -66,7 +66,7 @@
       ],
       "startTime": "2017-03-09T19:56:12+09:00",
       "viewCounter": 5190412,
-      "correctCount": 3
+      "correctCount": 4
     },
     {
       "contentId": "sm20244918",
@@ -1908,7 +1908,7 @@
       ],
       "startTime": "2021-04-24T00:15:00+09:00",
       "viewCounter": 480973,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm39521338",
@@ -3232,6 +3232,28 @@
       "startTime": "2020-10-24T19:00:00+09:00",
       "viewCounter": 2255807,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm43590624",
+      "title": "死別",
+      "artist": "シャノン",
+      "artistList": [
+        "シャノン"
+      ],
+      "startTime": "2024-03-29T20:00:00+09:00",
+      "viewCounter": 271989,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm3143714",
+      "title": "絵本『人柱アリス』",
+      "artist": "歪P",
+      "artistList": [
+        "歪P"
+      ],
+      "startTime": "2008-04-30T17:01:16+09:00",
+      "viewCounter": 2286938,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -3262,7 +3284,7 @@
     },
     {
       "artist": "バルーン",
-      "correctCount": 5,
+      "correctCount": 6,
       "correctSongCount": 3
     },
     {
@@ -3722,8 +3744,8 @@
     },
     {
       "artist": "シャノン",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "はりーP",
@@ -3787,7 +3809,7 @@
     },
     {
       "artist": "タケノコ少年",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 1
     },
     {
@@ -4034,6 +4056,11 @@
       "artist": "yuha",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "歪P",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -4059,7 +4086,7 @@
     },
     {
       "era": "2017",
-      "correctCount": 34,
+      "correctCount": 35,
       "correctSongCount": 28
     },
     {
@@ -4079,13 +4106,13 @@
     },
     {
       "era": "2021",
-      "correctCount": 34,
+      "correctCount": 35,
       "correctSongCount": 27
     },
     {
       "era": "2024",
-      "correctCount": 29,
-      "correctSongCount": 25
+      "correctCount": 30,
+      "correctSongCount": 26
     },
     {
       "era": "2018",
@@ -4124,8 +4151,8 @@
     },
     {
       "era": "2007-2008",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     }
   ],
   "viewStats": [
@@ -4144,13 +4171,13 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 55,
-      "correctSongCount": 47
+      "correctCount": 56,
+      "correctSongCount": 48
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 52,
+      "correctCount": 53,
       "correctSongCount": 42
     },
     {
@@ -4168,8 +4195,8 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 38,
-      "correctSongCount": 33
+      "correctCount": 39,
+      "correctSongCount": 34
     },
     {
       "range": "300-500万",
@@ -4180,7 +4207,7 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 25,
+      "correctCount": 26,
       "correctSongCount": 17
     },
     {
@@ -5948,18 +5975,130 @@
       "contentId": "sm37716686",
       "startTime": 1603533600000,
       "viewCounter": 2255807
+    },
+    {
+      "title": "死別",
+      "contentId": "sm43590624",
+      "startTime": 1711710000000,
+      "viewCounter": 271989
+    },
+    {
+      "title": "絵本『人柱アリス』",
+      "contentId": "sm3143714",
+      "startTime": 1209542476000,
+      "viewCounter": 2286938
     }
   ],
   "summary": {
-    "totalAnswers": 530,
-    "okAnswers": 356,
-    "ngAnswers": 169,
-    "participatedQuizCount": 77,
-    "winQuizCount": 68,
+    "totalAnswers": 535,
+    "okAnswers": 360,
+    "ngAnswers": 170,
+    "participatedQuizCount": 78,
+    "winQuizCount": 69,
     "loseQuizCount": 5,
-    "medianViews": 822635
+    "medianViews": 810824
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C1",
+      "date": "2026-05-15",
+      "ok": 4,
+      "ng": 1,
+      "winRank": 10,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 1,
+          "contentId": "sm43590624",
+          "title": "死別",
+          "artistList": [
+            "シャノン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43590624/43590624.96374958",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "くちば"
+            }
+          ]
+        },
+        {
+          "order": 13,
+          "contentId": "sm3143714",
+          "title": "絵本『人柱アリス』",
+          "artistList": [
+            "歪P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/3143714/3143714",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "くちば"
+            }
+          ]
+        },
+        {
+          "order": 29,
+          "contentId": "sm6939313",
+          "title": "ラビリンス",
+          "artistList": [
+            "シグナルP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6939313/6939313",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "くちば"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "クロ"
+            }
+          ]
+        },
+        {
+          "order": 62,
+          "contentId": "sm38613334",
+          "title": "そうだった！！",
+          "artistList": [
+            "タケノコ少年"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38613334/38613334.88335240",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "くちば"
+            }
+          ]
+        },
+        {
+          "order": 66,
+          "contentId": "sm30789907",
+          "title": "雨とペトラ",
+          "artistList": [
+            "バルーン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30789907/30789907",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(10)",
+              "user": "くちば"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "C1",

@@ -32,6 +32,20 @@
   },
   "histories": [
     {
+      "date": "2026-05-16",
+      "quizNo": 299,
+      "group": "B",
+      "order": 21,
+      "winner": "グルーガン"
+    },
+    {
+      "date": "2026-05-15",
+      "quizNo": 299,
+      "group": "D1",
+      "order": 85,
+      "winner": "おはよう"
+    },
+    {
       "date": "2026-04-17",
       "quizNo": 295,
       "group": "D2",
@@ -262,8 +276,8 @@
       "winner": "すべから"
     }
   ],
-  "appearanceCount": 33,
-  "correctCount": 33,
+  "appearanceCount": 35,
+  "correctCount": 35,
   "accuracy": 100,
   "anotherVersions": []
 }

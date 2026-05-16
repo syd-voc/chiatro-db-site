@@ -431,7 +431,7 @@
       ],
       "startTime": "2022-02-25T19:00:00+09:00",
       "viewCounter": 5221670,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm22857280",
@@ -3874,6 +3874,28 @@
       ],
       "startTime": "2025-03-10T19:00:00+09:00",
       "viewCounter": 813525,
+      "correctCount": 2
+    },
+    {
+      "contentId": "sm45344669",
+      "title": "そのたび",
+      "artist": "大漠波新",
+      "artistList": [
+        "大漠波新"
+      ],
+      "startTime": "2025-08-30T19:20:00+09:00",
+      "viewCounter": 443928,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm25961991",
+      "title": "ブッキッシュタウンヒッピー",
+      "artist": "HaTa",
+      "artistList": [
+        "HaTa"
+      ],
+      "startTime": "2015-04-05T21:02:04+09:00",
+      "viewCounter": 573423,
       "correctCount": 1
     }
   ],
@@ -3905,7 +3927,7 @@
     },
     {
       "artist": "柊マグネタイト",
-      "correctCount": 8,
+      "correctCount": 9,
       "correctSongCount": 7
     },
     {
@@ -3950,7 +3972,7 @@
     },
     {
       "artist": "ピノキオピー",
-      "correctCount": 26,
+      "correctCount": 27,
       "correctSongCount": 23
     },
     {
@@ -4230,8 +4252,8 @@
     },
     {
       "artist": "大漠波新",
-      "correctCount": 5,
-      "correctSongCount": 4
+      "correctCount": 6,
+      "correctSongCount": 5
     },
     {
       "artist": "Kai",
@@ -4697,6 +4719,11 @@
       "artist": "豆カカオ",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "HaTa",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -4707,7 +4734,7 @@
     },
     {
       "era": "2022",
-      "correctCount": 36,
+      "correctCount": 37,
       "correctSongCount": 32
     },
     {
@@ -4772,13 +4799,13 @@
     },
     {
       "era": "2015",
-      "correctCount": 6,
-      "correctSongCount": 6
+      "correctCount": 7,
+      "correctSongCount": 7
     },
     {
       "era": "2025-",
-      "correctCount": 31,
-      "correctSongCount": 30
+      "correctCount": 33,
+      "correctSongCount": 31
     }
   ],
   "viewStats": [
@@ -4803,14 +4830,14 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 60,
-      "correctSongCount": 53
+      "correctCount": 61,
+      "correctSongCount": 54
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 91,
-      "correctSongCount": 87
+      "correctCount": 93,
+      "correctSongCount": 88
     },
     {
       "range": "100-200万",
@@ -4833,7 +4860,7 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 16,
+      "correctCount": 17,
       "correctSongCount": 12
     },
     {
@@ -6949,18 +6976,190 @@
       "contentId": "sm44747244",
       "startTime": 1741600800000,
       "viewCounter": 813525
+    },
+    {
+      "title": "そのたび",
+      "contentId": "sm45344669",
+      "startTime": 1756549200000,
+      "viewCounter": 443928
+    },
+    {
+      "title": "ブッキッシュタウンヒッピー",
+      "contentId": "sm25961991",
+      "startTime": 1428235324000,
+      "viewCounter": 573423
     }
   ],
   "summary": {
-    "totalAnswers": 506,
-    "okAnswers": 401,
-    "ngAnswers": 104,
-    "participatedQuizCount": 83,
-    "winQuizCount": 80,
+    "totalAnswers": 512,
+    "okAnswers": 405,
+    "ngAnswers": 106,
+    "participatedQuizCount": 84,
+    "winQuizCount": 81,
     "loseQuizCount": 1,
-    "medianViews": 668888
+    "medianViews": 665699
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "B",
+      "date": "2026-05-16",
+      "ok": 4,
+      "ng": 2,
+      "winRank": 6,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 10,
+          "contentId": "sm45344669",
+          "title": "そのたび",
+          "artistList": [
+            "大漠波新"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45344669/45344669.71503085",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とつは"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ベガ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "よかずき"
+            }
+          ]
+        },
+        {
+          "order": 31,
+          "contentId": "sm30281701",
+          "title": "月を探して",
+          "artistList": [
+            "koyori(電ポルP)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30281701/30281701",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "よかずき"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Takuan"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm23834206",
+          "title": "レイニー・レイディ",
+          "artistList": [
+            "戦車P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23834206/23834206",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "よかずき"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ホワイトホールヶ丘商店街"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Cumber"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 38,
+          "contentId": "sm44747244",
+          "title": "雑魚",
+          "artistList": [
+            "柊マグネタイト"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44747244/44747244.75217431",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "よかずき"
+            }
+          ]
+        },
+        {
+          "order": 41,
+          "contentId": "sm25961991",
+          "title": "ブッキッシュタウンヒッピー",
+          "artistList": [
+            "HaTa"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25961991/25961991",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "よかずき"
+            }
+          ]
+        },
+        {
+          "order": 45,
+          "contentId": "sm40089113",
+          "title": "魔法少女とチョコレゐト",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40089113/40089113.40112647",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(6)",
+              "user": "よかずき"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "B",

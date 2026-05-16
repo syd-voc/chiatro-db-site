@@ -3638,7 +3638,7 @@
       ],
       "startTime": "2014-03-25T15:05:00+09:00",
       "viewCounter": 1693883,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm33854807",
@@ -4377,7 +4377,7 @@
       ],
       "startTime": "2009-05-11T23:53:26+09:00",
       "viewCounter": 522006,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm19532715",
@@ -7688,6 +7688,28 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm21538842",
+      "title": "ニャン黙の了解",
+      "artist": "鬱P",
+      "artistList": [
+        "鬱P"
+      ],
+      "startTime": "2013-08-07T23:24:36+09:00",
+      "viewCounter": 176128,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm19912384",
+      "title": "TRAP×TRAP",
+      "artist": "八王子P",
+      "artistList": [
+        "八王子P"
+      ],
+      "startTime": "2013-01-25T19:00:00+09:00",
+      "viewCounter": 198668,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm32894325",
       "title": "変身",
       "artist": "しじま",
@@ -9705,7 +9727,7 @@
     },
     {
       "artist": "cosMo@暴走P",
-      "correctCount": 41,
+      "correctCount": 42,
       "correctSongCount": 27
     },
     {
@@ -9865,8 +9887,8 @@
     },
     {
       "artist": "八王子P",
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "artist": "水面湊人",
@@ -10340,8 +10362,8 @@
     },
     {
       "artist": "鬱P",
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "artist": "ダルビッシュP",
@@ -10590,7 +10612,7 @@
     },
     {
       "artist": "FB777",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 2
     },
     {
@@ -11477,8 +11499,8 @@
     },
     {
       "era": "2013",
-      "correctCount": 112,
-      "correctSongCount": 88
+      "correctCount": 114,
+      "correctSongCount": 90
     },
     {
       "era": "2012",
@@ -11487,7 +11509,7 @@
     },
     {
       "era": "2009",
-      "correctCount": 110,
+      "correctCount": 111,
       "correctSongCount": 77
     },
     {
@@ -11512,7 +11534,7 @@
     },
     {
       "era": "2014",
-      "correctCount": 80,
+      "correctCount": 81,
       "correctSongCount": 67
     },
     {
@@ -11567,8 +11589,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 301,
-      "correctSongCount": 231
+      "correctCount": 303,
+      "correctSongCount": 233
     },
     {
       "range": "30-50万",
@@ -11579,13 +11601,13 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 276,
+      "correctCount": 277,
       "correctSongCount": 197
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 170,
+      "correctCount": 171,
       "correctSongCount": 118
     },
     {
@@ -15797,6 +15819,18 @@
       "viewCounter": 1172753
     },
     {
+      "title": "ニャン黙の了解",
+      "contentId": "sm21538842",
+      "startTime": 1375885476000,
+      "viewCounter": 176128
+    },
+    {
+      "title": "TRAP×TRAP",
+      "contentId": "sm19912384",
+      "startTime": 1359108000000,
+      "viewCounter": 198668
+    },
+    {
       "title": "変身",
       "contentId": "sm32894325",
       "startTime": 1521198000000,
@@ -16830,15 +16864,99 @@
     }
   ],
   "summary": {
-    "totalAnswers": 1669,
-    "okAnswers": 1177,
+    "totalAnswers": 1673,
+    "okAnswers": 1181,
     "ngAnswers": 492,
-    "participatedQuizCount": 275,
-    "winQuizCount": 261,
+    "participatedQuizCount": 276,
+    "winQuizCount": 262,
     "loseQuizCount": 0,
-    "medianViews": 469623
+    "medianViews": 469267
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C1",
+      "date": "2026-05-15",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 1,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 5,
+          "contentId": "sm21538842",
+          "title": "ニャン黙の了解",
+          "artistList": [
+            "鬱P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21538842/21538842",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "フリスク"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "きぐな"
+            }
+          ]
+        },
+        {
+          "order": 10,
+          "contentId": "sm23171530",
+          "title": "M.S.S.Phantom",
+          "artistList": [
+            "FB777"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23171530/23171530",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "きぐな"
+            }
+          ]
+        },
+        {
+          "order": 16,
+          "contentId": "sm19912384",
+          "title": "TRAP×TRAP",
+          "artistList": [
+            "八王子P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19912384/19912384",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "きぐな"
+            }
+          ]
+        },
+        {
+          "order": 24,
+          "contentId": "sm7020470",
+          "title": "ミヤコワスレ",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7020470/7020470",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(1)",
+              "user": "きぐな"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "C1",

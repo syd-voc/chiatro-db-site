@@ -2285,7 +2285,7 @@
       ],
       "startTime": "2015-09-21T19:00:00+09:00",
       "viewCounter": 260408,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm38371721",
@@ -2814,7 +2814,7 @@
       ],
       "startTime": "2012-11-05T18:59:22+09:00",
       "viewCounter": 1809164,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm29213174",
@@ -3871,6 +3871,28 @@
       "startTime": "2021-10-03T16:00:00+09:00",
       "viewCounter": 1698708,
       "correctCount": 1
+    },
+    {
+      "contentId": "nm6049209",
+      "title": "ダブルラリアット",
+      "artist": "アゴアニキ",
+      "artistList": [
+        "アゴアニキ"
+      ],
+      "startTime": "2009-02-05T06:18:45+09:00",
+      "viewCounter": 8729839,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm20132624",
+      "title": "透明エレジー",
+      "artist": "n-buna",
+      "artistList": [
+        "n-buna"
+      ],
+      "startTime": "2013-02-19T19:40:48+09:00",
+      "viewCounter": 5330172,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4381,7 +4403,7 @@
     },
     {
       "artist": "ワンダフル★オポチュニティ！",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 2
     },
     {
@@ -4481,12 +4503,12 @@
     },
     {
       "artist": "アゴアニキ",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "トーマ",
-      "correctCount": 5,
+      "correctCount": 6,
       "correctSongCount": 3
     },
     {
@@ -4898,17 +4920,22 @@
       "artist": "歩く人",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "n-buna",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2013",
-      "correctCount": 25,
-      "correctSongCount": 21
+      "correctCount": 26,
+      "correctSongCount": 22
     },
     {
       "era": "2012",
-      "correctCount": 28,
+      "correctCount": 29,
       "correctSongCount": 25
     },
     {
@@ -4943,12 +4970,12 @@
     },
     {
       "era": "2009",
-      "correctCount": 31,
-      "correctSongCount": 26
+      "correctCount": 32,
+      "correctSongCount": 27
     },
     {
       "era": "2015",
-      "correctCount": 22,
+      "correctCount": 23,
       "correctSongCount": 18
     },
     {
@@ -5008,7 +5035,7 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 30,
+      "correctCount": 31,
       "correctSongCount": 27
     },
     {
@@ -5026,7 +5053,7 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 93,
+      "correctCount": 94,
       "correctSongCount": 77
     },
     {
@@ -5044,8 +5071,8 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 34,
-      "correctSongCount": 27
+      "correctCount": 36,
+      "correctSongCount": 29
     },
     {
       "range": "1000万-",
@@ -7160,18 +7187,105 @@
       "contentId": "sm39426624",
       "startTime": 1633244400000,
       "viewCounter": 1698708
+    },
+    {
+      "title": "ダブルラリアット",
+      "contentId": "nm6049209",
+      "startTime": 1233782325000,
+      "viewCounter": 8729839
+    },
+    {
+      "title": "透明エレジー",
+      "contentId": "sm20132624",
+      "startTime": 1361270448000,
+      "viewCounter": 5330172
     }
   ],
   "summary": {
-    "totalAnswers": 566,
-    "okAnswers": 413,
+    "totalAnswers": 570,
+    "okAnswers": 417,
     "ngAnswers": 150,
-    "participatedQuizCount": 88,
-    "winQuizCount": 81,
+    "participatedQuizCount": 89,
+    "winQuizCount": 82,
     "loseQuizCount": 3,
-    "medianViews": 1514132
+    "medianViews": 1532104
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "B",
+      "date": "2026-05-16",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 7,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 21,
+          "contentId": "nm6049209",
+          "title": "ダブルラリアット",
+          "artistList": [
+            "アゴアニキ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6049209/6049209",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "グルーガン"
+            }
+          ]
+        },
+        {
+          "order": 32,
+          "contentId": "sm27201351",
+          "title": "東京ゾンビランド",
+          "artistList": [
+            "ワンダフル★オポチュニティ！"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27201351/27201351",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "グルーガン"
+            }
+          ]
+        },
+        {
+          "order": 39,
+          "contentId": "sm19286279",
+          "title": "アザレアの亡霊",
+          "artistList": [
+            "トーマ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19286279/19286279",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "グルーガン"
+            }
+          ]
+        },
+        {
+          "order": 46,
+          "contentId": "sm20132624",
+          "title": "透明エレジー",
+          "artistList": [
+            "n-buna"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20132624/20132624",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(7)",
+              "user": "グルーガン"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "B",

@@ -2390,7 +2390,7 @@
       ],
       "startTime": "2018-11-23T18:00:00+09:00",
       "viewCounter": 1425535,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm34489329",
@@ -6704,6 +6704,50 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm23242071",
+      "title": "夜の帳が落ちる",
+      "artist": "バルーン",
+      "artistList": [
+        "バルーン"
+      ],
+      "startTime": "2014-04-04T20:00:00+09:00",
+      "viewCounter": 162041,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45976849",
+      "title": "ハムパチーノ・キンタロキャンディ",
+      "artist": "ハムパチーノ",
+      "artistList": [
+        "ハムパチーノ"
+      ],
+      "startTime": "2026-02-21T18:27:03+09:00",
+      "viewCounter": 112792,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35742828",
+      "title": "少女地獄",
+      "artist": "ユリイ・カノン",
+      "artistList": [
+        "ユリイ・カノン"
+      ],
+      "startTime": "2019-09-28T19:00:00+09:00",
+      "viewCounter": 624015,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39804594",
+      "title": "CH4NGE",
+      "artist": "ギガ",
+      "artistList": [
+        "ギガ"
+      ],
+      "startTime": "2021-12-25T20:24:02+09:00",
+      "viewCounter": 2523941,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm28276046",
       "title": "ハッピーヒロインスナイパー",
       "artist": "じょるじん",
@@ -8191,7 +8235,7 @@
     },
     {
       "artist": "まふまふ",
-      "correctCount": 4,
+      "correctCount": 5,
       "correctSongCount": 3
     },
     {
@@ -8496,8 +8540,8 @@
     },
     {
       "artist": "ギガ",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "スズム",
@@ -8781,8 +8825,8 @@
     },
     {
       "artist": "ユリイ・カノン",
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "artist": "ウォルピスカーター",
@@ -9671,8 +9715,8 @@
     },
     {
       "artist": "バルーン",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "ジグ",
@@ -9746,6 +9790,11 @@
     },
     {
       "artist": "うみくん",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ハムパチーノ",
       "correctCount": 1,
       "correctSongCount": 1
     },
@@ -9883,7 +9932,7 @@
     },
     {
       "era": "2018",
-      "correctCount": 56,
+      "correctCount": 57,
       "correctSongCount": 45
     },
     {
@@ -9898,8 +9947,8 @@
     },
     {
       "era": "2021",
-      "correctCount": 109,
-      "correctSongCount": 84
+      "correctCount": 110,
+      "correctSongCount": 85
     },
     {
       "era": "2020",
@@ -9908,8 +9957,8 @@
     },
     {
       "era": "2019",
-      "correctCount": 109,
-      "correctSongCount": 80
+      "correctCount": 110,
+      "correctSongCount": 81
     },
     {
       "era": "2012",
@@ -9948,8 +9997,8 @@
     },
     {
       "era": "2014",
-      "correctCount": 42,
-      "correctSongCount": 34
+      "correctCount": 43,
+      "correctSongCount": 35
     },
     {
       "era": "2023",
@@ -9963,8 +10012,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 14,
-      "correctSongCount": 14
+      "correctCount": 15,
+      "correctSongCount": 15
     }
   ],
   "viewStats": [
@@ -9983,8 +10032,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 326,
-      "correctSongCount": 258
+      "correctCount": 328,
+      "correctSongCount": 260
     },
     {
       "range": "30-50万",
@@ -9995,20 +10044,20 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 157,
-      "correctSongCount": 124
+      "correctCount": 158,
+      "correctSongCount": 125
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 99,
+      "correctCount": 100,
       "correctSongCount": 80
     },
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 20,
-      "correctSongCount": 18
+      "correctCount": 21,
+      "correctSongCount": 19
     },
     {
       "range": "300-500万",
@@ -13679,6 +13728,30 @@
       "viewCounter": 71031
     },
     {
+      "title": "夜の帳が落ちる",
+      "contentId": "sm23242071",
+      "startTime": 1396609200000,
+      "viewCounter": 162041
+    },
+    {
+      "title": "ハムパチーノ・キンタロキャンディ",
+      "contentId": "sm45976849",
+      "startTime": 1771666023000,
+      "viewCounter": 112792
+    },
+    {
+      "title": "少女地獄",
+      "contentId": "sm35742828",
+      "startTime": 1569664800000,
+      "viewCounter": 624015
+    },
+    {
+      "title": "CH4NGE",
+      "contentId": "sm39804594",
+      "startTime": 1640431442000,
+      "viewCounter": 2523941
+    },
+    {
       "title": "ハッピーヒロインスナイパー",
       "contentId": "sm28276046",
       "startTime": 1456135200000,
@@ -14466,15 +14539,151 @@
     }
   ],
   "summary": {
-    "totalAnswers": 1000,
-    "okAnswers": 920,
+    "totalAnswers": 1005,
+    "okAnswers": 925,
     "ngAnswers": 80,
-    "participatedQuizCount": 218,
-    "winQuizCount": 197,
+    "participatedQuizCount": 219,
+    "winQuizCount": 198,
     "loseQuizCount": 0,
     "medianViews": 275157
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "A",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 14,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 20,
+          "contentId": "sm23242071",
+          "title": "夜の帳が落ちる",
+          "artistList": [
+            "バルーン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23242071/23242071",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "かなくり"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "最強の私"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "世界のYAMADA"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "RRR"
+            }
+          ]
+        },
+        {
+          "order": 66,
+          "contentId": "sm45976849",
+          "title": "ハムパチーノ・キンタロキャンディ",
+          "artistList": [
+            "ハムパチーノ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45976849/45976849.76767326",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "雨嵐"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "RRR"
+            }
+          ]
+        },
+        {
+          "order": 68,
+          "contentId": "sm34214810",
+          "title": "ジグソーパズル",
+          "artistList": [
+            "まふまふ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34214810/34214810",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "RRR"
+            }
+          ]
+        },
+        {
+          "order": 81,
+          "contentId": "sm35742828",
+          "title": "少女地獄",
+          "artistList": [
+            "ユリイ・カノン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35742828/35742828.60177099",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "RRR"
+            }
+          ]
+        },
+        {
+          "order": 87,
+          "contentId": "sm39804594",
+          "title": "CH4NGE",
+          "artistList": [
+            "ギガ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39804594/39804594.4127933",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(14)",
+              "user": "RRR"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "A",

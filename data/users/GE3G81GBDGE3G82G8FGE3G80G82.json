@@ -2052,6 +2052,50 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm11714132",
+      "title": "どうぶつ占い",
+      "artist": "すこっぷ",
+      "artistList": [
+        "すこっぷ"
+      ],
+      "startTime": "2010-08-11T18:04:30+09:00",
+      "viewCounter": 1811592,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm33430841",
+      "title": "ケセラリズム",
+      "artist": "ユリイ・カノン",
+      "artistList": [
+        "ユリイ・カノン"
+      ],
+      "startTime": "2018-06-27T19:02:00+09:00",
+      "viewCounter": 1077650,
+      "correctCount": 2
+    },
+    {
+      "contentId": "sm31289955",
+      "title": "人間そっくり",
+      "artist": "しじま",
+      "artistList": [
+        "しじま"
+      ],
+      "startTime": "2017-05-27T20:00:00+09:00",
+      "viewCounter": 248605,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35267836",
+      "title": "塔の上の眠り姫",
+      "artist": "Δ",
+      "artistList": [
+        "Δ"
+      ],
+      "startTime": "2019-06-15T20:00:00+09:00",
+      "viewCounter": 42669,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm27671486",
       "title": "あしたは死ぬことにした",
       "artist": "ユリイ・カノン",
@@ -2481,17 +2525,6 @@
       "correctCount": 1
     },
     {
-      "contentId": "sm33430841",
-      "title": "ケセラリズム",
-      "artist": "ユリイ・カノン",
-      "artistList": [
-        "ユリイ・カノン"
-      ],
-      "startTime": "2018-06-27T19:02:00+09:00",
-      "viewCounter": 1077650,
-      "correctCount": 1
-    },
-    {
       "contentId": "sm2700265",
       "title": "Soar",
       "artist": "流星P",
@@ -2750,8 +2783,8 @@
     },
     {
       "artist": "Δ",
-      "correctCount": 3,
-      "correctSongCount": 2
+      "correctCount": 4,
+      "correctSongCount": 3
     },
     {
       "artist": "cosMo@暴走P",
@@ -2795,7 +2828,7 @@
     },
     {
       "artist": "ユリイ・カノン",
-      "correctCount": 11,
+      "correctCount": 12,
       "correctSongCount": 10
     },
     {
@@ -2890,8 +2923,8 @@
     },
     {
       "artist": "すこっぷ",
-      "correctCount": 3,
-      "correctSongCount": 2
+      "correctCount": 4,
+      "correctSongCount": 3
     },
     {
       "artist": "164",
@@ -3304,6 +3337,11 @@
       "correctSongCount": 1
     },
     {
+      "artist": "しじま",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
       "artist": "とあ",
       "correctCount": 3,
       "correctSongCount": 2
@@ -3422,13 +3460,13 @@
     },
     {
       "era": "2017",
-      "correctCount": 32,
-      "correctSongCount": 29
+      "correctCount": 33,
+      "correctSongCount": 30
     },
     {
       "era": "2019",
-      "correctCount": 24,
-      "correctSongCount": 21
+      "correctCount": 25,
+      "correctSongCount": 22
     },
     {
       "era": "2007-2008",
@@ -3437,7 +3475,7 @@
     },
     {
       "era": "2018",
-      "correctCount": 44,
+      "correctCount": 45,
       "correctSongCount": 34
     },
     {
@@ -3457,8 +3495,8 @@
     },
     {
       "era": "2010",
-      "correctCount": 10,
-      "correctSongCount": 8
+      "correctCount": 11,
+      "correctSongCount": 9
     },
     {
       "era": "2015",
@@ -3496,14 +3534,14 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 7,
-      "correctSongCount": 7
+      "correctCount": 8,
+      "correctSongCount": 8
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 33,
-      "correctSongCount": 30
+      "correctCount": 34,
+      "correctSongCount": 31
     },
     {
       "range": "30-50万",
@@ -3520,8 +3558,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 62,
-      "correctSongCount": 49
+      "correctCount": 64,
+      "correctSongCount": 50
     },
     {
       "range": "200-300万",
@@ -4666,6 +4704,30 @@
       "viewCounter": 59327
     },
     {
+      "title": "どうぶつ占い",
+      "contentId": "sm11714132",
+      "startTime": 1281517470000,
+      "viewCounter": 1811592
+    },
+    {
+      "title": "ケセラリズム",
+      "contentId": "sm33430841",
+      "startTime": 1530093720000,
+      "viewCounter": 1077650
+    },
+    {
+      "title": "人間そっくり",
+      "contentId": "sm31289955",
+      "startTime": 1495882800000,
+      "viewCounter": 248605
+    },
+    {
+      "title": "塔の上の眠り姫",
+      "contentId": "sm35267836",
+      "startTime": 1560596400000,
+      "viewCounter": 42669
+    },
+    {
       "title": "あしたは死ぬことにした",
       "contentId": "sm27671486",
       "startTime": 1448532060000,
@@ -4900,12 +4962,6 @@
       "viewCounter": 2252746
     },
     {
-      "title": "ケセラリズム",
-      "contentId": "sm33430841",
-      "startTime": 1530093720000,
-      "viewCounter": 1077650
-    },
-    {
       "title": "Soar",
       "contentId": "sm2700265",
       "startTime": 1205868103000,
@@ -5027,15 +5083,90 @@
     }
   ],
   "summary": {
-    "totalAnswers": 428,
-    "okAnswers": 294,
+    "totalAnswers": 432,
+    "okAnswers": 298,
     "ngAnswers": 133,
-    "participatedQuizCount": 93,
-    "winQuizCount": 55,
+    "participatedQuizCount": 94,
+    "winQuizCount": 56,
     "loseQuizCount": 1,
-    "medianViews": 1124653
+    "medianViews": 1119967
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "B",
+      "date": "2026-05-16",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 11,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 54,
+          "contentId": "sm11714132",
+          "title": "どうぶつ占い",
+          "artistList": [
+            "すこっぷ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/11714132/11714132",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ぽわ。"
+            }
+          ]
+        },
+        {
+          "order": 56,
+          "contentId": "sm33430841",
+          "title": "ケセラリズム",
+          "artistList": [
+            "ユリイ・カノン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33430841/33430841",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ぽわ。"
+            }
+          ]
+        },
+        {
+          "order": 58,
+          "contentId": "sm31289955",
+          "title": "人間そっくり",
+          "artistList": [
+            "しじま"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31289955/31289955",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ぽわ。"
+            }
+          ]
+        },
+        {
+          "order": 59,
+          "contentId": "sm35267836",
+          "title": "塔の上の眠り姫",
+          "artistList": [
+            "Δ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35267836/35267836.90531093",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(11)",
+              "user": "ぽわ。"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 288,
       "group": "B",

@@ -31,6 +31,13 @@
   },
   "histories": [
     {
+      "date": "2026-05-15",
+      "quizNo": 299,
+      "group": "C1",
+      "order": 42,
+      "winner": "HAN"
+    },
+    {
       "date": "2026-02-07",
       "quizNo": 287,
       "group": "A",
@@ -56,8 +63,8 @@
       "order": 57
     }
   ],
-  "appearanceCount": 4,
-  "correctCount": 2,
-  "accuracy": 50,
+  "appearanceCount": 5,
+  "correctCount": 3,
+  "accuracy": 60,
   "anotherVersions": []
 }

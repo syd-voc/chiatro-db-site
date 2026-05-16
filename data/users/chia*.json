@@ -610,7 +610,7 @@
       ],
       "startTime": "2014-01-06T21:41:38+09:00",
       "viewCounter": 165180,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm32110625",
@@ -1894,6 +1894,39 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm12695779",
+      "title": "秘密警察",
+      "artist": "ぶりる",
+      "artistList": [
+        "ぶりる"
+      ],
+      "startTime": "2010-11-09T16:43:21+09:00",
+      "viewCounter": 1557355,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35909360",
+      "title": "アンチサイクロン",
+      "artist": "稲葉曇",
+      "artistList": [
+        "稲葉曇"
+      ],
+      "startTime": "2019-11-04T20:00:00+09:00",
+      "viewCounter": 334453,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44541693",
+      "title": "LEMON MELON COOKIE",
+      "artist": "TAK",
+      "artistList": [
+        "TAK"
+      ],
+      "startTime": "2025-01-15T18:00:08+09:00",
+      "viewCounter": 187416,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm8061508",
       "title": "二息歩行",
       "artist": "DECO*27",
@@ -2525,7 +2558,7 @@
     },
     {
       "artist": "YASUHIRO(康寛)",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 2
     },
     {
@@ -2775,8 +2808,8 @@
     },
     {
       "artist": "稲葉曇",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "GYARI",
@@ -2869,6 +2902,16 @@
       "correctSongCount": 1
     },
     {
+      "artist": "ぶりる",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "TAK",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
       "artist": "てにをは",
       "correctCount": 1,
       "correctSongCount": 1
@@ -2942,13 +2985,13 @@
     },
     {
       "era": "2019",
-      "correctCount": 34,
-      "correctSongCount": 32
+      "correctCount": 35,
+      "correctSongCount": 33
     },
     {
       "era": "2010",
-      "correctCount": 8,
-      "correctSongCount": 7
+      "correctCount": 9,
+      "correctSongCount": 8
     },
     {
       "era": "2007-2008",
@@ -2967,7 +3010,7 @@
     },
     {
       "era": "2014",
-      "correctCount": 17,
+      "correctCount": 18,
       "correctSongCount": 14
     },
     {
@@ -3004,6 +3047,11 @@
       "era": "2024",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "era": "2025-",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "viewStats": [
@@ -3022,14 +3070,14 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 52,
-      "correctSongCount": 47
+      "correctCount": 54,
+      "correctSongCount": 48
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 31,
-      "correctSongCount": 27
+      "correctCount": 32,
+      "correctSongCount": 28
     },
     {
       "range": "50-100万",
@@ -3040,8 +3088,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 31,
-      "correctSongCount": 29
+      "correctCount": 32,
+      "correctSongCount": 30
     },
     {
       "range": "200-300万",
@@ -4096,6 +4144,24 @@
       "viewCounter": 542376
     },
     {
+      "title": "秘密警察",
+      "contentId": "sm12695779",
+      "startTime": 1289288601000,
+      "viewCounter": 1557355
+    },
+    {
+      "title": "アンチサイクロン",
+      "contentId": "sm35909360",
+      "startTime": 1572865200000,
+      "viewCounter": 334453
+    },
+    {
+      "title": "LEMON MELON COOKIE",
+      "contentId": "sm44541693",
+      "startTime": 1736931608000,
+      "viewCounter": 187416
+    },
+    {
       "title": "二息歩行",
       "contentId": "sm8061508",
       "startTime": 1251389835000,
@@ -4313,15 +4379,158 @@
     }
   ],
   "summary": {
-    "totalAnswers": 329,
-    "okAnswers": 225,
-    "ngAnswers": 104,
-    "participatedQuizCount": 56,
-    "winQuizCount": 45,
+    "totalAnswers": 335,
+    "okAnswers": 229,
+    "ngAnswers": 106,
+    "participatedQuizCount": 57,
+    "winQuizCount": 46,
     "loseQuizCount": 0,
-    "medianViews": 618228
+    "medianViews": 615309
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C1",
+      "date": "2026-05-15",
+      "ok": 4,
+      "ng": 2,
+      "winRank": 15,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 20,
+          "contentId": "sm33026031",
+          "title": "東京浪漫女子謳歌蘭街六九七番地ノ恋",
+          "artistList": [
+            "SLAVE.V-V-R"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33026031/33026031",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "chia*"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "しるばー"
+            }
+          ]
+        },
+        {
+          "order": 28,
+          "contentId": "sm12695779",
+          "title": "秘密警察",
+          "artistList": [
+            "ぶりる"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12695779/12695779",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Acro"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "chia*"
+            }
+          ]
+        },
+        {
+          "order": 58,
+          "contentId": "sm22615733",
+          "title": "月世界旅行",
+          "artistList": [
+            "YASUHIRO(康寛)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22615733/22615733",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "chia*"
+            }
+          ]
+        },
+        {
+          "order": 79,
+          "contentId": "sm28203575",
+          "title": "Shoutër",
+          "artistList": [
+            "halyosy"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28203575/28203575",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "chia*"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "クスノキ"
+            }
+          ]
+        },
+        {
+          "order": 82,
+          "contentId": "sm35909360",
+          "title": "アンチサイクロン",
+          "artistList": [
+            "稲葉曇"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35909360/35909360.74456225",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "××",
+              "user": "あいおい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "chia*"
+            }
+          ]
+        },
+        {
+          "order": 84,
+          "contentId": "sm44541693",
+          "title": "LEMON MELON COOKIE",
+          "artistList": [
+            "TAK"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44541693/44541693.13823082",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(15)",
+              "user": "chia*"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 211,
       "group": "B",

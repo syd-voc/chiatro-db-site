@@ -928,7 +928,7 @@
       ],
       "startTime": "2017-12-28T14:40:22+09:00",
       "viewCounter": 7224554,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm24482819",
@@ -1412,7 +1412,7 @@
       ],
       "startTime": "2025-04-01T12:00:00+09:00",
       "viewCounter": 371757,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm44633518",
@@ -1712,6 +1712,39 @@
       "startTime": "2012-01-15T18:30:38+09:00",
       "viewCounter": 4854682,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm45964703",
+      "title": "かごめあそび",
+      "artist": "しゃいと",
+      "artistList": [
+        "しゃいと"
+      ],
+      "startTime": "2026-02-21T00:00:00+09:00",
+      "viewCounter": 17298,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44743344",
+      "title": "メルティレコード",
+      "artist": "DIVELA",
+      "artistList": [
+        "DIVELA"
+      ],
+      "startTime": "2025-03-09T20:00:00+09:00",
+      "viewCounter": 50257,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm43435446",
+      "title": "可不ェイン",
+      "artist": "柊マグネタイト",
+      "artistList": [
+        "柊マグネタイト"
+      ],
+      "startTime": "2024-02-23T00:00:00+09:00",
+      "viewCounter": 479766,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -1992,8 +2025,8 @@
     },
     {
       "artist": "柊マグネタイト",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "あめのむらくもP",
@@ -2027,7 +2060,7 @@
     },
     {
       "artist": "GYARI",
-      "correctCount": 3,
+      "correctCount": 4,
       "correctSongCount": 3
     },
     {
@@ -2162,7 +2195,7 @@
     },
     {
       "artist": "いよわ",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 2
     },
     {
@@ -2187,8 +2220,8 @@
     },
     {
       "artist": "DIVELA",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "マイキP",
@@ -2244,6 +2277,11 @@
       "artist": "やま△",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "しゃいと",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -2259,8 +2297,8 @@
     },
     {
       "era": "2024",
-      "correctCount": 29,
-      "correctSongCount": 24
+      "correctCount": 30,
+      "correctSongCount": 25
     },
     {
       "era": "2022",
@@ -2269,8 +2307,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 28,
-      "correctSongCount": 27
+      "correctCount": 31,
+      "correctSongCount": 29
     },
     {
       "era": "2023",
@@ -2289,7 +2327,7 @@
     },
     {
       "era": "2017",
-      "correctCount": 9,
+      "correctCount": 10,
       "correctSongCount": 9
     },
     {
@@ -2348,8 +2386,8 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 15,
-      "correctSongCount": 14
+      "correctCount": 17,
+      "correctSongCount": 16
     },
     {
       "range": "10-30万",
@@ -2360,8 +2398,8 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 19,
-      "correctSongCount": 18
+      "correctCount": 21,
+      "correctSongCount": 19
     },
     {
       "range": "50-100万",
@@ -2390,7 +2428,7 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 8,
+      "correctCount": 9,
       "correctSongCount": 8
     },
     {
@@ -3330,18 +3368,127 @@
       "contentId": "sm16702635",
       "startTime": 1326619838000,
       "viewCounter": 4854682
+    },
+    {
+      "title": "かごめあそび",
+      "contentId": "sm45964703",
+      "startTime": 1771599600000,
+      "viewCounter": 17298
+    },
+    {
+      "title": "メルティレコード",
+      "contentId": "sm44743344",
+      "startTime": 1741518000000,
+      "viewCounter": 50257
+    },
+    {
+      "title": "可不ェイン",
+      "contentId": "sm43435446",
+      "startTime": 1708614000000,
+      "viewCounter": 479766
     }
   ],
   "summary": {
-    "totalAnswers": 197,
-    "okAnswers": 164,
+    "totalAnswers": 202,
+    "okAnswers": 169,
     "ngAnswers": 33,
-    "participatedQuizCount": 33,
-    "winQuizCount": 33,
+    "participatedQuizCount": 34,
+    "winQuizCount": 34,
     "loseQuizCount": 0,
-    "medianViews": 625901
+    "medianViews": 609649
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C2",
+      "date": "2026-05-16",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 3,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 7,
+          "contentId": "sm32492001",
+          "title": "何でも言うことを聞いてくれるアカネチャン",
+          "artistList": [
+            "GYARI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32492001/32492001",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "すぼ"
+            }
+          ]
+        },
+        {
+          "order": 19,
+          "contentId": "sm45964703",
+          "title": "かごめあそび",
+          "artistList": [
+            "しゃいと"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45964703/45964703.53492119",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "すぼ"
+            }
+          ]
+        },
+        {
+          "order": 21,
+          "contentId": "sm44743344",
+          "title": "メルティレコード",
+          "artistList": [
+            "DIVELA"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44743344/44743344.55040098",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "すぼ"
+            }
+          ]
+        },
+        {
+          "order": 25,
+          "contentId": "sm44831775",
+          "title": "わすれモノ",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44831775/44831775.37766122",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "すぼ"
+            }
+          ]
+        },
+        {
+          "order": 30,
+          "contentId": "sm43435446",
+          "title": "可不ェイン",
+          "artistList": [
+            "柊マグネタイト"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43435446/43435446.48429345",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(3)",
+              "user": "すぼ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "C2",

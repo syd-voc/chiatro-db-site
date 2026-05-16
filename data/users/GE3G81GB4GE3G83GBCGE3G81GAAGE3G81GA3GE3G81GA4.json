@@ -2877,7 +2877,7 @@
       ],
       "startTime": "2017-10-04T19:00:00+09:00",
       "viewCounter": 304451,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm32405306",
@@ -4335,6 +4335,39 @@
       "startTime": "2009-08-25T03:05:06+09:00",
       "viewCounter": 1861924,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm19835180",
+      "title": "ラクガキスト",
+      "artist": "cosMo@暴走P",
+      "artistList": [
+        "cosMo@暴走P"
+      ],
+      "startTime": "2013-01-15T18:02:58+09:00",
+      "viewCounter": 511528,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm21283394",
+      "title": "一触即発☆禅ガール",
+      "artist": "れるりり",
+      "artistList": [
+        "れるりり"
+      ],
+      "startTime": "2013-07-12T20:00:00+09:00",
+      "viewCounter": 2882826,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm25223315",
+      "title": "厨病激発ボーイ",
+      "artist": "れるりり",
+      "artistList": [
+        "れるりり"
+      ],
+      "startTime": "2015-01-02T18:00:00+09:00",
+      "viewCounter": 2331409,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4360,7 +4393,7 @@
     },
     {
       "artist": "TOKOTOKO（西沢さんP）",
-      "correctCount": 21,
+      "correctCount": 22,
       "correctSongCount": 18
     },
     {
@@ -4545,8 +4578,8 @@
     },
     {
       "artist": "れるりり",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "菩化鳥",
@@ -4980,8 +5013,8 @@
     },
     {
       "artist": "cosMo@暴走P",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "整列P",
@@ -5562,8 +5595,8 @@
     },
     {
       "era": "2015",
-      "correctCount": 33,
-      "correctSongCount": 29
+      "correctCount": 34,
+      "correctSongCount": 30
     },
     {
       "era": "2014",
@@ -5587,7 +5620,7 @@
     },
     {
       "era": "2017",
-      "correctCount": 25,
+      "correctCount": 26,
       "correctSongCount": 22
     },
     {
@@ -5597,8 +5630,8 @@
     },
     {
       "era": "2013",
-      "correctCount": 41,
-      "correctSongCount": 30
+      "correctCount": 43,
+      "correctSongCount": 32
     },
     {
       "era": "2019",
@@ -5658,14 +5691,14 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 76,
+      "correctCount": 77,
       "correctSongCount": 65
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 80,
-      "correctSongCount": 63
+      "correctCount": 81,
+      "correctSongCount": 64
     },
     {
       "range": "100-200万",
@@ -5676,8 +5709,8 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 14,
-      "correctSongCount": 10
+      "correctCount": 16,
+      "correctSongCount": 12
     },
     {
       "range": "300-500万",
@@ -8056,18 +8089,136 @@
       "contentId": "sm8033594",
       "startTime": 1251137106000,
       "viewCounter": 1861924
+    },
+    {
+      "title": "ラクガキスト",
+      "contentId": "sm19835180",
+      "startTime": 1358240578000,
+      "viewCounter": 511528
+    },
+    {
+      "title": "一触即発☆禅ガール",
+      "contentId": "sm21283394",
+      "startTime": 1373626800000,
+      "viewCounter": 2882826
+    },
+    {
+      "title": "厨病激発ボーイ",
+      "contentId": "sm25223315",
+      "startTime": 1420189200000,
+      "viewCounter": 2331409
     }
   ],
   "summary": {
-    "totalAnswers": 626,
-    "okAnswers": 458,
-    "ngAnswers": 167,
-    "participatedQuizCount": 113,
-    "winQuizCount": 89,
+    "totalAnswers": 631,
+    "okAnswers": 462,
+    "ngAnswers": 168,
+    "participatedQuizCount": 114,
+    "winQuizCount": 90,
     "loseQuizCount": 1,
-    "medianViews": 284443
+    "medianViews": 286709
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C1",
+      "date": "2026-05-15",
+      "ok": 4,
+      "ng": 1,
+      "winRank": 5,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 27,
+          "contentId": "sm32042182",
+          "title": "インナーダーク",
+          "artistList": [
+            "TOKOTOKO（西沢さんP）"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32042182/32042182",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ぴーなっつ"
+            }
+          ]
+        },
+        {
+          "order": 39,
+          "contentId": "sm19835180",
+          "title": "ラクガキスト",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19835180/19835180",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ぴーなっつ"
+            }
+          ]
+        },
+        {
+          "order": 40,
+          "contentId": "sm21283394",
+          "title": "一触即発☆禅ガール",
+          "artistList": [
+            "れるりり"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21283394/21283394",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ぴーなっつ"
+            }
+          ]
+        },
+        {
+          "order": 42,
+          "contentId": "sm3349197",
+          "title": "オールドラジオ",
+          "artistList": [
+            "うらら(マカーP)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/3349197/3349197",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぴーなっつ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "HAN"
+            }
+          ]
+        },
+        {
+          "order": 49,
+          "contentId": "sm25223315",
+          "title": "厨病激発ボーイ",
+          "artistList": [
+            "れるりり"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25223315/25223315",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(5)",
+              "user": "ぴーなっつ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "C1",

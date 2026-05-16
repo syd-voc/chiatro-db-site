@@ -1855,9 +1855,9 @@
     {
       "contentId": "nm15770119",
       "title": "CRYONICS",
-      "artist": "AVTeckNO!",
+      "artist": "AVTechNO!",
       "artistList": [
-        "AVTeckNO!"
+        "AVTechNO!"
       ],
       "startTime": "2011-10-02T06:02:11+09:00",
       "viewCounter": 149378,
@@ -3090,9 +3090,9 @@
     {
       "contentId": "sm43430920",
       "title": "PANI PANI",
-      "artist": "DARAKU",
+      "artist": "daraku",
       "artistList": [
-        "DARAKU"
+        "daraku"
       ],
       "startTime": "2024-02-23T00:00:00+09:00",
       "viewCounter": 71469,
@@ -3410,9 +3410,9 @@
     {
       "contentId": "sm41187136",
       "title": "GEDO",
-      "artist": "DARAKU",
+      "artist": "daraku",
       "artistList": [
-        "DARAKU"
+        "daraku"
       ],
       "startTime": "2022-10-07T19:00:00+09:00",
       "viewCounter": 415775,
@@ -3648,6 +3648,51 @@
       "startTime": "2017-10-10T19:00:00+09:00",
       "viewCounter": 5721891,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm37349785",
+      "title": "青く駆けろ！",
+      "artist": "まらしぃ",
+      "artistList": [
+        "まらしぃ"
+      ],
+      "startTime": "2020-08-13T21:20:02+09:00",
+      "viewCounter": 335502,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm33016008",
+      "title": "シークレット・シークエンス",
+      "artist": "低所得P",
+      "artistList": [
+        "低所得P"
+      ],
+      "startTime": "2018-04-07T20:00:00+09:00",
+      "viewCounter": 116423,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm27868484",
+      "title": "モチベーションが死んでる",
+      "artist": "ピノキオピー",
+      "artistList": [
+        "ピノキオピー"
+      ],
+      "startTime": "2015-12-25T19:00:00+09:00",
+      "viewCounter": 924576,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm22826385",
+      "title": "ゴージャスビッグ対談",
+      "artist": "ピノキオピー, 鬱P",
+      "artistList": [
+        "ピノキオピー",
+        "鬱P"
+      ],
+      "startTime": "2014-02-07T19:00:00+09:00",
+      "viewCounter": 785156,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -3783,8 +3828,8 @@
     },
     {
       "artist": "ピノキオピー",
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "artist": "DATEKEN",
@@ -4187,7 +4232,7 @@
       "correctSongCount": 1
     },
     {
-      "artist": "AVTeckNO!",
+      "artist": "AVTechNO!",
       "correctCount": 1,
       "correctSongCount": 1
     },
@@ -4412,7 +4457,7 @@
       "correctSongCount": 1
     },
     {
-      "artist": "DARAKU",
+      "artist": "daraku",
       "correctCount": 2,
       "correctSongCount": 2
     },
@@ -4505,6 +4550,21 @@
       "artist": "蝶々P",
       "correctCount": 2,
       "correctSongCount": 2
+    },
+    {
+      "artist": "まらしぃ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "低所得P",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "鬱P",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -4525,8 +4585,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 22,
-      "correctSongCount": 18
+      "correctCount": 23,
+      "correctSongCount": 19
     },
     {
       "era": "2017",
@@ -4545,13 +4605,13 @@
     },
     {
       "era": "2018",
-      "correctCount": 25,
-      "correctSongCount": 24
+      "correctCount": 26,
+      "correctSongCount": 25
     },
     {
       "era": "2014",
-      "correctCount": 41,
-      "correctSongCount": 36
+      "correctCount": 42,
+      "correctSongCount": 37
     },
     {
       "era": "2010",
@@ -4570,8 +4630,8 @@
     },
     {
       "era": "2015",
-      "correctCount": 32,
-      "correctSongCount": 28
+      "correctCount": 33,
+      "correctSongCount": 29
     },
     {
       "era": "2023",
@@ -4610,20 +4670,20 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 76,
-      "correctSongCount": 70
+      "correctCount": 77,
+      "correctSongCount": 71
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 72,
-      "correctSongCount": 62
+      "correctCount": 73,
+      "correctSongCount": 63
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 92,
-      "correctSongCount": 83
+      "correctCount": 94,
+      "correctSongCount": 85
     },
     {
       "range": "100-200万",
@@ -6642,18 +6702,118 @@
       "contentId": "sm32076378",
       "startTime": 1507629600000,
       "viewCounter": 5721891
+    },
+    {
+      "title": "青く駆けろ！",
+      "contentId": "sm37349785",
+      "startTime": 1597321202000,
+      "viewCounter": 335502
+    },
+    {
+      "title": "シークレット・シークエンス",
+      "contentId": "sm33016008",
+      "startTime": 1523098800000,
+      "viewCounter": 116423
+    },
+    {
+      "title": "モチベーションが死んでる",
+      "contentId": "sm27868484",
+      "startTime": 1451037600000,
+      "viewCounter": 924576
+    },
+    {
+      "title": "ゴージャスビッグ対談",
+      "contentId": "sm22826385",
+      "startTime": 1391767200000,
+      "viewCounter": 785156
     }
   ],
   "summary": {
-    "totalAnswers": 428,
-    "okAnswers": 377,
+    "totalAnswers": 432,
+    "okAnswers": 381,
     "ngAnswers": 51,
-    "participatedQuizCount": 79,
-    "winQuizCount": 75,
+    "participatedQuizCount": 80,
+    "winQuizCount": 76,
     "loseQuizCount": 0,
-    "medianViews": 579547
+    "medianViews": 578282
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C1",
+      "date": "2026-05-15",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 19,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 75,
+          "contentId": "sm37349785",
+          "title": "青く駆けろ！",
+          "artistList": [
+            "まらしぃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37349785/37349785.82657179",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "あざらし"
+            }
+          ]
+        },
+        {
+          "order": 87,
+          "contentId": "sm33016008",
+          "title": "シークレット・シークエンス",
+          "artistList": [
+            "低所得P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33016008/33016008",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "あざらし"
+            }
+          ]
+        },
+        {
+          "order": 93,
+          "contentId": "sm27868484",
+          "title": "モチベーションが死んでる",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27868484/27868484",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "あざらし"
+            }
+          ]
+        },
+        {
+          "order": 94,
+          "contentId": "sm22826385",
+          "title": "ゴージャスビッグ対談",
+          "artistList": [
+            "ピノキオピー",
+            "鬱P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22826385/22826385",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(19)",
+              "user": "あざらし"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "C1",
@@ -7435,7 +7595,7 @@
           "contentId": "sm41187136",
           "title": "GEDO",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41187136/41187136.10455868",
           "tokens": [
@@ -8173,7 +8333,7 @@
           "contentId": "sm43430920",
           "title": "PANI PANI",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43430920/43430920.94260540",
           "tokens": [
@@ -11445,7 +11605,7 @@
           "contentId": "nm15770119",
           "title": "CRYONICS",
           "artistList": [
-            "AVTeckNO!"
+            "AVTechNO!"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15770119/15770119",
           "tokens": [

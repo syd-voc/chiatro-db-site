@@ -4784,6 +4784,50 @@
       "startTime": "2011-11-12T21:22:52+09:00",
       "viewCounter": 232348,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm30290484",
+      "title": "甲斐甲斐しい言葉の闇に",
+      "artist": "ただのCo",
+      "artistList": [
+        "ただのCo"
+      ],
+      "startTime": "2016-12-24T23:59:00+09:00",
+      "viewCounter": 89375,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm10933505",
+      "title": "Just a game",
+      "artist": "takamatt",
+      "artistList": [
+        "takamatt"
+      ],
+      "startTime": "2010-06-03T01:20:59+09:00",
+      "viewCounter": 1561234,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm6939313",
+      "title": "ラビリンス",
+      "artist": "シグナルP",
+      "artistList": [
+        "シグナルP"
+      ],
+      "startTime": "2009-05-04T05:53:19+09:00",
+      "viewCounter": 255175,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm28506318",
+      "title": "浮世ぺぺろんちいの",
+      "artist": "ねじ。",
+      "artistList": [
+        "ねじ。"
+      ],
+      "startTime": "2016-04-01T19:00:00+09:00",
+      "viewCounter": 56736,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4919,8 +4963,8 @@
     },
     {
       "artist": "シグナルP",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "みきとP",
@@ -5219,8 +5263,8 @@
     },
     {
       "artist": "ただのCo",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "R Sound Design",
@@ -5686,6 +5730,16 @@
       "artist": "nakano4",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "takamatt",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ねじ。",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -5716,8 +5770,8 @@
     },
     {
       "era": "2016",
-      "correctCount": 32,
-      "correctSongCount": 28
+      "correctCount": 34,
+      "correctSongCount": 30
     },
     {
       "era": "2013",
@@ -5736,13 +5790,13 @@
     },
     {
       "era": "2009",
-      "correctCount": 53,
-      "correctSongCount": 44
+      "correctCount": 54,
+      "correctSongCount": 45
     },
     {
       "era": "2010",
-      "correctCount": 48,
-      "correctSongCount": 42
+      "correctCount": 49,
+      "correctSongCount": 43
     },
     {
       "era": "2020",
@@ -5785,14 +5839,14 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 29,
-      "correctSongCount": 27
+      "correctCount": 31,
+      "correctSongCount": 29
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 180,
-      "correctSongCount": 158
+      "correctCount": 181,
+      "correctSongCount": 159
     },
     {
       "range": "30-50万",
@@ -5809,8 +5863,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 66,
-      "correctSongCount": 59
+      "correctCount": 67,
+      "correctSongCount": 60
     },
     {
       "range": "200-300万",
@@ -8441,18 +8495,153 @@
       "contentId": "sm16152203",
       "startTime": 1321100572000,
       "viewCounter": 232348
+    },
+    {
+      "title": "甲斐甲斐しい言葉の闇に",
+      "contentId": "sm30290484",
+      "startTime": 1482591540000,
+      "viewCounter": 89375
+    },
+    {
+      "title": "Just a game",
+      "contentId": "sm10933505",
+      "startTime": 1275495659000,
+      "viewCounter": 1561234
+    },
+    {
+      "title": "ラビリンス",
+      "contentId": "sm6939313",
+      "startTime": 1241383999000,
+      "viewCounter": 255175
+    },
+    {
+      "title": "浮世ぺぺろんちいの",
+      "contentId": "sm28506318",
+      "startTime": 1459504800000,
+      "viewCounter": 56736
     }
   ],
   "summary": {
-    "totalAnswers": 550,
-    "okAnswers": 496,
+    "totalAnswers": 554,
+    "okAnswers": 500,
     "ngAnswers": 54,
-    "participatedQuizCount": 105,
-    "winQuizCount": 98,
+    "participatedQuizCount": 106,
+    "winQuizCount": 99,
     "loseQuizCount": 0,
-    "medianViews": 350448
+    "medianViews": 348630
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C1",
+      "date": "2026-05-15",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 4,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 2,
+          "contentId": "sm30290484",
+          "title": "甲斐甲斐しい言葉の闇に",
+          "artistList": [
+            "ただのCo"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30290484/30290484",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "クロ"
+            }
+          ]
+        },
+        {
+          "order": 17,
+          "contentId": "sm10933505",
+          "title": "Just a game",
+          "artistList": [
+            "takamatt"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10933505/10933505",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "クロ"
+            }
+          ]
+        },
+        {
+          "order": 29,
+          "contentId": "sm6939313",
+          "title": "ラビリンス",
+          "artistList": [
+            "シグナルP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6939313/6939313",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "くちば"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "クロ"
+            }
+          ]
+        },
+        {
+          "order": 41,
+          "contentId": "sm28506318",
+          "title": "浮世ぺぺろんちいの",
+          "artistList": [
+            "ねじ。"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28506318/28506318.75913257",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "タルタル素数"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゆーと"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とりりす。"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(4)",
+              "user": "クロ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "B",

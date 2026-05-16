@@ -4221,9 +4221,9 @@
     {
       "contentId": "sm41187136",
       "title": "GEDO",
-      "artist": "DARAKU",
+      "artist": "daraku",
       "artistList": [
-        "DARAKU"
+        "daraku"
       ],
       "startTime": "2022-10-07T19:00:00+09:00",
       "viewCounter": 415775,
@@ -4548,7 +4548,7 @@
       ],
       "startTime": "2011-06-11T15:53:52+09:00",
       "viewCounter": 280439,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm36106485",
@@ -6090,7 +6090,7 @@
       ],
       "startTime": "2015-07-14T19:00:25+09:00",
       "viewCounter": 1026250,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm29464886",
@@ -7284,6 +7284,28 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm25005757",
+      "title": "Ivy",
+      "artist": "redo",
+      "artistList": [
+        "redo"
+      ],
+      "startTime": "2014-11-28T20:00:00+09:00",
+      "viewCounter": 149403,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm10543519",
+      "title": "Life Size",
+      "artist": "40mP",
+      "artistList": [
+        "40mP"
+      ],
+      "startTime": "2010-04-29T10:08:35+09:00",
+      "viewCounter": 252917,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm38242221",
       "title": "ドクトリーヌ",
       "artist": "煮ル果実",
@@ -7487,7 +7509,7 @@
     },
     {
       "artist": "Neru",
-      "correctCount": 8,
+      "correctCount": 9,
       "correctSongCount": 6
     },
     {
@@ -7507,8 +7529,8 @@
     },
     {
       "artist": "40mP",
-      "correctCount": 11,
-      "correctSongCount": 11
+      "correctCount": 12,
+      "correctSongCount": 12
     },
     {
       "artist": "柊キライ",
@@ -7617,7 +7639,7 @@
     },
     {
       "artist": "niki",
-      "correctCount": 5,
+      "correctCount": 6,
       "correctSongCount": 4
     },
     {
@@ -8416,7 +8438,7 @@
       "correctSongCount": 1
     },
     {
-      "artist": "DARAKU",
+      "artist": "daraku",
       "correctCount": 2,
       "correctSongCount": 1
     },
@@ -8926,6 +8948,11 @@
       "correctSongCount": 1
     },
     {
+      "artist": "redo",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
       "artist": "FLG4",
       "correctCount": 1,
       "correctSongCount": 1
@@ -8934,8 +8961,8 @@
   "eraStats": [
     {
       "era": "2010",
-      "correctCount": 17,
-      "correctSongCount": 16
+      "correctCount": 18,
+      "correctSongCount": 17
     },
     {
       "era": "2012",
@@ -8959,7 +8986,7 @@
     },
     {
       "era": "2015",
-      "correctCount": 51,
+      "correctCount": 52,
       "correctSongCount": 43
     },
     {
@@ -8984,13 +9011,13 @@
     },
     {
       "era": "2011",
-      "correctCount": 21,
+      "correctCount": 22,
       "correctSongCount": 21
     },
     {
       "era": "2014",
-      "correctCount": 28,
-      "correctSongCount": 25
+      "correctCount": 29,
+      "correctSongCount": 26
     },
     {
       "era": "2022",
@@ -9039,8 +9066,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 192,
-      "correctSongCount": 168
+      "correctCount": 195,
+      "correctSongCount": 170
     },
     {
       "range": "30-50万",
@@ -9057,7 +9084,7 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 108,
+      "correctCount": 109,
       "correctSongCount": 86
     },
     {
@@ -13047,6 +13074,18 @@
       "viewCounter": 602159
     },
     {
+      "title": "Ivy",
+      "contentId": "sm25005757",
+      "startTime": 1417172400000,
+      "viewCounter": 149403
+    },
+    {
+      "title": "Life Size",
+      "contentId": "sm10543519",
+      "startTime": 1272503315000,
+      "viewCounter": 252917
+    },
+    {
       "title": "ドクトリーヌ",
       "contentId": "sm38242221",
       "startTime": 1612951800000,
@@ -13078,15 +13117,211 @@
     }
   ],
   "summary": {
-    "totalAnswers": 1198,
-    "okAnswers": 782,
-    "ngAnswers": 410,
-    "participatedQuizCount": 179,
-    "winQuizCount": 168,
+    "totalAnswers": 1204,
+    "okAnswers": 786,
+    "ngAnswers": 412,
+    "participatedQuizCount": 180,
+    "winQuizCount": 169,
     "loseQuizCount": 6,
-    "medianViews": 429935
+    "medianViews": 429624
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "B",
+      "date": "2026-05-16",
+      "ok": 4,
+      "ng": 2,
+      "winRank": 9,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 3,
+          "contentId": "sm22549943",
+          "title": "十三番目のハスキング",
+          "artistList": [
+            "MI8k"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22549943/22549943",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ベガ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Cumber"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "テフミネ"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "contentId": "sm14712230",
+          "title": "Prototype",
+          "artistList": [
+            "niki"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14712230/14712230",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Takuan"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "テフミネ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "手下"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Cumber"
+            }
+          ]
+        },
+        {
+          "order": 15,
+          "contentId": "sm25005757",
+          "title": "Ivy",
+          "artistList": [
+            "redo"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25005757/25005757",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "Cumber"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm23834206",
+          "title": "レイニー・レイディ",
+          "artistList": [
+            "戦車P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23834206/23834206",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "よかずき"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ホワイトホールヶ丘商店街"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Cumber"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 42,
+          "contentId": "sm26705595",
+          "title": "世界を壊している",
+          "artistList": [
+            "Neru"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26705595/26705595",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "Cumber"
+            }
+          ]
+        },
+        {
+          "order": 55,
+          "contentId": "sm10543519",
+          "title": "Life Size",
+          "artistList": [
+            "40mP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10543519/10543519",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ホワイトホールヶ丘商店街"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(9)",
+              "user": "Cumber"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 296,
       "group": "A",
@@ -18229,7 +18464,7 @@
           "contentId": "sm41187136",
           "title": "GEDO",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41187136/41187136.10455868",
           "tokens": [
@@ -27512,7 +27747,7 @@
           "contentId": "sm41187136",
           "title": "GEDO",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41187136/41187136.10455868",
           "tokens": [

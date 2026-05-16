@@ -3866,7 +3866,7 @@
       ],
       "startTime": "2015-10-30T19:05:00+09:00",
       "viewCounter": 114331,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm24734044",
@@ -4091,9 +4091,9 @@
     {
       "contentId": "sm41952281",
       "title": "tougenkyo",
-      "artist": "DARAKU",
+      "artist": "daraku",
       "artistList": [
-        "DARAKU"
+        "daraku"
       ],
       "startTime": "2023-03-19T00:00:00+09:00",
       "viewCounter": 89383,
@@ -4252,6 +4252,50 @@
       ],
       "startTime": "2024-09-01T20:00:00+09:00",
       "viewCounter": 803781,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45221323",
+      "title": "光化学スモッグが降る街に",
+      "artist": "いち野",
+      "artistList": [
+        "いち野"
+      ],
+      "startTime": "2025-08-23T00:00:00+09:00",
+      "viewCounter": 4516,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm33442655",
+      "title": "猫の食卓",
+      "artist": "きくお",
+      "artistList": [
+        "きくお"
+      ],
+      "startTime": "2018-06-29T22:04:03+09:00",
+      "viewCounter": 298162,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44131147",
+      "title": "どうか、この言の葉が巣食わないように",
+      "artist": "Kyiku",
+      "artistList": [
+        "Kyiku"
+      ],
+      "startTime": "2024-09-22T19:00:00+09:00",
+      "viewCounter": 45763,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm1636933",
+      "title": "不思議な幸せ",
+      "artist": "ネジP",
+      "artistList": [
+        "ネジP"
+      ],
+      "startTime": "2007-11-27T23:29:18+09:00",
+      "viewCounter": 76390,
       "correctCount": 1
     },
     {
@@ -6283,7 +6327,7 @@
     },
     {
       "artist": "SLAVE.V-V-R",
-      "correctCount": 18,
+      "correctCount": 19,
       "correctSongCount": 12
     },
     {
@@ -6403,8 +6447,8 @@
     },
     {
       "artist": "きくお",
-      "correctCount": 6,
-      "correctSongCount": 5
+      "correctCount": 7,
+      "correctSongCount": 6
     },
     {
       "artist": "Aqu3ra",
@@ -7023,8 +7067,8 @@
     },
     {
       "artist": "Kyiku",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "Nem",
@@ -7328,8 +7372,8 @@
     },
     {
       "artist": "いち野",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "Sohbana",
@@ -7392,7 +7436,7 @@
       "correctSongCount": 1
     },
     {
-      "artist": "DARAKU",
+      "artist": "daraku",
       "correctCount": 1,
       "correctSongCount": 1
     },
@@ -7433,6 +7477,11 @@
     },
     {
       "artist": "黒うさぎ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ネジP",
       "correctCount": 1,
       "correctSongCount": 1
     },
@@ -7775,12 +7824,12 @@
     },
     {
       "era": "2018",
-      "correctCount": 63,
-      "correctSongCount": 48
+      "correctCount": 64,
+      "correctSongCount": 49
     },
     {
       "era": "2015",
-      "correctCount": 49,
+      "correctCount": 50,
       "correctSongCount": 44
     },
     {
@@ -7810,8 +7859,8 @@
     },
     {
       "era": "2007-2008",
-      "correctCount": 60,
-      "correctSongCount": 54
+      "correctCount": 61,
+      "correctSongCount": 55
     },
     {
       "era": "2019",
@@ -7840,33 +7889,33 @@
     },
     {
       "era": "2025-",
-      "correctCount": 14,
-      "correctSongCount": 14
+      "correctCount": 15,
+      "correctSongCount": 15
     },
     {
       "era": "2024",
-      "correctCount": 8,
-      "correctSongCount": 8
+      "correctCount": 9,
+      "correctSongCount": 9
     }
   ],
   "viewStats": [
     {
       "range": "-1万",
       "order": 0,
-      "correctCount": 0,
-      "correctSongCount": 0
+      "correctCount": 1,
+      "correctSongCount": 1
     },
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 87,
-      "correctSongCount": 80
+      "correctCount": 89,
+      "correctSongCount": 82
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 219,
-      "correctSongCount": 192
+      "correctCount": 221,
+      "correctSongCount": 193
     },
     {
       "range": "30-50万",
@@ -10229,6 +10278,30 @@
       "viewCounter": 803781
     },
     {
+      "title": "光化学スモッグが降る街に",
+      "contentId": "sm45221323",
+      "startTime": 1755874800000,
+      "viewCounter": 4516
+    },
+    {
+      "title": "猫の食卓",
+      "contentId": "sm33442655",
+      "startTime": 1530277443000,
+      "viewCounter": 298162
+    },
+    {
+      "title": "どうか、この言の葉が巣食わないように",
+      "contentId": "sm44131147",
+      "startTime": 1726999200000,
+      "viewCounter": 45763
+    },
+    {
+      "title": "不思議な幸せ",
+      "contentId": "sm1636933",
+      "startTime": 1196173758000,
+      "viewCounter": 76390
+    },
+    {
       "title": "ジグソーパズル",
       "contentId": "sm34214810",
       "startTime": 1542963600000,
@@ -11232,15 +11305,140 @@
     }
   ],
   "summary": {
-    "totalAnswers": 979,
-    "okAnswers": 648,
-    "ngAnswers": 324,
-    "participatedQuizCount": 167,
-    "winQuizCount": 136,
+    "totalAnswers": 985,
+    "okAnswers": 653,
+    "ngAnswers": 325,
+    "participatedQuizCount": 168,
+    "winQuizCount": 137,
     "loseQuizCount": 7,
-    "medianViews": 307007
+    "medianViews": 305470
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "A",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 2,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 10,
+          "contentId": "sm45221323",
+          "title": "光化学スモッグが降る街に",
+          "artistList": [
+            "いち野"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45221323/45221323.59176022",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠くない人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "まつせ"
+            }
+          ]
+        },
+        {
+          "order": 12,
+          "contentId": "sm27480002",
+          "title": "地獄アイドル『ラブリーデストロイ』",
+          "artistList": [
+            "SLAVE.V-V-R"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27480002/27480002",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "まつせ"
+            }
+          ]
+        },
+        {
+          "order": 18,
+          "contentId": "sm3064555",
+          "title": "プラスチック・ガール",
+          "artistList": [
+            "kiichi"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/3064555/3064555",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "まつせ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "スライドポテト"
+            }
+          ]
+        },
+        {
+          "order": 23,
+          "contentId": "sm33442655",
+          "title": "猫の食卓",
+          "artistList": [
+            "きくお"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33442655/33442655",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "まつせ"
+            }
+          ]
+        },
+        {
+          "order": 32,
+          "contentId": "sm44131147",
+          "title": "どうか、この言の葉が巣食わないように",
+          "artistList": [
+            "Kyiku"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44131147/44131147.56186175",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "まつせ"
+            }
+          ]
+        },
+        {
+          "order": 33,
+          "contentId": "sm1636933",
+          "title": "不思議な幸せ",
+          "artistList": [
+            "ネジP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1636933/1636933",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(2)",
+              "user": "まつせ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "A",
@@ -12190,7 +12388,7 @@
           "contentId": "sm41952281",
           "title": "tougenkyo",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41952281/41952281.63280390",
           "tokens": [
@@ -13647,7 +13845,7 @@
           "contentId": "sm41952281",
           "title": "tougenkyo",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41952281/41952281.63280390",
           "tokens": [

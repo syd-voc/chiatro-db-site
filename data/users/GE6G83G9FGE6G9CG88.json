@@ -231,7 +231,7 @@
       ],
       "startTime": "2022-03-09T19:00:00+09:00",
       "viewCounter": 1884686,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm42224358",
@@ -330,7 +330,7 @@
       ],
       "startTime": "2009-08-09T08:17:10+09:00",
       "viewCounter": 1347821,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm35312841",
@@ -1048,6 +1048,39 @@
       "startTime": "2010-03-01T07:01:51+09:00",
       "viewCounter": 1190078,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm9485673",
+      "title": "アルビノ",
+      "artist": "buzzG",
+      "artistList": [
+        "buzzG"
+      ],
+      "startTime": "2010-01-24T21:06:10+09:00",
+      "viewCounter": 638282,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm21051219",
+      "title": "ラズベリー＊モンスター",
+      "artist": "HoneyWorks",
+      "artistList": [
+        "HoneyWorks"
+      ],
+      "startTime": "2013-06-06T19:40:00+09:00",
+      "viewCounter": 1210050,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm31314079",
+      "title": "拝啓ドッペルゲンガー",
+      "artist": "kemu",
+      "artistList": [
+        "kemu"
+      ],
+      "startTime": "2017-05-31T19:12:00+09:00",
+      "viewCounter": 4193016,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -1068,7 +1101,7 @@
     },
     {
       "artist": "DECO*27",
-      "correctCount": 7,
+      "correctCount": 8,
       "correctSongCount": 7
     },
     {
@@ -1153,8 +1186,8 @@
     },
     {
       "artist": "HoneyWorks",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "ぷす",
@@ -1168,7 +1201,7 @@
     },
     {
       "artist": "光収容",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -1375,6 +1408,16 @@
       "artist": "yuukiss",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "buzzG",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "kemu",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -1385,8 +1428,8 @@
     },
     {
       "era": "2013",
-      "correctCount": 8,
-      "correctSongCount": 7
+      "correctCount": 9,
+      "correctSongCount": 8
     },
     {
       "era": "2016",
@@ -1400,8 +1443,8 @@
     },
     {
       "era": "2017",
-      "correctCount": 9,
-      "correctSongCount": 9
+      "correctCount": 10,
+      "correctSongCount": 10
     },
     {
       "era": "2019",
@@ -1440,17 +1483,17 @@
     },
     {
       "era": "2010",
-      "correctCount": 7,
-      "correctSongCount": 7
+      "correctCount": 8,
+      "correctSongCount": 8
     },
     {
       "era": "2022",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
       "era": "2009",
-      "correctCount": 4,
+      "correctCount": 5,
       "correctSongCount": 4
     },
     {
@@ -1487,14 +1530,14 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 30,
-      "correctSongCount": 29
+      "correctCount": 31,
+      "correctSongCount": 30
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 34,
-      "correctSongCount": 34
+      "correctCount": 37,
+      "correctSongCount": 35
     },
     {
       "range": "200-300万",
@@ -1505,8 +1548,8 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "range": "500-1000万",
@@ -2091,18 +2134,224 @@
       "contentId": "sm9874560",
       "startTime": 1267394511000,
       "viewCounter": 1190078
+    },
+    {
+      "title": "アルビノ",
+      "contentId": "sm9485673",
+      "startTime": 1264334770000,
+      "viewCounter": 638282
+    },
+    {
+      "title": "ラズベリー＊モンスター",
+      "contentId": "sm21051219",
+      "startTime": 1370515200000,
+      "viewCounter": 1210050
+    },
+    {
+      "title": "拝啓ドッペルゲンガー",
+      "contentId": "sm31314079",
+      "startTime": 1496225520000,
+      "viewCounter": 4193016
     }
   ],
   "summary": {
-    "totalAnswers": 111,
-    "okAnswers": 96,
-    "ngAnswers": 15,
-    "participatedQuizCount": 21,
-    "winQuizCount": 19,
+    "totalAnswers": 117,
+    "okAnswers": 101,
+    "ngAnswers": 16,
+    "participatedQuizCount": 22,
+    "winQuizCount": 20,
     "loseQuizCount": 0,
-    "medianViews": 954331
+    "medianViews": 964243
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "D1",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 8,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 13,
+          "contentId": "sm7882150",
+          "title": "孤独の果て",
+          "artistList": [
+            "光収容"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7882150/7882150",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きょうぼく"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "おとまる"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "りつりつ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "惟月"
+            }
+          ]
+        },
+        {
+          "order": 17,
+          "contentId": "sm40126515",
+          "title": "ジレンマ",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40126515/40126515.28165848",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "777"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "paradoxes"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "惟月"
+            }
+          ]
+        },
+        {
+          "order": 45,
+          "contentId": "sm9485673",
+          "title": "アルビノ",
+          "artistList": [
+            "buzzG"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9485673/9485673",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "N氏"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "惟月"
+            }
+          ]
+        },
+        {
+          "order": 56,
+          "contentId": "sm21051219",
+          "title": "ラズベリー＊モンスター",
+          "artistList": [
+            "HoneyWorks"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21051219/21051219",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "惟月"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm42463425",
+          "title": "やめてください",
+          "artistList": [
+            "柊マグネタイト"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42463425/42463425.75916921",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "たいこさん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "おはよう"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "惟月"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(4)",
+              "user": "おとまる"
+            }
+          ]
+        },
+        {
+          "order": 71,
+          "contentId": "sm31314079",
+          "title": "拝啓ドッペルゲンガー",
+          "artistList": [
+            "kemu"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31314079/31314079",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(8)",
+              "user": "惟月"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "D1",

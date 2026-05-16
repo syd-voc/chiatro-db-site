@@ -322,7 +322,7 @@
       ],
       "startTime": "2013-01-18T15:16:37+09:00",
       "viewCounter": 3133183,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm36584171",
@@ -1208,6 +1208,51 @@
       "startTime": "2016-07-20T19:00:00+09:00",
       "viewCounter": 1531881,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm37681988",
+      "title": "ヒトリユラリ",
+      "artist": "Kanaria, MARETU",
+      "artistList": [
+        "Kanaria",
+        "MARETU"
+      ],
+      "startTime": "2020-10-17T18:54:02+09:00",
+      "viewCounter": 877144,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm28676334",
+      "title": "東京モノクロ",
+      "artist": "オワタP",
+      "artistList": [
+        "オワタP"
+      ],
+      "startTime": "2016-04-22T16:00:00+09:00",
+      "viewCounter": 115227,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35168302",
+      "title": "わたしは禁忌",
+      "artist": "いよわ",
+      "artistList": [
+        "いよわ"
+      ],
+      "startTime": "2019-05-24T19:00:00+09:00",
+      "viewCounter": 625035,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm29315733",
+      "title": "キライ・キライ・ジガヒダイ！",
+      "artist": "和田たけあき",
+      "artistList": [
+        "和田たけあき"
+      ],
+      "startTime": "2016-07-25T19:00:00+09:00",
+      "viewCounter": 3388289,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -1228,8 +1273,8 @@
     },
     {
       "artist": "オワタP",
-      "correctCount": 7,
-      "correctSongCount": 7
+      "correctCount": 8,
+      "correctSongCount": 8
     },
     {
       "artist": "Last Note.",
@@ -1288,8 +1333,8 @@
     },
     {
       "artist": "和田たけあき",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "100回嘔吐",
@@ -1318,7 +1363,7 @@
     },
     {
       "artist": "FB777",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -1580,6 +1625,21 @@
       "artist": "ちいたな",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "Kanaria",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "MARETU",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "いよわ",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -1620,8 +1680,8 @@
     },
     {
       "era": "2019",
-      "correctCount": 13,
-      "correctSongCount": 10
+      "correctCount": 14,
+      "correctSongCount": 11
     },
     {
       "era": "2009",
@@ -1630,13 +1690,13 @@
     },
     {
       "era": "2016",
-      "correctCount": 6,
-      "correctSongCount": 6
+      "correctCount": 8,
+      "correctSongCount": 8
     },
     {
       "era": "2020",
-      "correctCount": 6,
-      "correctSongCount": 6
+      "correctCount": 7,
+      "correctSongCount": 7
     },
     {
       "era": "2010",
@@ -1645,7 +1705,7 @@
     },
     {
       "era": "2013",
-      "correctCount": 7,
+      "correctCount": 8,
       "correctSongCount": 7
     },
     {
@@ -1675,8 +1735,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 11,
-      "correctSongCount": 10
+      "correctCount": 12,
+      "correctSongCount": 11
     },
     {
       "range": "30-50万",
@@ -1687,8 +1747,8 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 24,
-      "correctSongCount": 19
+      "correctCount": 26,
+      "correctSongCount": 21
     },
     {
       "range": "100-200万",
@@ -1705,8 +1765,8 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 17,
-      "correctSongCount": 16
+      "correctCount": 19,
+      "correctSongCount": 17
     },
     {
       "range": "500-1000万",
@@ -2375,18 +2435,261 @@
       "contentId": "sm29281205",
       "startTime": 1469008800000,
       "viewCounter": 1531881
+    },
+    {
+      "title": "ヒトリユラリ",
+      "contentId": "sm37681988",
+      "startTime": 1602928442000,
+      "viewCounter": 877144
+    },
+    {
+      "title": "東京モノクロ",
+      "contentId": "sm28676334",
+      "startTime": 1461308400000,
+      "viewCounter": 115227
+    },
+    {
+      "title": "わたしは禁忌",
+      "contentId": "sm35168302",
+      "startTime": 1558692000000,
+      "viewCounter": 625035
+    },
+    {
+      "title": "キライ・キライ・ジガヒダイ！",
+      "contentId": "sm29315733",
+      "startTime": 1469440800000,
+      "viewCounter": 3388289
     }
   ],
   "summary": {
-    "totalAnswers": 177,
-    "okAnswers": 122,
-    "ngAnswers": 55,
-    "participatedQuizCount": 31,
-    "winQuizCount": 20,
+    "totalAnswers": 186,
+    "okAnswers": 127,
+    "ngAnswers": 59,
+    "participatedQuizCount": 32,
+    "winQuizCount": 21,
     "loseQuizCount": 0,
-    "medianViews": 1020530
+    "medianViews": 958187
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "D2",
+      "date": "2026-05-16",
+      "ok": 5,
+      "ng": 4,
+      "winRank": 10,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 1,
+          "contentId": "sm37681988",
+          "title": "ヒトリユラリ",
+          "artistList": [
+            "Kanaria",
+            "MARETU"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37681988/37681988.84888808",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "防虫剤"
+            }
+          ]
+        },
+        {
+          "order": 13,
+          "contentId": "sm14196898",
+          "title": "マーメイド",
+          "artistList": [
+            "monaca:factory"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14196898/14196898",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "aq瑠璃"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "防虫剤"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぷれいやあ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "つばさ"
+            }
+          ]
+        },
+        {
+          "order": 20,
+          "contentId": "sm10924943",
+          "title": "初音ミクの分裂→破壊",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10924943/10924943",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "防虫剤"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "千夜"
+            }
+          ]
+        },
+        {
+          "order": 40,
+          "contentId": "sm22587884",
+          "title": "ELECT",
+          "artistList": [
+            "niki"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22587884/22587884",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "パム"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "防虫剤"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "あご星人"
+            }
+          ]
+        },
+        {
+          "order": 45,
+          "contentId": "sm28676334",
+          "title": "東京モノクロ",
+          "artistList": [
+            "オワタP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28676334/28676334",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "防虫剤"
+            }
+          ]
+        },
+        {
+          "order": 52,
+          "contentId": "sm17153408",
+          "title": "谺、碧海、那由多を見定むアグラフォノスの詩篇",
+          "artistList": [
+            "Neru"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/17153408/17153408",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "防虫剤"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "あご星人"
+            }
+          ]
+        },
+        {
+          "order": 61,
+          "contentId": "sm35168302",
+          "title": "わたしは禁忌",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35168302/35168302.4748403",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "防虫剤"
+            }
+          ]
+        },
+        {
+          "order": 62,
+          "contentId": "sm29315733",
+          "title": "キライ・キライ・ジガヒダイ！",
+          "artistList": [
+            "和田たけあき"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29315733/29315733",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "防虫剤"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm19856000",
+          "title": "THE WORLDS",
+          "artistList": [
+            "FB777"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19856000/19856000",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(10)",
+              "user": "防虫剤"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "D2",

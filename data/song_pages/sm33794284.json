@@ -32,6 +32,20 @@
   },
   "histories": [
     {
+      "date": "2026-05-16",
+      "quizNo": 299,
+      "group": "B",
+      "order": 49,
+      "winner": "手下"
+    },
+    {
+      "date": "2026-05-15",
+      "quizNo": 299,
+      "group": "A",
+      "order": 28,
+      "winner": "ゲオス"
+    },
+    {
       "date": "2026-05-01",
       "quizNo": 297,
       "group": "C1",
@@ -161,8 +175,8 @@
       "winner": "ちみ"
     }
   ],
-  "appearanceCount": 19,
-  "correctCount": 18,
+  "appearanceCount": 21,
+  "correctCount": 20,
   "accuracy": 95,
   "anotherVersions": []
 }

@@ -2759,9 +2759,9 @@
     {
       "contentId": "sm42572901",
       "title": "不出来物",
-      "artist": "⌘ ハイノミ",
+      "artist": "⌘ハイノミ",
       "artistList": [
-        "⌘ ハイノミ"
+        "⌘ハイノミ"
       ],
       "startTime": "2023-08-05T00:00:00+09:00",
       "viewCounter": 94801,
@@ -4156,6 +4156,61 @@
       "startTime": "2020-03-13T20:00:00+09:00",
       "viewCounter": 639851,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm36009455",
+      "title": "チーズケーキクライシス",
+      "artist": "TOKOTOKO（西沢さんP）",
+      "artistList": [
+        "TOKOTOKO（西沢さんP）"
+      ],
+      "startTime": "2019-11-27T18:00:00+09:00",
+      "viewCounter": 226014,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44674627",
+      "title": "文学的なブーバキキ",
+      "artist": "安見すや",
+      "artistList": [
+        "安見すや"
+      ],
+      "startTime": "2025-02-22T00:00:00+09:00",
+      "viewCounter": 88537,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm31936023",
+      "title": "コバルトメモリーズ",
+      "artist": "はるまきごはん",
+      "artistList": [
+        "はるまきごはん"
+      ],
+      "startTime": "2017-09-16T20:00:19+09:00",
+      "viewCounter": 1018478,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm41573836",
+      "title": "チーズ",
+      "artist": "Chinozo",
+      "artistList": [
+        "Chinozo"
+      ],
+      "startTime": "2022-12-30T20:00:00+09:00",
+      "viewCounter": 739763,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35681793",
+      "title": "前髪ぱっつんすとれーと",
+      "artist": "Naskey",
+      "artistList": [
+        "Naskey"
+      ],
+      "startTime": "2019-09-14T23:52:04+09:00",
+      "viewCounter": 33069,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4516,13 +4571,13 @@
     },
     {
       "artist": "Chinozo",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "はるまきごはん",
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "artist": "しるばーな",
@@ -4900,7 +4955,7 @@
       "correctSongCount": 1
     },
     {
-      "artist": "⌘ ハイノミ",
+      "artist": "⌘ハイノミ",
       "correctCount": 1,
       "correctSongCount": 1
     },
@@ -5203,6 +5258,21 @@
       "artist": "子牛",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "TOKOTOKO（西沢さんP）",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "安見すや",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "Naskey",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -5223,8 +5293,8 @@
     },
     {
       "era": "2019",
-      "correctCount": 31,
-      "correctSongCount": 29
+      "correctCount": 33,
+      "correctSongCount": 31
     },
     {
       "era": "2018",
@@ -5248,13 +5318,13 @@
     },
     {
       "era": "2017",
-      "correctCount": 36,
-      "correctSongCount": 31
+      "correctCount": 37,
+      "correctSongCount": 32
     },
     {
       "era": "2022",
-      "correctCount": 35,
-      "correctSongCount": 33
+      "correctCount": 36,
+      "correctSongCount": 34
     },
     {
       "era": "2012",
@@ -5293,8 +5363,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 13,
-      "correctSongCount": 13
+      "correctCount": 14,
+      "correctSongCount": 14
     }
   ],
   "viewStats": [
@@ -5307,14 +5377,14 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 39,
-      "correctSongCount": 38
+      "correctCount": 41,
+      "correctSongCount": 40
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 109,
-      "correctSongCount": 102
+      "correctCount": 110,
+      "correctSongCount": 103
     },
     {
       "range": "30-50万",
@@ -5325,14 +5395,14 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 88,
-      "correctSongCount": 78
+      "correctCount": 89,
+      "correctSongCount": 79
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 52,
-      "correctSongCount": 45
+      "correctCount": 53,
+      "correctSongCount": 46
     },
     {
       "range": "200-300万",
@@ -7621,18 +7691,224 @@
       "contentId": "sm36503255",
       "startTime": 1584097200000,
       "viewCounter": 639851
+    },
+    {
+      "title": "チーズケーキクライシス",
+      "contentId": "sm36009455",
+      "startTime": 1574845200000,
+      "viewCounter": 226014
+    },
+    {
+      "title": "文学的なブーバキキ",
+      "contentId": "sm44674627",
+      "startTime": 1740150000000,
+      "viewCounter": 88537
+    },
+    {
+      "title": "コバルトメモリーズ",
+      "contentId": "sm31936023",
+      "startTime": 1505559619000,
+      "viewCounter": 1018478
+    },
+    {
+      "title": "チーズ",
+      "contentId": "sm41573836",
+      "startTime": 1672398000000,
+      "viewCounter": 739763
+    },
+    {
+      "title": "前髪ぱっつんすとれーと",
+      "contentId": "sm35681793",
+      "startTime": 1568472724000,
+      "viewCounter": 33069
     }
   ],
   "summary": {
-    "totalAnswers": 604,
-    "okAnswers": 416,
-    "ngAnswers": 179,
-    "participatedQuizCount": 95,
-    "winQuizCount": 77,
+    "totalAnswers": 611,
+    "okAnswers": 421,
+    "ngAnswers": 181,
+    "participatedQuizCount": 96,
+    "winQuizCount": 78,
     "loseQuizCount": 9,
     "medianViews": 526453
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "A",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 10,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 7,
+          "contentId": "sm33999026",
+          "title": "ハイドランジア",
+          "artistList": [
+            "梅とら"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33999026/33999026",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "時雨"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ゲオス"
+            }
+          ]
+        },
+        {
+          "order": 22,
+          "contentId": "sm35036524",
+          "title": "そらリゼーション",
+          "artistList": [
+            "k_zero+A"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35036524/35036524.39295",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "影山"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "時雨"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "スライドポテト"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 59,
+          "contentId": "sm36009455",
+          "title": "チーズケーキクライシス",
+          "artistList": [
+            "TOKOTOKO（西沢さんP）"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36009455/36009455.76471909",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "世界のYAMADA"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "時雨"
+            }
+          ]
+        },
+        {
+          "order": 69,
+          "contentId": "sm44674627",
+          "title": "文学的なブーバキキ",
+          "artistList": [
+            "安見すや"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44674627/44674627.18615595",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "時雨"
+            }
+          ]
+        },
+        {
+          "order": 70,
+          "contentId": "sm31936023",
+          "title": "コバルトメモリーズ",
+          "artistList": [
+            "はるまきごはん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31936023/31936023",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "時雨"
+            }
+          ]
+        },
+        {
+          "order": 73,
+          "contentId": "sm41573836",
+          "title": "チーズ",
+          "artistList": [
+            "Chinozo"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41573836/41573836.11167625",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "時雨"
+            }
+          ]
+        },
+        {
+          "order": 76,
+          "contentId": "sm35681793",
+          "title": "前髪ぱっつんすとれーと",
+          "artistList": [
+            "Naskey"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35681793/35681793.45530223",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(10)",
+              "user": "時雨"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "A",
@@ -12590,7 +12866,7 @@
           "contentId": "sm42572901",
           "title": "不出来物",
           "artistList": [
-            "⌘ ハイノミ"
+            "⌘ハイノミ"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42572901/42572901.15075863",
           "tokens": [

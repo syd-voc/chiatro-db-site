@@ -1932,6 +1932,51 @@
       "startTime": "2014-10-08T13:39:07+09:00",
       "viewCounter": 9075583,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm25503326",
+      "title": "八日目、雨が止む前に。",
+      "artist": "スズム",
+      "artistList": [
+        "スズム"
+      ],
+      "startTime": "2015-02-05T19:04:34+09:00",
+      "viewCounter": 372773,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm21113426",
+      "title": "東京レトロ",
+      "artist": "すこっぷ",
+      "artistList": [
+        "すこっぷ"
+      ],
+      "startTime": "2013-06-14T20:02:34+09:00",
+      "viewCounter": 957055,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm37414163",
+      "title": "帝都群青",
+      "artist": "R Sound Design",
+      "artistList": [
+        "R Sound Design"
+      ],
+      "startTime": "2020-08-26T18:00:00+09:00",
+      "viewCounter": 327383,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39426308",
+      "title": "サクラノタトゥー",
+      "artist": "ピノキオピー, 一二三",
+      "artistList": [
+        "ピノキオピー",
+        "一二三"
+      ],
+      "startTime": "2021-10-15T19:00:00+09:00",
+      "viewCounter": 1057127,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -1957,8 +2002,8 @@
     },
     {
       "artist": "ピノキオピー",
-      "correctCount": 6,
-      "correctSongCount": 5
+      "correctCount": 7,
+      "correctSongCount": 6
     },
     {
       "artist": "じん",
@@ -2357,8 +2402,8 @@
     },
     {
       "artist": "一二三",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "ryo",
@@ -2549,13 +2594,28 @@
       "artist": "Crusher",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "スズム",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "すこっぷ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "R Sound Design",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2013",
-      "correctCount": 8,
-      "correctSongCount": 8
+      "correctCount": 9,
+      "correctSongCount": 9
     },
     {
       "era": "2007-2008",
@@ -2564,8 +2624,8 @@
     },
     {
       "era": "2015",
-      "correctCount": 24,
-      "correctSongCount": 20
+      "correctCount": 25,
+      "correctSongCount": 21
     },
     {
       "era": "2023",
@@ -2604,8 +2664,8 @@
     },
     {
       "era": "2021",
-      "correctCount": 8,
-      "correctSongCount": 8
+      "correctCount": 9,
+      "correctSongCount": 9
     },
     {
       "era": "2018",
@@ -2629,8 +2689,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "era": "2010",
@@ -2665,20 +2725,20 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 26,
-      "correctSongCount": 22
+      "correctCount": 28,
+      "correctSongCount": 24
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 37,
-      "correctSongCount": 34
+      "correctCount": 38,
+      "correctSongCount": 35
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 24,
-      "correctSongCount": 22
+      "correctCount": 25,
+      "correctSongCount": 23
     },
     {
       "range": "200-300万",
@@ -3755,18 +3815,262 @@
       "contentId": "sm24643818",
       "startTime": 1412743147000,
       "viewCounter": 9075583
+    },
+    {
+      "title": "八日目、雨が止む前に。",
+      "contentId": "sm25503326",
+      "startTime": 1423130674000,
+      "viewCounter": 372773
+    },
+    {
+      "title": "東京レトロ",
+      "contentId": "sm21113426",
+      "startTime": 1371207754000,
+      "viewCounter": 957055
+    },
+    {
+      "title": "帝都群青",
+      "contentId": "sm37414163",
+      "startTime": 1598432400000,
+      "viewCounter": 327383
+    },
+    {
+      "title": "サクラノタトゥー",
+      "contentId": "sm39426308",
+      "startTime": 1634292000000,
+      "viewCounter": 1057127
     }
   ],
   "summary": {
-    "totalAnswers": 287,
-    "okAnswers": 196,
-    "ngAnswers": 90,
-    "participatedQuizCount": 40,
-    "winQuizCount": 38,
+    "totalAnswers": 295,
+    "okAnswers": 200,
+    "ngAnswers": 94,
+    "participatedQuizCount": 41,
+    "winQuizCount": 39,
     "loseQuizCount": 1,
-    "medianViews": 583953
+    "medianViews": 579162
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C1",
+      "date": "2026-05-15",
+      "ok": 4,
+      "ng": 4,
+      "winRank": 17,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 7,
+          "contentId": "sm25503326",
+          "title": "八日目、雨が止む前に。",
+          "artistList": [
+            "スズム"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25503326/25503326",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "とある逢瀬"
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "contentId": "sm21113426",
+          "title": "東京レトロ",
+          "artistList": [
+            "すこっぷ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21113426/21113426",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "とある逢瀬"
+            }
+          ]
+        },
+        {
+          "order": 43,
+          "contentId": "sm29465174",
+          "title": "ドキドキ☆乙女男子",
+          "artistList": [
+            "パピ子りん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29465174/29465174",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とある逢瀬"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "そ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 61,
+          "contentId": "sm25876181",
+          "title": "おまじない胸算用",
+          "artistList": [
+            "ゆうゆ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25876181/25876181",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とある逢瀬"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(9)",
+              "user": "とりりす。"
+            }
+          ]
+        },
+        {
+          "order": 67,
+          "contentId": "sm37414163",
+          "title": "帝都群青",
+          "artistList": [
+            "R Sound Design"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37414163/37414163.83873032",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "とある逢瀬"
+            }
+          ]
+        },
+        {
+          "order": 69,
+          "contentId": "sm45697129",
+          "title": "にゅー！支配者のキャロル",
+          "artistList": [
+            "藤原ハガネ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45697129/45697129.18585418",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とある逢瀬"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "そ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あいおい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "HAN"
+            }
+          ]
+        },
+        {
+          "order": 74,
+          "contentId": "sm2700265",
+          "title": "Soar",
+          "artistList": [
+            "流星P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2700265/2700265",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "そ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とある逢瀬"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "クスノキ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "祝公式"
+            }
+          ]
+        },
+        {
+          "order": 88,
+          "contentId": "sm39426308",
+          "title": "サクラノタトゥー",
+          "artistList": [
+            "ピノキオピー",
+            "一二三"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39426308/39426308.40405600",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(17)",
+              "user": "とある逢瀬"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "C1",

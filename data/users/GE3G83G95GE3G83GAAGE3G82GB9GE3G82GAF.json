@@ -410,7 +410,7 @@
       ],
       "startTime": "2017-09-29T19:39:00+09:00",
       "viewCounter": 4892805,
-      "correctCount": 5
+      "correctCount": 6
     },
     {
       "contentId": "sm25275605",
@@ -2190,9 +2190,9 @@
     {
       "contentId": "sm41187136",
       "title": "GEDO",
-      "artist": "DARAKU",
+      "artist": "daraku",
       "artistList": [
-        "DARAKU"
+        "daraku"
       ],
       "startTime": "2022-10-07T19:00:00+09:00",
       "viewCounter": 415775,
@@ -4350,6 +4350,39 @@
       "startTime": "2025-03-13T19:00:00+09:00",
       "viewCounter": 463875,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm38319662",
+      "title": "籠女籠女",
+      "artist": "ANGL",
+      "artistList": [
+        "ANGL"
+      ],
+      "startTime": "2021-02-23T19:00:00+09:00",
+      "viewCounter": 31142,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35548406",
+      "title": "あの夏のいつかは",
+      "artist": "*Luna",
+      "artistList": [
+        "*Luna"
+      ],
+      "startTime": "2019-08-16T22:00:00+09:00",
+      "viewCounter": 378973,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm41188307",
+      "title": "星界ちゃんと可不ちゃんのおつかい合騒曲",
+      "artist": "南ノ南",
+      "artistList": [
+        "南ノ南"
+      ],
+      "startTime": "2022-10-08T00:00:00+09:00",
+      "viewCounter": 2700772,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4435,7 +4468,7 @@
     },
     {
       "artist": "MARETU",
-      "correctCount": 25,
+      "correctCount": 26,
       "correctSongCount": 15
     },
     {
@@ -4570,8 +4603,8 @@
     },
     {
       "artist": "*Luna",
-      "correctCount": 4,
-      "correctSongCount": 3
+      "correctCount": 5,
+      "correctSongCount": 4
     },
     {
       "artist": "doriko",
@@ -4929,7 +4962,7 @@
       "correctSongCount": 1
     },
     {
-      "artist": "DARAKU",
+      "artist": "daraku",
       "correctCount": 1,
       "correctSongCount": 1
     },
@@ -5277,13 +5310,23 @@
       "artist": "TAK",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "ANGL",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "南ノ南",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2021",
-      "correctCount": 56,
-      "correctSongCount": 40
+      "correctCount": 57,
+      "correctSongCount": 41
     },
     {
       "era": "2020",
@@ -5292,18 +5335,18 @@
     },
     {
       "era": "2022",
-      "correctCount": 60,
-      "correctSongCount": 46
+      "correctCount": 61,
+      "correctSongCount": 47
     },
     {
       "era": "2017",
-      "correctCount": 42,
+      "correctCount": 43,
       "correctSongCount": 31
     },
     {
       "era": "2019",
-      "correctCount": 31,
-      "correctSongCount": 26
+      "correctCount": 32,
+      "correctSongCount": 27
     },
     {
       "era": "2012",
@@ -5381,8 +5424,8 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 21,
-      "correctSongCount": 19
+      "correctCount": 22,
+      "correctSongCount": 20
     },
     {
       "range": "10-30万",
@@ -5393,8 +5436,8 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 74,
-      "correctSongCount": 59
+      "correctCount": 75,
+      "correctSongCount": 60
     },
     {
       "range": "50-100万",
@@ -5411,13 +5454,13 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 44,
-      "correctSongCount": 32
+      "correctCount": 45,
+      "correctSongCount": 33
     },
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 45,
+      "correctCount": 46,
       "correctSongCount": 35
     },
     {
@@ -7797,18 +7840,185 @@
       "contentId": "sm44755576",
       "startTime": 1741860000000,
       "viewCounter": 463875
+    },
+    {
+      "title": "籠女籠女",
+      "contentId": "sm38319662",
+      "startTime": 1614074400000,
+      "viewCounter": 31142
+    },
+    {
+      "title": "あの夏のいつかは",
+      "contentId": "sm35548406",
+      "startTime": 1565960400000,
+      "viewCounter": 378973
+    },
+    {
+      "title": "星界ちゃんと可不ちゃんのおつかい合騒曲",
+      "contentId": "sm41188307",
+      "startTime": 1665154800000,
+      "viewCounter": 2700772
     }
   ],
   "summary": {
-    "totalAnswers": 809,
-    "okAnswers": 494,
-    "ngAnswers": 302,
-    "participatedQuizCount": 116,
-    "winQuizCount": 86,
+    "totalAnswers": 816,
+    "okAnswers": 498,
+    "ngAnswers": 305,
+    "participatedQuizCount": 117,
+    "winQuizCount": 87,
     "loseQuizCount": 13,
-    "medianViews": 927982
+    "medianViews": 925760
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C1",
+      "date": "2026-05-15",
+      "ok": 4,
+      "ng": 3,
+      "winRank": 2,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 3,
+          "contentId": "sm38319662",
+          "title": "籠女籠女",
+          "artistList": [
+            "ANGL"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38319662/38319662.81710671",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "フリスク"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "contentId": "sm21538842",
+          "title": "ニャン黙の了解",
+          "artistList": [
+            "鬱P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21538842/21538842",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "フリスク"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "きぐな"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "contentId": "sm18185556",
+          "title": "Re;BIRTH",
+          "artistList": [
+            "seleP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18185556/18185556",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "フリスク"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "とりりす。"
+            }
+          ]
+        },
+        {
+          "order": 19,
+          "contentId": "sm35548406",
+          "title": "あの夏のいつかは",
+          "artistList": [
+            "*Luna"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35548406/35548406.49643283",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "フリスク"
+            }
+          ]
+        },
+        {
+          "order": 21,
+          "contentId": "sm42577948",
+          "title": "夏模倣",
+          "artistList": [
+            "かしこ。"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42577948/42577948.41400369",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "フリスク"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 30,
+          "contentId": "sm32012728",
+          "title": "ダーリン",
+          "artistList": [
+            "MARETU"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32012728/32012728",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "フリスク"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm41188307",
+          "title": "星界ちゃんと可不ちゃんのおつかい合騒曲",
+          "artistList": [
+            "南ノ南"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41188307/41188307.36431325",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(2)",
+              "user": "フリスク"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "C1",
@@ -19735,7 +19945,7 @@
           "contentId": "sm41187136",
           "title": "GEDO",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41187136/41187136.10455868",
           "tokens": [

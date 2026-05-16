@@ -11,7 +11,7 @@
       ],
       "startTime": "2017-06-30T18:00:00+09:00",
       "viewCounter": 2041158,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm25223315",
@@ -1036,7 +1036,7 @@
       ],
       "startTime": "2024-03-01T18:39:00+09:00",
       "viewCounter": 343286,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm23348919",
@@ -1147,13 +1147,46 @@
       "startTime": "2018-09-12T19:00:00+09:00",
       "viewCounter": 102596,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm21720819",
+      "title": "アウターサイエンス",
+      "artist": "じん",
+      "artistList": [
+        "じん"
+      ],
+      "startTime": "2013-08-31T17:00:06+09:00",
+      "viewCounter": 4783037,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm33255722",
+      "title": "眠り姫",
+      "artist": "Guiano",
+      "artistList": [
+        "Guiano"
+      ],
+      "startTime": "2018-05-24T19:00:00+09:00",
+      "viewCounter": 217722,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm32673722",
+      "title": "メリーバッドエンド",
+      "artist": "まふまふ",
+      "artistList": [
+        "まふまふ"
+      ],
+      "startTime": "2018-02-02T18:00:00+09:00",
+      "viewCounter": 2843122,
+      "correctCount": 1
     }
   ],
   "artistStats": [
     {
       "artist": "まふまふ",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 5,
+      "correctSongCount": 4
     },
     {
       "artist": "れるりり",
@@ -1222,8 +1255,8 @@
     },
     {
       "artist": "じん",
-      "correctCount": 4,
-      "correctSongCount": 3
+      "correctCount": 5,
+      "correctSongCount": 4
     },
     {
       "artist": "ギガ",
@@ -1247,7 +1280,7 @@
     },
     {
       "artist": "ナユタン星人",
-      "correctCount": 4,
+      "correctCount": 5,
       "correctSongCount": 3
     },
     {
@@ -1479,12 +1512,17 @@
       "artist": "さまぐら",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "Guiano",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2017",
-      "correctCount": 8,
+      "correctCount": 9,
       "correctSongCount": 7
     },
     {
@@ -1514,8 +1552,8 @@
     },
     {
       "era": "2013",
-      "correctCount": 10,
-      "correctSongCount": 9
+      "correctCount": 11,
+      "correctSongCount": 10
     },
     {
       "era": "2023",
@@ -1524,8 +1562,8 @@
     },
     {
       "era": "2018",
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 7,
+      "correctSongCount": 7
     },
     {
       "era": "2014",
@@ -1564,7 +1602,7 @@
     },
     {
       "era": "2024",
-      "correctCount": 7,
+      "correctCount": 8,
       "correctSongCount": 6
     }
   ],
@@ -1584,13 +1622,13 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 14,
-      "correctSongCount": 14
+      "correctCount": 15,
+      "correctSongCount": 15
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 16,
+      "correctCount": 17,
       "correctSongCount": 13
     },
     {
@@ -1608,14 +1646,14 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 21,
-      "correctSongCount": 19
+      "correctCount": 23,
+      "correctSongCount": 20
     },
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 15,
-      "correctSongCount": 13
+      "correctCount": 16,
+      "correctSongCount": 14
     },
     {
       "range": "500-1000万",
@@ -2254,18 +2292,161 @@
       "contentId": "sm33841308",
       "startTime": 1536746400000,
       "viewCounter": 102596
+    },
+    {
+      "title": "アウターサイエンス",
+      "contentId": "sm21720819",
+      "startTime": 1377936006000,
+      "viewCounter": 4783037
+    },
+    {
+      "title": "眠り姫",
+      "contentId": "sm33255722",
+      "startTime": 1527156000000,
+      "viewCounter": 217722
+    },
+    {
+      "title": "メリーバッドエンド",
+      "contentId": "sm32673722",
+      "startTime": 1517562000000,
+      "viewCounter": 2843122
     }
   ],
   "summary": {
-    "totalAnswers": 146,
-    "okAnswers": 114,
-    "ngAnswers": 32,
-    "participatedQuizCount": 24,
-    "winQuizCount": 22,
+    "totalAnswers": 152,
+    "okAnswers": 119,
+    "ngAnswers": 33,
+    "participatedQuizCount": 25,
+    "winQuizCount": 23,
     "loseQuizCount": 0,
     "medianViews": 1167938
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "D2",
+      "date": "2026-05-16",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 8,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 34,
+          "contentId": "sm31480307",
+          "title": "マチガイサガシ",
+          "artistList": [
+            "まふまふ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31480307/31480307",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "パム"
+            }
+          ]
+        },
+        {
+          "order": 40,
+          "contentId": "sm22587884",
+          "title": "ELECT",
+          "artistList": [
+            "niki"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22587884/22587884",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "パム"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "防虫剤"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "あご星人"
+            }
+          ]
+        },
+        {
+          "order": 42,
+          "contentId": "sm43462792",
+          "title": "エスパーエスパー",
+          "artistList": [
+            "ナユタン星人"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43462792/43462792.87710025",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "パム"
+            }
+          ]
+        },
+        {
+          "order": 50,
+          "contentId": "sm21720819",
+          "title": "アウターサイエンス",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21720819/21720819",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "パム"
+            }
+          ]
+        },
+        {
+          "order": 57,
+          "contentId": "sm33255722",
+          "title": "眠り姫",
+          "artistList": [
+            "Guiano"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33255722/33255722",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "パム"
+            }
+          ]
+        },
+        {
+          "order": 58,
+          "contentId": "sm32673722",
+          "title": "メリーバッドエンド",
+          "artistList": [
+            "まふまふ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32673722/32673722",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(8)",
+              "user": "パム"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 263,
       "group": "E",

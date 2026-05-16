@@ -4420,6 +4420,50 @@
       "startTime": "2009-07-11T22:32:58+09:00",
       "viewCounter": 230205,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm12825985",
+      "title": "ハッピーシンセサイザ",
+      "artist": "EasyPop",
+      "artistList": [
+        "EasyPop"
+      ],
+      "startTime": "2010-11-22T20:10:37+09:00",
+      "viewCounter": 8034602,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm33794284",
+      "title": "風に消える",
+      "artist": "こめだわら",
+      "artistList": [
+        "こめだわら"
+      ],
+      "startTime": "2018-09-03T19:00:00+09:00",
+      "viewCounter": 515786,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35546354",
+      "title": "オルターエゴ",
+      "artist": "Misumi",
+      "artistList": [
+        "Misumi"
+      ],
+      "startTime": "2019-08-16T18:00:00+09:00",
+      "viewCounter": 1808004,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm9952079",
+      "title": "最後のリボルバー",
+      "artist": "悪ノP",
+      "artistList": [
+        "悪ノP"
+      ],
+      "startTime": "2010-03-08T04:13:58+09:00",
+      "viewCounter": 837240,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -5055,8 +5099,8 @@
     },
     {
       "artist": "悪ノP",
-      "correctCount": 8,
-      "correctSongCount": 6
+      "correctCount": 9,
+      "correctSongCount": 7
     },
     {
       "artist": "*Luna",
@@ -5592,6 +5636,21 @@
       "artist": "nagi-P",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "EasyPop",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "こめだわら",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "Misumi",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -5622,8 +5681,8 @@
     },
     {
       "era": "2010",
-      "correctCount": 28,
-      "correctSongCount": 24
+      "correctCount": 30,
+      "correctSongCount": 26
     },
     {
       "era": "2011",
@@ -5642,8 +5701,8 @@
     },
     {
       "era": "2019",
-      "correctCount": 33,
-      "correctSongCount": 32
+      "correctCount": 34,
+      "correctSongCount": 33
     },
     {
       "era": "2015",
@@ -5657,8 +5716,8 @@
     },
     {
       "era": "2018",
-      "correctCount": 26,
-      "correctSongCount": 22
+      "correctCount": 27,
+      "correctSongCount": 23
     },
     {
       "era": "2007-2008",
@@ -5714,14 +5773,14 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 109,
-      "correctSongCount": 91
+      "correctCount": 111,
+      "correctSongCount": 93
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 35,
-      "correctSongCount": 31
+      "correctCount": 36,
+      "correctSongCount": 32
     },
     {
       "range": "200-300万",
@@ -5738,8 +5797,8 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "range": "1000万-",
@@ -8154,18 +8213,203 @@
       "contentId": "sm7605761",
       "startTime": 1247319178000,
       "viewCounter": 230205
+    },
+    {
+      "title": "ハッピーシンセサイザ",
+      "contentId": "sm12825985",
+      "startTime": 1290424237000,
+      "viewCounter": 8034602
+    },
+    {
+      "title": "風に消える",
+      "contentId": "sm33794284",
+      "startTime": 1535968800000,
+      "viewCounter": 515786
+    },
+    {
+      "title": "オルターエゴ",
+      "contentId": "sm35546354",
+      "startTime": 1565946000000,
+      "viewCounter": 1808004
+    },
+    {
+      "title": "最後のリボルバー",
+      "contentId": "sm9952079",
+      "startTime": 1267989238000,
+      "viewCounter": 837240
     }
   ],
   "summary": {
-    "totalAnswers": 626,
-    "okAnswers": 446,
-    "ngAnswers": 175,
-    "participatedQuizCount": 98,
-    "winQuizCount": 90,
+    "totalAnswers": 632,
+    "okAnswers": 450,
+    "ngAnswers": 177,
+    "participatedQuizCount": 99,
+    "winQuizCount": 91,
     "loseQuizCount": 5,
-    "medianViews": 366518
+    "medianViews": 370073
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "B",
+      "date": "2026-05-16",
+      "ok": 4,
+      "ng": 2,
+      "winRank": 8,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 8,
+          "contentId": "sm14712230",
+          "title": "Prototype",
+          "artistList": [
+            "niki"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14712230/14712230",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Takuan"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "テフミネ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "手下"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Cumber"
+            }
+          ]
+        },
+        {
+          "order": 36,
+          "contentId": "sm27941696",
+          "title": "アリス",
+          "artistList": [
+            "ATOLS"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27941696/27941696",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "八神猪熊"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "手下"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ルナ・アリス"
+            }
+          ]
+        },
+        {
+          "order": 44,
+          "contentId": "sm12825985",
+          "title": "ハッピーシンセサイザ",
+          "artistList": [
+            "EasyPop"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12825985/12825985",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "手下"
+            }
+          ]
+        },
+        {
+          "order": 49,
+          "contentId": "sm33794284",
+          "title": "風に消える",
+          "artistList": [
+            "こめだわら"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33794284/33794284",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "手下"
+            }
+          ]
+        },
+        {
+          "order": 50,
+          "contentId": "sm35546354",
+          "title": "オルターエゴ",
+          "artistList": [
+            "Misumi"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35546354/35546354.24253915",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "手下"
+            }
+          ]
+        },
+        {
+          "order": 51,
+          "contentId": "sm9952079",
+          "title": "最後のリボルバー",
+          "artistList": [
+            "悪ノP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9952079/9952079",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(8)",
+              "user": "手下"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "A",

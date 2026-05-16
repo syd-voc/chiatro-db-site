@@ -1419,9 +1419,9 @@
     {
       "contentId": "nm15770119",
       "title": "CRYONICS",
-      "artist": "AVTeckNO!",
+      "artist": "AVTechNO!",
       "artistList": [
-        "AVTeckNO!"
+        "AVTechNO!"
       ],
       "startTime": "2011-10-02T06:02:11+09:00",
       "viewCounter": 149378,
@@ -3918,7 +3918,7 @@
       ],
       "startTime": "2009-06-26T17:46:03+09:00",
       "viewCounter": 820867,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm9305683",
@@ -4817,6 +4817,39 @@
       ],
       "startTime": "2011-07-03T19:47:20+09:00",
       "viewCounter": 508354,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm33026031",
+      "title": "東京浪漫女子謳歌蘭街六九七番地ノ恋",
+      "artist": "SLAVE.V-V-R",
+      "artistList": [
+        "SLAVE.V-V-R"
+      ],
+      "startTime": "2018-04-09T19:05:00+09:00",
+      "viewCounter": 278696,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm8995619",
+      "title": "ミキミキ★ロマンティックナイト",
+      "artist": "samfree",
+      "artistList": [
+        "samfree"
+      ],
+      "startTime": "2009-12-04T14:17:33+09:00",
+      "viewCounter": 957892,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm42001993",
+      "title": "ディナーベル",
+      "artist": "はるまきごはん",
+      "artistList": [
+        "はるまきごはん"
+      ],
+      "startTime": "2023-03-28T19:00:00+09:00",
+      "viewCounter": 676556,
       "correctCount": 1
     },
     {
@@ -6246,8 +6279,8 @@
     },
     {
       "artist": "AVTechNO!",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 3,
+      "correctSongCount": 2
     },
     {
       "artist": "daniwell",
@@ -6575,11 +6608,6 @@
       "correctSongCount": 1
     },
     {
-      "artist": "AVTeckNO!",
-      "correctCount": 2,
-      "correctSongCount": 1
-    },
-    {
       "artist": "雨の介",
       "correctCount": 1,
       "correctSongCount": 1
@@ -6601,8 +6629,8 @@
     },
     {
       "artist": "はるまきごはん",
-      "correctCount": 3,
-      "correctSongCount": 2
+      "correctCount": 4,
+      "correctSongCount": 3
     },
     {
       "artist": "れれれP",
@@ -6881,8 +6909,8 @@
     },
     {
       "artist": "samfree",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "SASA",
@@ -7146,7 +7174,7 @@
     },
     {
       "artist": "えこ。",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -7296,6 +7324,11 @@
     },
     {
       "artist": "なつめ千秋",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "SLAVE.V-V-R",
       "correctCount": 1,
       "correctSongCount": 1
     },
@@ -7513,8 +7546,8 @@
     },
     {
       "era": "2018",
-      "correctCount": 72,
-      "correctSongCount": 55
+      "correctCount": 73,
+      "correctSongCount": 56
     },
     {
       "era": "2011",
@@ -7563,8 +7596,8 @@
     },
     {
       "era": "2009",
-      "correctCount": 41,
-      "correctSongCount": 31
+      "correctCount": 43,
+      "correctSongCount": 32
     },
     {
       "era": "2020",
@@ -7578,8 +7611,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 7,
-      "correctSongCount": 6
+      "correctCount": 8,
+      "correctSongCount": 7
     },
     {
       "era": "2024",
@@ -7603,8 +7636,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 248,
-      "correctSongCount": 184
+      "correctCount": 249,
+      "correctSongCount": 185
     },
     {
       "range": "30-50万",
@@ -7615,8 +7648,8 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 133,
-      "correctSongCount": 102
+      "correctCount": 136,
+      "correctSongCount": 104
     },
     {
       "range": "100-200万",
@@ -10267,6 +10300,24 @@
       "viewCounter": 508354
     },
     {
+      "title": "東京浪漫女子謳歌蘭街六九七番地ノ恋",
+      "contentId": "sm33026031",
+      "startTime": 1523268300000,
+      "viewCounter": 278696
+    },
+    {
+      "title": "ミキミキ★ロマンティックナイト",
+      "contentId": "sm8995619",
+      "startTime": 1259903853000,
+      "viewCounter": 957892
+    },
+    {
+      "title": "ディナーベル",
+      "contentId": "sm42001993",
+      "startTime": 1679997600000,
+      "viewCounter": 676556
+    },
+    {
       "title": "エゴイスト",
       "contentId": "sm33844537",
       "startTime": 1536746400000,
@@ -10940,15 +10991,108 @@
     }
   ],
   "summary": {
-    "totalAnswers": 767,
-    "okAnswers": 708,
+    "totalAnswers": 771,
+    "okAnswers": 712,
     "ngAnswers": 59,
-    "participatedQuizCount": 193,
-    "winQuizCount": 134,
+    "participatedQuizCount": 194,
+    "winQuizCount": 135,
     "loseQuizCount": 0,
-    "medianViews": 283960
+    "medianViews": 284756
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C1",
+      "date": "2026-05-15",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 11,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 20,
+          "contentId": "sm33026031",
+          "title": "東京浪漫女子謳歌蘭街六九七番地ノ恋",
+          "artistList": [
+            "SLAVE.V-V-R"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33026031/33026031",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "chia*"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "しるばー"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm8995619",
+          "title": "ミキミキ★ロマンティックナイト",
+          "artistList": [
+            "samfree"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8995619/8995619",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あいおい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "しるばー"
+            }
+          ]
+        },
+        {
+          "order": 65,
+          "contentId": "sm7454296",
+          "title": "トウキョウト・ロック・シティ",
+          "artistList": [
+            "えこ。"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7454296/7454296",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "しるばー"
+            }
+          ]
+        },
+        {
+          "order": 71,
+          "contentId": "sm42001993",
+          "title": "ディナーベル",
+          "artistList": [
+            "はるまきごはん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42001993/42001993.68008310",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(11)",
+              "user": "しるばー"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 231,
       "group": "B",
@@ -19972,7 +20116,7 @@
           "contentId": "nm15770119",
           "title": "CRYONICS",
           "artistList": [
-            "AVTeckNO!"
+            "AVTechNO!"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15770119/15770119",
           "tokens": [
@@ -26787,7 +26931,7 @@
           "contentId": "nm15770119",
           "title": "CRYONICS",
           "artistList": [
-            "AVTeckNO!"
+            "AVTechNO!"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15770119/15770119",
           "tokens": [

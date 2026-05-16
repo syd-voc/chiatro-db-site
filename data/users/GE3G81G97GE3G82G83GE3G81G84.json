@@ -875,7 +875,7 @@
       ],
       "startTime": "2012-07-20T07:33:18+09:00",
       "viewCounter": 2879148,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm32214623",
@@ -4303,6 +4303,39 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm9032932",
+      "title": "円尾坂の仕立屋",
+      "artist": "悪ノP",
+      "artistList": [
+        "悪ノP"
+      ],
+      "startTime": "2009-12-08T05:58:30+09:00",
+      "viewCounter": 1878665,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35992766",
+      "title": "ルマ",
+      "artist": "かいりきベア",
+      "artistList": [
+        "かいりきベア"
+      ],
+      "startTime": "2019-11-23T19:00:00+09:00",
+      "viewCounter": 3870989,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm41951611",
+      "title": "一千光年",
+      "artist": "いよわ",
+      "artistList": [
+        "いよわ"
+      ],
+      "startTime": "2023-03-19T00:39:00+09:00",
+      "viewCounter": 1357138,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm17191781",
       "title": "現実的論理主義者",
       "artist": "ゴボウメン",
@@ -4520,12 +4553,12 @@
     },
     {
       "artist": "かいりきベア",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "亜沙",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 2
     },
     {
@@ -4800,8 +4833,8 @@
     },
     {
       "artist": "悪ノP",
-      "correctCount": 4,
-      "correctSongCount": 3
+      "correctCount": 5,
+      "correctSongCount": 4
     },
     {
       "artist": "ナナホシ管弦楽団",
@@ -4965,8 +4998,8 @@
     },
     {
       "artist": "いよわ",
-      "correctCount": 3,
-      "correctSongCount": 2
+      "correctCount": 4,
+      "correctSongCount": 3
     },
     {
       "artist": "19's Sound Factory",
@@ -5497,8 +5530,8 @@
     },
     {
       "era": "2009",
-      "correctCount": 35,
-      "correctSongCount": 26
+      "correctCount": 36,
+      "correctSongCount": 27
     },
     {
       "era": "2016",
@@ -5512,13 +5545,13 @@
     },
     {
       "era": "2012",
-      "correctCount": 53,
+      "correctCount": 54,
       "correctSongCount": 45
     },
     {
       "era": "2019",
-      "correctCount": 28,
-      "correctSongCount": 25
+      "correctCount": 29,
+      "correctSongCount": 26
     },
     {
       "era": "2017",
@@ -5562,8 +5595,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 16,
-      "correctSongCount": 15
+      "correctCount": 17,
+      "correctSongCount": 16
     },
     {
       "era": "2022",
@@ -5615,20 +5648,20 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 87,
-      "correctSongCount": 74
+      "correctCount": 89,
+      "correctSongCount": 76
     },
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 54,
+      "correctCount": 55,
       "correctSongCount": 43
     },
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 49,
-      "correctSongCount": 43
+      "correctCount": 50,
+      "correctSongCount": 44
     },
     {
       "range": "500-1000万",
@@ -7979,6 +8012,24 @@
       "viewCounter": 570825
     },
     {
+      "title": "円尾坂の仕立屋",
+      "contentId": "sm9032932",
+      "startTime": 1260219510000,
+      "viewCounter": 1878665
+    },
+    {
+      "title": "ルマ",
+      "contentId": "sm35992766",
+      "startTime": 1574503200000,
+      "viewCounter": 3870989
+    },
+    {
+      "title": "一千光年",
+      "contentId": "sm41951611",
+      "startTime": 1679153940000,
+      "viewCounter": 1357138
+    },
+    {
       "title": "現実的論理主義者",
       "contentId": "sm17191781",
       "startTime": 1331211793000,
@@ -8034,15 +8085,124 @@
     }
   ],
   "summary": {
-    "totalAnswers": 648,
-    "okAnswers": 476,
-    "ngAnswers": 172,
-    "participatedQuizCount": 119,
-    "winQuizCount": 90,
+    "totalAnswers": 653,
+    "okAnswers": 480,
+    "ngAnswers": 173,
+    "participatedQuizCount": 120,
+    "winQuizCount": 91,
     "loseQuizCount": 0,
-    "medianViews": 902909
+    "medianViews": 905713
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "B",
+      "date": "2026-05-16",
+      "ok": 4,
+      "ng": 1,
+      "winRank": 18,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 43,
+          "contentId": "sm9032932",
+          "title": "円尾坂の仕立屋",
+          "artistList": [
+            "悪ノP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9032932/9032932",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "しゃい"
+            }
+          ]
+        },
+        {
+          "order": 68,
+          "contentId": "sm44567385",
+          "title": "被検体とアブサン",
+          "artistList": [
+            "つる"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44567385/44567385.19705271",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "しゃい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "たかそう"
+            }
+          ]
+        },
+        {
+          "order": 72,
+          "contentId": "sm18395392",
+          "title": "吉原ラメント",
+          "artistList": [
+            "亜沙"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18395392/18395392",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "しゃい"
+            }
+          ]
+        },
+        {
+          "order": 82,
+          "contentId": "sm35992766",
+          "title": "ルマ",
+          "artistList": [
+            "かいりきベア"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35992766/35992766.58296902",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Moai太郎"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "しゃい"
+            }
+          ]
+        },
+        {
+          "order": 84,
+          "contentId": "sm41951611",
+          "title": "一千光年",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41951611/41951611.65711710",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(18)",
+              "user": "しゃい"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "C1",
@@ -20974,7 +21134,7 @@
           "contentId": "sm42572901",
           "title": "不出来物",
           "artistList": [
-            "⌘ ハイノミ"
+            "⌘ハイノミ"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42572901/42572901.15075863",
           "tokens": [

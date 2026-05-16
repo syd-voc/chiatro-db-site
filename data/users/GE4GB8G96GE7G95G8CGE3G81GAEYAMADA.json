@@ -441,7 +441,7 @@
       ],
       "startTime": "2016-12-15T19:00:00+09:00",
       "viewCounter": 3533412,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm42327333",
@@ -3464,6 +3464,50 @@
       "startTime": "2024-02-23T00:00:00+09:00",
       "viewCounter": 17996,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm22995303",
+      "title": "ユカユカ☆ヘヴンリーナイト",
+      "artist": "samfree",
+      "artistList": [
+        "samfree"
+      ],
+      "startTime": "2014-03-01T19:00:00+09:00",
+      "viewCounter": 563918,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39543812",
+      "title": "iki",
+      "artist": "Noz.",
+      "artistList": [
+        "Noz."
+      ],
+      "startTime": "2021-10-28T22:45:00+09:00",
+      "viewCounter": 114299,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35999496",
+      "title": "らびにん",
+      "artist": "あじみ",
+      "artistList": [
+        "あじみ"
+      ],
+      "startTime": "2019-11-24T22:57:02+09:00",
+      "viewCounter": 300942,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm26758712",
+      "title": "無人駅",
+      "artist": "n-buna",
+      "artistList": [
+        "n-buna"
+      ],
+      "startTime": "2015-07-21T22:00:41+09:00",
+      "viewCounter": 1096759,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -3529,8 +3573,8 @@
     },
     {
       "artist": "samfree",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "GYARI",
@@ -3624,7 +3668,7 @@
     },
     {
       "artist": "ポリスピカデリー",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -4094,8 +4138,8 @@
     },
     {
       "artist": "Noz.",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "豆カカオ",
@@ -4291,6 +4335,16 @@
       "artist": "シカクドット",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "あじみ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "n-buna",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -4331,8 +4385,8 @@
     },
     {
       "era": "2019",
-      "correctCount": 16,
-      "correctSongCount": 13
+      "correctCount": 17,
+      "correctSongCount": 14
     },
     {
       "era": "2018",
@@ -4346,7 +4400,7 @@
     },
     {
       "era": "2016",
-      "correctCount": 18,
+      "correctCount": 19,
       "correctSongCount": 16
     },
     {
@@ -4356,8 +4410,8 @@
     },
     {
       "era": "2021",
-      "correctCount": 38,
-      "correctSongCount": 30
+      "correctCount": 39,
+      "correctSongCount": 31
     },
     {
       "era": "2007-2008",
@@ -4371,13 +4425,13 @@
     },
     {
       "era": "2014",
-      "correctCount": 12,
-      "correctSongCount": 11
+      "correctCount": 13,
+      "correctSongCount": 12
     },
     {
       "era": "2015",
-      "correctCount": 15,
-      "correctSongCount": 14
+      "correctCount": 16,
+      "correctSongCount": 15
     },
     {
       "era": "2025-",
@@ -4401,26 +4455,26 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 49,
-      "correctSongCount": 39
+      "correctCount": 50,
+      "correctSongCount": 40
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 37,
-      "correctSongCount": 34
+      "correctCount": 38,
+      "correctSongCount": 35
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 82,
-      "correctSongCount": 72
+      "correctCount": 83,
+      "correctSongCount": 73
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 78,
-      "correctSongCount": 66
+      "correctCount": 79,
+      "correctSongCount": 67
     },
     {
       "range": "200-300万",
@@ -4431,7 +4485,7 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 27,
+      "correctCount": 28,
       "correctSongCount": 24
     },
     {
@@ -6331,18 +6385,228 @@
       "contentId": "sm43413064",
       "startTime": 1708614000000,
       "viewCounter": 17996
+    },
+    {
+      "title": "ユカユカ☆ヘヴンリーナイト",
+      "contentId": "sm22995303",
+      "startTime": 1393668000000,
+      "viewCounter": 563918
+    },
+    {
+      "title": "iki",
+      "contentId": "sm39543812",
+      "startTime": 1635428700000,
+      "viewCounter": 114299
+    },
+    {
+      "title": "らびにん",
+      "contentId": "sm35999496",
+      "startTime": 1574603822000,
+      "viewCounter": 300942
+    },
+    {
+      "title": "無人駅",
+      "contentId": "sm26758712",
+      "startTime": 1437483641000,
+      "viewCounter": 1096759
     }
   ],
   "summary": {
-    "totalAnswers": 533,
-    "okAnswers": 364,
-    "ngAnswers": 168,
-    "participatedQuizCount": 77,
-    "winQuizCount": 69,
+    "totalAnswers": 540,
+    "okAnswers": 369,
+    "ngAnswers": 170,
+    "participatedQuizCount": 78,
+    "winQuizCount": 70,
     "loseQuizCount": 1,
     "medianViews": 968158
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "A",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 8,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 20,
+          "contentId": "sm23242071",
+          "title": "夜の帳が落ちる",
+          "artistList": [
+            "バルーン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23242071/23242071",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "かなくり"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "最強の私"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "世界のYAMADA"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "RRR"
+            }
+          ]
+        },
+        {
+          "order": 40,
+          "contentId": "sm22995303",
+          "title": "ユカユカ☆ヘヴンリーナイト",
+          "artistList": [
+            "samfree"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22995303/22995303",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "世界のYAMADA"
+            }
+          ]
+        },
+        {
+          "order": 57,
+          "contentId": "sm39543812",
+          "title": "iki",
+          "artistList": [
+            "Noz."
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39543812/39543812.15964970",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "世界のYAMADA"
+            }
+          ]
+        },
+        {
+          "order": 58,
+          "contentId": "sm35999496",
+          "title": "らびにん",
+          "artistList": [
+            "あじみ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35999496/35999496.26647665",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "世界のYAMADA"
+            }
+          ]
+        },
+        {
+          "order": 59,
+          "contentId": "sm36009455",
+          "title": "チーズケーキクライシス",
+          "artistList": [
+            "TOKOTOKO（西沢さんP）"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36009455/36009455.76471909",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "世界のYAMADA"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "時雨"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm26758712",
+          "title": "無人駅",
+          "artistList": [
+            "n-buna"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26758712/26758712",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "××",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "すべから"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "世界のYAMADA"
+            }
+          ]
+        },
+        {
+          "order": 64,
+          "contentId": "sm30228596",
+          "title": "キレキャリオン",
+          "artistList": [
+            "ポリスピカデリー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30228596/30228596.76990824",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(8)",
+              "user": "世界のYAMADA"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "A",

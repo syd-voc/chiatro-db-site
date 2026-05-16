@@ -2479,6 +2479,61 @@
       "startTime": "2014-10-16T21:30:00+09:00",
       "viewCounter": 274090,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm41948106",
+      "title": "SIREN",
+      "artist": "MELORKER",
+      "artistList": [
+        "MELORKER"
+      ],
+      "startTime": "2023-03-18T19:00:00+09:00",
+      "viewCounter": 260662,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm41354339",
+      "title": "ぬるぬるうなぎ",
+      "artist": "子牛",
+      "artistList": [
+        "子牛"
+      ],
+      "startTime": "2022-11-11T19:00:00+09:00",
+      "viewCounter": 349473,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm16474954",
+      "title": "インビジブル",
+      "artist": "kemu",
+      "artistList": [
+        "kemu"
+      ],
+      "startTime": "2011-12-20T19:00:15+09:00",
+      "viewCounter": 6005750,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm18198019",
+      "title": "地球最後の告白を",
+      "artist": "kemu",
+      "artistList": [
+        "kemu"
+      ],
+      "startTime": "2012-06-26T19:01:32+09:00",
+      "viewCounter": 5413986,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm30512696",
+      "title": "センチメンタルキネマ",
+      "artist": "ユリイ・カノン",
+      "artistList": [
+        "ユリイ・カノン"
+      ],
+      "startTime": "2017-01-27T19:02:00+09:00",
+      "viewCounter": 236736,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -2609,8 +2664,8 @@
     },
     {
       "artist": "kemu",
-      "correctCount": 5,
-      "correctSongCount": 4
+      "correctCount": 7,
+      "correctSongCount": 6
     },
     {
       "artist": "Kai",
@@ -2689,8 +2744,8 @@
     },
     {
       "artist": "子牛",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "電ǂ鯨",
@@ -2704,8 +2759,8 @@
     },
     {
       "artist": "ユリイ・カノン",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "n.k",
@@ -3241,13 +3296,18 @@
       "artist": "PIPPO",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "MELORKER",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2023",
-      "correctCount": 25,
-      "correctSongCount": 23
+      "correctCount": 26,
+      "correctSongCount": 24
     },
     {
       "era": "2020",
@@ -3256,8 +3316,8 @@
     },
     {
       "era": "2022",
-      "correctCount": 26,
-      "correctSongCount": 26
+      "correctCount": 27,
+      "correctSongCount": 27
     },
     {
       "era": "2013",
@@ -3281,8 +3341,8 @@
     },
     {
       "era": "2012",
-      "correctCount": 8,
-      "correctSongCount": 8
+      "correctCount": 9,
+      "correctSongCount": 9
     },
     {
       "era": "2010",
@@ -3301,8 +3361,8 @@
     },
     {
       "era": "2017",
-      "correctCount": 22,
-      "correctSongCount": 18
+      "correctCount": 23,
+      "correctSongCount": 19
     },
     {
       "era": "2015",
@@ -3316,8 +3376,8 @@
     },
     {
       "era": "2011",
-      "correctCount": 8,
-      "correctSongCount": 8
+      "correctCount": 9,
+      "correctSongCount": 9
     },
     {
       "era": "2007-2008",
@@ -3346,14 +3406,14 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 42,
-      "correctSongCount": 41
+      "correctCount": 44,
+      "correctSongCount": 43
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 32,
-      "correctSongCount": 29
+      "correctCount": 33,
+      "correctSongCount": 30
     },
     {
       "range": "50-100万",
@@ -3382,8 +3442,8 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 14,
-      "correctSongCount": 13
+      "correctCount": 16,
+      "correctSongCount": 15
     },
     {
       "range": "1000万-",
@@ -4736,18 +4796,139 @@
       "contentId": "sm24706042",
       "startTime": 1413462600000,
       "viewCounter": 274090
+    },
+    {
+      "title": "SIREN",
+      "contentId": "sm41948106",
+      "startTime": 1679133600000,
+      "viewCounter": 260662
+    },
+    {
+      "title": "ぬるぬるうなぎ",
+      "contentId": "sm41354339",
+      "startTime": 1668160800000,
+      "viewCounter": 349473
+    },
+    {
+      "title": "インビジブル",
+      "contentId": "sm16474954",
+      "startTime": 1324375215000,
+      "viewCounter": 6005750
+    },
+    {
+      "title": "地球最後の告白を",
+      "contentId": "sm18198019",
+      "startTime": 1340704892000,
+      "viewCounter": 5413986
+    },
+    {
+      "title": "センチメンタルキネマ",
+      "contentId": "sm30512696",
+      "startTime": 1485511320000,
+      "viewCounter": 236736
     }
   ],
   "summary": {
-    "totalAnswers": 298,
-    "okAnswers": 250,
+    "totalAnswers": 303,
+    "okAnswers": 255,
     "ngAnswers": 48,
-    "participatedQuizCount": 52,
-    "winQuizCount": 51,
+    "participatedQuizCount": 53,
+    "winQuizCount": 52,
     "loseQuizCount": 0,
     "medianViews": 919204
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "D2",
+      "date": "2026-05-16",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 2,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 3,
+          "contentId": "sm41948106",
+          "title": "SIREN",
+          "artistList": [
+            "MELORKER"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41948106/41948106.78996974",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ぽしゃぽしゃ"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "contentId": "sm41354339",
+          "title": "ぬるぬるうなぎ",
+          "artistList": [
+            "子牛"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41354339/41354339.99844438",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ぽしゃぽしゃ"
+            }
+          ]
+        },
+        {
+          "order": 14,
+          "contentId": "sm16474954",
+          "title": "インビジブル",
+          "artistList": [
+            "kemu"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16474954/16474954",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ぽしゃぽしゃ"
+            }
+          ]
+        },
+        {
+          "order": 25,
+          "contentId": "sm18198019",
+          "title": "地球最後の告白を",
+          "artistList": [
+            "kemu"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18198019/18198019",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ぽしゃぽしゃ"
+            }
+          ]
+        },
+        {
+          "order": 27,
+          "contentId": "sm30512696",
+          "title": "センチメンタルキネマ",
+          "artistList": [
+            "ユリイ・カノン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30512696/30512696",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(2)",
+              "user": "ぽしゃぽしゃ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 295,
       "group": "D1",

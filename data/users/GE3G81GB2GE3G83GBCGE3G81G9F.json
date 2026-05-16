@@ -1045,7 +1045,7 @@
       ],
       "startTime": "2019-01-01T21:00:00+09:00",
       "viewCounter": 757283,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm29272726",
@@ -4430,7 +4430,7 @@
       ],
       "startTime": "2017-02-09T20:00:00+09:00",
       "viewCounter": 526271,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm12050471",
@@ -4761,7 +4761,7 @@
       ],
       "startTime": "2015-02-23T19:04:10+09:00",
       "viewCounter": 1680023,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm24205476",
@@ -4970,6 +4970,28 @@
       ],
       "startTime": "2021-08-06T19:00:00+09:00",
       "viewCounter": 1729350,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm21443197",
+      "title": "ビバハピ",
+      "artist": "Mitchie M",
+      "artistList": [
+        "Mitchie M"
+      ],
+      "startTime": "2013-07-26T16:23:00+09:00",
+      "viewCounter": 5064910,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm34093049",
+      "title": "プレシャスジャンク",
+      "artist": "栗山夕璃(蜂屋ななし)",
+      "artistList": [
+        "栗山夕璃(蜂屋ななし)"
+      ],
+      "startTime": "2018-10-29T20:11:55+09:00",
+      "viewCounter": 285216,
       "correctCount": 1
     },
     {
@@ -5183,7 +5205,7 @@
     },
     {
       "artist": "MIMI",
-      "correctCount": 36,
+      "correctCount": 37,
       "correctSongCount": 20
     },
     {
@@ -5193,7 +5215,7 @@
     },
     {
       "artist": "Aqu3ra",
-      "correctCount": 15,
+      "correctCount": 16,
       "correctSongCount": 11
     },
     {
@@ -5373,8 +5395,8 @@
     },
     {
       "artist": "Mitchie M",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "かいりきベア",
@@ -5413,8 +5435,8 @@
     },
     {
       "artist": "栗山夕璃(蜂屋ななし)",
-      "correctCount": 4,
-      "correctSongCount": 2
+      "correctCount": 5,
+      "correctSongCount": 3
     },
     {
       "artist": "YASUHIRO(康寛)",
@@ -5443,7 +5465,7 @@
     },
     {
       "artist": "n-buna",
-      "correctCount": 11,
+      "correctCount": 12,
       "correctSongCount": 7
     },
     {
@@ -6045,18 +6067,18 @@
     },
     {
       "era": "2019",
-      "correctCount": 51,
+      "correctCount": 52,
       "correctSongCount": 34
     },
     {
       "era": "2017",
-      "correctCount": 69,
+      "correctCount": 70,
       "correctSongCount": 46
     },
     {
       "era": "2018",
-      "correctCount": 72,
-      "correctSongCount": 39
+      "correctCount": 73,
+      "correctSongCount": 40
     },
     {
       "era": "2020",
@@ -6080,8 +6102,8 @@
     },
     {
       "era": "2013",
-      "correctCount": 24,
-      "correctSongCount": 17
+      "correctCount": 25,
+      "correctSongCount": 18
     },
     {
       "era": "2010",
@@ -6095,7 +6117,7 @@
     },
     {
       "era": "2015",
-      "correctCount": 35,
+      "correctCount": 36,
       "correctSongCount": 25
     },
     {
@@ -6145,8 +6167,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 134,
-      "correctSongCount": 105
+      "correctCount": 135,
+      "correctSongCount": 106
     },
     {
       "range": "30-50万",
@@ -6157,13 +6179,13 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 140,
+      "correctCount": 142,
       "correctSongCount": 77
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 117,
+      "correctCount": 118,
       "correctSongCount": 72
     },
     {
@@ -6181,8 +6203,8 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 29,
-      "correctSongCount": 21
+      "correctCount": 30,
+      "correctSongCount": 22
     },
     {
       "range": "1000万-",
@@ -8899,6 +8921,18 @@
       "viewCounter": 1729350
     },
     {
+      "title": "ビバハピ",
+      "contentId": "sm21443197",
+      "startTime": 1374823380000,
+      "viewCounter": 5064910
+    },
+    {
+      "title": "プレシャスジャンク",
+      "contentId": "sm34093049",
+      "startTime": 1540811515000,
+      "viewCounter": 285216
+    },
+    {
       "title": "Self Decision",
       "contentId": "sm38623451",
       "startTime": 1619190000000,
@@ -8912,15 +8946,106 @@
     }
   ],
   "summary": {
-    "totalAnswers": 742,
-    "okAnswers": 674,
+    "totalAnswers": 747,
+    "okAnswers": 679,
     "ngAnswers": 68,
-    "participatedQuizCount": 173,
-    "winQuizCount": 118,
+    "participatedQuizCount": 174,
+    "winQuizCount": 119,
     "loseQuizCount": 0,
     "medianViews": 602996
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "D2",
+      "date": "2026-05-16",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 5,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 5,
+          "contentId": "sm25645403",
+          "title": "劇場愛歌",
+          "artistList": [
+            "n-buna"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25645403/25645403",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ひーた"
+            }
+          ]
+        },
+        {
+          "order": 15,
+          "contentId": "sm34412675",
+          "title": "アイボリー",
+          "artistList": [
+            "Aqu3ra"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34412675/34412675.31493",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ひーた"
+            }
+          ]
+        },
+        {
+          "order": 26,
+          "contentId": "sm21443197",
+          "title": "ビバハピ",
+          "artistList": [
+            "Mitchie M"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21443197/21443197.57360564",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ひーた"
+            }
+          ]
+        },
+        {
+          "order": 38,
+          "contentId": "sm30599028",
+          "title": "モーメント",
+          "artistList": [
+            "MIMI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30599028/30599028",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ひーた"
+            }
+          ]
+        },
+        {
+          "order": 39,
+          "contentId": "sm34093049",
+          "title": "プレシャスジャンク",
+          "artistList": [
+            "栗山夕璃(蜂屋ななし)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34093049/34093049.33209",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(5)",
+              "user": "ひーた"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "D1",

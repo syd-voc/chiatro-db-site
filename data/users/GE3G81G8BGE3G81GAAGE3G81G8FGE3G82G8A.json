@@ -187,7 +187,7 @@
       ],
       "startTime": "2007-11-30T18:44:08+09:00",
       "viewCounter": 1296647,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm27061830",
@@ -2222,9 +2222,9 @@
     {
       "contentId": "sm42395926",
       "title": "アナログロマンス",
-      "artist": "DARAKU",
+      "artist": "daraku",
       "artistList": [
-        "DARAKU"
+        "daraku"
       ],
       "startTime": "2023-06-24T21:30:00+09:00",
       "viewCounter": 41585,
@@ -3871,6 +3871,50 @@
       "startTime": "2023-07-28T20:30:00+09:00",
       "viewCounter": 954829,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm29344277",
+      "title": "鉛の冠",
+      "artist": "有機酸",
+      "artistList": [
+        "有機酸"
+      ],
+      "startTime": "2016-07-30T04:45:00+09:00",
+      "viewCounter": 381867,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44567052",
+      "title": "Mud Princeeeeess!!!",
+      "artist": "A4。",
+      "artistList": [
+        "A4。"
+      ],
+      "startTime": "2025-01-24T20:00:00+09:00",
+      "viewCounter": 48972,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44670578",
+      "title": "ポリビュー",
+      "artist": "いえぬ",
+      "artistList": [
+        "いえぬ"
+      ],
+      "startTime": "2025-02-21T19:00:00+09:00",
+      "viewCounter": 34243,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm38403899",
+      "title": "懐色、虚色",
+      "artist": "Teary Planet",
+      "artistList": [
+        "Teary Planet"
+      ],
+      "startTime": "2021-03-11T20:00:00+09:00",
+      "viewCounter": 324193,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -3951,7 +3995,7 @@
     },
     {
       "artist": "kz",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -4021,8 +4065,8 @@
     },
     {
       "artist": "有機酸",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "ピノキオピー",
@@ -4361,8 +4405,8 @@
     },
     {
       "artist": "A4。",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "otetsu",
@@ -4600,7 +4644,7 @@
       "correctSongCount": 1
     },
     {
-      "artist": "DARAKU",
+      "artist": "daraku",
       "correctCount": 1,
       "correctSongCount": 1
     },
@@ -4931,8 +4975,8 @@
     },
     {
       "artist": "Teary Planet",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "ふぁるすてぃ",
@@ -5033,6 +5077,11 @@
       "artist": "ゆこぴ",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "いえぬ",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -5053,7 +5102,7 @@
     },
     {
       "era": "2007-2008",
-      "correctCount": 19,
+      "correctCount": 20,
       "correctSongCount": 18
     },
     {
@@ -5108,13 +5157,13 @@
     },
     {
       "era": "2016",
-      "correctCount": 14,
-      "correctSongCount": 14
+      "correctCount": 15,
+      "correctSongCount": 15
     },
     {
       "era": "2021",
-      "correctCount": 30,
-      "correctSongCount": 29
+      "correctCount": 31,
+      "correctSongCount": 30
     },
     {
       "era": "2023",
@@ -5123,8 +5172,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 13,
-      "correctSongCount": 12
+      "correctCount": 15,
+      "correctSongCount": 14
     }
   ],
   "viewStats": [
@@ -5137,8 +5186,8 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 47,
-      "correctSongCount": 47
+      "correctCount": 49,
+      "correctSongCount": 49
     },
     {
       "range": "10-30万",
@@ -5149,8 +5198,8 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 47,
-      "correctSongCount": 43
+      "correctCount": 49,
+      "correctSongCount": 45
     },
     {
       "range": "50-100万",
@@ -5161,7 +5210,7 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 48,
+      "correctCount": 49,
       "correctSongCount": 42
     },
     {
@@ -7295,18 +7344,244 @@
       "contentId": "sm42536675",
       "startTime": 1690543800000,
       "viewCounter": 954829
+    },
+    {
+      "title": "鉛の冠",
+      "contentId": "sm29344277",
+      "startTime": 1469821500000,
+      "viewCounter": 381867
+    },
+    {
+      "title": "Mud Princeeeeess!!!",
+      "contentId": "sm44567052",
+      "startTime": 1737716400000,
+      "viewCounter": 48972
+    },
+    {
+      "title": "ポリビュー",
+      "contentId": "sm44670578",
+      "startTime": 1740132000000,
+      "viewCounter": 34243
+    },
+    {
+      "title": "懐色、虚色",
+      "contentId": "sm38403899",
+      "startTime": 1615460400000,
+      "viewCounter": 324193
     }
   ],
   "summary": {
-    "totalAnswers": 490,
-    "okAnswers": 372,
-    "ngAnswers": 113,
-    "participatedQuizCount": 79,
-    "winQuizCount": 72,
+    "totalAnswers": 498,
+    "okAnswers": 377,
+    "ngAnswers": 116,
+    "participatedQuizCount": 80,
+    "winQuizCount": 73,
     "loseQuizCount": 5,
-    "medianViews": 484454
+    "medianViews": 477653
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "A",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 3,
+      "winRank": 12,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 6,
+          "contentId": "sm40347559",
+          "title": "アンコール",
+          "artistList": [
+            "Adeliae"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40347559/40347559.4776968",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "かなくり"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "なごん"
+            }
+          ]
+        },
+        {
+          "order": 20,
+          "contentId": "sm23242071",
+          "title": "夜の帳が落ちる",
+          "artistList": [
+            "バルーン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23242071/23242071",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "かなくり"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "最強の私"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "世界のYAMADA"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "RRR"
+            }
+          ]
+        },
+        {
+          "order": 54,
+          "contentId": "sm36864876",
+          "title": "黒点",
+          "artistList": [
+            "WEAKEND WALKER"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36864876/36864876.38979972",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "かなくり"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ぬーん"
+            }
+          ]
+        },
+        {
+          "order": 74,
+          "contentId": "sm29344277",
+          "title": "鉛の冠",
+          "artistList": [
+            "有機酸"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29344277/29344277",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "かなくり"
+            }
+          ]
+        },
+        {
+          "order": 75,
+          "contentId": "sm44567052",
+          "title": "Mud Princeeeeess!!!",
+          "artistList": [
+            "A4。"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44567052/44567052.63642295",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "雨嵐"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "かなくり"
+            }
+          ]
+        },
+        {
+          "order": 82,
+          "contentId": "sm44670578",
+          "title": "ポリビュー",
+          "artistList": [
+            "いえぬ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44670578/44670578.41467689",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "かなくり"
+            }
+          ]
+        },
+        {
+          "order": 83,
+          "contentId": "sm1657814",
+          "title": "ストロボナイツ",
+          "artistList": [
+            "kz"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1657814/1657814",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "かなくり"
+            }
+          ]
+        },
+        {
+          "order": 84,
+          "contentId": "sm38403899",
+          "title": "懐色、虚色",
+          "artistList": [
+            "Teary Planet"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38403899/38403899.60520603",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(12)",
+              "user": "かなくり"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "A",
@@ -13280,7 +13555,7 @@
           "contentId": "sm42395926",
           "title": "アナログロマンス",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42395926/42395926.63412202",
           "tokens": [

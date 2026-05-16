@@ -4182,6 +4182,50 @@
       "startTime": "2015-09-15T20:45:05+09:00",
       "viewCounter": 1088216,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm37349785",
+      "title": "青く駆けろ！",
+      "artist": "まらしぃ",
+      "artistList": [
+        "まらしぃ"
+      ],
+      "startTime": "2020-08-13T21:20:02+09:00",
+      "viewCounter": 335502,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm38708262",
+      "title": "シネマ",
+      "artist": "Ayase",
+      "artistList": [
+        "Ayase"
+      ],
+      "startTime": "2021-05-08T22:30:00+09:00",
+      "viewCounter": 3553636,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45324037",
+      "title": "三不粘をエロい目で見るな",
+      "artist": "山本",
+      "artistList": [
+        "山本"
+      ],
+      "startTime": "2025-08-23T00:00:00+09:00",
+      "viewCounter": 815247,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm36675694",
+      "title": "豚になってyeah yeah",
+      "artist": "Neru",
+      "artistList": [
+        "Neru"
+      ],
+      "startTime": "2020-04-15T18:00:00+09:00",
+      "viewCounter": 442070,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4687,8 +4731,8 @@
     },
     {
       "artist": "Ayase",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "R Sound Design",
@@ -4877,8 +4921,8 @@
     },
     {
       "artist": "まらしぃ",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "やかもち",
@@ -5087,8 +5131,8 @@
     },
     {
       "artist": "Neru",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "150P",
@@ -5237,8 +5281,8 @@
     },
     {
       "artist": "山本",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "ナナホシ管弦楽団",
@@ -5369,8 +5413,8 @@
     },
     {
       "era": "2021",
-      "correctCount": 40,
-      "correctSongCount": 36
+      "correctCount": 41,
+      "correctSongCount": 37
     },
     {
       "era": "2016",
@@ -5384,8 +5428,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 21,
-      "correctSongCount": 20
+      "correctCount": 22,
+      "correctSongCount": 21
     },
     {
       "era": "2023",
@@ -5394,8 +5438,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 21,
-      "correctSongCount": 19
+      "correctCount": 23,
+      "correctSongCount": 21
     },
     {
       "era": "2013",
@@ -5465,14 +5509,14 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 52,
-      "correctSongCount": 46
+      "correctCount": 54,
+      "correctSongCount": 48
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 79,
-      "correctSongCount": 71
+      "correctCount": 80,
+      "correctSongCount": 72
     },
     {
       "range": "100-200万",
@@ -5489,8 +5533,8 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 27,
-      "correctSongCount": 25
+      "correctCount": 28,
+      "correctSongCount": 26
     },
     {
       "range": "500-1000万",
@@ -7779,18 +7823,126 @@
       "contentId": "sm27162599",
       "startTime": 1442317505000,
       "viewCounter": 1088216
+    },
+    {
+      "title": "青く駆けろ！",
+      "contentId": "sm37349785",
+      "startTime": 1597321202000,
+      "viewCounter": 335502
+    },
+    {
+      "title": "シネマ",
+      "contentId": "sm38708262",
+      "startTime": 1620480600000,
+      "viewCounter": 3553636
+    },
+    {
+      "title": "三不粘をエロい目で見るな",
+      "contentId": "sm45324037",
+      "startTime": 1755874800000,
+      "viewCounter": 815247
+    },
+    {
+      "title": "豚になってyeah yeah",
+      "contentId": "sm36675694",
+      "startTime": 1586941200000,
+      "viewCounter": 442070
     }
   ],
   "summary": {
-    "totalAnswers": 545,
-    "okAnswers": 422,
+    "totalAnswers": 549,
+    "okAnswers": 426,
     "ngAnswers": 123,
-    "participatedQuizCount": 87,
-    "winQuizCount": 87,
+    "participatedQuizCount": 88,
+    "winQuizCount": 88,
     "loseQuizCount": 0,
-    "medianViews": 477180
+    "medianViews": 478403
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "B",
+      "date": "2026-05-16",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 4,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 14,
+          "contentId": "sm37349785",
+          "title": "青く駆けろ！",
+          "artistList": [
+            "まらしぃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37349785/37349785.82657179",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "テフミネ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "とちこ"
+            }
+          ]
+        },
+        {
+          "order": 20,
+          "contentId": "sm38708262",
+          "title": "シネマ",
+          "artistList": [
+            "Ayase"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38708262/38708262.38565307",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "とちこ"
+            }
+          ]
+        },
+        {
+          "order": 23,
+          "contentId": "sm45324037",
+          "title": "三不粘をエロい目で見るな",
+          "artistList": [
+            "山本"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45324037/45324037.47083978",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "とちこ"
+            }
+          ]
+        },
+        {
+          "order": 30,
+          "contentId": "sm36675694",
+          "title": "豚になってyeah yeah",
+          "artistList": [
+            "Neru"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36675694/36675694.13543540",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(4)",
+              "user": "とちこ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "B",

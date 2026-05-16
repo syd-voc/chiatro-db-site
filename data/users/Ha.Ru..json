@@ -1015,7 +1015,7 @@
       ],
       "startTime": "2019-04-22T20:00:00+09:00",
       "viewCounter": 472099,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm18600652",
@@ -2274,6 +2274,39 @@
       "startTime": "2016-12-23T20:00:00+09:00",
       "viewCounter": 524695,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm34413628",
+      "title": "優しい人",
+      "artist": "こめだわら",
+      "artistList": [
+        "こめだわら"
+      ],
+      "startTime": "2019-01-02T19:00:00+09:00",
+      "viewCounter": 285591,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm22069337",
+      "title": "電脳狂愛ガール",
+      "artist": "かいりきベア",
+      "artistList": [
+        "かいりきベア"
+      ],
+      "startTime": "2013-10-18T20:00:00+09:00",
+      "viewCounter": 799787,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm25458449",
+      "title": "キーウィ",
+      "artist": "ATOLS",
+      "artistList": [
+        "ATOLS"
+      ],
+      "startTime": "2015-01-30T19:11:00+09:00",
+      "viewCounter": 313895,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -2379,8 +2412,8 @@
     },
     {
       "artist": "こめだわら",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "*Luna",
@@ -2689,7 +2722,7 @@
     },
     {
       "artist": "めいちゃん",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -3121,13 +3154,23 @@
       "artist": "Neru",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "かいりきベア",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ATOLS",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2015",
-      "correctCount": 10,
-      "correctSongCount": 10
+      "correctCount": 11,
+      "correctSongCount": 11
     },
     {
       "era": "2010",
@@ -3156,13 +3199,13 @@
     },
     {
       "era": "2013",
-      "correctCount": 9,
-      "correctSongCount": 9
+      "correctCount": 10,
+      "correctSongCount": 10
     },
     {
       "era": "2019",
-      "correctCount": 21,
-      "correctSongCount": 21
+      "correctCount": 23,
+      "correctSongCount": 22
     },
     {
       "era": "2016",
@@ -3226,20 +3269,20 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 64,
-      "correctSongCount": 61
+      "correctCount": 65,
+      "correctSongCount": 62
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 35,
-      "correctSongCount": 34
+      "correctCount": 37,
+      "correctSongCount": 35
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 31,
-      "correctSongCount": 28
+      "correctCount": 32,
+      "correctSongCount": 29
     },
     {
       "range": "100-200万",
@@ -4508,18 +4551,147 @@
       "contentId": "sm30281701",
       "startTime": 1482490800000,
       "viewCounter": 524695
+    },
+    {
+      "title": "優しい人",
+      "contentId": "sm34413628",
+      "startTime": 1546423200000,
+      "viewCounter": 285591
+    },
+    {
+      "title": "電脳狂愛ガール",
+      "contentId": "sm22069337",
+      "startTime": 1382094000000,
+      "viewCounter": 799787
+    },
+    {
+      "title": "キーウィ",
+      "contentId": "sm25458449",
+      "startTime": 1422612660000,
+      "viewCounter": 313895
     }
   ],
   "summary": {
-    "totalAnswers": 228,
-    "okAnswers": 213,
+    "totalAnswers": 232,
+    "okAnswers": 217,
     "ngAnswers": 15,
-    "participatedQuizCount": 45,
-    "winQuizCount": 41,
+    "participatedQuizCount": 46,
+    "winQuizCount": 42,
     "loseQuizCount": 0,
-    "medianViews": 183877
+    "medianViews": 186315
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C1",
+      "date": "2026-05-15",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 14,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 60,
+          "contentId": "sm34413628",
+          "title": "優しい人",
+          "artistList": [
+            "こめだわら"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34413628/34413628.52767",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Ha.Ru."
+            }
+          ]
+        },
+        {
+          "order": 70,
+          "contentId": "sm22069337",
+          "title": "電脳狂愛ガール",
+          "artistList": [
+            "かいりきベア"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22069337/22069337",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゆーと"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "クスノキ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "Ha.Ru."
+            }
+          ]
+        },
+        {
+          "order": 73,
+          "contentId": "sm35005271",
+          "title": "ヴィクター",
+          "artistList": [
+            "めいちゃん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35005271/35005271.4454",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あいおい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "HAN"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "Ha.Ru."
+            }
+          ]
+        },
+        {
+          "order": 81,
+          "contentId": "sm25458449",
+          "title": "キーウィ",
+          "artistList": [
+            "ATOLS"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25458449/25458449",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(14)",
+              "user": "Ha.Ru."
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "C2",

@@ -829,7 +829,7 @@
       ],
       "startTime": "2016-02-22T19:00:00+09:00",
       "viewCounter": 6773977,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm23770496",
@@ -2110,6 +2110,28 @@
       "startTime": "2024-02-23T19:00:00+09:00",
       "viewCounter": 58602,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm38835941",
+      "title": "偽物人間40号",
+      "artist": "¿?shimon",
+      "artistList": [
+        "¿?shimon"
+      ],
+      "startTime": "2021-06-05T19:00:00+09:00",
+      "viewCounter": 768422,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm40676162",
+      "title": "バグ",
+      "artist": "かいりきベア",
+      "artistList": [
+        "かいりきベア"
+      ],
+      "startTime": "2022-06-25T19:25:00+09:00",
+      "viewCounter": 5760008,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -2445,7 +2467,7 @@
     },
     {
       "artist": "和田たけあき",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 2
     },
     {
@@ -2490,8 +2512,8 @@
     },
     {
       "artist": "かいりきベア",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "読谷あかね",
@@ -2697,6 +2719,11 @@
       "artist": "◈*ゆくえわっと",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "¿?shimon",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -2722,8 +2749,8 @@
     },
     {
       "era": "2022",
-      "correctCount": 27,
-      "correctSongCount": 25
+      "correctCount": 28,
+      "correctSongCount": 26
     },
     {
       "era": "2024",
@@ -2732,8 +2759,8 @@
     },
     {
       "era": "2021",
-      "correctCount": 22,
-      "correctSongCount": 22
+      "correctCount": 23,
+      "correctSongCount": 23
     },
     {
       "era": "2011",
@@ -2767,7 +2794,7 @@
     },
     {
       "era": "2016",
-      "correctCount": 10,
+      "correctCount": 11,
       "correctSongCount": 7
     },
     {
@@ -2819,8 +2846,8 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 57,
-      "correctSongCount": 46
+      "correctCount": 58,
+      "correctSongCount": 47
     },
     {
       "range": "100-200万",
@@ -2843,8 +2870,8 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 9,
-      "correctSongCount": 9
+      "correctCount": 11,
+      "correctSongCount": 10
     },
     {
       "range": "1000万-",
@@ -3999,18 +4026,241 @@
       "contentId": "sm43436583",
       "startTime": 1708682400000,
       "viewCounter": 58602
+    },
+    {
+      "title": "偽物人間40号",
+      "contentId": "sm38835941",
+      "startTime": 1622887200000,
+      "viewCounter": 768422
+    },
+    {
+      "title": "バグ",
+      "contentId": "sm40676162",
+      "startTime": 1656152700000,
+      "viewCounter": 5760008
     }
   ],
   "summary": {
-    "totalAnswers": 331,
-    "okAnswers": 220,
-    "ngAnswers": 110,
-    "participatedQuizCount": 48,
+    "totalAnswers": 339,
+    "okAnswers": 223,
+    "ngAnswers": 114,
+    "participatedQuizCount": 49,
     "winQuizCount": 42,
-    "loseQuizCount": 1,
-    "medianViews": 604092
+    "loseQuizCount": 2,
+    "medianViews": 605187
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C1",
+      "date": "2026-05-15",
+      "ok": 3,
+      "ng": 4,
+      "winRank": null,
+      "hasLose": true,
+      "songs": [
+        {
+          "order": 26,
+          "contentId": "sm36177919",
+          "title": "シックス・フィート・アンダー",
+          "artistList": [
+            "Aqu3ra"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36177919/36177919.87763244",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あいおい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "尾白もち"
+            }
+          ]
+        },
+        {
+          "order": 59,
+          "contentId": "sm38835941",
+          "title": "偽物人間40号",
+          "artistList": [
+            "¿?shimon"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38835941/38835941.94530163",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "あいおい"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm8995619",
+          "title": "ミキミキ★ロマンティックナイト",
+          "artistList": [
+            "samfree"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8995619/8995619",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あいおい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "しるばー"
+            }
+          ]
+        },
+        {
+          "order": 68,
+          "contentId": "sm28276238",
+          "title": "チュルリラ・チュルリラ・ダッダッダ！",
+          "artistList": [
+            "和田たけあき"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28276238/28276238",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "あいおい"
+            }
+          ]
+        },
+        {
+          "order": 69,
+          "contentId": "sm45697129",
+          "title": "にゅー！支配者のキャロル",
+          "artistList": [
+            "藤原ハガネ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45697129/45697129.18585418",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とある逢瀬"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "そ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あいおい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "HAN"
+            }
+          ]
+        },
+        {
+          "order": 73,
+          "contentId": "sm35005271",
+          "title": "ヴィクター",
+          "artistList": [
+            "めいちゃん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35005271/35005271.4454",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あいおい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "HAN"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "Ha.Ru."
+            }
+          ]
+        },
+        {
+          "order": 78,
+          "contentId": "sm40676162",
+          "title": "バグ",
+          "artistList": [
+            "かいりきベア"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40676162/40676162.28733015",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "あいおい"
+            }
+          ]
+        },
+        {
+          "order": 82,
+          "contentId": "sm35909360",
+          "title": "アンチサイクロン",
+          "artistList": [
+            "稲葉曇"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35909360/35909360.74456225",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "××",
+              "user": "あいおい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "chia*"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "C1",

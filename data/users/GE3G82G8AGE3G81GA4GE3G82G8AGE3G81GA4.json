@@ -225,9 +225,9 @@
     {
       "contentId": "sm41187136",
       "title": "GEDO",
-      "artist": "DARAKU",
+      "artist": "daraku",
       "artistList": [
-        "DARAKU"
+        "daraku"
       ],
       "startTime": "2022-10-07T19:00:00+09:00",
       "viewCounter": 415775,
@@ -2350,6 +2350,61 @@
       "startTime": "2025-02-01T19:10:00+09:00",
       "viewCounter": 181971,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm39948783",
+      "title": "コスモスパイス",
+      "artist": "ピノキオピー",
+      "artistList": [
+        "ピノキオピー"
+      ],
+      "startTime": "2022-01-26T19:00:00+09:00",
+      "viewCounter": 533908,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45344669",
+      "title": "そのたび",
+      "artist": "大漠波新",
+      "artistList": [
+        "大漠波新"
+      ],
+      "startTime": "2025-08-30T19:20:00+09:00",
+      "viewCounter": 443928,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39782705",
+      "title": "STAGE OF SEKAI",
+      "artist": "はりーP",
+      "artistList": [
+        "はりーP"
+      ],
+      "startTime": "2021-12-22T20:00:00+09:00",
+      "viewCounter": 264165,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44397533",
+      "title": "み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ",
+      "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ",
+      "artistList": [
+        "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ"
+      ],
+      "startTime": "2024-12-06T19:19:00+09:00",
+      "viewCounter": 1714247,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm32076378",
+      "title": "ドラマツルギー",
+      "artist": "Eve",
+      "artistList": [
+        "Eve"
+      ],
+      "startTime": "2017-10-10T19:00:00+09:00",
+      "viewCounter": 5721891,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -2444,7 +2499,7 @@
       "correctSongCount": 1
     },
     {
-      "artist": "DARAKU",
+      "artist": "daraku",
       "correctCount": 1,
       "correctSongCount": 1
     },
@@ -2515,8 +2570,8 @@
     },
     {
       "artist": "大漠波新",
-      "correctCount": 10,
-      "correctSongCount": 4
+      "correctCount": 11,
+      "correctSongCount": 5
     },
     {
       "artist": "八王子P",
@@ -2865,8 +2920,8 @@
     },
     {
       "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "はるまきごはん",
@@ -2895,8 +2950,8 @@
     },
     {
       "artist": "Eve",
-      "correctCount": 2,
-      "correctSongCount": 1
+      "correctCount": 3,
+      "correctSongCount": 2
     },
     {
       "artist": "ゆこぴ",
@@ -3022,13 +3077,23 @@
       "artist": "煮ル果実",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "ピノキオピー",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "はりーP",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2021",
-      "correctCount": 30,
-      "correctSongCount": 19
+      "correctCount": 31,
+      "correctSongCount": 20
     },
     {
       "era": "2019",
@@ -3047,13 +3112,13 @@
     },
     {
       "era": "2017",
-      "correctCount": 20,
-      "correctSongCount": 14
+      "correctCount": 21,
+      "correctSongCount": 15
     },
     {
       "era": "2022",
-      "correctCount": 33,
-      "correctSongCount": 26
+      "correctCount": 34,
+      "correctSongCount": 27
     },
     {
       "era": "2020",
@@ -3087,8 +3152,8 @@
     },
     {
       "era": "2024",
-      "correctCount": 24,
-      "correctSongCount": 17
+      "correctCount": 25,
+      "correctSongCount": 18
     },
     {
       "era": "2013",
@@ -3112,8 +3177,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 8,
-      "correctSongCount": 7
+      "correctCount": 9,
+      "correctSongCount": 8
     }
   ],
   "viewStats": [
@@ -3132,26 +3197,26 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 45,
-      "correctSongCount": 33
+      "correctCount": 46,
+      "correctSongCount": 34
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 34,
-      "correctSongCount": 30
+      "correctCount": 35,
+      "correctSongCount": 31
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 55,
-      "correctSongCount": 38
+      "correctCount": 56,
+      "correctSongCount": 39
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 45,
-      "correctSongCount": 33
+      "correctCount": 46,
+      "correctSongCount": 34
     },
     {
       "range": "200-300万",
@@ -3168,8 +3233,8 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 29,
-      "correctSongCount": 21
+      "correctCount": 30,
+      "correctSongCount": 22
     },
     {
       "range": "1000万-",
@@ -4456,18 +4521,182 @@
       "contentId": "sm44601300",
       "startTime": 1738404600000,
       "viewCounter": 181971
+    },
+    {
+      "title": "コスモスパイス",
+      "contentId": "sm39948783",
+      "startTime": 1643191200000,
+      "viewCounter": 533908
+    },
+    {
+      "title": "そのたび",
+      "contentId": "sm45344669",
+      "startTime": 1756549200000,
+      "viewCounter": 443928
+    },
+    {
+      "title": "STAGE OF SEKAI",
+      "contentId": "sm39782705",
+      "startTime": 1640170800000,
+      "viewCounter": 264165
+    },
+    {
+      "title": "み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ",
+      "contentId": "sm44397533",
+      "startTime": 1733480340000,
+      "viewCounter": 1714247
+    },
+    {
+      "title": "ドラマツルギー",
+      "contentId": "sm32076378",
+      "startTime": 1507629600000,
+      "viewCounter": 5721891
     }
   ],
   "summary": {
-    "totalAnswers": 344,
-    "okAnswers": 281,
-    "ngAnswers": 63,
-    "participatedQuizCount": 60,
-    "winQuizCount": 53,
+    "totalAnswers": 350,
+    "okAnswers": 286,
+    "ngAnswers": 64,
+    "participatedQuizCount": 61,
+    "winQuizCount": 54,
     "loseQuizCount": 0,
-    "medianViews": 907961
+    "medianViews": 878114
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "D1",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 3,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 13,
+          "contentId": "sm7882150",
+          "title": "孤独の果て",
+          "artistList": [
+            "光収容"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7882150/7882150",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きょうぼく"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "おとまる"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "りつりつ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "惟月"
+            }
+          ]
+        },
+        {
+          "order": 18,
+          "contentId": "sm39948783",
+          "title": "コスモスパイス",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39948783/39948783.42221057",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "りつりつ"
+            }
+          ]
+        },
+        {
+          "order": 21,
+          "contentId": "sm45344669",
+          "title": "そのたび",
+          "artistList": [
+            "大漠波新"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45344669/45344669.71503085",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "りつりつ"
+            }
+          ]
+        },
+        {
+          "order": 39,
+          "contentId": "sm39782705",
+          "title": "STAGE OF SEKAI",
+          "artistList": [
+            "はりーP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39782705/39782705.13840356",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "りつりつ"
+            }
+          ]
+        },
+        {
+          "order": 50,
+          "contentId": "sm44397533",
+          "title": "み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ",
+          "artistList": [
+            "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44397533/44397533.98839564",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "りつりつ"
+            }
+          ]
+        },
+        {
+          "order": 62,
+          "contentId": "sm32076378",
+          "title": "ドラマツルギー",
+          "artistList": [
+            "Eve"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32076378/32076378",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(3)",
+              "user": "りつりつ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "D1",
@@ -11364,7 +11593,7 @@
           "contentId": "sm41187136",
           "title": "GEDO",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41187136/41187136.10455868",
           "tokens": [

@@ -1401,7 +1401,7 @@
       ],
       "startTime": "2022-04-23T00:00:00+09:00",
       "viewCounter": 1414307,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm24024502",
@@ -1746,7 +1746,7 @@
       ],
       "startTime": "2010-12-31T08:08:43+09:00",
       "viewCounter": 477180,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm1646686",
@@ -2684,6 +2684,40 @@
       "startTime": "2008-03-03T04:56:51+09:00",
       "viewCounter": 3391447,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm32459303",
+      "title": "四角い地球を丸くする",
+      "artist": "TOKOTOKO（西沢さんP）",
+      "artistList": [
+        "TOKOTOKO（西沢さんP）"
+      ],
+      "startTime": "2017-12-22T19:00:00+09:00",
+      "viewCounter": 516315,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm7454296",
+      "title": "トウキョウト・ロック・シティ",
+      "artist": "えこ。",
+      "artistList": [
+        "えこ。"
+      ],
+      "startTime": "2009-06-26T17:46:03+09:00",
+      "viewCounter": 820867,
+      "correctCount": 1
+    },
+    {
+      "contentId": "so18274463",
+      "title": "39",
+      "artist": "DECO*27, sasakure.UK",
+      "artistList": [
+        "DECO*27",
+        "sasakure.UK"
+      ],
+      "startTime": "2012-07-27T15:00:00+09:00",
+      "viewCounter": 1829498,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -2769,8 +2803,8 @@
     },
     {
       "artist": "sasakure.UK",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "Last Note.",
@@ -3074,8 +3108,8 @@
     },
     {
       "artist": "DECO*27",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "椎乃味醂",
@@ -3129,8 +3163,8 @@
     },
     {
       "artist": "TOKOTOKO（西沢さんP）",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "Mwk",
@@ -3204,7 +3238,7 @@
     },
     {
       "artist": "南ノ南",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -3319,7 +3353,7 @@
     },
     {
       "artist": "ほぼ日P",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 2
     },
     {
@@ -3571,6 +3605,11 @@
       "artist": "DATEKEN",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "えこ。",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -3581,13 +3620,13 @@
     },
     {
       "era": "2009",
-      "correctCount": 28,
-      "correctSongCount": 25
+      "correctCount": 29,
+      "correctSongCount": 26
     },
     {
       "era": "2012",
-      "correctCount": 28,
-      "correctSongCount": 25
+      "correctCount": 29,
+      "correctSongCount": 26
     },
     {
       "era": "2011",
@@ -3611,8 +3650,8 @@
     },
     {
       "era": "2017",
-      "correctCount": 17,
-      "correctSongCount": 15
+      "correctCount": 18,
+      "correctSongCount": 16
     },
     {
       "era": "2018",
@@ -3631,7 +3670,7 @@
     },
     {
       "era": "2010",
-      "correctCount": 17,
+      "correctCount": 18,
       "correctSongCount": 17
     },
     {
@@ -3641,7 +3680,7 @@
     },
     {
       "era": "2022",
-      "correctCount": 10,
+      "correctCount": 11,
       "correctSongCount": 9
     },
     {
@@ -3687,20 +3726,20 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 37,
+      "correctCount": 38,
       "correctSongCount": 32
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 52,
-      "correctSongCount": 48
+      "correctCount": 54,
+      "correctSongCount": 50
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 49,
-      "correctSongCount": 47
+      "correctCount": 51,
+      "correctSongCount": 48
     },
     {
       "range": "200-300万",
@@ -5185,18 +5224,196 @@
       "contentId": "sm2500648",
       "startTime": 1204487811000,
       "viewCounter": 3391447
+    },
+    {
+      "title": "四角い地球を丸くする",
+      "contentId": "sm32459303",
+      "startTime": 1513936800000,
+      "viewCounter": 516315
+    },
+    {
+      "title": "トウキョウト・ロック・シティ",
+      "contentId": "sm7454296",
+      "startTime": 1246005963000,
+      "viewCounter": 820867
+    },
+    {
+      "title": "39",
+      "contentId": "so18274463",
+      "startTime": 1343368800000,
+      "viewCounter": 1829498
     }
   ],
   "summary": {
-    "totalAnswers": 522,
-    "okAnswers": 265,
-    "ngAnswers": 256,
-    "participatedQuizCount": 95,
-    "winQuizCount": 35,
+    "totalAnswers": 529,
+    "okAnswers": 270,
+    "ngAnswers": 258,
+    "participatedQuizCount": 96,
+    "winQuizCount": 36,
     "loseQuizCount": 1,
     "medianViews": 891173
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "D1",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 1,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 2,
+          "contentId": "sm32459303",
+          "title": "四角い地球を丸くする",
+          "artistList": [
+            "TOKOTOKO（西沢さんP）"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32459303/32459303",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ニナ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "777"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "contentId": "sm7454296",
+          "title": "トウキョウト・ロック・シティ",
+          "artistList": [
+            "えこ。"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7454296/7454296",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "777"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "contentId": "sm40354298",
+          "title": "可不ちゃんのカレーうどん狂騒曲",
+          "artistList": [
+            "南ノ南"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40354298/40354298.81538690",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "777"
+            }
+          ]
+        },
+        {
+          "order": 12,
+          "contentId": "sm37744139",
+          "title": "旧約汎化街",
+          "artistList": [
+            "柊マグネタイト"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37744139/37744139.29750177",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "777"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "N氏"
+            }
+          ]
+        },
+        {
+          "order": 17,
+          "contentId": "sm40126515",
+          "title": "ジレンマ",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40126515/40126515.28165848",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "777"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "paradoxes"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "惟月"
+            }
+          ]
+        },
+        {
+          "order": 31,
+          "contentId": "so18274463",
+          "title": "39",
+          "artistList": [
+            "DECO*27",
+            "sasakure.UK"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18274463/18274463",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "777"
+            }
+          ]
+        },
+        {
+          "order": 35,
+          "contentId": "sm13178570",
+          "title": "行きます！　カラオケ一曲目",
+          "artistList": [
+            "ほぼ日P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13178570/13178570",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(1)",
+              "user": "777"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 275,
       "group": "D1",

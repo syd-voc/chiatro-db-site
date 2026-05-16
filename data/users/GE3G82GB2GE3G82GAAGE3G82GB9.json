@@ -2086,7 +2086,7 @@
       ],
       "startTime": "2016-08-26T20:00:00+09:00",
       "viewCounter": 1001527,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm35228708",
@@ -4694,9 +4694,9 @@
     {
       "contentId": "sm41944168",
       "title": "poolside railway",
-      "artist": "◾︎37",
+      "artist": "■37",
       "artistList": [
-        "◾︎37"
+        "■37"
       ],
       "startTime": "2023-03-18T19:00:00+09:00",
       "viewCounter": 61993,
@@ -4968,6 +4968,50 @@
       "startTime": "2025-08-30T19:20:00+09:00",
       "viewCounter": 443928,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm33999026",
+      "title": "ハイドランジア",
+      "artist": "梅とら",
+      "artistList": [
+        "梅とら"
+      ],
+      "startTime": "2018-10-11T19:00:00+09:00",
+      "viewCounter": 103231,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm33794284",
+      "title": "風に消える",
+      "artist": "こめだわら",
+      "artistList": [
+        "こめだわら"
+      ],
+      "startTime": "2018-09-03T19:00:00+09:00",
+      "viewCounter": 515786,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm32209048",
+      "title": "再演",
+      "artist": "RINGO",
+      "artistList": [
+        "RINGO"
+      ],
+      "startTime": "2017-11-03T19:59:03+09:00",
+      "viewCounter": 1750695,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm20565621",
+      "title": "幻奏サティスファクション",
+      "artist": "蝶々P",
+      "artistList": [
+        "蝶々P"
+      ],
+      "startTime": "2013-04-09T18:16:16+09:00",
+      "viewCounter": 260152,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4983,8 +5027,8 @@
     },
     {
       "artist": "蝶々P",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "ねじ式",
@@ -5433,8 +5477,8 @@
     },
     {
       "artist": "梅とら",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "Mitchie M",
@@ -5523,7 +5567,7 @@
     },
     {
       "artist": "かいりきベア",
-      "correctCount": 4,
+      "correctCount": 5,
       "correctSongCount": 4
     },
     {
@@ -5978,8 +6022,8 @@
     },
     {
       "artist": "こめだわら",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "黒田亜津",
@@ -6237,7 +6281,7 @@
       "correctSongCount": 1
     },
     {
-      "artist": "◾︎37",
+      "artist": "■37",
       "correctCount": 1,
       "correctSongCount": 1
     },
@@ -6295,6 +6339,11 @@
       "artist": "大漠波新",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "RINGO",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -6340,18 +6389,18 @@
     },
     {
       "era": "2016",
-      "correctCount": 29,
+      "correctCount": 30,
       "correctSongCount": 26
     },
     {
       "era": "2018",
-      "correctCount": 40,
-      "correctSongCount": 37
+      "correctCount": 42,
+      "correctSongCount": 39
     },
     {
       "era": "2017",
-      "correctCount": 27,
-      "correctSongCount": 25
+      "correctCount": 28,
+      "correctSongCount": 26
     },
     {
       "era": "2015",
@@ -6365,8 +6414,8 @@
     },
     {
       "era": "2013",
-      "correctCount": 33,
-      "correctSongCount": 31
+      "correctCount": 34,
+      "correctSongCount": 32
     },
     {
       "era": "2009",
@@ -6405,8 +6454,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 148,
-      "correctSongCount": 137
+      "correctCount": 150,
+      "correctSongCount": 139
     },
     {
       "range": "30-50万",
@@ -6417,14 +6466,14 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 92,
-      "correctSongCount": 82
+      "correctCount": 93,
+      "correctSongCount": 83
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 54,
-      "correctSongCount": 51
+      "correctCount": 56,
+      "correctSongCount": 52
     },
     {
       "range": "200-300万",
@@ -9151,18 +9200,252 @@
       "contentId": "sm45344669",
       "startTime": 1756549200000,
       "viewCounter": 443928
+    },
+    {
+      "title": "ハイドランジア",
+      "contentId": "sm33999026",
+      "startTime": 1539252000000,
+      "viewCounter": 103231
+    },
+    {
+      "title": "風に消える",
+      "contentId": "sm33794284",
+      "startTime": 1535968800000,
+      "viewCounter": 515786
+    },
+    {
+      "title": "再演",
+      "contentId": "sm32209048",
+      "startTime": 1509706743000,
+      "viewCounter": 1750695
+    },
+    {
+      "title": "幻奏サティスファクション",
+      "contentId": "sm20565621",
+      "startTime": 1365498976000,
+      "viewCounter": 260152
     }
   ],
   "summary": {
-    "totalAnswers": 656,
-    "okAnswers": 486,
-    "ngAnswers": 163,
-    "participatedQuizCount": 118,
-    "winQuizCount": 96,
+    "totalAnswers": 664,
+    "okAnswers": 491,
+    "ngAnswers": 166,
+    "participatedQuizCount": 119,
+    "winQuizCount": 97,
     "loseQuizCount": 7,
-    "medianViews": 352984
+    "medianViews": 357559
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "A",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 3,
+      "winRank": 6,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 7,
+          "contentId": "sm33999026",
+          "title": "ハイドランジア",
+          "artistList": [
+            "梅とら"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33999026/33999026",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "時雨"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ゲオス"
+            }
+          ]
+        },
+        {
+          "order": 14,
+          "contentId": "sm37868545",
+          "title": "mochi-mochi.cat",
+          "artistList": [
+            "あらたまいこ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37868545/37868545.95702333",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゲオス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "maruma"
+            }
+          ]
+        },
+        {
+          "order": 21,
+          "contentId": "sm33262437",
+          "title": "LUNATIC LOVE",
+          "artistList": [
+            "Islet"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33262437/33262437",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゲオス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なごん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "スライドポテト"
+            }
+          ]
+        },
+        {
+          "order": 26,
+          "contentId": "sm29525305",
+          "title": "ココロナンセンス",
+          "artistList": [
+            "かいりきベア"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29525305/29525305",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ゲオス"
+            }
+          ]
+        },
+        {
+          "order": 28,
+          "contentId": "sm33794284",
+          "title": "風に消える",
+          "artistList": [
+            "こめだわら"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33794284/33794284",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ゲオス"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm15618059",
+          "title": "狐憑き",
+          "artistList": [
+            "しばいぬ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15618059/15618059",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なごん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "スライドポテト"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゲオス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 43,
+          "contentId": "sm32209048",
+          "title": "再演",
+          "artistList": [
+            "RINGO"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32209048/32209048",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ゲオス"
+            }
+          ]
+        },
+        {
+          "order": 52,
+          "contentId": "sm20565621",
+          "title": "幻奏サティスファクション",
+          "artistList": [
+            "蝶々P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20565621/20565621",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(6)",
+              "user": "ゲオス"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "A",
@@ -10085,7 +10368,7 @@
           "contentId": "sm41944168",
           "title": "poolside railway",
           "artistList": [
-            "◾︎37"
+            "■37"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41944168/41944168.29463080",
           "tokens": [

@@ -2904,7 +2904,7 @@
       ],
       "startTime": "2012-11-23T17:40:50+09:00",
       "viewCounter": 1406154,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm2166779",
@@ -5788,7 +5788,7 @@
       ],
       "startTime": "2021-04-24T18:17:57+09:00",
       "viewCounter": 2419326,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm32593186",
@@ -5954,6 +5954,28 @@
       ],
       "startTime": "2023-03-09T19:00:00+09:00",
       "viewCounter": 620789,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm27941696",
+      "title": "アリス",
+      "artist": "ATOLS",
+      "artistList": [
+        "ATOLS"
+      ],
+      "startTime": "2016-01-08T11:00:00+09:00",
+      "viewCounter": 345035,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm6828492",
+      "title": "Palette",
+      "artist": "ゆよゆっぺ",
+      "artistList": [
+        "ゆよゆっぺ"
+      ],
+      "startTime": "2009-04-23T07:03:06+09:00",
+      "viewCounter": 917409,
       "correctCount": 1
     },
     {
@@ -6415,13 +6437,13 @@
     },
     {
       "artist": "うたたP",
-      "correctCount": 6,
+      "correctCount": 7,
       "correctSongCount": 3
     },
     {
       "artist": "ゆよゆっぺ",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "ぺぺろんP",
@@ -7265,7 +7287,7 @@
     },
     {
       "artist": "るりう",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -7287,6 +7309,11 @@
       "artist": "Kanaria",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "ATOLS",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -7302,7 +7329,7 @@
     },
     {
       "era": "2012",
-      "correctCount": 51,
+      "correctCount": 52,
       "correctSongCount": 41
     },
     {
@@ -7327,12 +7354,12 @@
     },
     {
       "era": "2016",
-      "correctCount": 35,
-      "correctSongCount": 29
+      "correctCount": 36,
+      "correctSongCount": 30
     },
     {
       "era": "2021",
-      "correctCount": 48,
+      "correctCount": 49,
       "correctSongCount": 41
     },
     {
@@ -7357,8 +7384,8 @@
     },
     {
       "era": "2009",
-      "correctCount": 29,
-      "correctSongCount": 24
+      "correctCount": 30,
+      "correctSongCount": 25
     },
     {
       "era": "2022",
@@ -7403,25 +7430,25 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 91,
-      "correctSongCount": 75
+      "correctCount": 92,
+      "correctSongCount": 76
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 143,
-      "correctSongCount": 115
+      "correctCount": 144,
+      "correctSongCount": 116
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 104,
+      "correctCount": 105,
       "correctSongCount": 85
     },
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 54,
+      "correctCount": 55,
       "correctSongCount": 41
     },
     {
@@ -10679,6 +10706,18 @@
       "viewCounter": 620789
     },
     {
+      "title": "アリス",
+      "contentId": "sm27941696",
+      "startTime": 1452218400000,
+      "viewCounter": 345035
+    },
+    {
+      "title": "Palette",
+      "contentId": "sm6828492",
+      "startTime": 1240437786000,
+      "viewCounter": 917409
+    },
+    {
       "title": "未来永劫",
       "contentId": "sm21021649",
       "startTime": 1370168161000,
@@ -10710,15 +10749,254 @@
     }
   ],
   "summary": {
-    "totalAnswers": 1161,
-    "okAnswers": 668,
-    "ngAnswers": 484,
-    "participatedQuizCount": 164,
-    "winQuizCount": 131,
+    "totalAnswers": 1168,
+    "okAnswers": 672,
+    "ngAnswers": 487,
+    "participatedQuizCount": 165,
+    "winQuizCount": 132,
     "loseQuizCount": 9,
-    "medianViews": 506301
+    "medianViews": 506437
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "B",
+      "date": "2026-05-16",
+      "ok": 4,
+      "ng": 3,
+      "winRank": 14,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 7,
+          "contentId": "sm19418883",
+          "title": "一途な片思い、実らせたい小さな幸せ。",
+          "artistList": [
+            "うたたP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19418883/19418883",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "yu-na*"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ルナ・アリス"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "contentId": "sm14712230",
+          "title": "Prototype",
+          "artistList": [
+            "niki"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14712230/14712230",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Takuan"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "テフミネ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "手下"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Cumber"
+            }
+          ]
+        },
+        {
+          "order": 11,
+          "contentId": "sm33174728",
+          "title": "手紙",
+          "artistList": [
+            "23.exe"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33174728/33174728",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "yu-na*"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "たかそう"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 36,
+          "contentId": "sm27941696",
+          "title": "アリス",
+          "artistList": [
+            "ATOLS"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27941696/27941696",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "八神猪熊"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "手下"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ルナ・アリス"
+            }
+          ]
+        },
+        {
+          "order": 48,
+          "contentId": "sm4748812",
+          "title": "Scene",
+          "artistList": [
+            "ジミーサムP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/4748812/4748812",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "yu-na*"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "八神猪熊"
+            }
+          ]
+        },
+        {
+          "order": 61,
+          "contentId": "sm38590294",
+          "title": "クローゼットルーム",
+          "artistList": [
+            "るりう"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38590294/38590294.69761671",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ルナ・アリス"
+            }
+          ]
+        },
+        {
+          "order": 67,
+          "contentId": "sm6828492",
+          "title": "Palette",
+          "artistList": [
+            "ゆよゆっぺ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6828492/6828492",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Moai太郎"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(14)",
+              "user": "ルナ・アリス"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "B",
@@ -24690,7 +24968,7 @@
           "contentId": "sm42572901",
           "title": "不出来物",
           "artistList": [
-            "⌘ ハイノミ"
+            "⌘ハイノミ"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42572901/42572901.15075863",
           "tokens": [

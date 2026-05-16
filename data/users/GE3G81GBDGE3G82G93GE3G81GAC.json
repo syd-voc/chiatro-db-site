@@ -915,7 +915,7 @@
       ],
       "startTime": "2009-02-11T16:52:47+09:00",
       "viewCounter": 2893689,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm7037889",
@@ -3727,7 +3727,7 @@
       ],
       "startTime": "2013-04-10T21:23:14+09:00",
       "viewCounter": 435662,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm37193183",
@@ -3805,6 +3805,39 @@
       ],
       "startTime": "2011-07-31T01:45:32+09:00",
       "viewCounter": 192237,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35834908",
+      "title": "花咲く海の底",
+      "artist": "なつめ千秋",
+      "artistList": [
+        "なつめ千秋"
+      ],
+      "startTime": "2019-10-19T20:00:00+09:00",
+      "viewCounter": 36436,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm30515185",
+      "title": "ハートブレイク≒ブルース",
+      "artist": "ケダルイ",
+      "artistList": [
+        "ケダルイ"
+      ],
+      "startTime": "2017-01-27T23:53:13+09:00",
+      "viewCounter": 181439,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35340226",
+      "title": "恋の恋による恋のための恋",
+      "artist": "ピノキオピー",
+      "artistList": [
+        "ピノキオピー"
+      ],
+      "startTime": "2019-07-01T19:00:00+09:00",
+      "viewCounter": 460577,
       "correctCount": 1
     },
     {
@@ -4454,12 +4487,12 @@
     },
     {
       "artist": "ピノキオピー",
-      "correctCount": 7,
-      "correctSongCount": 7
+      "correctCount": 8,
+      "correctSongCount": 8
     },
     {
       "artist": "koyori(電ポルP)",
-      "correctCount": 3,
+      "correctCount": 4,
       "correctSongCount": 3
     },
     {
@@ -4534,7 +4567,7 @@
     },
     {
       "artist": "銀サク",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 2
     },
     {
@@ -5208,6 +5241,16 @@
       "correctSongCount": 1
     },
     {
+      "artist": "なつめ千秋",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ケダルイ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
       "artist": "ヒャダイン",
       "correctCount": 1,
       "correctSongCount": 1
@@ -5281,7 +5324,7 @@
     },
     {
       "era": "2009",
-      "correctCount": 91,
+      "correctCount": 92,
       "correctSongCount": 75
     },
     {
@@ -5306,8 +5349,8 @@
     },
     {
       "era": "2017",
-      "correctCount": 12,
-      "correctSongCount": 12
+      "correctCount": 13,
+      "correctSongCount": 13
     },
     {
       "era": "2021",
@@ -5326,8 +5369,8 @@
     },
     {
       "era": "2019",
-      "correctCount": 13,
-      "correctSongCount": 11
+      "correctCount": 15,
+      "correctSongCount": 13
     },
     {
       "era": "2015",
@@ -5356,7 +5399,7 @@
     },
     {
       "era": "2013",
-      "correctCount": 12,
+      "correctCount": 13,
       "correctSongCount": 12
     },
     {
@@ -5375,20 +5418,20 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 25,
-      "correctSongCount": 24
+      "correctCount": 26,
+      "correctSongCount": 25
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 131,
-      "correctSongCount": 115
+      "correctCount": 132,
+      "correctSongCount": 116
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 103,
-      "correctSongCount": 84
+      "correctCount": 105,
+      "correctSongCount": 85
     },
     {
       "range": "50-100万",
@@ -5405,7 +5448,7 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 18,
+      "correctCount": 19,
       "correctSongCount": 18
     },
     {
@@ -7499,6 +7542,24 @@
       "viewCounter": 192237
     },
     {
+      "title": "花咲く海の底",
+      "contentId": "sm35834908",
+      "startTime": 1571482800000,
+      "viewCounter": 36436
+    },
+    {
+      "title": "ハートブレイク≒ブルース",
+      "contentId": "sm30515185",
+      "startTime": 1485528793000,
+      "viewCounter": 181439
+    },
+    {
+      "title": "恋の恋による恋のための恋",
+      "contentId": "sm35340226",
+      "startTime": 1561975200000,
+      "viewCounter": 460577
+    },
+    {
       "title": "Choose Me",
       "contentId": "sm11269476",
       "startTime": 1278169261000,
@@ -7710,15 +7771,115 @@
     }
   ],
   "summary": {
-    "totalAnswers": 495,
-    "okAnswers": 444,
+    "totalAnswers": 500,
+    "okAnswers": 449,
     "ngAnswers": 51,
-    "participatedQuizCount": 125,
-    "winQuizCount": 81,
+    "participatedQuizCount": 126,
+    "winQuizCount": 82,
     "loseQuizCount": 0,
     "medianViews": 388464
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C2",
+      "date": "2026-05-16",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 2,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 1,
+          "contentId": "sm35834908",
+          "title": "花咲く海の底",
+          "artistList": [
+            "なつめ千秋"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35834908/35834908.37020556",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ぽんぬ"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "contentId": "sm30515185",
+          "title": "ハートブレイク≒ブルース",
+          "artistList": [
+            "ケダルイ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30515185/30515185",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ぽんぬ"
+            }
+          ]
+        },
+        {
+          "order": 12,
+          "contentId": "sm35340226",
+          "title": "恋の恋による恋のための恋",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35340226/35340226.16122979",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Klayn"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ぽんぬ"
+            }
+          ]
+        },
+        {
+          "order": 26,
+          "contentId": "sm6115924",
+          "title": "いろは唄",
+          "artistList": [
+            "銀サク"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6115924/6115924",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ぽんぬ"
+            }
+          ]
+        },
+        {
+          "order": 28,
+          "contentId": "sm20574984",
+          "title": "恋空予報",
+          "artistList": [
+            "koyori(電ポルP)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20574984/20574984",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(2)",
+              "user": "ぽんぬ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "C2",

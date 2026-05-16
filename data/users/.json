@@ -68,15 +68,1479 @@
   ],
   "scatter": [],
   "summary": {
-    "totalAnswers": 15712,
+    "totalAnswers": 15788,
     "okAnswers": 0,
     "ngAnswers": 0,
-    "participatedQuizCount": 920,
+    "participatedQuizCount": 926,
     "winQuizCount": 0,
     "loseQuizCount": 0,
     "medianViews": null
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "A",
+      "date": "2026-05-15",
+      "ok": 0,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 2,
+          "contentId": "sm23680068",
+          "title": "雨と記憶とメメントモリ",
+          "artistList": [
+            "TaKU.K"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23680068/23680068",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 22,
+          "contentId": "sm35036524",
+          "title": "そらリゼーション",
+          "artistList": [
+            "k_zero+A"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35036524/35036524.39295",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "影山"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "時雨"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "スライドポテト"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 25,
+          "contentId": "sm27418876",
+          "title": "ネクストレイン",
+          "artistList": [
+            "アオトケイ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27418876/27418876",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "スライドポテト"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm15618059",
+          "title": "狐憑き",
+          "artistList": [
+            "しばいぬ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15618059/15618059",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なごん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "スライドポテト"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゲオス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 50,
+          "contentId": "sm11790454",
+          "title": "ひとりかくれんぼ",
+          "artistList": [
+            "cosMo@暴走P",
+            "デッドボールP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/11790454/11790454",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 55,
+          "contentId": "sm8002597",
+          "title": "Loose Change",
+          "artistList": [
+            "tys"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8002597/8002597",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 62,
+          "contentId": "sm18692234",
+          "title": "ネムイムネ",
+          "artistList": [
+            "梅とら"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18692234/18692234",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 67,
+          "contentId": "sm46040296",
+          "title": "フワリズム",
+          "artistList": [
+            "鼻そうめんP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/46040296/46040296.43966821",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 80,
+          "contentId": "sm43894918",
+          "title": "せんぱい！",
+          "artistList": [
+            "OSTER project"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43894918/43894918.85460756",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 299,
+      "group": "B",
+      "date": "2026-05-16",
+      "ok": 0,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 11,
+          "contentId": "sm33174728",
+          "title": "手紙",
+          "artistList": [
+            "23.exe"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33174728/33174728",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "yu-na*"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "たかそう"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 26,
+          "contentId": "sm25529839",
+          "title": "貴方様",
+          "artistList": [
+            "三重の人"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25529839/25529839",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 27,
+          "contentId": "sm6641117",
+          "title": "AILE -アイル-",
+          "artistList": [
+            "CielP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6641117/6641117",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 28,
+          "contentId": "nm6008115",
+          "title": "Think Hope",
+          "artistList": [
+            "SHUN"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6008115/6008115",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm23834206",
+          "title": "レイニー・レイディ",
+          "artistList": [
+            "戦車P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23834206/23834206",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "よかずき"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ホワイトホールヶ丘商店街"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Cumber"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 60,
+          "contentId": "sm33725782",
+          "title": "デカフェガール",
+          "artistList": [
+            "OSTER project"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33725782/33725782",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 77,
+          "contentId": "sm43428335",
+          "title": "リビングデッドバンデッド",
+          "artistList": [
+            "すぴぃちゃん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43428335/43428335.13829384",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 78,
+          "contentId": "sm45262415",
+          "title": "アクセラレイト",
+          "artistList": [
+            "吉田夜世"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45262415/45262415.66017329",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Moai太郎"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 83,
+          "contentId": "sm30457121",
+          "title": "瞬いては消えて行く",
+          "artistList": [
+            "164"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30457121/30457121",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 299,
+      "group": "C1",
+      "date": "2026-05-15",
+      "ok": 0,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 4,
+          "contentId": "sm32115318",
+          "title": "堕落",
+          "artistList": [
+            "なすP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32115318/32115318",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "contentId": "sm43420282",
+          "title": "ミスフィット",
+          "artistList": [
+            "獅子志司"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43420282/43420282.64572532",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 9,
+          "contentId": "sm31438222",
+          "title": "escape",
+          "artistList": [
+            "葵木ゴウ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31438222/31438222",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 12,
+          "contentId": "sm21081963",
+          "title": "Wet bluemoon",
+          "artistList": [
+            "クンカクンカP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21081963/21081963",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 15,
+          "contentId": "sm45322646",
+          "title": "Laurier",
+          "artistList": [
+            "Natrium"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45322646/45322646.80970571",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 21,
+          "contentId": "sm42577948",
+          "title": "夏模倣",
+          "artistList": [
+            "かしこ。"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42577948/42577948.41400369",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "フリスク"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 33,
+          "contentId": "sm44227911",
+          "title": "シンギラ",
+          "artistList": [
+            "ユリイ・カノン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44227911/44227911.53153268",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 43,
+          "contentId": "sm29465174",
+          "title": "ドキドキ☆乙女男子",
+          "artistList": [
+            "パピ子りん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29465174/29465174",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とある逢瀬"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "そ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 92,
+          "contentId": "sm27732198",
+          "title": "EXiT",
+          "artistList": [
+            "caco-2"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27732198/27732198",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 95,
+          "contentId": "sm32537934",
+          "title": "他人事の音がする",
+          "artistList": [
+            "あめのむらくもP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32537934/32537934",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 97,
+          "contentId": "sm39676141",
+          "title": "コーポレートロゴ",
+          "artistList": [
+            "安見すや"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39676141/39676141.86209115",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 98,
+          "contentId": "sm36504858",
+          "title": "君は悪くない",
+          "artistList": [
+            "Δ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36504858/36504858.1634652",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 299,
+      "group": "C2",
+      "date": "2026-05-16",
+      "ok": 0,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 2,
+          "contentId": "sm45823807",
+          "title": "JOKER",
+          "artistList": [
+            "ATOLS"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45823807/45823807.251844",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 9,
+          "contentId": "sm1896361",
+          "title": "ドント☆クライ",
+          "artistList": [
+            "ジェバンニP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1896361/1896361",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 18,
+          "contentId": "sm30833949",
+          "title": "ノスタルジックが僕を殺す",
+          "artistList": [
+            "Over Forte"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30833949/30833949",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 20,
+          "contentId": "sm35584273",
+          "title": "デッドコード",
+          "artistList": [
+            "SEVENTHLINKS"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35584273/35584273.45428201",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 36,
+          "contentId": "sm13807329",
+          "title": "ユメネコ",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13807329/13807329",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "contentId": "sm32898831",
+          "title": "spray",
+          "artistList": [
+            "有機酸"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32898831/32898831",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 41,
+          "contentId": "sm15206068",
+          "title": "blue blue blue",
+          "artistList": [
+            "koyori(電ポルP)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15206068/15206068",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 46,
+          "contentId": "sm2175318",
+          "title": "へなちょこナイト",
+          "artistList": [
+            "エキセントリックP",
+            "damel"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2175318/2175318",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 48,
+          "contentId": "sm37429345",
+          "title": "ヒール",
+          "artistList": [
+            "遼遼"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37429345/37429345.26031378",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 49,
+          "contentId": "sm37946018",
+          "title": "フォークウォーク",
+          "artistList": [
+            "一筆かもめ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37946018/37946018.24763040",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 53,
+          "contentId": "sm27512085",
+          "title": "嘘つき魔女と灰色の虹",
+          "artistList": [
+            "そらる"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27512085/27512085",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 54,
+          "contentId": "sm6121029",
+          "title": "恋距離遠愛",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6121029/6121029",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 56,
+          "contentId": "sm35730338",
+          "title": "タタラ",
+          "artistList": [
+            "ピコン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35730338/35730338.19725070",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 299,
+      "group": "D1",
+      "date": "2026-05-15",
+      "ok": 0,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 3,
+          "contentId": "sm44678059",
+          "title": "歌唱するキカイ",
+          "artistList": [
+            "阿修"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44678059/44678059.89616822",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 15,
+          "contentId": "sm41599620",
+          "title": "宇宙船",
+          "artistList": [
+            "seiza"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41599620/41599620.57427077",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "N氏"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 16,
+          "contentId": "sm16844849",
+          "title": "ぼくらのレットイットビー",
+          "artistList": [
+            "はりーP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16844849/16844849",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きょうぼく"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "おとまる"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 19,
+          "contentId": "sm2528674",
+          "title": "SPICE!",
+          "artistList": [
+            "流星P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2528674/2528674",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 22,
+          "contentId": "sm7624034",
+          "title": "御饌津の祭",
+          "artistList": [
+            "マイゴッドP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7624034/7624034",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 23,
+          "contentId": "sm39734747",
+          "title": "空っぽのメロディー",
+          "artistList": [
+            "うみくん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39734747/39734747.21315254",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 26,
+          "contentId": "sm15874914",
+          "title": "嘘つきベティ",
+          "artistList": [
+            "ぽりふぉ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15874914/15874914",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 28,
+          "contentId": "sm21445815",
+          "title": "君ガ空コソカナシケレ",
+          "artistList": [
+            "HoneyWorks"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21445815/21445815",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 30,
+          "contentId": "sm10684009",
+          "title": "S・K・Y",
+          "artistList": [
+            "ライブP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10684009/10684009.15892305",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "contentId": "sm5651671",
+          "title": "ブレイクアウト！",
+          "artistList": [
+            "LOLI.COM",
+            "タイツォン",
+            "タケ・ヨシキ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/5651671/5651671",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "たいこさん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ニナ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "おはよう"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 41,
+          "contentId": "sm38971804",
+          "title": "花めづる君",
+          "artistList": [
+            "傘村トータ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38971804/38971804.24614926",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 42,
+          "contentId": "sm34107048",
+          "title": "わいふぁい暴想ボーイ",
+          "artistList": [
+            "れるりり"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34107048/34107048",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 46,
+          "contentId": "sm24181260",
+          "title": "SUPER YELLOW",
+          "artistList": [
+            "TOKOTOKO（西沢さんP）"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24181260/24181260",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 53,
+          "contentId": "sm45973148",
+          "title": "アナタ生態観察",
+          "artistList": [
+            "百夜カエル"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45973148/45973148.6598553",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 57,
+          "contentId": "sm33629129",
+          "title": "ギルト",
+          "artistList": [
+            "ティースウィート"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33629129/33629129",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 60,
+          "contentId": "sm44565055",
+          "title": "さよならギフテッド",
+          "artistList": [
+            "Ruliea"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44565055/44565055.41495528",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きょうぼく"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 64,
+          "contentId": "sm8033594",
+          "title": "LOL -lots of laugh-",
+          "artistList": [
+            "KeN",
+            "エンドケイプ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8033594/8033594",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 70,
+          "contentId": "sm7911934",
+          "title": "夢の続き",
+          "artistList": [
+            "Dixie Flatline"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7911934/7911934",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 73,
+          "contentId": "sm44676825",
+          "title": "FOOT-AGE HERO",
+          "artistList": [
+            "d.j.ァネイロ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44676825/44676825.44047691",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 77,
+          "contentId": "sm45956345",
+          "title": "おもいでづくり",
+          "artistList": [
+            "88"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45956345/45956345.28535352",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 80,
+          "contentId": "sm35253678",
+          "title": "クリプトグラフ",
+          "artistList": [
+            "蝶々P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35253678/35253678.98502124",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 81,
+          "contentId": "sm22478322",
+          "title": "愛迷エレジー",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22478322/22478322",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_no": 299,
+      "group": "D2",
+      "date": "2026-05-16",
+      "ok": 0,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 6,
+          "contentId": "sm16625472",
+          "title": "NARAKA",
+          "artistList": [
+            "164",
+            "蝶々P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16625472/16625472",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 23,
+          "contentId": "sm9024225",
+          "title": "独房ステラシアタ",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9024225/9024225",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "さいわい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "千夜"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 47,
+          "contentId": "sm36424703",
+          "title": "歌ってみせますよ",
+          "artistList": [
+            "ばらっげ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36424703/36424703.97909675",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 51,
+          "contentId": "sm25895025",
+          "title": "衆生は踊る",
+          "artistList": [
+            "ふる"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25895025/25895025",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 66,
+          "contentId": "sm27612934",
+          "title": "羽のない背中に",
+          "artistList": [
+            "ががめ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27612934/27612934",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 68,
+          "contentId": "sm35619695",
+          "title": "凍るサマー",
+          "artistList": [
+            "Guiano"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35619695/35619695.544350",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 69,
+          "contentId": "sm12894209",
+          "title": "ポーカーフェイス",
+          "artistList": [
+            "ゆちゃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12894209/12894209",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 70,
+          "contentId": "sm36902997",
+          "title": "ヒガン",
+          "artistList": [
+            "john"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36902997/36902997.91411899",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 71,
+          "contentId": "sm19697286",
+          "title": "延命治療",
+          "artistList": [
+            "Neru"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19697286/19697286",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 72,
+          "contentId": "sm1588476",
+          "title": "ミラクルペイント",
+          "artistList": [
+            "OSTER project"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1588476/1588476",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 75,
+          "contentId": "sm10187442",
+          "title": "はやぶさ",
+          "artistList": [
+            "キセノンP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10187442/10187442",
+          "tokens": [
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "A",
@@ -686,7 +2150,7 @@
           "contentId": "sm42572901",
           "title": "不出来物",
           "artistList": [
-            "⌘ ハイノミ"
+            "⌘ハイノミ"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42572901/42572901.15075863",
           "tokens": [
@@ -1263,7 +2727,7 @@
           "contentId": "sm32552101",
           "title": "失笑サマーアゲイン",
           "artistList": [
-            "Kohm(コーム）"
+            "Kohm"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32552101/32552101",
           "tokens": [
@@ -9821,7 +11285,7 @@
           "contentId": "sm28864122",
           "title": "EARTHTOPIA",
           "artistList": [
-            "バーコードP"
+            "llliiillliiilll"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28864122/28864122",
           "tokens": [
@@ -24359,7 +25823,7 @@
           "contentId": "sm43430920",
           "title": "PANI PANI",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43430920/43430920.94260540",
           "tokens": [
@@ -36158,7 +37622,7 @@
           "contentId": "sm41952281",
           "title": "tougenkyo",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41952281/41952281.63280390",
           "tokens": [
@@ -78198,7 +79662,7 @@
           "contentId": "sm42572901",
           "title": "不出来物",
           "artistList": [
-            "⌘ ハイノミ"
+            "⌘ハイノミ"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42572901/42572901.15075863",
           "tokens": [
@@ -81360,7 +82824,7 @@
           "contentId": "sm43354930",
           "title": "0産工場",
           "artistList": [
-            "綿ならし"
+            "綿ナラシ"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43354930/43354930.99186881",
           "tokens": [
@@ -82888,7 +84352,7 @@
           "title": "Various feelings",
           "artistList": [
             "shu-t",
-            "saya"
+            "kaya"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2487215/2487215",
           "tokens": [
@@ -84685,7 +86149,7 @@
           "contentId": "sm41187136",
           "title": "GEDO",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41187136/41187136.10455868",
           "tokens": [
@@ -84845,7 +86309,7 @@
           "contentId": "sm41952281",
           "title": "tougenkyo",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41952281/41952281.63280390",
           "tokens": [
@@ -106312,7 +107776,7 @@
           "contentId": "sm41952281",
           "title": "tougenkyo",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41952281/41952281.63280390",
           "tokens": [
@@ -108173,7 +109637,7 @@
           "contentId": "sm42575732",
           "title": "ディスバリズム",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42575732/42575732.5807628",
           "tokens": [
@@ -115886,7 +117350,7 @@
           "contentId": "sm43430920",
           "title": "PANI PANI",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43430920/43430920.94260540",
           "tokens": [
@@ -159284,7 +160748,7 @@
           "contentId": "sm41952281",
           "title": "tougenkyo",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41952281/41952281.63280390",
           "tokens": [
@@ -184248,7 +185712,7 @@
           "contentId": "sm42572901",
           "title": "不出来物",
           "artistList": [
-            "⌘ ハイノミ"
+            "⌘ハイノミ"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42572901/42572901.15075863",
           "tokens": [
@@ -189537,7 +191001,7 @@
           "title": "Various feelings",
           "artistList": [
             "shu-t",
-            "saya"
+            "kaya"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2487215/2487215",
           "tokens": [
@@ -197764,7 +199228,7 @@
           "contentId": "sm42572901",
           "title": "不出来物",
           "artistList": [
-            "⌘ ハイノミ"
+            "⌘ハイノミ"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42572901/42572901.15075863",
           "tokens": [
@@ -200862,7 +202326,7 @@
           "title": "Various feelings",
           "artistList": [
             "shu-t",
-            "saya"
+            "kaya"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2487215/2487215",
           "tokens": [
@@ -201957,7 +203421,7 @@
           "contentId": "sm42575732",
           "title": "ディスバリズム",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42575732/42575732.5807628",
           "tokens": [
@@ -205074,7 +206538,7 @@
           "contentId": "nm15770119",
           "title": "CRYONICS",
           "artistList": [
-            "AVTeckNO!"
+            "AVTechNO!"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15770119/15770119",
           "tokens": [
@@ -211149,7 +212613,7 @@
           "contentId": "sm32552101",
           "title": "失笑サマーアゲイン",
           "artistList": [
-            "Kohm(コーム）"
+            "Kohm"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32552101/32552101",
           "tokens": [
@@ -233677,7 +235141,7 @@
           "contentId": "sm42575732",
           "title": "ディスバリズム",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42575732/42575732.5807628",
           "tokens": [
@@ -234221,7 +235685,7 @@
           "contentId": "sm32552101",
           "title": "失笑サマーアゲイン",
           "artistList": [
-            "Kohm(コーム）"
+            "Kohm"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32552101/32552101",
           "tokens": [
@@ -239402,7 +240866,7 @@
           "contentId": "sm2089636",
           "title": "激嬢想歌-Gekijyousouka-",
           "artistList": [
-            "Kiesca"
+            "ヤンデレP"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2089636/2089636",
           "tokens": [
@@ -239632,7 +241096,7 @@
           "contentId": "sm31852362",
           "title": "思ったより酸素がない！",
           "artistList": [
-            "棒人間"
+            "えくしい"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31852362/31852362",
           "tokens": [
@@ -275693,7 +277157,7 @@
           "contentId": "sm32552101",
           "title": "失笑サマーアゲイン",
           "artistList": [
-            "Kohm(コーム）"
+            "Kohm"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32552101/32552101",
           "tokens": [
@@ -276394,7 +277858,7 @@
           "contentId": "sm40348768",
           "title": "ウォーキー・トーキー",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40348768/40348768.1342938",
           "tokens": [
@@ -285470,7 +286934,7 @@
           "contentId": "sm32552101",
           "title": "失笑サマーアゲイン",
           "artistList": [
-            "Kohm(コーム）"
+            "Kohm"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32552101/32552101",
           "tokens": [
@@ -294738,7 +296202,7 @@
           "title": "Various feelings",
           "artistList": [
             "shu-t",
-            "saya"
+            "kaya"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2487215/2487215",
           "tokens": [

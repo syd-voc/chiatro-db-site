@@ -3339,6 +3339,61 @@
       "startTime": "2009-10-23T06:07:45+09:00",
       "viewCounter": 1928964,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm31015274",
+      "title": "イヤガール",
+      "artist": "かいりきベア",
+      "artistList": [
+        "かいりきベア"
+      ],
+      "startTime": "2017-04-12T20:00:00+09:00",
+      "viewCounter": 1192710,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm40408445",
+      "title": "酔いどれ知らず",
+      "artist": "Kanaria",
+      "artistList": [
+        "Kanaria"
+      ],
+      "startTime": "2022-05-02T19:04:00+09:00",
+      "viewCounter": 5768247,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm34242197",
+      "title": "針降る都市のモノクロ少女",
+      "artist": "TaKU.K",
+      "artistList": [
+        "TaKU.K"
+      ],
+      "startTime": "2018-11-29T19:00:00+09:00",
+      "viewCounter": 148178,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm1961633",
+      "title": "Promise",
+      "artist": "samfree",
+      "artistList": [
+        "samfree"
+      ],
+      "startTime": "2008-01-06T06:08:49+09:00",
+      "viewCounter": 599528,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm40554570",
+      "title": "転生林檎",
+      "artist": "ピノキオピー",
+      "artistList": [
+        "ピノキオピー"
+      ],
+      "startTime": "2022-06-03T19:00:00+09:00",
+      "viewCounter": 4891774,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -3379,8 +3434,8 @@
     },
     {
       "artist": "かいりきベア",
-      "correctCount": 4,
-      "correctSongCount": 3
+      "correctCount": 5,
+      "correctSongCount": 4
     },
     {
       "artist": "Junky",
@@ -3429,8 +3484,8 @@
     },
     {
       "artist": "Kanaria",
-      "correctCount": 6,
-      "correctSongCount": 4
+      "correctCount": 7,
+      "correctSongCount": 5
     },
     {
       "artist": "みきとP",
@@ -3544,8 +3599,8 @@
     },
     {
       "artist": "ピノキオピー",
-      "correctCount": 12,
-      "correctSongCount": 8
+      "correctCount": 13,
+      "correctSongCount": 9
     },
     {
       "artist": "Azari",
@@ -3589,8 +3644,8 @@
     },
     {
       "artist": "samfree",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "カラスヤサボウ",
@@ -4111,6 +4166,11 @@
       "artist": "さつき が てんこもり",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "TaKU.K",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -4121,8 +4181,8 @@
     },
     {
       "era": "2018",
-      "correctCount": 36,
-      "correctSongCount": 28
+      "correctCount": 37,
+      "correctSongCount": 29
     },
     {
       "era": "2011",
@@ -4131,13 +4191,13 @@
     },
     {
       "era": "2017",
-      "correctCount": 24,
-      "correctSongCount": 21
+      "correctCount": 25,
+      "correctSongCount": 22
     },
     {
       "era": "2007-2008",
-      "correctCount": 8,
-      "correctSongCount": 6
+      "correctCount": 9,
+      "correctSongCount": 7
     },
     {
       "era": "2015",
@@ -4191,8 +4251,8 @@
     },
     {
       "era": "2022",
-      "correctCount": 11,
-      "correctSongCount": 10
+      "correctCount": 13,
+      "correctSongCount": 12
     },
     {
       "era": "2024",
@@ -4221,8 +4281,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 37,
-      "correctSongCount": 35
+      "correctCount": 38,
+      "correctSongCount": 36
     },
     {
       "range": "30-50万",
@@ -4233,14 +4293,14 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 76,
-      "correctSongCount": 68
+      "correctCount": 77,
+      "correctSongCount": 69
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 55,
-      "correctSongCount": 50
+      "correctCount": 56,
+      "correctSongCount": 51
     },
     {
       "range": "200-300万",
@@ -4251,14 +4311,14 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 40,
-      "correctSongCount": 31
+      "correctCount": 41,
+      "correctSongCount": 32
     },
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 36,
-      "correctSongCount": 30
+      "correctCount": 37,
+      "correctSongCount": 31
     },
     {
       "range": "1000万-",
@@ -6085,18 +6145,164 @@
       "contentId": "sm8590504",
       "startTime": 1256245665000,
       "viewCounter": 1928964
+    },
+    {
+      "title": "イヤガール",
+      "contentId": "sm31015274",
+      "startTime": 1491994800000,
+      "viewCounter": 1192710
+    },
+    {
+      "title": "酔いどれ知らず",
+      "contentId": "sm40408445",
+      "startTime": 1651485840000,
+      "viewCounter": 5768247
+    },
+    {
+      "title": "針降る都市のモノクロ少女",
+      "contentId": "sm34242197",
+      "startTime": 1543485600000,
+      "viewCounter": 148178
+    },
+    {
+      "title": "Promise",
+      "contentId": "sm1961633",
+      "startTime": 1199567329000,
+      "viewCounter": 599528
+    },
+    {
+      "title": "転生林檎",
+      "contentId": "sm40554570",
+      "startTime": 1654250400000,
+      "viewCounter": 4891774
     }
   ],
   "summary": {
-    "totalAnswers": 504,
-    "okAnswers": 355,
-    "ngAnswers": 147,
-    "participatedQuizCount": 76,
-    "winQuizCount": 69,
+    "totalAnswers": 510,
+    "okAnswers": 360,
+    "ngAnswers": 148,
+    "participatedQuizCount": 77,
+    "winQuizCount": 70,
     "loseQuizCount": 2,
     "medianViews": 931427
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C2",
+      "date": "2026-05-16",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 8,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 14,
+          "contentId": "sm31015274",
+          "title": "イヤガール",
+          "artistList": [
+            "かいりきベア"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31015274/31015274",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "レイ"
+            }
+          ]
+        },
+        {
+          "order": 23,
+          "contentId": "sm40408445",
+          "title": "酔いどれ知らず",
+          "artistList": [
+            "Kanaria"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40408445/40408445.51803438",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "レイ"
+            }
+          ]
+        },
+        {
+          "order": 31,
+          "contentId": "sm34242197",
+          "title": "針降る都市のモノクロ少女",
+          "artistList": [
+            "TaKU.K"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34242197/34242197",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "レイ"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm12640192",
+          "title": "Blackjack",
+          "artistList": [
+            "ゆちゃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12640192/12640192",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "レイ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "Klayn"
+            }
+          ]
+        },
+        {
+          "order": 38,
+          "contentId": "sm1961633",
+          "title": "Promise",
+          "artistList": [
+            "samfree"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1961633/1961633",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "レイ"
+            }
+          ]
+        },
+        {
+          "order": 55,
+          "contentId": "sm40554570",
+          "title": "転生林檎",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40554570/40554570.11898029",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(8)",
+              "user": "レイ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "C1",

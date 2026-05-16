@@ -22,7 +22,7 @@
       ],
       "startTime": "2007-10-29T12:04:22+09:00",
       "viewCounter": 729488,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm10933505",
@@ -943,7 +943,7 @@
       ],
       "startTime": "2009-04-27T23:18:51+09:00",
       "viewCounter": 1272211,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm18965721",
@@ -2274,17 +2274,50 @@
       "startTime": "2019-08-03T20:00:00+09:00",
       "viewCounter": 626303,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm33135005",
+      "title": "誰かのヒーローになりたかった",
+      "artist": "傘村トータ",
+      "artistList": [
+        "傘村トータ"
+      ],
+      "startTime": "2018-04-30T21:34:05+09:00",
+      "viewCounter": 565555,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm23815763",
+      "title": "めめめめめ",
+      "artist": "玉木ちんたら",
+      "artistList": [
+        "玉木ちんたら"
+      ],
+      "startTime": "2014-06-20T21:06:00+09:00",
+      "viewCounter": 670364,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm2393562",
+      "title": "カンタレラ",
+      "artist": "黒うさP",
+      "artistList": [
+        "黒うさP"
+      ],
+      "startTime": "2008-02-21T19:29:56+09:00",
+      "viewCounter": 3197997,
+      "correctCount": 1
     }
   ],
   "artistStats": [
     {
       "artist": "傘村トータ",
-      "correctCount": 6,
-      "correctSongCount": 6
+      "correctCount": 7,
+      "correctSongCount": 7
     },
     {
       "artist": "iroha",
-      "correctCount": 4,
+      "correctCount": 5,
       "correctSongCount": 2
     },
     {
@@ -2624,7 +2657,7 @@
     },
     {
       "artist": "仕事してP",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 2
     },
     {
@@ -2654,8 +2687,8 @@
     },
     {
       "artist": "黒うさP",
-      "correctCount": 3,
-      "correctSongCount": 2
+      "correctCount": 4,
+      "correctSongCount": 3
     },
     {
       "artist": "はりーP",
@@ -2971,18 +3004,23 @@
       "artist": "清水コウ",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "玉木ちんたら",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2018",
-      "correctCount": 8,
-      "correctSongCount": 8
+      "correctCount": 9,
+      "correctSongCount": 9
     },
     {
       "era": "2007-2008",
-      "correctCount": 23,
-      "correctSongCount": 19
+      "correctCount": 25,
+      "correctSongCount": 20
     },
     {
       "era": "2010",
@@ -3001,7 +3039,7 @@
     },
     {
       "era": "2009",
-      "correctCount": 21,
+      "correctCount": 22,
       "correctSongCount": 19
     },
     {
@@ -3021,8 +3059,8 @@
     },
     {
       "era": "2014",
-      "correctCount": 8,
-      "correctSongCount": 7
+      "correctCount": 9,
+      "correctSongCount": 8
     },
     {
       "era": "2023",
@@ -3093,13 +3131,13 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 69,
-      "correctSongCount": 62
+      "correctCount": 72,
+      "correctSongCount": 64
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 37,
+      "correctCount": 38,
       "correctSongCount": 33
     },
     {
@@ -3111,8 +3149,8 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 17,
-      "correctSongCount": 16
+      "correctCount": 18,
+      "correctSongCount": 17
     },
     {
       "range": "500-1000万",
@@ -4357,18 +4395,127 @@
       "contentId": "sm35484027",
       "startTime": 1564830000000,
       "viewCounter": 626303
+    },
+    {
+      "title": "誰かのヒーローになりたかった",
+      "contentId": "sm33135005",
+      "startTime": 1525091645000,
+      "viewCounter": 565555
+    },
+    {
+      "title": "めめめめめ",
+      "contentId": "sm23815763",
+      "startTime": 1403265960000,
+      "viewCounter": 670364
+    },
+    {
+      "title": "カンタレラ",
+      "contentId": "sm2393562",
+      "startTime": 1203589796000,
+      "viewCounter": 3197997
     }
   ],
   "summary": {
-    "totalAnswers": 325,
-    "okAnswers": 221,
+    "totalAnswers": 330,
+    "okAnswers": 226,
     "ngAnswers": 104,
-    "participatedQuizCount": 45,
-    "winQuizCount": 43,
+    "participatedQuizCount": 46,
+    "winQuizCount": 44,
     "loseQuizCount": 0,
     "medianViews": 723435
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C2",
+      "date": "2026-05-16",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 4,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 22,
+          "contentId": "sm1400559",
+          "title": "moon",
+          "artistList": [
+            "iroha"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1400559/1400559",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "なすの惑星"
+            }
+          ]
+        },
+        {
+          "order": 24,
+          "contentId": "sm6875060",
+          "title": "時忘人",
+          "artistList": [
+            "仕事してP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6875060/6875060",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "なすの惑星"
+            }
+          ]
+        },
+        {
+          "order": 29,
+          "contentId": "sm33135005",
+          "title": "誰かのヒーローになりたかった",
+          "artistList": [
+            "傘村トータ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33135005/33135005",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "なすの惑星"
+            }
+          ]
+        },
+        {
+          "order": 32,
+          "contentId": "sm23815763",
+          "title": "めめめめめ",
+          "artistList": [
+            "玉木ちんたら"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23815763/23815763",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "なすの惑星"
+            }
+          ]
+        },
+        {
+          "order": 33,
+          "contentId": "sm2393562",
+          "title": "カンタレラ",
+          "artistList": [
+            "黒うさP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2393562/2393562",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(4)",
+              "user": "なすの惑星"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "D1",

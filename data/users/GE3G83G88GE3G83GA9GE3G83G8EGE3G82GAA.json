@@ -1707,7 +1707,7 @@
       ],
       "startTime": "2015-06-01T19:00:00+09:00",
       "viewCounter": 513969,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm25643375",
@@ -5339,6 +5339,39 @@
       "startTime": "2025-10-08T19:00:00+09:00",
       "viewCounter": 570593,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm20432353",
+      "title": "さかさシンドローム",
+      "artist": "19's Sound Factory",
+      "artistList": [
+        "19's Sound Factory"
+      ],
+      "startTime": "2013-03-25T20:00:00+09:00",
+      "viewCounter": 316870,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm18375657",
+      "title": "ワープアンドワープ",
+      "artist": "日向電工",
+      "artistList": [
+        "日向電工"
+      ],
+      "startTime": "2012-07-17T22:00:43+09:00",
+      "viewCounter": 478808,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm6789505",
+      "title": "OVER",
+      "artist": "鮭P",
+      "artistList": [
+        "鮭P"
+      ],
+      "startTime": "2009-04-19T04:51:35+09:00",
+      "viewCounter": 489519,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -5649,8 +5682,8 @@
     },
     {
       "artist": "日向電工",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "ATOLS",
@@ -5829,8 +5862,8 @@
     },
     {
       "artist": "19's Sound Factory",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "石風呂",
@@ -5879,7 +5912,7 @@
     },
     {
       "artist": "ササノマリイ",
-      "correctCount": 3,
+      "correctCount": 4,
       "correctSongCount": 2
     },
     {
@@ -6541,6 +6574,11 @@
       "artist": "3106。",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "鮭P",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -6566,8 +6604,8 @@
     },
     {
       "era": "2013",
-      "correctCount": 64,
-      "correctSongCount": 49
+      "correctCount": 65,
+      "correctSongCount": 50
     },
     {
       "era": "2020",
@@ -6591,17 +6629,17 @@
     },
     {
       "era": "2009",
-      "correctCount": 21,
-      "correctSongCount": 19
+      "correctCount": 22,
+      "correctSongCount": 20
     },
     {
       "era": "2012",
-      "correctCount": 46,
-      "correctSongCount": 35
+      "correctCount": 47,
+      "correctSongCount": 36
     },
     {
       "era": "2015",
-      "correctCount": 59,
+      "correctCount": 60,
       "correctSongCount": 43
     },
     {
@@ -6657,13 +6695,13 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 89,
-      "correctSongCount": 72
+      "correctCount": 92,
+      "correctSongCount": 75
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 145,
+      "correctCount": 146,
       "correctSongCount": 111
     },
     {
@@ -9601,18 +9639,120 @@
       "contentId": "sm45426911",
       "startTime": 1759917600000,
       "viewCounter": 570593
+    },
+    {
+      "title": "さかさシンドローム",
+      "contentId": "sm20432353",
+      "startTime": 1364209200000,
+      "viewCounter": 316870
+    },
+    {
+      "title": "ワープアンドワープ",
+      "contentId": "sm18375657",
+      "startTime": 1342530043000,
+      "viewCounter": 478808
+    },
+    {
+      "title": "OVER",
+      "contentId": "sm6789505",
+      "startTime": 1240084295000,
+      "viewCounter": 489519
     }
   ],
   "summary": {
-    "totalAnswers": 680,
-    "okAnswers": 596,
+    "totalAnswers": 684,
+    "okAnswers": 600,
     "ngAnswers": 84,
-    "participatedQuizCount": 141,
-    "winQuizCount": 109,
+    "participatedQuizCount": 142,
+    "winQuizCount": 110,
     "loseQuizCount": 0,
-    "medianViews": 508354
+    "medianViews": 508081
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C1",
+      "date": "2026-05-15",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 7,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 35,
+          "contentId": "sm20432353",
+          "title": "さかさシンドローム",
+          "artistList": [
+            "19's Sound Factory"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20432353/20432353",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "タルタル素数"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "トラノオ"
+            }
+          ]
+        },
+        {
+          "order": 36,
+          "contentId": "sm26390414",
+          "title": "きかせたいのは",
+          "artistList": [
+            "ササノマリイ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26390414/26390414",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "トラノオ"
+            }
+          ]
+        },
+        {
+          "order": 50,
+          "contentId": "sm18375657",
+          "title": "ワープアンドワープ",
+          "artistList": [
+            "日向電工"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18375657/18375657",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "トラノオ"
+            }
+          ]
+        },
+        {
+          "order": 56,
+          "contentId": "sm6789505",
+          "title": "OVER",
+          "artistList": [
+            "鮭P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6789505/6789505",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(7)",
+              "user": "トラノオ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "C1",

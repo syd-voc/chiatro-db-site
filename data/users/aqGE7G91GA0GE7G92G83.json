@@ -409,6 +409,61 @@
       "startTime": "2017-12-28T14:40:22+09:00",
       "viewCounter": 7224554,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm31533883",
+      "title": "テオ",
+      "artist": "Omoi",
+      "artistList": [
+        "Omoi"
+      ],
+      "startTime": "2017-07-08T19:00:00+09:00",
+      "viewCounter": 9031800,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm28276238",
+      "title": "チュルリラ・チュルリラ・ダッダッダ！",
+      "artist": "和田たけあき",
+      "artistList": [
+        "和田たけあき"
+      ],
+      "startTime": "2016-02-22T19:00:00+09:00",
+      "viewCounter": 6773977,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm43354255",
+      "title": "ゆめみるうろこ",
+      "artist": "いよわ",
+      "artistList": [
+        "いよわ"
+      ],
+      "startTime": "2024-02-04T21:00:00+09:00",
+      "viewCounter": 339402,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm22960446",
+      "title": "ウミユリ海底譚",
+      "artist": "n-buna",
+      "artistList": [
+        "n-buna"
+      ],
+      "startTime": "2014-02-24T19:05:46+09:00",
+      "viewCounter": 11688355,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm41803605",
+      "title": "匿名M",
+      "artist": "ピノキオピー",
+      "artistList": [
+        "ピノキオピー"
+      ],
+      "startTime": "2023-02-17T19:00:00+09:00",
+      "viewCounter": 2406736,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -489,8 +544,8 @@
     },
     {
       "artist": "いよわ",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "MARETU",
@@ -529,8 +584,8 @@
     },
     {
       "artist": "ピノキオピー",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "ナナホシ管弦楽団",
@@ -571,13 +626,28 @@
       "artist": "GYARI",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "Omoi",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "和田たけあき",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "n-buna",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2016",
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "era": "2021",
@@ -601,13 +671,13 @@
     },
     {
       "era": "2024",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "era": "2023",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "era": "2012",
@@ -616,8 +686,8 @@
     },
     {
       "era": "2017",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "era": "2010",
@@ -631,8 +701,8 @@
     },
     {
       "era": "2014",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "era": "2019",
@@ -667,8 +737,8 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "range": "50-100万",
@@ -685,8 +755,8 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "range": "300-500万",
@@ -697,14 +767,14 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 8,
-      "correctSongCount": 7
+      "correctCount": 10,
+      "correctSongCount": 9
     },
     {
       "range": "1000万-",
       "order": 9,
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     }
   ],
   "scatter": [
@@ -929,18 +999,182 @@
       "contentId": "sm32492001",
       "startTime": 1514439622000,
       "viewCounter": 7224554
+    },
+    {
+      "title": "テオ",
+      "contentId": "sm31533883",
+      "startTime": 1499508000000,
+      "viewCounter": 9031800
+    },
+    {
+      "title": "チュルリラ・チュルリラ・ダッダッダ！",
+      "contentId": "sm28276238",
+      "startTime": 1456135200000,
+      "viewCounter": 6773977
+    },
+    {
+      "title": "ゆめみるうろこ",
+      "contentId": "sm43354255",
+      "startTime": 1707048000000,
+      "viewCounter": 339402
+    },
+    {
+      "title": "ウミユリ海底譚",
+      "contentId": "sm22960446",
+      "startTime": 1393236346000,
+      "viewCounter": 11688355
+    },
+    {
+      "title": "匿名M",
+      "contentId": "sm41803605",
+      "startTime": 1676628000000,
+      "viewCounter": 2406736
     }
   ],
   "summary": {
-    "totalAnswers": 52,
-    "okAnswers": 40,
-    "ngAnswers": 12,
-    "participatedQuizCount": 9,
-    "winQuizCount": 8,
+    "totalAnswers": 58,
+    "okAnswers": 45,
+    "ngAnswers": 13,
+    "participatedQuizCount": 10,
+    "winQuizCount": 9,
     "loseQuizCount": 0,
-    "medianViews": 4294836
+    "medianViews": 4443847
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "D2",
+      "date": "2026-05-16",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 13,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 13,
+          "contentId": "sm14196898",
+          "title": "マーメイド",
+          "artistList": [
+            "monaca:factory"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14196898/14196898",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "aq瑠璃"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "防虫剤"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぷれいやあ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "つばさ"
+            }
+          ]
+        },
+        {
+          "order": 48,
+          "contentId": "sm31533883",
+          "title": "テオ",
+          "artistList": [
+            "Omoi"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31533883/31533883",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "aq瑠璃"
+            }
+          ]
+        },
+        {
+          "order": 56,
+          "contentId": "sm28276238",
+          "title": "チュルリラ・チュルリラ・ダッダッダ！",
+          "artistList": [
+            "和田たけあき"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28276238/28276238",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "aq瑠璃"
+            }
+          ]
+        },
+        {
+          "order": 73,
+          "contentId": "sm43354255",
+          "title": "ゆめみるうろこ",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43354255/43354255.7891722",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "aq瑠璃"
+            }
+          ]
+        },
+        {
+          "order": 74,
+          "contentId": "sm22960446",
+          "title": "ウミユリ海底譚",
+          "artistList": [
+            "n-buna"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22960446/22960446",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "aq瑠璃"
+            }
+          ]
+        },
+        {
+          "order": 76,
+          "contentId": "sm41803605",
+          "title": "匿名M",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41803605/41803605.11363833",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(13)",
+              "user": "aq瑠璃"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "D2",

@@ -5061,6 +5061,50 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm15089052",
+      "title": "侵略",
+      "artist": "samfree",
+      "artistList": [
+        "samfree"
+      ],
+      "startTime": "2011-07-22T21:01:27+09:00",
+      "viewCounter": 164749,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm36527256",
+      "title": "トラゴイディア",
+      "artist": "wotaku",
+      "artistList": [
+        "wotaku"
+      ],
+      "startTime": "2020-03-17T16:39:02+09:00",
+      "viewCounter": 166290,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm30399546",
+      "title": "SCREAM",
+      "artist": "梅とら",
+      "artistList": [
+        "梅とら"
+      ],
+      "startTime": "2017-01-09T13:04:08+09:00",
+      "viewCounter": 1194246,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm31241401",
+      "title": "ナンセンス文学",
+      "artist": "Eve",
+      "artistList": [
+        "Eve"
+      ],
+      "startTime": "2017-05-19T19:00:00+09:00",
+      "viewCounter": 4420204,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm34763193",
       "title": "君へ続く軌跡",
       "artist": "駒木優",
@@ -6915,8 +6959,8 @@
     },
     {
       "artist": "梅とら",
-      "correctCount": 24,
-      "correctSongCount": 14
+      "correctCount": 25,
+      "correctSongCount": 15
     },
     {
       "artist": "歩く人",
@@ -7115,8 +7159,8 @@
     },
     {
       "artist": "wotaku",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "メル",
@@ -7340,8 +7384,8 @@
     },
     {
       "artist": "samfree",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "DIVELA",
@@ -8104,6 +8148,11 @@
       "correctSongCount": 1
     },
     {
+      "artist": "Eve",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
       "artist": "駒木優",
       "correctCount": 2,
       "correctSongCount": 1
@@ -8382,8 +8431,8 @@
     },
     {
       "era": "2017",
-      "correctCount": 96,
-      "correctSongCount": 74
+      "correctCount": 98,
+      "correctSongCount": 76
     },
     {
       "era": "2009",
@@ -8392,8 +8441,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 35,
-      "correctSongCount": 31
+      "correctCount": 36,
+      "correctSongCount": 32
     },
     {
       "era": "2010",
@@ -8427,8 +8476,8 @@
     },
     {
       "era": "2011",
-      "correctCount": 30,
-      "correctSongCount": 25
+      "correctCount": 31,
+      "correctSongCount": 26
     },
     {
       "era": "2023",
@@ -8462,8 +8511,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 263,
-      "correctSongCount": 204
+      "correctCount": 265,
+      "correctSongCount": 206
     },
     {
       "range": "30-50万",
@@ -8480,8 +8529,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 92,
-      "correctSongCount": 76
+      "correctCount": 93,
+      "correctSongCount": 77
     },
     {
       "range": "200-300万",
@@ -8492,8 +8541,8 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 17,
-      "correctSongCount": 15
+      "correctCount": 18,
+      "correctSongCount": 16
     },
     {
       "range": "500-1000万",
@@ -11264,6 +11313,30 @@
       "viewCounter": 206106
     },
     {
+      "title": "侵略",
+      "contentId": "sm15089052",
+      "startTime": 1311336087000,
+      "viewCounter": 164749
+    },
+    {
+      "title": "トラゴイディア",
+      "contentId": "sm36527256",
+      "startTime": 1584430742000,
+      "viewCounter": 166290
+    },
+    {
+      "title": "SCREAM",
+      "contentId": "sm30399546",
+      "startTime": 1483934648000,
+      "viewCounter": 1194246
+    },
+    {
+      "title": "ナンセンス文学",
+      "contentId": "sm31241401",
+      "startTime": 1495188000000,
+      "viewCounter": 4420204
+    },
+    {
       "title": "君へ続く軌跡",
       "contentId": "sm34763193",
       "startTime": 1552318381000,
@@ -12237,15 +12310,200 @@
     }
   ],
   "summary": {
-    "totalAnswers": 1163,
-    "okAnswers": 783,
-    "ngAnswers": 379,
-    "participatedQuizCount": 191,
-    "winQuizCount": 177,
+    "totalAnswers": 1170,
+    "okAnswers": 787,
+    "ngAnswers": 382,
+    "participatedQuizCount": 192,
+    "winQuizCount": 178,
     "loseQuizCount": 1,
-    "medianViews": 352657
+    "medianViews": 350860
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "B",
+      "date": "2026-05-16",
+      "ok": 4,
+      "ng": 3,
+      "winRank": 10,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 7,
+          "contentId": "sm19418883",
+          "title": "一途な片思い、実らせたい小さな幸せ。",
+          "artistList": [
+            "うたたP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19418883/19418883",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "yu-na*"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ルナ・アリス"
+            }
+          ]
+        },
+        {
+          "order": 11,
+          "contentId": "sm33174728",
+          "title": "手紙",
+          "artistList": [
+            "23.exe"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33174728/33174728",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "yu-na*"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "たかそう"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 25,
+          "contentId": "sm15089052",
+          "title": "侵略",
+          "artistList": [
+            "samfree"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15089052/15089052",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Takuan"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "yu-na*"
+            }
+          ]
+        },
+        {
+          "order": 35,
+          "contentId": "sm36527256",
+          "title": "トラゴイディア",
+          "artistList": [
+            "wotaku"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36527256/36527256.51849760",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "yu-na*"
+            }
+          ]
+        },
+        {
+          "order": 47,
+          "contentId": "sm30399546",
+          "title": "SCREAM",
+          "artistList": [
+            "梅とら"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30399546/30399546",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "yu-na*"
+            }
+          ]
+        },
+        {
+          "order": 48,
+          "contentId": "sm4748812",
+          "title": "Scene",
+          "artistList": [
+            "ジミーサムP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/4748812/4748812",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "yu-na*"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "八神猪熊"
+            }
+          ]
+        },
+        {
+          "order": 57,
+          "contentId": "sm31241401",
+          "title": "ナンセンス文学",
+          "artistList": [
+            "Eve"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31241401/31241401",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(10)",
+              "user": "yu-na*"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "B",

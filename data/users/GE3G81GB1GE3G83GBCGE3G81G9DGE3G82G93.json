@@ -222,6 +222,61 @@
       "startTime": "2023-11-06T18:00:00+09:00",
       "viewCounter": 4169558,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm43583305",
+      "title": "花溺れ",
+      "artist": "shikisai",
+      "artistList": [
+        "shikisai"
+      ],
+      "startTime": "2024-03-28T18:00:00+09:00",
+      "viewCounter": 198918,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm42365412",
+      "title": "ズル",
+      "artist": "ポリスピカデリー",
+      "artistList": [
+        "ポリスピカデリー"
+      ],
+      "startTime": "2023-06-18T19:00:00+09:00",
+      "viewCounter": 65385,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm43708803",
+      "title": "メズマライザー",
+      "artist": "サツキ",
+      "artistList": [
+        "サツキ"
+      ],
+      "startTime": "2024-04-27T19:00:00+09:00",
+      "viewCounter": 10792564,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35455177",
+      "title": "レゾナル",
+      "artist": "きさら",
+      "artistList": [
+        "きさら"
+      ],
+      "startTime": "2019-07-27T13:06:02+09:00",
+      "viewCounter": 61491,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44267219",
+      "title": "オブソミート",
+      "artist": "サツキ",
+      "artistList": [
+        "サツキ"
+      ],
+      "startTime": "2024-11-08T19:00:00+09:00",
+      "viewCounter": 878359,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -319,13 +374,33 @@
       "artist": "無色透名祭公式",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "shikisai",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ポリスピカデリー",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "サツキ",
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "artist": "きさら",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2023",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "era": "2011",
@@ -339,8 +414,8 @@
     },
     {
       "era": "2019",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "era": "2020",
@@ -354,8 +429,8 @@
     },
     {
       "era": "2024",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "era": "2012",
@@ -388,14 +463,14 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 0,
-      "correctSongCount": 0
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "range": "30-50万",
@@ -406,8 +481,8 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "range": "100-200万",
@@ -436,8 +511,8 @@
     {
       "range": "1000万-",
       "order": 9,
-      "correctCount": 0,
-      "correctSongCount": 0
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "scatter": [
@@ -560,18 +635,139 @@
       "contentId": "sm42983761",
       "startTime": 1699261200000,
       "viewCounter": 4169558
+    },
+    {
+      "title": "花溺れ",
+      "contentId": "sm43583305",
+      "startTime": 1711616400000,
+      "viewCounter": 198918
+    },
+    {
+      "title": "ズル",
+      "contentId": "sm42365412",
+      "startTime": 1687082400000,
+      "viewCounter": 65385
+    },
+    {
+      "title": "メズマライザー",
+      "contentId": "sm43708803",
+      "startTime": 1714212000000,
+      "viewCounter": 10792564
+    },
+    {
+      "title": "レゾナル",
+      "contentId": "sm35455177",
+      "startTime": 1564200362000,
+      "viewCounter": 61491
+    },
+    {
+      "title": "オブソミート",
+      "contentId": "sm44267219",
+      "startTime": 1731060000000,
+      "viewCounter": 878359
     }
   ],
   "summary": {
-    "totalAnswers": 30,
-    "okAnswers": 20,
+    "totalAnswers": 35,
+    "okAnswers": 25,
     "ngAnswers": 10,
-    "participatedQuizCount": 4,
-    "winQuizCount": 4,
+    "participatedQuizCount": 5,
+    "winQuizCount": 5,
     "loseQuizCount": 0,
-    "medianViews": 1674799
+    "medianViews": 1062715
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "D1",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 5,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 4,
+          "contentId": "sm43583305",
+          "title": "花溺れ",
+          "artistList": [
+            "shikisai"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43583305/43583305.21907102",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ぱーそん"
+            }
+          ]
+        },
+        {
+          "order": 24,
+          "contentId": "sm42365412",
+          "title": "ズル",
+          "artistList": [
+            "ポリスピカデリー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42365412/42365412.20539468",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ぱーそん"
+            }
+          ]
+        },
+        {
+          "order": 25,
+          "contentId": "sm43708803",
+          "title": "メズマライザー",
+          "artistList": [
+            "サツキ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43708803/43708803.68284955",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ぱーそん"
+            }
+          ]
+        },
+        {
+          "order": 49,
+          "contentId": "sm35455177",
+          "title": "レゾナル",
+          "artistList": [
+            "きさら"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35455177/35455177.30614547",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ぱーそん"
+            }
+          ]
+        },
+        {
+          "order": 65,
+          "contentId": "sm44267219",
+          "title": "オブソミート",
+          "artistList": [
+            "サツキ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44267219/44267219.27393302",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(5)",
+              "user": "ぱーそん"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "D2",

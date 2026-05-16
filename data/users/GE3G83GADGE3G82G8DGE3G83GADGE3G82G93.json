@@ -1139,7 +1139,7 @@
       ],
       "startTime": "2012-07-03T20:51:47+09:00",
       "viewCounter": 1629496,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm17377638",
@@ -1792,6 +1792,50 @@
       "startTime": "2017-06-30T19:39:00+09:00",
       "viewCounter": 5046643,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm13471322",
+      "title": "夏の日と、幽霊と、かみさま",
+      "artist": "もふ@",
+      "artistList": [
+        "もふ@"
+      ],
+      "startTime": "2011-02-01T22:47:24+09:00",
+      "viewCounter": 142061,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm42590716",
+      "title": "新幹線でひたすら席蹴られるリンちゃん",
+      "artist": "ゆかてふ",
+      "artistList": [
+        "ゆかてふ"
+      ],
+      "startTime": "2023-08-07T13:34:02+09:00",
+      "viewCounter": 205888,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm1715919",
+      "title": "メルト",
+      "artist": "ryo",
+      "artistList": [
+        "ryo"
+      ],
+      "startTime": "2007-12-07T20:46:02+09:00",
+      "viewCounter": 17040983,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44469407",
+      "title": "ニャン",
+      "artist": "MARETU",
+      "artistList": [
+        "MARETU"
+      ],
+      "startTime": "2024-12-27T20:10:00+09:00",
+      "viewCounter": 479029,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -1967,8 +2011,8 @@
     },
     {
       "artist": "MARETU",
-      "correctCount": 8,
-      "correctSongCount": 7
+      "correctCount": 9,
+      "correctSongCount": 8
     },
     {
       "artist": "ほぼ日P",
@@ -2157,7 +2201,7 @@
     },
     {
       "artist": "てにをは",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -2294,6 +2338,21 @@
       "artist": "TOKOTOKO（西沢さんP）",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "もふ@",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ゆかてふ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ryo",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -2329,7 +2388,7 @@
     },
     {
       "era": "2012",
-      "correctCount": 13,
+      "correctCount": 14,
       "correctSongCount": 12
     },
     {
@@ -2339,8 +2398,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 13,
-      "correctSongCount": 11
+      "correctCount": 14,
+      "correctSongCount": 12
     },
     {
       "era": "2019",
@@ -2359,8 +2418,8 @@
     },
     {
       "era": "2007-2008",
-      "correctCount": 7,
-      "correctSongCount": 6
+      "correctCount": 8,
+      "correctSongCount": 7
     },
     {
       "era": "2016",
@@ -2369,8 +2428,8 @@
     },
     {
       "era": "2011",
-      "correctCount": 12,
-      "correctSongCount": 9
+      "correctCount": 13,
+      "correctSongCount": 10
     },
     {
       "era": "2022",
@@ -2379,8 +2438,8 @@
     },
     {
       "era": "2024",
-      "correctCount": 9,
-      "correctSongCount": 9
+      "correctCount": 10,
+      "correctSongCount": 10
     },
     {
       "era": "2025-",
@@ -2404,14 +2463,14 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 23,
-      "correctSongCount": 22
+      "correctCount": 25,
+      "correctSongCount": 24
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 19,
-      "correctSongCount": 18
+      "correctCount": 20,
+      "correctSongCount": 19
     },
     {
       "range": "50-100万",
@@ -2422,7 +2481,7 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 47,
+      "correctCount": 48,
       "correctSongCount": 40
     },
     {
@@ -2446,8 +2505,8 @@
     {
       "range": "1000万-",
       "order": 9,
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     }
   ],
   "scatter": [
@@ -3422,18 +3481,133 @@
       "contentId": "sm31485619",
       "startTime": 1498819140000,
       "viewCounter": 5046643
+    },
+    {
+      "title": "夏の日と、幽霊と、かみさま",
+      "contentId": "sm13471322",
+      "startTime": 1296568044000,
+      "viewCounter": 142061
+    },
+    {
+      "title": "新幹線でひたすら席蹴られるリンちゃん",
+      "contentId": "sm42590716",
+      "startTime": 1691382842000,
+      "viewCounter": 205888
+    },
+    {
+      "title": "メルト",
+      "contentId": "sm1715919",
+      "startTime": 1197027962000,
+      "viewCounter": 17040983
+    },
+    {
+      "title": "ニャン",
+      "contentId": "sm44469407",
+      "startTime": 1735297800000,
+      "viewCounter": 479029
     }
   ],
   "summary": {
-    "totalAnswers": 207,
-    "okAnswers": 181,
+    "totalAnswers": 212,
+    "okAnswers": 186,
     "ngAnswers": 26,
-    "participatedQuizCount": 39,
-    "winQuizCount": 35,
+    "participatedQuizCount": 40,
+    "winQuizCount": 36,
     "loseQuizCount": 0,
     "medianViews": 1168010
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "D1",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 12,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 6,
+          "contentId": "sm13471322",
+          "title": "夏の日と、幽霊と、かみさま",
+          "artistList": [
+            "もふ@"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13471322/13471322",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ロろロん"
+            }
+          ]
+        },
+        {
+          "order": 67,
+          "contentId": "sm18257340",
+          "title": "古書屋敷殺人事件",
+          "artistList": [
+            "てにをは"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18257340/18257340",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ロろロん"
+            }
+          ]
+        },
+        {
+          "order": 75,
+          "contentId": "sm42590716",
+          "title": "新幹線でひたすら席蹴られるリンちゃん",
+          "artistList": [
+            "ゆかてふ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42590716/42590716.92874754",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ロろロん"
+            }
+          ]
+        },
+        {
+          "order": 84,
+          "contentId": "sm1715919",
+          "title": "メルト",
+          "artistList": [
+            "ryo"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1715919/1715919",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ロろロん"
+            }
+          ]
+        },
+        {
+          "order": 86,
+          "contentId": "sm44469407",
+          "title": "ニャン",
+          "artistList": [
+            "MARETU"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44469407/44469407.3358090",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(12)",
+              "user": "ロろロん"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 292,
       "group": "D2",

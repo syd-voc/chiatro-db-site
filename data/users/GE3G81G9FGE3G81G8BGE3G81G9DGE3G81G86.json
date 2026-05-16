@@ -4727,9 +4727,9 @@
     {
       "contentId": "sm41187136",
       "title": "GEDO",
-      "artist": "DARAKU",
+      "artist": "daraku",
       "artistList": [
-        "DARAKU"
+        "daraku"
       ],
       "startTime": "2022-10-07T19:00:00+09:00",
       "viewCounter": 415775,
@@ -5319,6 +5319,50 @@
       ],
       "startTime": "2015-05-29T19:05:00+09:00",
       "viewCounter": 3249839,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44567385",
+      "title": "被検体とアブサン",
+      "artist": "つる",
+      "artistList": [
+        "つる"
+      ],
+      "startTime": "2025-02-21T19:00:00+09:00",
+      "viewCounter": 17127,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm40329106",
+      "title": "さよなら愛しき面影よ",
+      "artist": "Noz.",
+      "artistList": [
+        "Noz."
+      ],
+      "startTime": "2022-04-17T20:00:00+09:00",
+      "viewCounter": 435026,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44664829",
+      "title": "アンチユー",
+      "artist": "Chinozo",
+      "artistList": [
+        "Chinozo"
+      ],
+      "startTime": "2025-02-18T22:15:00+09:00",
+      "viewCounter": 278988,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44047489",
+      "title": "フェイタルエラー",
+      "artist": "LonePi",
+      "artistList": [
+        "LonePi"
+      ],
+      "startTime": "2024-08-31T19:09:03+09:00",
+      "viewCounter": 277984,
       "correctCount": 1
     }
   ],
@@ -6115,8 +6159,8 @@
     },
     {
       "artist": "Chinozo",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "バルーン",
@@ -6559,7 +6603,7 @@
       "correctSongCount": 1
     },
     {
-      "artist": "DARAKU",
+      "artist": "daraku",
       "correctCount": 2,
       "correctSongCount": 1
     },
@@ -6640,8 +6684,8 @@
     },
     {
       "artist": "Noz.",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "sabio",
@@ -6665,6 +6709,16 @@
     },
     {
       "artist": "Mitchie M",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "つる",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "LonePi",
       "correctCount": 1,
       "correctSongCount": 1
     }
@@ -6702,8 +6756,8 @@
     },
     {
       "era": "2022",
-      "correctCount": 33,
-      "correctSongCount": 28
+      "correctCount": 34,
+      "correctSongCount": 29
     },
     {
       "era": "2020",
@@ -6752,13 +6806,13 @@
     },
     {
       "era": "2024",
-      "correctCount": 41,
-      "correctSongCount": 39
+      "correctCount": 42,
+      "correctSongCount": 40
     },
     {
       "era": "2025-",
-      "correctCount": 17,
-      "correctSongCount": 16
+      "correctCount": 19,
+      "correctSongCount": 18
     }
   ],
   "viewStats": [
@@ -6771,20 +6825,20 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 93,
-      "correctSongCount": 83
+      "correctCount": 94,
+      "correctSongCount": 84
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 163,
-      "correctSongCount": 148
+      "correctCount": 165,
+      "correctSongCount": 150
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 97,
-      "correctSongCount": 79
+      "correctCount": 98,
+      "correctSongCount": 80
     },
     {
       "range": "50-100万",
@@ -9715,18 +9769,177 @@
       "contentId": "sm26364502",
       "startTime": 1432893900000,
       "viewCounter": 3249839
+    },
+    {
+      "title": "被検体とアブサン",
+      "contentId": "sm44567385",
+      "startTime": 1740132000000,
+      "viewCounter": 17127
+    },
+    {
+      "title": "さよなら愛しき面影よ",
+      "contentId": "sm40329106",
+      "startTime": 1650193200000,
+      "viewCounter": 435026
+    },
+    {
+      "title": "アンチユー",
+      "contentId": "sm44664829",
+      "startTime": 1739884500000,
+      "viewCounter": 278988
+    },
+    {
+      "title": "フェイタルエラー",
+      "contentId": "sm44047489",
+      "startTime": 1725098943000,
+      "viewCounter": 277984
     }
   ],
   "summary": {
-    "totalAnswers": 643,
-    "okAnswers": 548,
-    "ngAnswers": 95,
-    "participatedQuizCount": 119,
-    "winQuizCount": 113,
+    "totalAnswers": 648,
+    "okAnswers": 552,
+    "ngAnswers": 96,
+    "participatedQuizCount": 120,
+    "winQuizCount": 114,
     "loseQuizCount": 0,
-    "medianViews": 301623
+    "medianViews": 301283
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "B",
+      "date": "2026-05-16",
+      "ok": 4,
+      "ng": 1,
+      "winRank": 15,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 11,
+          "contentId": "sm33174728",
+          "title": "手紙",
+          "artistList": [
+            "23.exe"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33174728/33174728",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "yu-na*"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "たかそう"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 68,
+          "contentId": "sm44567385",
+          "title": "被検体とアブサン",
+          "artistList": [
+            "つる"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44567385/44567385.19705271",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "しゃい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "たかそう"
+            }
+          ]
+        },
+        {
+          "order": 69,
+          "contentId": "sm40329106",
+          "title": "さよなら愛しき面影よ",
+          "artistList": [
+            "Noz."
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40329106/40329106.63835586",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "たかそう"
+            }
+          ]
+        },
+        {
+          "order": 73,
+          "contentId": "sm44664829",
+          "title": "アンチユー",
+          "artistList": [
+            "Chinozo"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44664829/44664829.37124701",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Lyz"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "たかそう"
+            }
+          ]
+        },
+        {
+          "order": 74,
+          "contentId": "sm44047489",
+          "title": "フェイタルエラー",
+          "artistList": [
+            "LonePi"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44047489/44047489.8016651",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(15)",
+              "user": "たかそう"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "B",
@@ -9882,7 +10095,7 @@
           "contentId": "sm41187136",
           "title": "GEDO",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41187136/41187136.10455868",
           "tokens": [
@@ -11473,7 +11686,7 @@
           "contentId": "sm41187136",
           "title": "GEDO",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41187136/41187136.10455868",
           "tokens": [

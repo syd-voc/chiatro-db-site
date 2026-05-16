@@ -253,7 +253,7 @@
       ],
       "startTime": "2022-04-29T00:00:00+09:00",
       "viewCounter": 314134,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm42936210",
@@ -666,9 +666,9 @@
     {
       "contentId": "sm41187136",
       "title": "GEDO",
-      "artist": "DARAKU",
+      "artist": "daraku",
       "artistList": [
-        "DARAKU"
+        "daraku"
       ],
       "startTime": "2022-10-07T19:00:00+09:00",
       "viewCounter": 415775,
@@ -3390,6 +3390,39 @@
       "startTime": "2024-02-03T03:37:05+09:00",
       "viewCounter": 584646,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm26745370",
+      "title": "赤ペンおねがいします",
+      "artist": "椎名もた",
+      "artistList": [
+        "椎名もた"
+      ],
+      "startTime": "2015-07-23T19:00:00+09:00",
+      "viewCounter": 1120983,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm42174287",
+      "title": "CIRCUS PANIC!!!",
+      "artist": "サツキ",
+      "artistList": [
+        "サツキ"
+      ],
+      "startTime": "2023-05-04T19:00:00+09:00",
+      "viewCounter": 468068,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm25950409",
+      "title": "CITRUS",
+      "artist": "Orangestar",
+      "artistList": [
+        "Orangestar"
+      ],
+      "startTime": "2015-04-04T15:13:19+09:00",
+      "viewCounter": 1650579,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -3410,7 +3443,7 @@
     },
     {
       "artist": "傘村トータ",
-      "correctCount": 6,
+      "correctCount": 7,
       "correctSongCount": 6
     },
     {
@@ -3644,7 +3677,7 @@
       "correctSongCount": 1
     },
     {
-      "artist": "DARAKU",
+      "artist": "daraku",
       "correctCount": 1,
       "correctSongCount": 1
     },
@@ -3680,8 +3713,8 @@
     },
     {
       "artist": "Orangestar",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "Ruliea",
@@ -4010,8 +4043,8 @@
     },
     {
       "artist": "サツキ",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "TakoyakiKZY",
@@ -4327,6 +4360,11 @@
       "artist": "原口沙輔",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "椎名もた",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -4342,8 +4380,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 41,
-      "correctSongCount": 38
+      "correctCount": 42,
+      "correctSongCount": 39
     },
     {
       "era": "2018",
@@ -4362,7 +4400,7 @@
     },
     {
       "era": "2022",
-      "correctCount": 44,
+      "correctCount": 45,
       "correctSongCount": 30
     },
     {
@@ -4407,8 +4445,8 @@
     },
     {
       "era": "2015",
-      "correctCount": 8,
-      "correctSongCount": 8
+      "correctCount": 10,
+      "correctSongCount": 10
     },
     {
       "era": "2020",
@@ -4443,8 +4481,8 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 61,
-      "correctSongCount": 53
+      "correctCount": 63,
+      "correctSongCount": 54
     },
     {
       "range": "50-100万",
@@ -4455,8 +4493,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 56,
-      "correctSongCount": 46
+      "correctCount": 58,
+      "correctSongCount": 48
     },
     {
       "range": "200-300万",
@@ -6325,18 +6363,145 @@
       "contentId": "sm43346798",
       "startTime": 1706899025000,
       "viewCounter": 584646
+    },
+    {
+      "title": "赤ペンおねがいします",
+      "contentId": "sm26745370",
+      "startTime": 1437645600000,
+      "viewCounter": 1120983
+    },
+    {
+      "title": "CIRCUS PANIC!!!",
+      "contentId": "sm42174287",
+      "startTime": 1683194400000,
+      "viewCounter": 468068
+    },
+    {
+      "title": "CITRUS",
+      "contentId": "sm25950409",
+      "startTime": 1428127999000,
+      "viewCounter": 1650579
     }
   ],
   "summary": {
-    "totalAnswers": 483,
-    "okAnswers": 350,
-    "ngAnswers": 130,
-    "participatedQuizCount": 82,
-    "winQuizCount": 66,
+    "totalAnswers": 488,
+    "okAnswers": 354,
+    "ngAnswers": 131,
+    "participatedQuizCount": 83,
+    "winQuizCount": 67,
     "loseQuizCount": 3,
-    "medianViews": 551808
+    "medianViews": 542671
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "B",
+      "date": "2026-05-16",
+      "ok": 4,
+      "ng": 1,
+      "winRank": 1,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 1,
+          "contentId": "sm26745370",
+          "title": "赤ペンおねがいします",
+          "artistList": [
+            "椎名もた"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26745370/26745370",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "とつは"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "contentId": "sm42174287",
+          "title": "CIRCUS PANIC!!!",
+          "artistList": [
+            "サツキ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42174287/42174287.61975558",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "とつは"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "contentId": "sm40389108",
+          "title": "オーダーメイド",
+          "artistList": [
+            "傘村トータ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40389108/40389108.46081850",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "とつは"
+            }
+          ]
+        },
+        {
+          "order": 10,
+          "contentId": "sm45344669",
+          "title": "そのたび",
+          "artistList": [
+            "大漠波新"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45344669/45344669.71503085",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とつは"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ベガ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "よかずき"
+            }
+          ]
+        },
+        {
+          "order": 12,
+          "contentId": "sm25950409",
+          "title": "CITRUS",
+          "artistList": [
+            "Orangestar"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25950409/25950409",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(1)",
+              "user": "とつは"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "A",
@@ -15824,7 +15989,7 @@
           "contentId": "sm41187136",
           "title": "GEDO",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41187136/41187136.10455868",
           "tokens": [

@@ -30,6 +30,13 @@
   },
   "histories": [
     {
+      "date": "2026-05-15",
+      "quizNo": 299,
+      "group": "C1",
+      "order": 2,
+      "winner": "クロ"
+    },
+    {
       "date": "2025-04-11",
       "quizNo": 245,
       "group": "B",
@@ -41,8 +48,8 @@
       "order": 48
     }
   ],
-  "appearanceCount": 2,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 3,
+  "correctCount": 1,
+  "accuracy": 33,
   "anotherVersions": []
 }

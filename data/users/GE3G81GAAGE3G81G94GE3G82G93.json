@@ -6216,6 +6216,50 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm40347559",
+      "title": "アンコール",
+      "artist": "Adeliae",
+      "artistList": [
+        "Adeliae"
+      ],
+      "startTime": "2022-04-22T00:00:00+09:00",
+      "viewCounter": 96733,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm33823390",
+      "title": "Liekki",
+      "artist": "yukkedoluce",
+      "artistList": [
+        "yukkedoluce"
+      ],
+      "startTime": "2018-09-08T19:06:02+09:00",
+      "viewCounter": 86667,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39398775",
+      "title": "Shadow Shadow",
+      "artist": "Azari",
+      "artistList": [
+        "Azari"
+      ],
+      "startTime": "2021-09-27T19:29:03+09:00",
+      "viewCounter": 1984104,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm28485120",
+      "title": "叫鳴ムジカ",
+      "artist": "かぴたろう",
+      "artistList": [
+        "かぴたろう"
+      ],
+      "startTime": "2016-03-25T17:00:00+09:00",
+      "viewCounter": 25303,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm25771502",
       "title": "全く身にならないソング",
       "artist": "キヨ, レトルト, 露吐",
@@ -6572,8 +6616,8 @@
     },
     {
       "artist": "Azari",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "◈*ゆくえわっと",
@@ -6667,8 +6711,8 @@
     },
     {
       "artist": "かぴたろう",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "Mitchie M",
@@ -7287,8 +7331,8 @@
     },
     {
       "artist": "yukkedoluce",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "ばらっげ",
@@ -7721,6 +7765,11 @@
       "correctSongCount": 1
     },
     {
+      "artist": "Adeliae",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
       "artist": "キヨ",
       "correctCount": 2,
       "correctSongCount": 1
@@ -7759,13 +7808,13 @@
     },
     {
       "era": "2018",
-      "correctCount": 33,
-      "correctSongCount": 28
+      "correctCount": 34,
+      "correctSongCount": 29
     },
     {
       "era": "2016",
-      "correctCount": 27,
-      "correctSongCount": 21
+      "correctCount": 28,
+      "correctSongCount": 22
     },
     {
       "era": "2015",
@@ -7784,8 +7833,8 @@
     },
     {
       "era": "2021",
-      "correctCount": 130,
-      "correctSongCount": 105
+      "correctCount": 131,
+      "correctSongCount": 106
     },
     {
       "era": "2014",
@@ -7794,8 +7843,8 @@
     },
     {
       "era": "2022",
-      "correctCount": 56,
-      "correctSongCount": 45
+      "correctCount": 57,
+      "correctSongCount": 46
     },
     {
       "era": "2013",
@@ -7838,8 +7887,8 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 101,
-      "correctSongCount": 90
+      "correctCount": 104,
+      "correctSongCount": 93
     },
     {
       "range": "10-30万",
@@ -7862,8 +7911,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 96,
-      "correctSongCount": 73
+      "correctCount": 97,
+      "correctSongCount": 74
     },
     {
       "range": "200-300万",
@@ -11276,6 +11325,30 @@
       "viewCounter": 1962377
     },
     {
+      "title": "アンコール",
+      "contentId": "sm40347559",
+      "startTime": 1650553200000,
+      "viewCounter": 96733
+    },
+    {
+      "title": "Liekki",
+      "contentId": "sm33823390",
+      "startTime": 1536401162000,
+      "viewCounter": 86667
+    },
+    {
+      "title": "Shadow Shadow",
+      "contentId": "sm39398775",
+      "startTime": 1632738543000,
+      "viewCounter": 1984104
+    },
+    {
+      "title": "叫鳴ムジカ",
+      "contentId": "sm28485120",
+      "startTime": 1458892800000,
+      "viewCounter": 25303
+    },
+    {
       "title": "全く身にならないソング",
       "contentId": "sm25771502",
       "startTime": 1426158148000,
@@ -11373,15 +11446,261 @@
     }
   ],
   "summary": {
-    "totalAnswers": 992,
-    "okAnswers": 696,
-    "ngAnswers": 293,
-    "participatedQuizCount": 168,
+    "totalAnswers": 1000,
+    "okAnswers": 700,
+    "ngAnswers": 296,
+    "participatedQuizCount": 169,
     "winQuizCount": 141,
-    "loseQuizCount": 3,
-    "medianViews": 393084
+    "loseQuizCount": 4,
+    "medianViews": 391144
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "A",
+      "date": "2026-05-15",
+      "ok": 4,
+      "ng": 3,
+      "winRank": null,
+      "hasLose": true,
+      "songs": [
+        {
+          "order": 6,
+          "contentId": "sm40347559",
+          "title": "アンコール",
+          "artistList": [
+            "Adeliae"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40347559/40347559.4776968",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "かなくり"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "なごん"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "contentId": "sm33823390",
+          "title": "Liekki",
+          "artistList": [
+            "yukkedoluce"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33823390/33823390",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "影山"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "maruma"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "なごん"
+            }
+          ]
+        },
+        {
+          "order": 16,
+          "contentId": "sm39398775",
+          "title": "Shadow Shadow",
+          "artistList": [
+            "Azari"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39398775/39398775.87869075",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "なごん"
+            }
+          ]
+        },
+        {
+          "order": 21,
+          "contentId": "sm33262437",
+          "title": "LUNATIC LOVE",
+          "artistList": [
+            "Islet"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33262437/33262437",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゲオス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なごん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "スライドポテト"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm15618059",
+          "title": "狐憑き",
+          "artistList": [
+            "しばいぬ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15618059/15618059",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なごん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "スライドポテト"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゲオス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 39,
+          "contentId": "sm35665699",
+          "title": "鬼の居ぬ間に",
+          "artistList": [
+            "羽生まゐご"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35665699/35665699.65541457",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "最強の私"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なごん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "にーも"
+            }
+          ]
+        },
+        {
+          "order": 56,
+          "contentId": "sm28485120",
+          "title": "叫鳴ムジカ",
+          "artistList": [
+            "かぴたろう"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28485120/28485120",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "なごん"
+            }
+          ]
+        },
+        {
+          "order": 61,
+          "contentId": "sm33110082",
+          "title": "ヒラリ",
+          "artistList": [
+            "オゾン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33110082/33110082",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "××",
+              "user": "なごん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(7)",
+              "user": "スライドポテト"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "A",

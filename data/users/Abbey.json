@@ -1007,7 +1007,7 @@
       ],
       "startTime": "2013-06-04T19:00:20+09:00",
       "viewCounter": 1912605,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm10924943",
@@ -1295,7 +1295,7 @@
       ],
       "startTime": "2020-03-23T19:00:02+09:00",
       "viewCounter": 446790,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm21652882",
@@ -2269,7 +2269,7 @@
       ],
       "startTime": "2012-12-05T18:35:35+09:00",
       "viewCounter": 795544,
-      "correctCount": 4
+      "correctCount": 5
     },
     {
       "contentId": "sm33325293",
@@ -4187,7 +4187,7 @@
       ],
       "startTime": "2018-03-09T18:00:00+09:00",
       "viewCounter": 1173566,
-      "correctCount": 7
+      "correctCount": 8
     },
     {
       "contentId": "sm32528864",
@@ -6556,6 +6556,17 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm37486337",
+      "title": "Strawberry",
+      "artist": "香椎モイミ",
+      "artistList": [
+        "香椎モイミ"
+      ],
+      "startTime": "2020-09-09T21:00:00+09:00",
+      "viewCounter": 124974,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm37728658",
       "title": "パラレルレイヤー",
       "artist": "lumo",
@@ -7646,7 +7657,7 @@
     },
     {
       "artist": "てにをは",
-      "correctCount": 16,
+      "correctCount": 17,
       "correctSongCount": 9
     },
     {
@@ -7716,7 +7727,7 @@
     },
     {
       "artist": "n-buna",
-      "correctCount": 23,
+      "correctCount": 25,
       "correctSongCount": 11
     },
     {
@@ -7856,7 +7867,7 @@
     },
     {
       "artist": "なきそ",
-      "correctCount": 3,
+      "correctCount": 4,
       "correctSongCount": 2
     },
     {
@@ -7906,8 +7917,8 @@
     },
     {
       "artist": "香椎モイミ",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "FAULHEIT",
@@ -8563,13 +8574,13 @@
     },
     {
       "era": "2012",
-      "correctCount": 105,
+      "correctCount": 106,
       "correctSongCount": 69
     },
     {
       "era": "2020",
-      "correctCount": 90,
-      "correctSongCount": 61
+      "correctCount": 92,
+      "correctSongCount": 62
     },
     {
       "era": "2016",
@@ -8593,12 +8604,12 @@
     },
     {
       "era": "2018",
-      "correctCount": 60,
+      "correctCount": 61,
       "correctSongCount": 38
     },
     {
       "era": "2013",
-      "correctCount": 116,
+      "correctCount": 117,
       "correctSongCount": 79
     },
     {
@@ -8648,25 +8659,25 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 220,
-      "correctSongCount": 175
+      "correctCount": 221,
+      "correctSongCount": 176
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 144,
+      "correctCount": 145,
       "correctSongCount": 89
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 191,
+      "correctCount": 192,
       "correctSongCount": 126
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 184,
+      "correctCount": 186,
       "correctSongCount": 108
     },
     {
@@ -12254,6 +12265,12 @@
       "viewCounter": 391474
     },
     {
+      "title": "Strawberry",
+      "contentId": "sm37486337",
+      "startTime": 1599652800000,
+      "viewCounter": 124974
+    },
+    {
       "title": "パラレルレイヤー",
       "contentId": "sm37728658",
       "startTime": 1603839600000,
@@ -12717,15 +12734,106 @@
     }
   ],
   "summary": {
-    "totalAnswers": 1340,
-    "okAnswers": 996,
+    "totalAnswers": 1345,
+    "okAnswers": 1001,
     "ngAnswers": 344,
-    "participatedQuizCount": 267,
-    "winQuizCount": 179,
+    "participatedQuizCount": 268,
+    "winQuizCount": 180,
     "loseQuizCount": 0,
     "medianViews": 579780
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C2",
+      "date": "2026-05-16",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 6,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 11,
+          "contentId": "sm36558614",
+          "title": "花めかない",
+          "artistList": [
+            "なきそ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36558614/36558614.64947255",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Abbey"
+            }
+          ]
+        },
+        {
+          "order": 27,
+          "contentId": "sm32855820",
+          "title": "ヨヒラ",
+          "artistList": [
+            "n-buna"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32855820/32855820",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "Abbey"
+            }
+          ]
+        },
+        {
+          "order": 40,
+          "contentId": "sm37486337",
+          "title": "Strawberry",
+          "artistList": [
+            "香椎モイミ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37486337/37486337.83902074",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "Abbey"
+            }
+          ]
+        },
+        {
+          "order": 42,
+          "contentId": "sm19510697",
+          "title": "異国人形館殺人事件",
+          "artistList": [
+            "てにをは"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19510697/19510697",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "Abbey"
+            }
+          ]
+        },
+        {
+          "order": 50,
+          "contentId": "sm21036288",
+          "title": "さよならワンダーノイズ",
+          "artistList": [
+            "n-buna"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21036288/21036288",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(6)",
+              "user": "Abbey"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "C1",
@@ -25122,7 +25230,7 @@
           "contentId": "sm42572901",
           "title": "不出来物",
           "artistList": [
-            "⌘ ハイノミ"
+            "⌘ハイノミ"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42572901/42572901.15075863",
           "tokens": [

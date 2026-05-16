@@ -277,6 +277,61 @@
       "startTime": "2020-02-03T19:00:00+09:00",
       "viewCounter": 2867620,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm44813459",
+      "title": "大人にはなれない",
+      "artist": "Aliey:S",
+      "artistList": [
+        "Aliey:S"
+      ],
+      "startTime": "2025-03-27T19:00:00+09:00",
+      "viewCounter": 46611,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm23954284",
+      "title": "on the rocks",
+      "artist": "OSTER project",
+      "artistList": [
+        "OSTER project"
+      ],
+      "startTime": "2014-07-08T19:00:00+09:00",
+      "viewCounter": 599258,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm27529228",
+      "title": "君色に染まる",
+      "artist": "TOKOTOKO（西沢さんP）",
+      "artistList": [
+        "TOKOTOKO（西沢さんP）"
+      ],
+      "startTime": "2015-11-06T18:00:00+09:00",
+      "viewCounter": 1103232,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44664536",
+      "title": "BLUE BACK",
+      "artist": "じん",
+      "artistList": [
+        "じん"
+      ],
+      "startTime": "2025-02-19T19:00:00+09:00",
+      "viewCounter": 2245786,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm20797677",
+      "title": "敗北の少年",
+      "artist": "kemu",
+      "artistList": [
+        "kemu"
+      ],
+      "startTime": "2013-05-06T22:38:14+09:00",
+      "viewCounter": 2906115,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -394,13 +449,38 @@
       "artist": "syudou",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "Aliey:S",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "OSTER project",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "TOKOTOKO（西沢さんP）",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "じん",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "kemu",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2013",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "era": "2020",
@@ -449,13 +529,18 @@
     },
     {
       "era": "2025-",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "era": "2014",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
+    },
+    {
+      "era": "2015",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "viewStats": [
@@ -468,8 +553,8 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "range": "10-30万",
@@ -486,20 +571,20 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 2,
-      "correctSongCount": 2
-    },
-    {
-      "range": "100-200万",
-      "order": 5,
       "correctCount": 3,
       "correctSongCount": 3
     },
     {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 4,
+      "correctSongCount": 4
+    },
+    {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 7,
+      "correctSongCount": 7
     },
     {
       "range": "300-500万",
@@ -670,18 +755,148 @@
       "contentId": "sm36314325",
       "startTime": 1580724000000,
       "viewCounter": 2867620
+    },
+    {
+      "title": "大人にはなれない",
+      "contentId": "sm44813459",
+      "startTime": 1743069600000,
+      "viewCounter": 46611
+    },
+    {
+      "title": "on the rocks",
+      "contentId": "sm23954284",
+      "startTime": 1404813600000,
+      "viewCounter": 599258
+    },
+    {
+      "title": "君色に染まる",
+      "contentId": "sm27529228",
+      "startTime": 1446800400000,
+      "viewCounter": 1103232
+    },
+    {
+      "title": "BLUE BACK",
+      "contentId": "sm44664536",
+      "startTime": 1739959200000,
+      "viewCounter": 2245786
+    },
+    {
+      "title": "敗北の少年",
+      "contentId": "sm20797677",
+      "startTime": 1367847494000,
+      "viewCounter": 2906115
     }
   ],
   "summary": {
-    "totalAnswers": 36,
-    "okAnswers": 25,
+    "totalAnswers": 41,
+    "okAnswers": 30,
     "ngAnswers": 11,
-    "participatedQuizCount": 5,
-    "winQuizCount": 5,
+    "participatedQuizCount": 6,
+    "winQuizCount": 6,
     "loseQuizCount": 0,
-    "medianViews": 603275
+    "medianViews": 654349
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "D1",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 11,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 44,
+          "contentId": "sm44813459",
+          "title": "大人にはなれない",
+          "artistList": [
+            "Aliey:S"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44813459/44813459.66896955",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "しがない炭酸飲料"
+            }
+          ]
+        },
+        {
+          "order": 52,
+          "contentId": "sm23954284",
+          "title": "on the rocks",
+          "artistList": [
+            "OSTER project"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23954284/23954284",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "しがない炭酸飲料"
+            }
+          ]
+        },
+        {
+          "order": 61,
+          "contentId": "sm27529228",
+          "title": "君色に染まる",
+          "artistList": [
+            "TOKOTOKO（西沢さんP）"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27529228/27529228",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ニナ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "しがない炭酸飲料"
+            }
+          ]
+        },
+        {
+          "order": 74,
+          "contentId": "sm44664536",
+          "title": "BLUE BACK",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44664536/44664536.25310356",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "しがない炭酸飲料"
+            }
+          ]
+        },
+        {
+          "order": 79,
+          "contentId": "sm20797677",
+          "title": "敗北の少年",
+          "artistList": [
+            "kemu"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20797677/20797677",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(11)",
+              "user": "しがない炭酸飲料"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "D1",

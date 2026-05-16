@@ -1866,9 +1866,9 @@
     {
       "contentId": "sm41952281",
       "title": "tougenkyo",
-      "artist": "DARAKU",
+      "artist": "daraku",
       "artistList": [
-        "DARAKU"
+        "daraku"
       ],
       "startTime": "2023-03-19T00:00:00+09:00",
       "viewCounter": 89383,
@@ -5622,6 +5622,50 @@
       "startTime": "2019-06-14T19:00:00+09:00",
       "viewCounter": 179134,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm44424816",
+      "title": "Postscript",
+      "artist": "Orangestar",
+      "artistList": [
+        "Orangestar"
+      ],
+      "startTime": "2024-12-14T17:54:03+09:00",
+      "viewCounter": 82050,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm2700265",
+      "title": "Soar",
+      "artist": "流星P",
+      "artistList": [
+        "流星P"
+      ],
+      "startTime": "2008-03-19T04:21:43+09:00",
+      "viewCounter": 1296226,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm43470731",
+      "title": "ダウンタイマー",
+      "artist": "かいりきベア",
+      "artistList": [
+        "かいりきベア"
+      ],
+      "startTime": "2024-03-01T21:38:03+09:00",
+      "viewCounter": 290565,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm19807355",
+      "title": "エレクトロサチュレイタ",
+      "artist": "tilt-six",
+      "artistList": [
+        "tilt-six"
+      ],
+      "startTime": "2013-01-12T12:24:57+09:00",
+      "viewCounter": 707356,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -5902,8 +5946,8 @@
     },
     {
       "artist": "流星P",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "ジミーサムP",
@@ -6257,8 +6301,8 @@
     },
     {
       "artist": "Orangestar",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "MI8k",
@@ -6266,7 +6310,7 @@
       "correctSongCount": 1
     },
     {
-      "artist": "DARAKU",
+      "artist": "daraku",
       "correctCount": 2,
       "correctSongCount": 1
     },
@@ -7094,6 +7138,16 @@
       "artist": "EasyPop",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "かいりきベア",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "tilt-six",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -7134,8 +7188,8 @@
     },
     {
       "era": "2024",
-      "correctCount": 36,
-      "correctSongCount": 35
+      "correctCount": 38,
+      "correctSongCount": 37
     },
     {
       "era": "2018",
@@ -7144,8 +7198,8 @@
     },
     {
       "era": "2007-2008",
-      "correctCount": 14,
-      "correctSongCount": 14
+      "correctCount": 15,
+      "correctSongCount": 15
     },
     {
       "era": "2010",
@@ -7174,8 +7228,8 @@
     },
     {
       "era": "2013",
-      "correctCount": 20,
-      "correctSongCount": 17
+      "correctCount": 21,
+      "correctSongCount": 18
     },
     {
       "era": "2011",
@@ -7198,14 +7252,14 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 128,
-      "correctSongCount": 111
+      "correctCount": 129,
+      "correctSongCount": 112
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 190,
-      "correctSongCount": 153
+      "correctCount": 191,
+      "correctSongCount": 154
     },
     {
       "range": "30-50万",
@@ -7216,14 +7270,14 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 96,
-      "correctSongCount": 78
+      "correctCount": 97,
+      "correctSongCount": 79
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 40,
-      "correctSongCount": 31
+      "correctCount": 41,
+      "correctSongCount": 32
     },
     {
       "range": "200-300万",
@@ -10304,18 +10358,144 @@
       "contentId": "sm35253049",
       "startTime": 1560506400000,
       "viewCounter": 179134
+    },
+    {
+      "title": "Postscript",
+      "contentId": "sm44424816",
+      "startTime": 1734166443000,
+      "viewCounter": 82050
+    },
+    {
+      "title": "Soar",
+      "contentId": "sm2700265",
+      "startTime": 1205868103000,
+      "viewCounter": 1296226
+    },
+    {
+      "title": "ダウンタイマー",
+      "contentId": "sm43470731",
+      "startTime": 1709296683000,
+      "viewCounter": 290565
+    },
+    {
+      "title": "エレクトロサチュレイタ",
+      "contentId": "sm19807355",
+      "startTime": 1357961097000,
+      "viewCounter": 707356
     }
   ],
   "summary": {
-    "totalAnswers": 746,
-    "okAnswers": 611,
+    "totalAnswers": 750,
+    "okAnswers": 615,
     "ngAnswers": 135,
-    "participatedQuizCount": 139,
-    "winQuizCount": 116,
+    "participatedQuizCount": 140,
+    "winQuizCount": 117,
     "loseQuizCount": 0,
-    "medianViews": 255574
+    "medianViews": 257863
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C1",
+      "date": "2026-05-15",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 16,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 48,
+          "contentId": "sm44424816",
+          "title": "Postscript",
+          "artistList": [
+            "Orangestar"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44424816/44424816.94510190",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "祝公式"
+            }
+          ]
+        },
+        {
+          "order": 74,
+          "contentId": "sm2700265",
+          "title": "Soar",
+          "artistList": [
+            "流星P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2700265/2700265",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "そ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とある逢瀬"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "クスノキ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "祝公式"
+            }
+          ]
+        },
+        {
+          "order": 83,
+          "contentId": "sm43470731",
+          "title": "ダウンタイマー",
+          "artistList": [
+            "かいりきベア"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43470731/43470731.65396399",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "祝公式"
+            }
+          ]
+        },
+        {
+          "order": 85,
+          "contentId": "sm19807355",
+          "title": "エレクトロサチュレイタ",
+          "artistList": [
+            "tilt-six"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19807355/19807355",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(16)",
+              "user": "祝公式"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "B",
@@ -12335,7 +12515,7 @@
           "contentId": "sm41952281",
           "title": "tougenkyo",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41952281/41952281.63280390",
           "tokens": [
@@ -22659,7 +22839,7 @@
           "contentId": "sm41952281",
           "title": "tougenkyo",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41952281/41952281.63280390",
           "tokens": [

@@ -462,7 +462,7 @@
       ],
       "startTime": "2010-02-14T20:00:02+09:00",
       "viewCounter": 13602718,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm37162961",
@@ -2094,7 +2094,7 @@
       ],
       "startTime": "2020-11-26T19:00:00+09:00",
       "viewCounter": 1776128,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm39338213",
@@ -2348,7 +2348,7 @@
       ],
       "startTime": "2009-05-24T08:44:15+09:00",
       "viewCounter": 5783912,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm34289456",
@@ -2756,6 +2756,28 @@
       "startTime": "2018-05-16T23:59:00+09:00",
       "viewCounter": 732114,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm41942735",
+      "title": "Catchy !?",
+      "artist": "r-906",
+      "artistList": [
+        "r-906"
+      ],
+      "startTime": "2023-03-19T19:00:00+09:00",
+      "viewCounter": 425590,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm24960251",
+      "title": "Rooter's Song",
+      "artist": "DECO*27",
+      "artistList": [
+        "DECO*27"
+      ],
+      "startTime": "2014-11-21T19:00:00+09:00",
+      "viewCounter": 654984,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -2816,8 +2838,8 @@
     },
     {
       "artist": "DECO*27",
-      "correctCount": 8,
-      "correctSongCount": 7
+      "correctCount": 9,
+      "correctSongCount": 8
     },
     {
       "artist": "A4。",
@@ -2921,12 +2943,12 @@
     },
     {
       "artist": "柊キライ",
-      "correctCount": 4,
+      "correctCount": 5,
       "correctSongCount": 4
     },
     {
       "artist": "wowaka",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 1
     },
     {
@@ -3236,8 +3258,8 @@
     },
     {
       "artist": "r-906",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "低所得P",
@@ -3386,7 +3408,7 @@
     },
     {
       "artist": "sasakure.UK",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -3458,8 +3480,8 @@
     },
     {
       "era": "2014",
-      "correctCount": 10,
-      "correctSongCount": 8
+      "correctCount": 11,
+      "correctSongCount": 9
     },
     {
       "era": "2012",
@@ -3473,7 +3495,7 @@
     },
     {
       "era": "2010",
-      "correctCount": 6,
+      "correctCount": 7,
       "correctSongCount": 4
     },
     {
@@ -3483,7 +3505,7 @@
     },
     {
       "era": "2020",
-      "correctCount": 41,
+      "correctCount": 42,
       "correctSongCount": 35
     },
     {
@@ -3513,8 +3535,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 14,
-      "correctSongCount": 12
+      "correctCount": 15,
+      "correctSongCount": 13
     },
     {
       "era": "2013",
@@ -3533,7 +3555,7 @@
     },
     {
       "era": "2009",
-      "correctCount": 3,
+      "correctCount": 4,
       "correctSongCount": 3
     },
     {
@@ -3564,19 +3586,19 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 50,
-      "correctSongCount": 41
+      "correctCount": 51,
+      "correctSongCount": 42
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 52,
-      "correctSongCount": 41
+      "correctCount": 53,
+      "correctSongCount": 42
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 49,
+      "correctCount": 50,
       "correctSongCount": 42
     },
     {
@@ -3594,13 +3616,13 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 12,
+      "correctCount": 13,
       "correctSongCount": 11
     },
     {
       "range": "1000万-",
       "order": 9,
-      "correctCount": 8,
+      "correctCount": 9,
       "correctSongCount": 6
     }
   ],
@@ -5104,18 +5126,121 @@
       "contentId": "sm33219885",
       "startTime": 1526482740000,
       "viewCounter": 732114
+    },
+    {
+      "title": "Catchy !?",
+      "contentId": "sm41942735",
+      "startTime": 1679220000000,
+      "viewCounter": 425590
+    },
+    {
+      "title": "Rooter's Song",
+      "contentId": "sm24960251",
+      "startTime": 1416564000000,
+      "viewCounter": 654984
     }
   ],
   "summary": {
-    "totalAnswers": 387,
-    "okAnswers": 299,
+    "totalAnswers": 392,
+    "okAnswers": 304,
     "ngAnswers": 88,
-    "participatedQuizCount": 70,
-    "winQuizCount": 55,
+    "participatedQuizCount": 71,
+    "winQuizCount": 56,
     "loseQuizCount": 0,
-    "medianViews": 529598
+    "medianViews": 534928
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C2",
+      "date": "2026-05-16",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 1,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 3,
+          "contentId": "sm37872936",
+          "title": "メビウス",
+          "artistList": [
+            "柊キライ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37872936/37872936.7622911",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "眠い人"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "contentId": "sm7138245",
+          "title": "＊ハロー、プラネット。",
+          "artistList": [
+            "sasakure.UK"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7138245/7138245",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "眠い人"
+            }
+          ]
+        },
+        {
+          "order": 13,
+          "contentId": "sm9714351",
+          "title": "ローリンガール",
+          "artistList": [
+            "wowaka"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9714351/9714351",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "眠い人"
+            }
+          ]
+        },
+        {
+          "order": 16,
+          "contentId": "sm41942735",
+          "title": "Catchy !?",
+          "artistList": [
+            "r-906"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41942735/41942735.13510954",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "眠い人"
+            }
+          ]
+        },
+        {
+          "order": 17,
+          "contentId": "sm24960251",
+          "title": "Rooter's Song",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24960251/24960251",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(1)",
+              "user": "眠い人"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "C1",

@@ -3369,9 +3369,9 @@
     {
       "contentId": "sm42575732",
       "title": "ディスバリズム",
-      "artist": "DARAKU",
+      "artist": "daraku",
       "artistList": [
-        "DARAKU"
+        "daraku"
       ],
       "startTime": "2023-08-05T00:00:00+09:00",
       "viewCounter": 66026,
@@ -4770,9 +4770,9 @@
     {
       "contentId": "sm41786337",
       "title": "幸生物質",
-      "artist": "DARAKU",
+      "artist": "daraku",
       "artistList": [
-        "DARAKU"
+        "daraku"
       ],
       "startTime": "2023-02-12T20:00:00+09:00",
       "viewCounter": 50143,
@@ -5386,6 +5386,50 @@
       "startTime": "2021-02-19T18:00:00+09:00",
       "viewCounter": 146602,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm24912838",
+      "title": "UFO",
+      "artist": "きくお",
+      "artistList": [
+        "きくお"
+      ],
+      "startTime": "2014-11-21T18:00:00+09:00",
+      "viewCounter": 289864,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45970117",
+      "title": "SiGN",
+      "artist": "ナナホシ管弦楽団",
+      "artistList": [
+        "ナナホシ管弦楽団"
+      ],
+      "startTime": "2026-02-21T00:00:00+09:00",
+      "viewCounter": 41109,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm41948679",
+      "title": "洗脳",
+      "artist": "エイハブ",
+      "artistList": [
+        "エイハブ"
+      ],
+      "startTime": "2023-03-19T00:00:00+09:00",
+      "viewCounter": 62743,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm36864876",
+      "title": "黒点",
+      "artist": "WEAKEND WALKER",
+      "artistList": [
+        "WEAKEND WALKER"
+      ],
+      "startTime": "2020-05-15T20:00:00+09:00",
+      "viewCounter": 32507,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -5726,8 +5770,8 @@
     },
     {
       "artist": "ナナホシ管弦楽団",
-      "correctCount": 5,
-      "correctSongCount": 4
+      "correctCount": 6,
+      "correctSongCount": 5
     },
     {
       "artist": "MI8k",
@@ -5886,8 +5930,8 @@
     },
     {
       "artist": "エイハブ",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "risou",
@@ -6380,7 +6424,7 @@
       "correctSongCount": 1
     },
     {
-      "artist": "DARAKU",
+      "artist": "daraku",
       "correctCount": 2,
       "correctSongCount": 2
     },
@@ -6888,6 +6932,16 @@
       "artist": "イマニシ",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "きくお",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "WEAKEND WALKER",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -6898,8 +6952,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 48,
-      "correctSongCount": 43
+      "correctCount": 49,
+      "correctSongCount": 44
     },
     {
       "era": "2019",
@@ -6913,8 +6967,8 @@
     },
     {
       "era": "2014",
-      "correctCount": 35,
-      "correctSongCount": 33
+      "correctCount": 36,
+      "correctSongCount": 34
     },
     {
       "era": "2022",
@@ -6963,8 +7017,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 27,
-      "correctSongCount": 25
+      "correctCount": 28,
+      "correctSongCount": 26
     },
     {
       "era": "2024",
@@ -6978,8 +7032,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 17,
-      "correctSongCount": 17
+      "correctCount": 18,
+      "correctSongCount": 18
     }
   ],
   "viewStats": [
@@ -6992,14 +7046,14 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 138,
-      "correctSongCount": 130
+      "correctCount": 141,
+      "correctSongCount": 133
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 184,
-      "correctSongCount": 173
+      "correctCount": 185,
+      "correctSongCount": 174
     },
     {
       "range": "30-50万",
@@ -9972,18 +10026,314 @@
       "contentId": "sm38292635",
       "startTime": 1613725200000,
       "viewCounter": 146602
+    },
+    {
+      "title": "UFO",
+      "contentId": "sm24912838",
+      "startTime": 1416560400000,
+      "viewCounter": 289864
+    },
+    {
+      "title": "SiGN",
+      "contentId": "sm45970117",
+      "startTime": 1771599600000,
+      "viewCounter": 41109
+    },
+    {
+      "title": "洗脳",
+      "contentId": "sm41948679",
+      "startTime": 1679151600000,
+      "viewCounter": 62743
+    },
+    {
+      "title": "黒点",
+      "contentId": "sm36864876",
+      "startTime": 1589540400000,
+      "viewCounter": 32507
     }
   ],
   "summary": {
-    "totalAnswers": 700,
-    "okAnswers": 519,
-    "ngAnswers": 179,
-    "participatedQuizCount": 119,
+    "totalAnswers": 708,
+    "okAnswers": 523,
+    "ngAnswers": 182,
+    "participatedQuizCount": 120,
     "winQuizCount": 108,
-    "loseQuizCount": 2,
-    "medianViews": 173855
+    "loseQuizCount": 3,
+    "medianViews": 171966
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "A",
+      "date": "2026-05-15",
+      "ok": 4,
+      "ng": 3,
+      "winRank": null,
+      "hasLose": true,
+      "songs": [
+        {
+          "order": 20,
+          "contentId": "sm23242071",
+          "title": "夜の帳が落ちる",
+          "artistList": [
+            "バルーン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23242071/23242071",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "かなくり"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "最強の私"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "世界のYAMADA"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "RRR"
+            }
+          ]
+        },
+        {
+          "order": 22,
+          "contentId": "sm35036524",
+          "title": "そらリゼーション",
+          "artistList": [
+            "k_zero+A"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35036524/35036524.39295",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "影山"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "時雨"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "スライドポテト"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm15618059",
+          "title": "狐憑き",
+          "artistList": [
+            "しばいぬ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15618059/15618059",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なごん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "スライドポテト"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゲオス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 38,
+          "contentId": "sm24912838",
+          "title": "UFO",
+          "artistList": [
+            "きくお"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24912838/24912838",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ぬーん"
+            }
+          ]
+        },
+        {
+          "order": 41,
+          "contentId": "sm45970117",
+          "title": "SiGN",
+          "artistList": [
+            "ナナホシ管弦楽団"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45970117/45970117.49927533",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ぬーん"
+            }
+          ]
+        },
+        {
+          "order": 49,
+          "contentId": "sm41948679",
+          "title": "洗脳",
+          "artistList": [
+            "エイハブ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41948679/41948679.17386362",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ぬーん"
+            }
+          ]
+        },
+        {
+          "order": 54,
+          "contentId": "sm36864876",
+          "title": "黒点",
+          "artistList": [
+            "WEAKEND WALKER"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36864876/36864876.38979972",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "かなくり"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ぬーん"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm26758712",
+          "title": "無人駅",
+          "artistList": [
+            "n-buna"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26758712/26758712",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "××",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "すべから"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "世界のYAMADA"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "A",
@@ -11990,7 +12340,7 @@
           "contentId": "sm41786337",
           "title": "幸生物質",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41786337/41786337.41599187",
           "tokens": [
@@ -17118,7 +17468,7 @@
           "contentId": "sm42575732",
           "title": "ディスバリズム",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42575732/42575732.5807628",
           "tokens": [

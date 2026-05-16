@@ -89,7 +89,7 @@
       ],
       "startTime": "2022-05-02T19:04:00+09:00",
       "viewCounter": 5768247,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm40881707",
@@ -695,7 +695,7 @@
       ],
       "startTime": "2019-01-01T21:00:00+09:00",
       "viewCounter": 757283,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm37467451",
@@ -2552,6 +2552,28 @@
       "startTime": "2011-08-14T20:59:57+09:00",
       "viewCounter": 6100365,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm34583356",
+      "title": "ロジカ",
+      "artist": "かいりきベア",
+      "artistList": [
+        "かいりきベア"
+      ],
+      "startTime": "2019-02-08T20:00:00+09:00",
+      "viewCounter": 1036138,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm7610111",
+      "title": "ぼくらの16bit戦争",
+      "artist": "sasakure.UK",
+      "artistList": [
+        "sasakure.UK"
+      ],
+      "startTime": "2009-07-12T09:48:28+09:00",
+      "viewCounter": 3925156,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -2562,8 +2584,8 @@
     },
     {
       "artist": "かいりきベア",
-      "correctCount": 5,
-      "correctSongCount": 4
+      "correctCount": 6,
+      "correctSongCount": 5
     },
     {
       "artist": "KIRA",
@@ -2592,7 +2614,7 @@
     },
     {
       "artist": "Kanaria",
-      "correctCount": 9,
+      "correctCount": 10,
       "correctSongCount": 7
     },
     {
@@ -2737,13 +2759,13 @@
     },
     {
       "artist": "Aqu3ra",
-      "correctCount": 9,
+      "correctCount": 10,
       "correctSongCount": 7
     },
     {
       "artist": "sasakure.UK",
-      "correctCount": 2,
-      "correctSongCount": 1
+      "correctCount": 3,
+      "correctSongCount": 2
     },
     {
       "artist": "柊キライ",
@@ -3154,8 +3176,8 @@
     },
     {
       "era": "2019",
-      "correctCount": 23,
-      "correctSongCount": 17
+      "correctCount": 25,
+      "correctSongCount": 18
     },
     {
       "era": "2017",
@@ -3179,7 +3201,7 @@
     },
     {
       "era": "2022",
-      "correctCount": 33,
+      "correctCount": 34,
       "correctSongCount": 25
     },
     {
@@ -3194,8 +3216,8 @@
     },
     {
       "era": "2009",
-      "correctCount": 5,
-      "correctSongCount": 4
+      "correctCount": 6,
+      "correctSongCount": 5
     },
     {
       "era": "2010",
@@ -3266,14 +3288,14 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 64,
+      "correctCount": 65,
       "correctSongCount": 50
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 39,
-      "correctSongCount": 36
+      "correctCount": 40,
+      "correctSongCount": 37
     },
     {
       "range": "200-300万",
@@ -3284,13 +3306,13 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 25,
-      "correctSongCount": 20
+      "correctCount": 26,
+      "correctSongCount": 21
     },
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 27,
+      "correctCount": 28,
       "correctSongCount": 22
     },
     {
@@ -4686,18 +4708,105 @@
       "contentId": "sm15308214",
       "startTime": 1313323197000,
       "viewCounter": 6100365
+    },
+    {
+      "title": "ロジカ",
+      "contentId": "sm34583356",
+      "startTime": 1549623600000,
+      "viewCounter": 1036138
+    },
+    {
+      "title": "ぼくらの16bit戦争",
+      "contentId": "sm7610111",
+      "startTime": 1247359708000,
+      "viewCounter": 3925156
     }
   ],
   "summary": {
-    "totalAnswers": 357,
-    "okAnswers": 278,
+    "totalAnswers": 361,
+    "okAnswers": 282,
     "ngAnswers": 79,
-    "participatedQuizCount": 59,
-    "winQuizCount": 57,
+    "participatedQuizCount": 60,
+    "winQuizCount": 58,
     "loseQuizCount": 0,
-    "medianViews": 875526
+    "medianViews": 900702
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C1",
+      "date": "2026-05-15",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 6,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 14,
+          "contentId": "sm40408445",
+          "title": "酔いどれ知らず",
+          "artistList": [
+            "Kanaria"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40408445/40408445.51803438",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ﾏﾞｯｯｯ"
+            }
+          ]
+        },
+        {
+          "order": 18,
+          "contentId": "sm34412675",
+          "title": "アイボリー",
+          "artistList": [
+            "Aqu3ra"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34412675/34412675.31493",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ﾏﾞｯｯｯ"
+            }
+          ]
+        },
+        {
+          "order": 23,
+          "contentId": "sm34583356",
+          "title": "ロジカ",
+          "artistList": [
+            "かいりきベア"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34583356/34583356.91287",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ﾏﾞｯｯｯ"
+            }
+          ]
+        },
+        {
+          "order": 55,
+          "contentId": "sm7610111",
+          "title": "ぼくらの16bit戦争",
+          "artistList": [
+            "sasakure.UK"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7610111/7610111",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(6)",
+              "user": "ﾏﾞｯｯｯ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "C1",

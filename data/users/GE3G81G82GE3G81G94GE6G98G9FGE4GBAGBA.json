@@ -1449,6 +1449,61 @@
       "startTime": "2008-04-12T17:40:01+09:00",
       "viewCounter": 2151853,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm4470650",
+      "title": "未来の歌",
+      "artist": "malo",
+      "artistList": [
+        "malo"
+      ],
+      "startTime": "2008-08-31T03:13:44+09:00",
+      "viewCounter": 365600,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm23910729",
+      "title": "金曜日のおはよう",
+      "artist": "HoneyWorks",
+      "artistList": [
+        "HoneyWorks"
+      ],
+      "startTime": "2014-07-02T19:00:00+09:00",
+      "viewCounter": 1560373,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm22587884",
+      "title": "ELECT",
+      "artist": "niki",
+      "artistList": [
+        "niki"
+      ],
+      "startTime": "2014-01-02T20:10:07+09:00",
+      "viewCounter": 1458566,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm17153408",
+      "title": "谺、碧海、那由多を見定むアグラフォノスの詩篇",
+      "artist": "Neru",
+      "artistList": [
+        "Neru"
+      ],
+      "startTime": "2012-03-04T20:12:16+09:00",
+      "viewCounter": 619086,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm34742711",
+      "title": "インヤンカンケイ",
+      "artist": "和田たけあき",
+      "artistList": [
+        "和田たけあき"
+      ],
+      "startTime": "2019-03-08T20:00:00+09:00",
+      "viewCounter": 444060,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -1474,8 +1529,8 @@
     },
     {
       "artist": "和田たけあき",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "ハヤシケイ",
@@ -1494,8 +1549,8 @@
     },
     {
       "artist": "Neru",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "Mitchie M",
@@ -1544,8 +1599,8 @@
     },
     {
       "artist": "HoneyWorks",
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "artist": "ポリスピカデリー",
@@ -1709,8 +1764,8 @@
     },
     {
       "artist": "niki",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "ぺぺろんP",
@@ -1901,6 +1956,11 @@
       "artist": "オワタP",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "malo",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -1916,8 +1976,8 @@
     },
     {
       "era": "2012",
-      "correctCount": 15,
-      "correctSongCount": 15
+      "correctCount": 16,
+      "correctSongCount": 16
     },
     {
       "era": "2017",
@@ -1936,13 +1996,13 @@
     },
     {
       "era": "2019",
-      "correctCount": 13,
-      "correctSongCount": 11
+      "correctCount": 14,
+      "correctSongCount": 12
     },
     {
       "era": "2014",
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 7,
+      "correctSongCount": 7
     },
     {
       "era": "2024",
@@ -1956,8 +2016,8 @@
     },
     {
       "era": "2007-2008",
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "era": "2023",
@@ -2017,20 +2077,20 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 30,
-      "correctSongCount": 27
+      "correctCount": 32,
+      "correctSongCount": 29
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 35,
-      "correctSongCount": 33
+      "correctCount": 36,
+      "correctSongCount": 34
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 24,
-      "correctSongCount": 24
+      "correctCount": 26,
+      "correctSongCount": 26
     },
     {
       "range": "200-300万",
@@ -2843,18 +2903,166 @@
       "contentId": "sm2972481",
       "startTime": 1207989601000,
       "viewCounter": 2151853
+    },
+    {
+      "title": "未来の歌",
+      "contentId": "sm4470650",
+      "startTime": 1220120024000,
+      "viewCounter": 365600
+    },
+    {
+      "title": "金曜日のおはよう",
+      "contentId": "sm23910729",
+      "startTime": 1404295200000,
+      "viewCounter": 1560373
+    },
+    {
+      "title": "ELECT",
+      "contentId": "sm22587884",
+      "startTime": 1388661007000,
+      "viewCounter": 1458566
+    },
+    {
+      "title": "谺、碧海、那由多を見定むアグラフォノスの詩篇",
+      "contentId": "sm17153408",
+      "startTime": 1330859536000,
+      "viewCounter": 619086
+    },
+    {
+      "title": "インヤンカンケイ",
+      "contentId": "sm34742711",
+      "startTime": 1552042800000,
+      "viewCounter": 444060
     }
   ],
   "summary": {
-    "totalAnswers": 172,
-    "okAnswers": 136,
+    "totalAnswers": 177,
+    "okAnswers": 141,
     "ngAnswers": 36,
-    "participatedQuizCount": 28,
-    "winQuizCount": 26,
+    "participatedQuizCount": 29,
+    "winQuizCount": 27,
     "loseQuizCount": 0,
-    "medianViews": 630307
+    "medianViews": 630919
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "D2",
+      "date": "2026-05-16",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 7,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 30,
+          "contentId": "sm4470650",
+          "title": "未来の歌",
+          "artistList": [
+            "malo"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/4470650/4470650",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "あご星人"
+            }
+          ]
+        },
+        {
+          "order": 36,
+          "contentId": "sm23910729",
+          "title": "金曜日のおはよう",
+          "artistList": [
+            "HoneyWorks"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23910729/23910729",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "あご星人"
+            }
+          ]
+        },
+        {
+          "order": 40,
+          "contentId": "sm22587884",
+          "title": "ELECT",
+          "artistList": [
+            "niki"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22587884/22587884",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "パム"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "防虫剤"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "あご星人"
+            }
+          ]
+        },
+        {
+          "order": 52,
+          "contentId": "sm17153408",
+          "title": "谺、碧海、那由多を見定むアグラフォノスの詩篇",
+          "artistList": [
+            "Neru"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/17153408/17153408",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "防虫剤"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "あご星人"
+            }
+          ]
+        },
+        {
+          "order": 55,
+          "contentId": "sm34742711",
+          "title": "インヤンカンケイ",
+          "artistList": [
+            "和田たけあき"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34742711/34742711.81814",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(7)",
+              "user": "あご星人"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "D2",

@@ -5326,6 +5326,51 @@
       "startTime": "2011-02-18T21:00:35+09:00",
       "viewCounter": 226979,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm22549943",
+      "title": "十三番目のハスキング",
+      "artist": "MI8k",
+      "artistList": [
+        "MI8k"
+      ],
+      "startTime": "2013-12-28T18:30:00+09:00",
+      "viewCounter": 137304,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm25435058",
+      "title": "ドラッグスコア",
+      "artist": "椎名もた",
+      "artistList": [
+        "椎名もた"
+      ],
+      "startTime": "2015-01-28T19:00:00+09:00",
+      "viewCounter": 218473,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm24708141",
+      "title": "クラブナイトメア",
+      "artist": "融合P",
+      "artistList": [
+        "融合P"
+      ],
+      "startTime": "2014-10-17T08:30:00+09:00",
+      "viewCounter": 125879,
+      "correctCount": 1
+    },
+    {
+      "contentId": "so40836614",
+      "title": "ラビリンス",
+      "artist": "四多トオリ, 無色透名祭公式",
+      "artistList": [
+        "四多トオリ",
+        "無色透名祭公式"
+      ],
+      "startTime": "2022-07-28T18:00:00+09:00",
+      "viewCounter": 62641,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -5486,8 +5531,8 @@
     },
     {
       "artist": "椎名もた",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "Heavenz",
@@ -6291,8 +6336,8 @@
     },
     {
       "artist": "融合P",
-      "correctCount": 2,
-      "correctSongCount": 1
+      "correctCount": 3,
+      "correctSongCount": 2
     },
     {
       "artist": "EasyPop",
@@ -6326,8 +6371,8 @@
     },
     {
       "artist": "MI8k",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "風原",
@@ -6491,8 +6536,8 @@
     },
     {
       "artist": "無色透名祭公式",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "buzzG",
@@ -6608,6 +6653,11 @@
       "artist": "歪P",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "四多トオリ",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -6648,18 +6698,18 @@
     },
     {
       "era": "2013",
-      "correctCount": 53,
-      "correctSongCount": 45
+      "correctCount": 54,
+      "correctSongCount": 46
     },
     {
       "era": "2022",
-      "correctCount": 14,
-      "correctSongCount": 13
+      "correctCount": 15,
+      "correctSongCount": 14
     },
     {
       "era": "2015",
-      "correctCount": 33,
-      "correctSongCount": 26
+      "correctCount": 34,
+      "correctSongCount": 27
     },
     {
       "era": "2012",
@@ -6673,8 +6723,8 @@
     },
     {
       "era": "2014",
-      "correctCount": 33,
-      "correctSongCount": 28
+      "correctCount": 34,
+      "correctSongCount": 29
     },
     {
       "era": "2019",
@@ -6712,14 +6762,14 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 38,
-      "correctSongCount": 36
+      "correctCount": 39,
+      "correctSongCount": 37
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 130,
-      "correctSongCount": 116
+      "correctCount": 133,
+      "correctSongCount": 119
     },
     {
       "range": "30-50万",
@@ -9662,18 +9712,222 @@
       "contentId": "sm13636905",
       "startTime": 1298030435000,
       "viewCounter": 226979
+    },
+    {
+      "title": "十三番目のハスキング",
+      "contentId": "sm22549943",
+      "startTime": 1388223000000,
+      "viewCounter": 137304
+    },
+    {
+      "title": "ドラッグスコア",
+      "contentId": "sm25435058",
+      "startTime": 1422439200000,
+      "viewCounter": 218473
+    },
+    {
+      "title": "クラブナイトメア",
+      "contentId": "sm24708141",
+      "startTime": 1413502200000,
+      "viewCounter": 125879
+    },
+    {
+      "title": "ラビリンス",
+      "contentId": "so40836614",
+      "startTime": 1658998800000,
+      "viewCounter": 62641
     }
   ],
   "summary": {
-    "totalAnswers": 868,
-    "okAnswers": 543,
-    "ngAnswers": 313,
-    "participatedQuizCount": 124,
-    "winQuizCount": 109,
+    "totalAnswers": 874,
+    "okAnswers": 547,
+    "ngAnswers": 315,
+    "participatedQuizCount": 125,
+    "winQuizCount": 110,
     "loseQuizCount": 12,
-    "medianViews": 522065
+    "medianViews": 507472
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "B",
+      "date": "2026-05-16",
+      "ok": 4,
+      "ng": 2,
+      "winRank": 3,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 3,
+          "contentId": "sm22549943",
+          "title": "十三番目のハスキング",
+          "artistList": [
+            "MI8k"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22549943/22549943",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ベガ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Cumber"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "テフミネ"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "contentId": "sm25435058",
+          "title": "ドラッグスコア",
+          "artistList": [
+            "椎名もた"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25435058/25435058",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "わいえい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "テフミネ"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "contentId": "sm14712230",
+          "title": "Prototype",
+          "artistList": [
+            "niki"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14712230/14712230",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Takuan"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "テフミネ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "手下"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Cumber"
+            }
+          ]
+        },
+        {
+          "order": 14,
+          "contentId": "sm37349785",
+          "title": "青く駆けろ！",
+          "artistList": [
+            "まらしぃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37349785/37349785.82657179",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "テフミネ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "とちこ"
+            }
+          ]
+        },
+        {
+          "order": 17,
+          "contentId": "sm24708141",
+          "title": "クラブナイトメア",
+          "artistList": [
+            "融合P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24708141/24708141",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "テフミネ"
+            }
+          ]
+        },
+        {
+          "order": 29,
+          "contentId": "so40836614",
+          "title": "ラビリンス",
+          "artistList": [
+            "四多トオリ",
+            "無色透名祭公式"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40836614/40836614.91772428",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(3)",
+              "user": "テフミネ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "B",

@@ -266,7 +266,7 @@
       ],
       "startTime": "2021-09-17T19:00:00+09:00",
       "viewCounter": 2076726,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm36053074",
@@ -2027,7 +2027,7 @@
       ],
       "startTime": "2023-03-15T20:30:00+09:00",
       "viewCounter": 4556760,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm41949707",
@@ -4041,6 +4041,28 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm41769346",
+      "title": "キリエ",
+      "artist": "wotaku",
+      "artistList": [
+        "wotaku"
+      ],
+      "startTime": "2023-02-10T20:00:00+09:00",
+      "viewCounter": 41953,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm40349788",
+      "title": "まにまに",
+      "artist": "r-906",
+      "artistList": [
+        "r-906"
+      ],
+      "startTime": "2022-04-23T00:00:00+09:00",
+      "viewCounter": 2679969,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm37946018",
       "title": "フォークウォーク",
       "artist": "一筆かもめ",
@@ -4527,8 +4549,8 @@
     },
     {
       "artist": "wotaku",
-      "correctCount": 15,
-      "correctSongCount": 12
+      "correctCount": 17,
+      "correctSongCount": 13
     },
     {
       "artist": "うたたP",
@@ -4887,8 +4909,8 @@
     },
     {
       "artist": "r-906",
-      "correctCount": 5,
-      "correctSongCount": 3
+      "correctCount": 6,
+      "correctSongCount": 4
     },
     {
       "artist": "sasakure.UK",
@@ -5052,7 +5074,7 @@
     },
     {
       "artist": "ゆこぴ",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -5489,7 +5511,7 @@
     },
     {
       "era": "2021",
-      "correctCount": 116,
+      "correctCount": 117,
       "correctSongCount": 85
     },
     {
@@ -5499,8 +5521,8 @@
     },
     {
       "era": "2022",
-      "correctCount": 64,
-      "correctSongCount": 51
+      "correctCount": 65,
+      "correctSongCount": 52
     },
     {
       "era": "2019",
@@ -5544,8 +5566,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 29,
-      "correctSongCount": 25
+      "correctCount": 31,
+      "correctSongCount": 26
     },
     {
       "era": "2024",
@@ -5568,8 +5590,8 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 44,
-      "correctSongCount": 39
+      "correctCount": 45,
+      "correctSongCount": 40
     },
     {
       "range": "10-30万",
@@ -5598,13 +5620,13 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 44,
-      "correctSongCount": 37
+      "correctCount": 46,
+      "correctSongCount": 38
     },
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 41,
+      "correctCount": 42,
       "correctSongCount": 31
     },
     {
@@ -7818,6 +7840,18 @@
       "viewCounter": 7192284
     },
     {
+      "title": "キリエ",
+      "contentId": "sm41769346",
+      "startTime": 1676026800000,
+      "viewCounter": 41953
+    },
+    {
+      "title": "まにまに",
+      "contentId": "sm40349788",
+      "startTime": 1650639600000,
+      "viewCounter": 2679969
+    },
+    {
       "title": "フォークウォーク",
       "contentId": "sm37946018",
       "startTime": 1607688000000,
@@ -8065,15 +8099,167 @@
     }
   ],
   "summary": {
-    "totalAnswers": 1203,
-    "okAnswers": 533,
-    "ngAnswers": 657,
-    "participatedQuizCount": 172,
-    "winQuizCount": 101,
+    "totalAnswers": 1209,
+    "okAnswers": 537,
+    "ngAnswers": 659,
+    "participatedQuizCount": 173,
+    "winQuizCount": 102,
     "loseQuizCount": 13,
-    "medianViews": 569749
+    "medianViews": 573423
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "B",
+      "date": "2026-05-16",
+      "ok": 4,
+      "ng": 2,
+      "winRank": 5,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 3,
+          "contentId": "sm22549943",
+          "title": "十三番目のハスキング",
+          "artistList": [
+            "MI8k"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22549943/22549943",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ベガ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Cumber"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "テフミネ"
+            }
+          ]
+        },
+        {
+          "order": 9,
+          "contentId": "sm41769346",
+          "title": "キリエ",
+          "artistList": [
+            "wotaku"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41769346/41769346.60225949",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "わいえい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ベガ"
+            }
+          ]
+        },
+        {
+          "order": 10,
+          "contentId": "sm45344669",
+          "title": "そのたび",
+          "artistList": [
+            "大漠波新"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45344669/45344669.71503085",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とつは"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ベガ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "よかずき"
+            }
+          ]
+        },
+        {
+          "order": 19,
+          "contentId": "sm39336579",
+          "title": "シャンティ",
+          "artistList": [
+            "wotaku"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39336579/39336579.42346257",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ベガ"
+            }
+          ]
+        },
+        {
+          "order": 24,
+          "contentId": "sm40349788",
+          "title": "まにまに",
+          "artistList": [
+            "r-906"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40349788/40349788.53373920",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ベガ"
+            }
+          ]
+        },
+        {
+          "order": 33,
+          "contentId": "sm41926207",
+          "title": "強風オールバック",
+          "artistList": [
+            "ゆこぴ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41926207/41926207.95161718",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(5)",
+              "user": "ベガ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "A",
@@ -16494,7 +16680,7 @@
           "contentId": "sm42572901",
           "title": "不出来物",
           "artistList": [
-            "⌘ ハイノミ"
+            "⌘ハイノミ"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42572901/42572901.15075863",
           "tokens": [

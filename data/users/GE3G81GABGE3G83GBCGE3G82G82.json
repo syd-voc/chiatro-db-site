@@ -3180,9 +3180,9 @@
     {
       "contentId": "sm42575732",
       "title": "ディスバリズム",
-      "artist": "DARAKU",
+      "artist": "daraku",
       "artistList": [
-        "DARAKU"
+        "daraku"
       ],
       "startTime": "2023-08-05T00:00:00+09:00",
       "viewCounter": 66026,
@@ -4068,6 +4068,61 @@
       "startTime": "2025-02-22T00:00:00+09:00",
       "viewCounter": 99425,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm41952632",
+      "title": "ヒーローだった僕たちへ",
+      "artist": "成宮 亮",
+      "artistList": [
+        "成宮 亮"
+      ],
+      "startTime": "2023-03-19T00:00:00+09:00",
+      "viewCounter": 153749,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35665699",
+      "title": "鬼の居ぬ間に",
+      "artist": "羽生まゐご",
+      "artistList": [
+        "羽生まゐご"
+      ],
+      "startTime": "2019-09-12T18:00:00+09:00",
+      "viewCounter": 256883,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm31851732",
+      "title": "U",
+      "artist": "奏音69",
+      "artistList": [
+        "奏音69"
+      ],
+      "startTime": "2017-09-02T20:00:00+09:00",
+      "viewCounter": 48114,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm42440400",
+      "title": "ミィハー",
+      "artist": "Chinozo",
+      "artistList": [
+        "Chinozo"
+      ],
+      "startTime": "2023-07-05T20:00:00+09:00",
+      "viewCounter": 303068,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm20286605",
+      "title": "ハウトゥー世界征服",
+      "artist": "Neru",
+      "artistList": [
+        "Neru"
+      ],
+      "startTime": "2013-03-09T19:00:41+09:00",
+      "viewCounter": 4307484,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4128,8 +4183,8 @@
     },
     {
       "artist": "Neru",
-      "correctCount": 7,
-      "correctSongCount": 5
+      "correctCount": 8,
+      "correctSongCount": 6
     },
     {
       "artist": "じん",
@@ -4663,8 +4718,8 @@
     },
     {
       "artist": "Chinozo",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "阿修",
@@ -4952,7 +5007,7 @@
       "correctSongCount": 1
     },
     {
-      "artist": "DARAKU",
+      "artist": "daraku",
       "correctCount": 1,
       "correctSongCount": 1
     },
@@ -5160,18 +5215,33 @@
       "artist": "瀬名航",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "成宮 亮",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "羽生まゐご",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "奏音69",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2019",
-      "correctCount": 41,
-      "correctSongCount": 31
+      "correctCount": 42,
+      "correctSongCount": 32
     },
     {
       "era": "2017",
-      "correctCount": 37,
-      "correctSongCount": 29
+      "correctCount": 38,
+      "correctSongCount": 30
     },
     {
       "era": "2015",
@@ -5190,8 +5260,8 @@
     },
     {
       "era": "2013",
-      "correctCount": 28,
-      "correctSongCount": 24
+      "correctCount": 29,
+      "correctSongCount": 25
     },
     {
       "era": "2007-2008",
@@ -5240,8 +5310,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 33,
-      "correctSongCount": 27
+      "correctCount": 35,
+      "correctSongCount": 29
     },
     {
       "era": "2024",
@@ -5264,20 +5334,20 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 40,
-      "correctSongCount": 33
+      "correctCount": 41,
+      "correctSongCount": 34
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 108,
-      "correctSongCount": 92
+      "correctCount": 110,
+      "correctSongCount": 94
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 64,
-      "correctSongCount": 54
+      "correctCount": 65,
+      "correctSongCount": 55
     },
     {
       "range": "50-100万",
@@ -5300,8 +5370,8 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 23,
-      "correctSongCount": 21
+      "correctCount": 24,
+      "correctSongCount": 22
     },
     {
       "range": "500-1000万",
@@ -7530,18 +7600,225 @@
       "contentId": "sm44657618",
       "startTime": 1740150000000,
       "viewCounter": 99425
+    },
+    {
+      "title": "ヒーローだった僕たちへ",
+      "contentId": "sm41952632",
+      "startTime": 1679151600000,
+      "viewCounter": 153749
+    },
+    {
+      "title": "鬼の居ぬ間に",
+      "contentId": "sm35665699",
+      "startTime": 1568278800000,
+      "viewCounter": 256883
+    },
+    {
+      "title": "U",
+      "contentId": "sm31851732",
+      "startTime": 1504350000000,
+      "viewCounter": 48114
+    },
+    {
+      "title": "ミィハー",
+      "contentId": "sm42440400",
+      "startTime": 1688554800000,
+      "viewCounter": 303068
+    },
+    {
+      "title": "ハウトゥー世界征服",
+      "contentId": "sm20286605",
+      "startTime": 1362823241000,
+      "viewCounter": 4307484
     }
   ],
   "summary": {
-    "totalAnswers": 509,
-    "okAnswers": 430,
-    "ngAnswers": 78,
-    "participatedQuizCount": 91,
-    "winQuizCount": 87,
+    "totalAnswers": 516,
+    "okAnswers": 435,
+    "ngAnswers": 80,
+    "participatedQuizCount": 92,
+    "winQuizCount": 88,
     "loseQuizCount": 1,
-    "medianViews": 469067
+    "medianViews": 463390
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "A",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 9,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 19,
+          "contentId": "sm41952632",
+          "title": "ヒーローだった僕たちへ",
+          "artistList": [
+            "成宮 亮"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41952632/41952632.56406073",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "maruma"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠くない人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "にーも"
+            }
+          ]
+        },
+        {
+          "order": 30,
+          "contentId": "sm18030194",
+          "title": "トイカケ",
+          "artistList": [
+            "ゆう十"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18030194/18030194",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "にーも"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "眠くない人"
+            }
+          ]
+        },
+        {
+          "order": 36,
+          "contentId": "sm27113849",
+          "title": "√AICARIOUS",
+          "artistList": [
+            "ナナホシ管弦楽団"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27113849/27113849",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "にーも"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "すべから"
+            }
+          ]
+        },
+        {
+          "order": 39,
+          "contentId": "sm35665699",
+          "title": "鬼の居ぬ間に",
+          "artistList": [
+            "羽生まゐご"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35665699/35665699.65541457",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "最強の私"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なごん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "にーも"
+            }
+          ]
+        },
+        {
+          "order": 51,
+          "contentId": "sm31851732",
+          "title": "U",
+          "artistList": [
+            "奏音69"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31851732/31851732",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "にーも"
+            }
+          ]
+        },
+        {
+          "order": 65,
+          "contentId": "sm42440400",
+          "title": "ミィハー",
+          "artistList": [
+            "Chinozo"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42440400/42440400.19246036",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "にーも"
+            }
+          ]
+        },
+        {
+          "order": 72,
+          "contentId": "sm20286605",
+          "title": "ハウトゥー世界征服",
+          "artistList": [
+            "Neru"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20286605/20286605",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(9)",
+              "user": "にーも"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "A",
@@ -10316,7 +10593,7 @@
           "contentId": "sm42575732",
           "title": "ディスバリズム",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42575732/42575732.5807628",
           "tokens": [

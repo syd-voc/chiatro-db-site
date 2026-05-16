@@ -4696,6 +4696,62 @@
       "startTime": "2023-08-19T22:15:00+09:00",
       "viewCounter": 1792867,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm39638338",
+      "title": "ネッコに顔を踏まれたい",
+      "artist": "にっくきゆう",
+      "artistList": [
+        "にっくきゆう"
+      ],
+      "startTime": "2021-11-18T16:30:00+09:00",
+      "viewCounter": 15889,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45739389",
+      "title": "ループザルーム",
+      "artist": "ルシノ, 無色透名祭公式",
+      "artistList": [
+        "ルシノ",
+        "無色透名祭公式"
+      ],
+      "startTime": "2025-12-18T19:00:00+09:00",
+      "viewCounter": 1174205,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm43729891",
+      "title": "歌うbot",
+      "artist": "原口沙輔",
+      "artistList": [
+        "原口沙輔"
+      ],
+      "startTime": "2024-05-01T00:00:00+09:00",
+      "viewCounter": 403801,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm38408261",
+      "title": "ローファー",
+      "artist": "40mP",
+      "artistList": [
+        "40mP"
+      ],
+      "startTime": "2021-03-12T18:00:00+09:00",
+      "viewCounter": 61179,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm30960061",
+      "title": "グラーヴェ",
+      "artist": "niki",
+      "artistList": [
+        "niki"
+      ],
+      "startTime": "2017-04-04T19:00:00+09:00",
+      "viewCounter": 3543351,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4751,8 +4807,8 @@
     },
     {
       "artist": "40mP",
-      "correctCount": 9,
-      "correctSongCount": 8
+      "correctCount": 10,
+      "correctSongCount": 9
     },
     {
       "artist": "sasakure.UK",
@@ -4991,8 +5047,8 @@
     },
     {
       "artist": "原口沙輔",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "ナユタン星人",
@@ -5206,8 +5262,8 @@
     },
     {
       "artist": "無色透名祭公式",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "21世紀P",
@@ -5786,8 +5842,8 @@
     },
     {
       "artist": "niki",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "卓球少年",
@@ -5823,13 +5879,23 @@
       "artist": "山本",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "にっくきゆう",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ルシノ",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2017",
-      "correctCount": 23,
-      "correctSongCount": 21
+      "correctCount": 24,
+      "correctSongCount": 22
     },
     {
       "era": "2020",
@@ -5858,8 +5924,8 @@
     },
     {
       "era": "2021",
-      "correctCount": 59,
-      "correctSongCount": 52
+      "correctCount": 61,
+      "correctSongCount": 54
     },
     {
       "era": "2014",
@@ -5908,13 +5974,13 @@
     },
     {
       "era": "2024",
-      "correctCount": 31,
-      "correctSongCount": 26
+      "correctCount": 32,
+      "correctSongCount": 27
     },
     {
       "era": "2025-",
-      "correctCount": 11,
-      "correctSongCount": 9
+      "correctCount": 12,
+      "correctSongCount": 10
     }
   ],
   "viewStats": [
@@ -5927,8 +5993,8 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 51,
-      "correctSongCount": 47
+      "correctCount": 53,
+      "correctSongCount": 49
     },
     {
       "range": "10-30万",
@@ -5939,8 +6005,8 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 88,
-      "correctSongCount": 74
+      "correctCount": 89,
+      "correctSongCount": 75
     },
     {
       "range": "50-100万",
@@ -5951,8 +6017,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 76,
-      "correctSongCount": 64
+      "correctCount": 77,
+      "correctSongCount": 65
     },
     {
       "range": "200-300万",
@@ -5963,8 +6029,8 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 28,
-      "correctSongCount": 22
+      "correctCount": 29,
+      "correctSongCount": 23
     },
     {
       "range": "500-1000万",
@@ -8535,18 +8601,250 @@
       "contentId": "sm42646085",
       "startTime": 1692450900000,
       "viewCounter": 1792867
+    },
+    {
+      "title": "ネッコに顔を踏まれたい",
+      "contentId": "sm39638338",
+      "startTime": 1637220600000,
+      "viewCounter": 15889
+    },
+    {
+      "title": "ループザルーム",
+      "contentId": "sm45739389",
+      "startTime": 1766052000000,
+      "viewCounter": 1174205
+    },
+    {
+      "title": "歌うbot",
+      "contentId": "sm43729891",
+      "startTime": 1714489200000,
+      "viewCounter": 403801
+    },
+    {
+      "title": "ローファー",
+      "contentId": "sm38408261",
+      "startTime": 1615539600000,
+      "viewCounter": 61179
+    },
+    {
+      "title": "グラーヴェ",
+      "contentId": "sm30960061",
+      "startTime": 1491300000000,
+      "viewCounter": 3543351
     }
   ],
   "summary": {
-    "totalAnswers": 773,
-    "okAnswers": 486,
-    "ngAnswers": 279,
-    "participatedQuizCount": 109,
-    "winQuizCount": 96,
+    "totalAnswers": 781,
+    "okAnswers": 491,
+    "ngAnswers": 282,
+    "participatedQuizCount": 110,
+    "winQuizCount": 97,
     "loseQuizCount": 8,
-    "medianViews": 482749
+    "medianViews": 481357
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "A",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 3,
+      "winRank": 5,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 1,
+          "contentId": "sm39638338",
+          "title": "ネッコに顔を踏まれたい",
+          "artistList": [
+            "にっくきゆう"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39638338/39638338.45986609",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "影山"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "contentId": "sm38226913",
+          "title": "有夜無夜",
+          "artistList": [
+            "獅子志司"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38226913/38226913.11000440",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "影山"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "maruma"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "contentId": "sm33823390",
+          "title": "Liekki",
+          "artistList": [
+            "yukkedoluce"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33823390/33823390",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "影山"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "maruma"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "なごん"
+            }
+          ]
+        },
+        {
+          "order": 22,
+          "contentId": "sm35036524",
+          "title": "そらリゼーション",
+          "artistList": [
+            "k_zero+A"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35036524/35036524.39295",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "影山"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "時雨"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "スライドポテト"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "contentId": "sm45739389",
+          "title": "ループザルーム",
+          "artistList": [
+            "ルシノ",
+            "無色透名祭公式"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45739389/45739389.91150782",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "影山"
+            }
+          ]
+        },
+        {
+          "order": 42,
+          "contentId": "sm43729891",
+          "title": "歌うbot",
+          "artistList": [
+            "原口沙輔"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43729891/43729891.92134500",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "影山"
+            }
+          ]
+        },
+        {
+          "order": 46,
+          "contentId": "sm38408261",
+          "title": "ローファー",
+          "artistList": [
+            "40mP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38408261/38408261.43365431",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "影山"
+            }
+          ]
+        },
+        {
+          "order": 48,
+          "contentId": "sm30960061",
+          "title": "グラーヴェ",
+          "artistList": [
+            "niki"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30960061/30960061",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(5)",
+              "user": "影山"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "B",

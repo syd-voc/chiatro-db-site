@@ -1951,7 +1951,7 @@
       ],
       "startTime": "2008-09-30T22:53:30+09:00",
       "viewCounter": 242248,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm22430968",
@@ -4787,6 +4787,50 @@
       "startTime": "2015-04-01T19:00:00+09:00",
       "viewCounter": 829803,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm2500972",
+      "title": "もっと　伸びろ　ぼくの　動画",
+      "artist": "koushirou（卑屈P）",
+      "artistList": [
+        "koushirou（卑屈P）"
+      ],
+      "startTime": "2008-03-03T06:15:41+09:00",
+      "viewCounter": 453670,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm36723442",
+      "title": "欲望我慢スル事ナカレ",
+      "artist": "cosMo@暴走P",
+      "artistList": [
+        "cosMo@暴走P"
+      ],
+      "startTime": "2020-04-22T16:59:02+09:00",
+      "viewCounter": 488971,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm2149255",
+      "title": "少し楽しくなる時報",
+      "artist": "19's Sound Factory",
+      "artistList": [
+        "19's Sound Factory"
+      ],
+      "startTime": "2008-01-27T09:59:08+09:00",
+      "viewCounter": 733718,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm36165193",
+      "title": "エバ",
+      "artist": "柊キライ",
+      "artistList": [
+        "柊キライ"
+      ],
+      "startTime": "2020-01-03T19:00:00+09:00",
+      "viewCounter": 2225295,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4852,8 +4896,8 @@
     },
     {
       "artist": "柊キライ",
-      "correctCount": 5,
-      "correctSongCount": 4
+      "correctCount": 6,
+      "correctSongCount": 5
     },
     {
       "artist": "なみぐる",
@@ -5082,8 +5126,8 @@
     },
     {
       "artist": "cosMo@暴走P",
-      "correctCount": 7,
-      "correctSongCount": 5
+      "correctCount": 8,
+      "correctSongCount": 6
     },
     {
       "artist": "くりたにか",
@@ -5302,7 +5346,7 @@
     },
     {
       "artist": "オワタP",
-      "correctCount": 2,
+      "correctCount": 3,
       "correctSongCount": 2
     },
     {
@@ -5759,6 +5803,16 @@
       "artist": "東京真中",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "koushirou（卑屈P）",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "19's Sound Factory",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -5774,8 +5828,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 62,
-      "correctSongCount": 48
+      "correctCount": 64,
+      "correctSongCount": 50
     },
     {
       "era": "2012",
@@ -5839,8 +5893,8 @@
     },
     {
       "era": "2007-2008",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 6,
+      "correctSongCount": 5
     },
     {
       "era": "2025-",
@@ -5869,20 +5923,20 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 130,
+      "correctCount": 131,
       "correctSongCount": 106
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 96,
-      "correctSongCount": 70
+      "correctCount": 98,
+      "correctSongCount": 72
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 109,
-      "correctSongCount": 90
+      "correctCount": 110,
+      "correctSongCount": 91
     },
     {
       "range": "100-200万",
@@ -5893,8 +5947,8 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 36,
-      "correctSongCount": 26
+      "correctCount": 37,
+      "correctSongCount": 27
     },
     {
       "range": "300-500万",
@@ -8519,18 +8573,151 @@
       "contentId": "sm25925565",
       "startTime": 1427882400000,
       "viewCounter": 829803
+    },
+    {
+      "title": "もっと　伸びろ　ぼくの　動画",
+      "contentId": "sm2500972",
+      "startTime": 1204492541000,
+      "viewCounter": 453670
+    },
+    {
+      "title": "欲望我慢スル事ナカレ",
+      "contentId": "sm36723442",
+      "startTime": 1587542342000,
+      "viewCounter": 488971
+    },
+    {
+      "title": "少し楽しくなる時報",
+      "contentId": "sm2149255",
+      "startTime": 1201395548000,
+      "viewCounter": 733718
+    },
+    {
+      "title": "エバ",
+      "contentId": "sm36165193",
+      "startTime": 1578045600000,
+      "viewCounter": 2225295
     }
   ],
   "summary": {
-    "totalAnswers": 652,
-    "okAnswers": 544,
+    "totalAnswers": 657,
+    "okAnswers": 549,
     "ngAnswers": 108,
-    "participatedQuizCount": 145,
-    "winQuizCount": 84,
+    "participatedQuizCount": 146,
+    "winQuizCount": 85,
     "loseQuizCount": 0,
     "medianViews": 479570
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C2",
+      "date": "2026-05-16",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 5,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 15,
+          "contentId": "sm2500972",
+          "title": "もっと　伸びろ　ぼくの　動画",
+          "artistList": [
+            "koushirou（卑屈P）"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2500972/2500972",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぶどくん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "稲葉快晴"
+            }
+          ]
+        },
+        {
+          "order": 35,
+          "contentId": "sm4790382",
+          "title": "廃人チェック",
+          "artistList": [
+            "オワタP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/4790382/4790382",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "稲葉快晴"
+            }
+          ]
+        },
+        {
+          "order": 44,
+          "contentId": "sm36723442",
+          "title": "欲望我慢スル事ナカレ",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36723442/36723442.6602342",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "稲葉快晴"
+            }
+          ]
+        },
+        {
+          "order": 45,
+          "contentId": "sm2149255",
+          "title": "少し楽しくなる時報",
+          "artistList": [
+            "19's Sound Factory"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2149255/2149255",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "稲葉快晴"
+            }
+          ]
+        },
+        {
+          "order": 47,
+          "contentId": "sm36165193",
+          "title": "エバ",
+          "artistList": [
+            "柊キライ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36165193/36165193.73104810",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Klayn"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(5)",
+              "user": "稲葉快晴"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "C2",

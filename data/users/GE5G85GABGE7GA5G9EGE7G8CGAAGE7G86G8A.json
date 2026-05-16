@@ -4200,6 +4200,50 @@
       "startTime": "2011-09-29T20:21:35+09:00",
       "viewCounter": 177483,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm13367851",
+      "title": "バベル",
+      "artist": "ATOLS",
+      "artistList": [
+        "ATOLS"
+      ],
+      "startTime": "2011-01-21T20:49:21+09:00",
+      "viewCounter": 921487,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm4748812",
+      "title": "Scene",
+      "artist": "ジミーサムP",
+      "artistList": [
+        "ジミーサムP"
+      ],
+      "startTime": "2008-09-26T22:23:13+09:00",
+      "viewCounter": 529581,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45349164",
+      "title": "最愛人生ランナー",
+      "artist": "かいりきベア",
+      "artistList": [
+        "かいりきベア"
+      ],
+      "startTime": "2025-08-30T19:00:00+09:00",
+      "viewCounter": 135004,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45571103",
+      "title": "カイコ",
+      "artist": "DECO*27",
+      "artistList": [
+        "DECO*27"
+      ],
+      "startTime": "2025-11-07T19:00:00+09:00",
+      "viewCounter": 316207,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4215,8 +4259,8 @@
     },
     {
       "artist": "DECO*27",
-      "correctCount": 14,
-      "correctSongCount": 11
+      "correctCount": 15,
+      "correctSongCount": 12
     },
     {
       "artist": "Chinozo",
@@ -4300,8 +4344,8 @@
     },
     {
       "artist": "ジミーサムP",
-      "correctCount": 2,
-      "correctSongCount": 1
+      "correctCount": 3,
+      "correctSongCount": 2
     },
     {
       "artist": "トラボルタ",
@@ -4335,8 +4379,8 @@
     },
     {
       "artist": "かいりきベア",
-      "correctCount": 6,
-      "correctSongCount": 6
+      "correctCount": 7,
+      "correctSongCount": 7
     },
     {
       "artist": "Neru",
@@ -4790,8 +4834,8 @@
     },
     {
       "artist": "ATOLS",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "メル",
@@ -5282,8 +5326,8 @@
     },
     {
       "era": "2007-2008",
-      "correctCount": 20,
-      "correctSongCount": 18
+      "correctCount": 21,
+      "correctSongCount": 19
     },
     {
       "era": "2020",
@@ -5297,8 +5341,8 @@
     },
     {
       "era": "2011",
-      "correctCount": 34,
-      "correctSongCount": 30
+      "correctCount": 35,
+      "correctSongCount": 31
     },
     {
       "era": "2017",
@@ -5327,8 +5371,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 6,
+      "correctSongCount": 6
     }
   ],
   "viewStats": [
@@ -5347,20 +5391,20 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 62,
-      "correctSongCount": 53
+      "correctCount": 63,
+      "correctSongCount": 54
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 62,
-      "correctSongCount": 50
+      "correctCount": 63,
+      "correctSongCount": 51
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 100,
-      "correctSongCount": 85
+      "correctCount": 102,
+      "correctSongCount": 87
     },
     {
       "range": "100-200万",
@@ -7673,18 +7717,169 @@
       "contentId": "sm15746485",
       "startTime": 1317295295000,
       "viewCounter": 177483
+    },
+    {
+      "title": "バベル",
+      "contentId": "sm13367851",
+      "startTime": 1295610561000,
+      "viewCounter": 921487
+    },
+    {
+      "title": "Scene",
+      "contentId": "sm4748812",
+      "startTime": 1222435393000,
+      "viewCounter": 529581
+    },
+    {
+      "title": "最愛人生ランナー",
+      "contentId": "sm45349164",
+      "startTime": 1756548000000,
+      "viewCounter": 135004
+    },
+    {
+      "title": "カイコ",
+      "contentId": "sm45571103",
+      "startTime": 1762509600000,
+      "viewCounter": 316207
     }
   ],
   "summary": {
-    "totalAnswers": 623,
-    "okAnswers": 442,
-    "ngAnswers": 181,
-    "participatedQuizCount": 98,
-    "winQuizCount": 87,
+    "totalAnswers": 628,
+    "okAnswers": 446,
+    "ngAnswers": 182,
+    "participatedQuizCount": 99,
+    "winQuizCount": 88,
     "loseQuizCount": 0,
-    "medianViews": 923299
+    "medianViews": 910486
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "B",
+      "date": "2026-05-16",
+      "ok": 4,
+      "ng": 1,
+      "winRank": 12,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 18,
+          "contentId": "sm13367851",
+          "title": "バベル",
+          "artistList": [
+            "ATOLS"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13367851/13367851",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "八神猪熊"
+            }
+          ]
+        },
+        {
+          "order": 36,
+          "contentId": "sm27941696",
+          "title": "アリス",
+          "artistList": [
+            "ATOLS"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27941696/27941696",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "八神猪熊"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "手下"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ルナ・アリス"
+            }
+          ]
+        },
+        {
+          "order": 48,
+          "contentId": "sm4748812",
+          "title": "Scene",
+          "artistList": [
+            "ジミーサムP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/4748812/4748812",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "yu-na*"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "八神猪熊"
+            }
+          ]
+        },
+        {
+          "order": 62,
+          "contentId": "sm45349164",
+          "title": "最愛人生ランナー",
+          "artistList": [
+            "かいりきベア"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45349164/45349164.4057208",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "八神猪熊"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm45571103",
+          "title": "カイコ",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45571103/45571103.92756930",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(12)",
+              "user": "八神猪熊"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "C1",

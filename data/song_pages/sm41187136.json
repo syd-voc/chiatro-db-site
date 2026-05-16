@@ -13,7 +13,7 @@
     "userId": 118137370,
     "viewCounter": 415775,
     "artist": [
-      "DARAKU"
+      "daraku"
     ],
     "tags": [
       "VOCALOID",
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-16",
+      "quizNo": 299,
+      "group": "D2",
+      "order": 53,
+      "winner": "上海スベスベ"
+    },
     {
       "date": "2026-05-02",
       "quizNo": 297,
@@ -150,8 +157,8 @@
       "winner": "おぷち"
     }
   ],
-  "appearanceCount": 17,
-  "correctCount": 16,
+  "appearanceCount": 18,
+  "correctCount": 17,
   "accuracy": 94,
   "anotherVersions": []
 }

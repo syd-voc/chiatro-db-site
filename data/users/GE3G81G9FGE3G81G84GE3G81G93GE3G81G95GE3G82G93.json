@@ -508,7 +508,7 @@
       ],
       "startTime": "2018-07-18T21:00:00+09:00",
       "viewCounter": 5756217,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm41770519",
@@ -927,7 +927,7 @@
       ],
       "startTime": "2023-04-29T15:00:54+09:00",
       "viewCounter": 1192233,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm41513290",
@@ -1026,7 +1026,7 @@
       ],
       "startTime": "2022-10-07T19:00:00+09:00",
       "viewCounter": 1196759,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm44685408",
@@ -1378,7 +1378,7 @@
       ],
       "startTime": "2023-08-05T00:00:00+09:00",
       "viewCounter": 374838,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm39853779",
@@ -1555,12 +1555,23 @@
       "startTime": "2023-08-05T00:00:00+09:00",
       "viewCounter": 1455192,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm39131047",
+      "title": "ねぇねぇねぇ。",
+      "artist": "ピノキオピー",
+      "artistList": [
+        "ピノキオピー"
+      ],
+      "startTime": "2021-08-06T19:00:00+09:00",
+      "viewCounter": 1729350,
+      "correctCount": 1
     }
   ],
   "artistStats": [
     {
       "artist": "いよわ",
-      "correctCount": 29,
+      "correctCount": 30,
       "correctSongCount": 19
     },
     {
@@ -1605,7 +1616,7 @@
     },
     {
       "artist": "もちうつね",
-      "correctCount": 4,
+      "correctCount": 5,
       "correctSongCount": 2
     },
     {
@@ -1695,8 +1706,8 @@
     },
     {
       "artist": "ピノキオピー",
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "artist": "YASUHIRO(康寛)",
@@ -1730,7 +1741,7 @@
     },
     {
       "artist": "みきとP",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -1885,7 +1896,7 @@
     },
     {
       "artist": "A4。",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -2012,12 +2023,12 @@
     },
     {
       "era": "2018",
-      "correctCount": 20,
+      "correctCount": 21,
       "correctSongCount": 13
     },
     {
       "era": "2022",
-      "correctCount": 19,
+      "correctCount": 20,
       "correctSongCount": 14
     },
     {
@@ -2037,8 +2048,8 @@
     },
     {
       "era": "2021",
-      "correctCount": 18,
-      "correctSongCount": 15
+      "correctCount": 19,
+      "correctSongCount": 16
     },
     {
       "era": "2009",
@@ -2047,7 +2058,7 @@
     },
     {
       "era": "2023",
-      "correctCount": 20,
+      "correctCount": 22,
       "correctSongCount": 16
     },
     {
@@ -2093,7 +2104,7 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 17,
+      "correctCount": 18,
       "correctSongCount": 14
     },
     {
@@ -2105,8 +2116,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 37,
-      "correctSongCount": 27
+      "correctCount": 40,
+      "correctSongCount": 28
     },
     {
       "range": "200-300万",
@@ -2123,7 +2134,7 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 22,
+      "correctCount": 23,
       "correctSongCount": 18
     },
     {
@@ -2979,18 +2990,202 @@
       "contentId": "sm42445494",
       "startTime": 1691161200000,
       "viewCounter": 1455192
+    },
+    {
+      "title": "ねぇねぇねぇ。",
+      "contentId": "sm39131047",
+      "startTime": 1628244000000,
+      "viewCounter": 1729350
     }
   ],
   "summary": {
-    "totalAnswers": 249,
-    "okAnswers": 182,
-    "ngAnswers": 67,
-    "participatedQuizCount": 41,
-    "winQuizCount": 31,
+    "totalAnswers": 256,
+    "okAnswers": 187,
+    "ngAnswers": 69,
+    "participatedQuizCount": 42,
+    "winQuizCount": 32,
     "loseQuizCount": 0,
-    "medianViews": 1428726
+    "medianViews": 1421117
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "D1",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 9,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 9,
+          "contentId": "sm41175261",
+          "title": "天使の翼。",
+          "artistList": [
+            "A4。"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41175261/41175261.74275408",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "たいこさん"
+            }
+          ]
+        },
+        {
+          "order": 14,
+          "contentId": "sm42577601",
+          "title": "風呂入るプロファイル",
+          "artistList": [
+            "もちうつね"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42577601/42577601.11348839",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "たいこさん"
+            }
+          ]
+        },
+        {
+          "order": 20,
+          "contentId": "sm33546451",
+          "title": "少女レイ",
+          "artistList": [
+            "みきとP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33546451/33546451",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "たいこさん"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm42147038",
+          "title": "バベル",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42147038/42147038.49866791",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "たいこさん"
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "contentId": "sm5651671",
+          "title": "ブレイクアウト！",
+          "artistList": [
+            "LOLI.COM",
+            "タイツォン",
+            "タケ・ヨシキ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/5651671/5651671",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "たいこさん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ニナ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "おはよう"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm42463425",
+          "title": "やめてください",
+          "artistList": [
+            "柊マグネタイト"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42463425/42463425.75916921",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "たいこさん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "おはよう"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "惟月"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(4)",
+              "user": "おとまる"
+            }
+          ]
+        },
+        {
+          "order": 72,
+          "contentId": "sm39131047",
+          "title": "ねぇねぇねぇ。",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39131047/39131047.96766050",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(9)",
+              "user": "たいこさん"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "D1",

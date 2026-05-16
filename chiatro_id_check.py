@@ -3,7 +3,7 @@ from pathlib import Path
 # ===== 設定 =====
 IDS_TXT = Path("organize/content_ids.txt") 
 TSV_FILE = Path("songs_all.tsv")
-ID_COL_INDEX = 11   # contentId が入っている列（0始まり）
+ID_COL_INDEX = 14   # contentId が入っている列（0始まり）
 HAS_HEADER = True # tsvにヘッダーがあるか
 
 # ===== IDリスト読み込み =====

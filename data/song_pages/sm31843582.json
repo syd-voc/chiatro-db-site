@@ -31,6 +31,20 @@
   },
   "histories": [
     {
+      "date": "2026-05-16",
+      "quizNo": 299,
+      "group": "B",
+      "order": 65,
+      "winner": "Takuan"
+    },
+    {
+      "date": "2026-05-15",
+      "quizNo": 299,
+      "group": "C1",
+      "order": 32,
+      "winner": "すBAR"
+    },
+    {
       "date": "2026-05-08",
       "quizNo": 298,
       "group": "D1",
@@ -246,8 +260,8 @@
       "winner": "尾白もち"
     }
   ],
-  "appearanceCount": 31,
-  "correctCount": 30,
+  "appearanceCount": 33,
+  "correctCount": 32,
   "accuracy": 97,
   "anotherVersions": []
 }

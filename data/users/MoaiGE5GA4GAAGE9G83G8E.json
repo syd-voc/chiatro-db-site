@@ -4196,7 +4196,7 @@
       ],
       "startTime": "2023-07-06T19:00:00+09:00",
       "viewCounter": 301996,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm18979318",
@@ -5844,7 +5844,7 @@
       ],
       "startTime": "2019-10-30T17:30:00+09:00",
       "viewCounter": 129809,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm6592477",
@@ -7226,6 +7226,28 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm6885074",
+      "title": "アナロ熊のうた",
+      "artist": "koushirou（卑屈P）",
+      "artistList": [
+        "koushirou（卑屈P）"
+      ],
+      "startTime": "2009-04-29T00:00:45+09:00",
+      "viewCounter": 526972,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm23513555",
+      "title": "例えば、今此処に置かれた花に",
+      "artist": "164",
+      "artistList": [
+        "164"
+      ],
+      "startTime": "2014-05-09T21:00:00+09:00",
+      "viewCounter": 874455,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm11572166",
       "title": "はたらきたくないでござる",
       "artist": "かにみそP",
@@ -7544,8 +7566,8 @@
     },
     {
       "artist": "koushirou（卑屈P）",
-      "correctCount": 3,
-      "correctSongCount": 2
+      "correctCount": 4,
+      "correctSongCount": 3
     },
     {
       "artist": "じん",
@@ -7854,7 +7876,7 @@
     },
     {
       "artist": "Mitchie M",
-      "correctCount": 7,
+      "correctCount": 8,
       "correctSongCount": 7
     },
     {
@@ -8339,7 +8361,7 @@
     },
     {
       "artist": "Omoi",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -8379,8 +8401,8 @@
     },
     {
       "artist": "164",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "バルーン",
@@ -8941,13 +8963,13 @@
     },
     {
       "era": "2014",
-      "correctCount": 41,
-      "correctSongCount": 35
+      "correctCount": 42,
+      "correctSongCount": 36
     },
     {
       "era": "2009",
-      "correctCount": 77,
-      "correctSongCount": 60
+      "correctCount": 78,
+      "correctSongCount": 61
     },
     {
       "era": "2018",
@@ -8966,7 +8988,7 @@
     },
     {
       "era": "2019",
-      "correctCount": 40,
+      "correctCount": 41,
       "correctSongCount": 32
     },
     {
@@ -8986,7 +9008,7 @@
     },
     {
       "era": "2023",
-      "correctCount": 21,
+      "correctCount": 22,
       "correctSongCount": 20
     },
     {
@@ -9016,20 +9038,20 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 289,
+      "correctCount": 290,
       "correctSongCount": 235
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 138,
+      "correctCount": 139,
       "correctSongCount": 111
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 177,
-      "correctSongCount": 133
+      "correctCount": 179,
+      "correctSongCount": 135
     },
     {
       "range": "100-200万",
@@ -12988,6 +13010,18 @@
       "viewCounter": 1336424
     },
     {
+      "title": "アナロ熊のうた",
+      "contentId": "sm6885074",
+      "startTime": 1240930845000,
+      "viewCounter": 526972
+    },
+    {
+      "title": "例えば、今此処に置かれた花に",
+      "contentId": "sm23513555",
+      "startTime": 1399636800000,
+      "viewCounter": 874455
+    },
+    {
       "title": "はたらきたくないでござる",
       "contentId": "sm11572166",
       "startTime": 1280497717000,
@@ -13019,15 +13053,164 @@
     }
   ],
   "summary": {
-    "totalAnswers": 1131,
-    "okAnswers": 816,
-    "ngAnswers": 312,
-    "participatedQuizCount": 200,
-    "winQuizCount": 158,
+    "totalAnswers": 1138,
+    "okAnswers": 820,
+    "ngAnswers": 315,
+    "participatedQuizCount": 201,
+    "winQuizCount": 159,
     "loseQuizCount": 3,
-    "medianViews": 350606
+    "medianViews": 350448
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "B",
+      "date": "2026-05-16",
+      "ok": 4,
+      "ng": 3,
+      "winRank": 19,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 66,
+          "contentId": "sm6885074",
+          "title": "アナロ熊のうた",
+          "artistList": [
+            "koushirou（卑屈P）"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6885074/6885074",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Moai太郎"
+            }
+          ]
+        },
+        {
+          "order": 67,
+          "contentId": "sm6828492",
+          "title": "Palette",
+          "artistList": [
+            "ゆよゆっぺ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6828492/6828492",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Moai太郎"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(14)",
+              "user": "ルナ・アリス"
+            }
+          ]
+        },
+        {
+          "order": 70,
+          "contentId": "sm42448221",
+          "title": "トゥー・ユー・グリーンライツ",
+          "artistList": [
+            "Omoi"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42448221/42448221.86845938",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "Moai太郎"
+            }
+          ]
+        },
+        {
+          "order": 78,
+          "contentId": "sm45262415",
+          "title": "アクセラレイト",
+          "artistList": [
+            "吉田夜世"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45262415/45262415.66017329",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Moai太郎"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 81,
+          "contentId": "sm35878313",
+          "title": "暗殺プリンセス",
+          "artistList": [
+            "Mitchie M"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35878313/35878313.79190711",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "Moai太郎"
+            }
+          ]
+        },
+        {
+          "order": 82,
+          "contentId": "sm35992766",
+          "title": "ルマ",
+          "artistList": [
+            "かいりきベア"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35992766/35992766.58296902",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Moai太郎"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "しゃい"
+            }
+          ]
+        },
+        {
+          "order": 85,
+          "contentId": "sm23513555",
+          "title": "例えば、今此処に置かれた花に",
+          "artistList": [
+            "164"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23513555/23513555",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(19)",
+              "user": "Moai太郎"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "B",

@@ -3722,9 +3722,9 @@
     {
       "contentId": "sm41187136",
       "title": "GEDO",
-      "artist": "DARAKU",
+      "artist": "daraku",
       "artistList": [
-        "DARAKU"
+        "daraku"
       ],
       "startTime": "2022-10-07T19:00:00+09:00",
       "viewCounter": 415775,
@@ -5960,7 +5960,7 @@
       ],
       "startTime": "2019-08-04T18:00:00+09:00",
       "viewCounter": 787156,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm20147579",
@@ -6823,6 +6823,39 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm30281701",
+      "title": "月を探して",
+      "artist": "koyori(電ポルP)",
+      "artistList": [
+        "koyori(電ポルP)"
+      ],
+      "startTime": "2016-12-23T20:00:00+09:00",
+      "viewCounter": 524695,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm33596424",
+      "title": "シャリューゲ",
+      "artist": "*Luna",
+      "artistList": [
+        "*Luna"
+      ],
+      "startTime": "2018-07-28T19:00:00+09:00",
+      "viewCounter": 325373,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm31843582",
+      "title": "リバースユニバース",
+      "artist": "ナユタン星人",
+      "artistList": [
+        "ナユタン星人"
+      ],
+      "startTime": "2017-08-31T20:39:00+09:00",
+      "viewCounter": 2282986,
+      "correctCount": 1
+    },
+    {
       "contentId": "so40969481",
       "title": "セカイ",
       "artist": "DECO*27, kemu",
@@ -7045,7 +7078,7 @@
     },
     {
       "artist": "和田たけあき",
-      "correctCount": 10,
+      "correctCount": 11,
       "correctSongCount": 6
     },
     {
@@ -7125,8 +7158,8 @@
     },
     {
       "artist": "ナユタン星人",
-      "correctCount": 21,
-      "correctSongCount": 10
+      "correctCount": 22,
+      "correctSongCount": 11
     },
     {
       "artist": "No.D",
@@ -7185,8 +7218,8 @@
     },
     {
       "artist": "*Luna",
-      "correctCount": 11,
-      "correctSongCount": 9
+      "correctCount": 12,
+      "correctSongCount": 10
     },
     {
       "artist": "金魚光線",
@@ -7805,8 +7838,8 @@
     },
     {
       "artist": "koyori(電ポルP)",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "二錠",
@@ -7824,7 +7857,7 @@
       "correctSongCount": 3
     },
     {
-      "artist": "DARAKU",
+      "artist": "daraku",
       "correctCount": 2,
       "correctSongCount": 1
     },
@@ -8402,8 +8435,8 @@
     },
     {
       "era": "2018",
-      "correctCount": 73,
-      "correctSongCount": 46
+      "correctCount": 74,
+      "correctSongCount": 47
     },
     {
       "era": "2014",
@@ -8412,13 +8445,13 @@
     },
     {
       "era": "2019",
-      "correctCount": 60,
+      "correctCount": 61,
       "correctSongCount": 41
     },
     {
       "era": "2016",
-      "correctCount": 67,
-      "correctSongCount": 48
+      "correctCount": 68,
+      "correctSongCount": 49
     },
     {
       "era": "2012",
@@ -8427,8 +8460,8 @@
     },
     {
       "era": "2017",
-      "correctCount": 89,
-      "correctSongCount": 54
+      "correctCount": 90,
+      "correctSongCount": 55
     },
     {
       "era": "2007-2008",
@@ -8508,14 +8541,14 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 98,
-      "correctSongCount": 77
+      "correctCount": 99,
+      "correctSongCount": 78
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 138,
-      "correctSongCount": 94
+      "correctCount": 140,
+      "correctSongCount": 95
     },
     {
       "range": "100-200万",
@@ -8526,8 +8559,8 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 107,
-      "correctSongCount": 66
+      "correctCount": 108,
+      "correctSongCount": 67
     },
     {
       "range": "300-500万",
@@ -12258,6 +12291,24 @@
       "viewCounter": 5813342
     },
     {
+      "title": "月を探して",
+      "contentId": "sm30281701",
+      "startTime": 1482490800000,
+      "viewCounter": 524695
+    },
+    {
+      "title": "シャリューゲ",
+      "contentId": "sm33596424",
+      "startTime": 1532772000000,
+      "viewCounter": 325373
+    },
+    {
+      "title": "リバースユニバース",
+      "contentId": "sm31843582",
+      "startTime": 1504179540000,
+      "viewCounter": 2282986
+    },
+    {
       "title": "セカイ",
       "contentId": "so40969481",
       "startTime": 1661396400000,
@@ -12367,15 +12418,176 @@
     }
   ],
   "summary": {
-    "totalAnswers": 1284,
-    "okAnswers": 893,
-    "ngAnswers": 391,
-    "participatedQuizCount": 208,
-    "winQuizCount": 190,
+    "totalAnswers": 1290,
+    "okAnswers": 897,
+    "ngAnswers": 393,
+    "participatedQuizCount": 209,
+    "winQuizCount": 191,
     "loseQuizCount": 0,
     "medianViews": 776552
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "B",
+      "date": "2026-05-16",
+      "ok": 4,
+      "ng": 2,
+      "winRank": 13,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 8,
+          "contentId": "sm14712230",
+          "title": "Prototype",
+          "artistList": [
+            "niki"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14712230/14712230",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Takuan"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ルナ・アリス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "テフミネ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "手下"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Cumber"
+            }
+          ]
+        },
+        {
+          "order": 25,
+          "contentId": "sm15089052",
+          "title": "侵略",
+          "artistList": [
+            "samfree"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15089052/15089052",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Takuan"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "yu-na*"
+            }
+          ]
+        },
+        {
+          "order": 31,
+          "contentId": "sm30281701",
+          "title": "月を探して",
+          "artistList": [
+            "koyori(電ポルP)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30281701/30281701",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "よかずき"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Takuan"
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "contentId": "sm33596424",
+          "title": "シャリューゲ",
+          "artistList": [
+            "*Luna"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33596424/33596424.6825",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "Takuan"
+            }
+          ]
+        },
+        {
+          "order": 52,
+          "contentId": "sm35489203",
+          "title": "うらめしヤッホー",
+          "artistList": [
+            "和田たけあき"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35489203/35489203.48564574",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "Takuan"
+            }
+          ]
+        },
+        {
+          "order": 65,
+          "contentId": "sm31843582",
+          "title": "リバースユニバース",
+          "artistList": [
+            "ナユタン星人"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31843582/31843582",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(13)",
+              "user": "Takuan"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "A",
@@ -23415,7 +23627,7 @@
           "contentId": "sm41187136",
           "title": "GEDO",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41187136/41187136.10455868",
           "tokens": [
@@ -26948,7 +27160,7 @@
           "contentId": "sm41187136",
           "title": "GEDO",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41187136/41187136.10455868",
           "tokens": [

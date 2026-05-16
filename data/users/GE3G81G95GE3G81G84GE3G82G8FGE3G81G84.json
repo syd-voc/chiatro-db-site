@@ -89,6 +89,61 @@
       "startTime": "2013-01-28T20:00:00+09:00",
       "viewCounter": 1433412,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm20350758",
+      "title": "負け犬至上主義",
+      "artist": "150P",
+      "artistList": [
+        "150P"
+      ],
+      "startTime": "2013-03-16T20:02:50+09:00",
+      "viewCounter": 1089825,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm24333080",
+      "title": "ミュージックミュージック",
+      "artist": "とあ",
+      "artistList": [
+        "とあ"
+      ],
+      "startTime": "2014-08-27T20:03:00+09:00",
+      "viewCounter": 1607835,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm6666016",
+      "title": "ロミオとシンデレラ",
+      "artist": "doriko",
+      "artistList": [
+        "doriko"
+      ],
+      "startTime": "2009-04-06T05:56:10+09:00",
+      "viewCounter": 11125023,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm12514413",
+      "title": "crack",
+      "artist": "keeno",
+      "artistList": [
+        "keeno"
+      ],
+      "startTime": "2010-10-22T23:54:07+09:00",
+      "viewCounter": 1843918,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm43084181",
+      "title": "ボルテッカー",
+      "artist": "DECO*27",
+      "artistList": [
+        "DECO*27"
+      ],
+      "startTime": "2023-12-01T18:39:00+09:00",
+      "viewCounter": 1136110,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -99,8 +154,8 @@
     },
     {
       "artist": "doriko",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "アゴアニキ",
@@ -109,8 +164,8 @@
     },
     {
       "artist": "DECO*27",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "和田たけあき",
@@ -131,13 +186,28 @@
       "artist": "カラスヤサボウ",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "150P",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "とあ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "keeno",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2013",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "era": "2007-2008",
@@ -146,8 +216,8 @@
     },
     {
       "era": "2009",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "era": "2015",
@@ -156,6 +226,16 @@
     },
     {
       "era": "2010",
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "era": "2014",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2023",
       "correctCount": 1,
       "correctSongCount": 1
     }
@@ -194,8 +274,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 8,
+      "correctSongCount": 8
     },
     {
       "range": "200-300万",
@@ -218,8 +298,8 @@
     {
       "range": "1000万-",
       "order": 9,
-      "correctCount": 0,
-      "correctSongCount": 0
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "scatter": [
@@ -270,18 +350,172 @@
       "contentId": "sm19940497",
       "startTime": 1359370800000,
       "viewCounter": 1433412
+    },
+    {
+      "title": "負け犬至上主義",
+      "contentId": "sm20350758",
+      "startTime": 1363431770000,
+      "viewCounter": 1089825
+    },
+    {
+      "title": "ミュージックミュージック",
+      "contentId": "sm24333080",
+      "startTime": 1409137380000,
+      "viewCounter": 1607835
+    },
+    {
+      "title": "ロミオとシンデレラ",
+      "contentId": "sm6666016",
+      "startTime": 1238964970000,
+      "viewCounter": 11125023
+    },
+    {
+      "title": "crack",
+      "contentId": "sm12514413",
+      "startTime": 1287759247000,
+      "viewCounter": 1843918
+    },
+    {
+      "title": "ボルテッカー",
+      "contentId": "sm43084181",
+      "startTime": 1701423540000,
+      "viewCounter": 1136110
     }
   ],
   "summary": {
-    "totalAnswers": 10,
-    "okAnswers": 8,
-    "ngAnswers": 2,
-    "participatedQuizCount": 2,
-    "winQuizCount": 1,
+    "totalAnswers": 16,
+    "okAnswers": 13,
+    "ngAnswers": 3,
+    "participatedQuizCount": 3,
+    "winQuizCount": 2,
     "loseQuizCount": 0,
-    "medianViews": 2150298
+    "medianViews": 1896482
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "D2",
+      "date": "2026-05-16",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 12,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 23,
+          "contentId": "sm9024225",
+          "title": "独房ステラシアタ",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9024225/9024225",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "さいわい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "千夜"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 41,
+          "contentId": "sm20350758",
+          "title": "負け犬至上主義",
+          "artistList": [
+            "150P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20350758/20350758",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "さいわい"
+            }
+          ]
+        },
+        {
+          "order": 43,
+          "contentId": "sm24333080",
+          "title": "ミュージックミュージック",
+          "artistList": [
+            "とあ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24333080/24333080",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "さいわい"
+            }
+          ]
+        },
+        {
+          "order": 44,
+          "contentId": "sm6666016",
+          "title": "ロミオとシンデレラ",
+          "artistList": [
+            "doriko"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6666016/6666016.67600511",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "さいわい"
+            }
+          ]
+        },
+        {
+          "order": 64,
+          "contentId": "sm12514413",
+          "title": "crack",
+          "artistList": [
+            "keeno"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12514413/12514413",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "さいわい"
+            }
+          ]
+        },
+        {
+          "order": 67,
+          "contentId": "sm43084181",
+          "title": "ボルテッカー",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43084181/43084181.81780974",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(12)",
+              "user": "さいわい"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 271,
       "group": "F",

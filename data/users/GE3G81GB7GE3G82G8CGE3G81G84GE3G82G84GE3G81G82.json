@@ -1415,13 +1415,68 @@
       "startTime": "2014-12-12T20:30:00+09:00",
       "viewCounter": 634513,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm29106841",
+      "title": "えびふらい",
+      "artist": "白井クラ子",
+      "artistList": [
+        "白井クラ子"
+      ],
+      "startTime": "2016-06-23T19:40:54+09:00",
+      "viewCounter": 312364,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm46223763",
+      "title": "ウソノウタヒメ",
+      "artist": "原口沙輔",
+      "artistList": [
+        "原口沙輔"
+      ],
+      "startTime": "2026-04-25T06:09:03+09:00",
+      "viewCounter": 6990,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm7415020",
+      "title": "moonlit bear",
+      "artist": "悪ノP",
+      "artistList": [
+        "悪ノP"
+      ],
+      "startTime": "2009-06-22T05:17:06+09:00",
+      "viewCounter": 1179884,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm21044734",
+      "title": "今ちょっとだけ話題の神様",
+      "artist": "HoneyWorks",
+      "artistList": [
+        "HoneyWorks"
+      ],
+      "startTime": "2013-06-05T20:31:34+09:00",
+      "viewCounter": 835988,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm38735257",
+      "title": "我が儘賛歌",
+      "artist": "◈*ゆくえわっと",
+      "artistList": [
+        "◈*ゆくえわっと"
+      ],
+      "startTime": "2021-05-14T19:01:02+09:00",
+      "viewCounter": 1008696,
+      "correctCount": 1
     }
   ],
   "artistStats": [
     {
       "artist": "HoneyWorks",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "Last Note.",
@@ -1820,8 +1875,8 @@
     },
     {
       "artist": "原口沙輔",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "Reno",
@@ -1987,6 +2042,21 @@
       "artist": "Junky",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "白井クラ子",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "悪ノP",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "◈*ゆくえわっと",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -1997,8 +2067,8 @@
     },
     {
       "era": "2013",
-      "correctCount": 6,
-      "correctSongCount": 6
+      "correctCount": 7,
+      "correctSongCount": 7
     },
     {
       "era": "2018",
@@ -2012,8 +2082,8 @@
     },
     {
       "era": "2021",
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "era": "2019",
@@ -2037,8 +2107,8 @@
     },
     {
       "era": "2009",
-      "correctCount": 8,
-      "correctSongCount": 7
+      "correctCount": 9,
+      "correctSongCount": 8
     },
     {
       "era": "2014",
@@ -2062,8 +2132,8 @@
     },
     {
       "era": "2016",
-      "correctCount": 12,
-      "correctSongCount": 11
+      "correctCount": 13,
+      "correctSongCount": 12
     },
     {
       "era": "2022",
@@ -2077,16 +2147,16 @@
     },
     {
       "era": "2025-",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     }
   ],
   "viewStats": [
     {
       "range": "-1万",
       "order": 0,
-      "correctCount": 0,
-      "correctSongCount": 0
+      "correctCount": 1,
+      "correctSongCount": 1
     },
     {
       "range": "1-10万",
@@ -2103,20 +2173,20 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 20,
-      "correctSongCount": 19
+      "correctCount": 21,
+      "correctSongCount": 20
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 27,
-      "correctSongCount": 26
+      "correctCount": 28,
+      "correctSongCount": 27
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 22,
-      "correctSongCount": 22
+      "correctCount": 24,
+      "correctSongCount": 24
     },
     {
       "range": "200-300万",
@@ -2911,18 +2981,191 @@
       "contentId": "sm25107796",
       "startTime": 1418383800000,
       "viewCounter": 634513
+    },
+    {
+      "title": "えびふらい",
+      "contentId": "sm29106841",
+      "startTime": 1466678454000,
+      "viewCounter": 312364
+    },
+    {
+      "title": "ウソノウタヒメ",
+      "contentId": "sm46223763",
+      "startTime": 1777064943000,
+      "viewCounter": 6990
+    },
+    {
+      "title": "moonlit bear",
+      "contentId": "sm7415020",
+      "startTime": 1245615426000,
+      "viewCounter": 1179884
+    },
+    {
+      "title": "今ちょっとだけ話題の神様",
+      "contentId": "sm21044734",
+      "startTime": 1370431894000,
+      "viewCounter": 835988
+    },
+    {
+      "title": "我が儘賛歌",
+      "contentId": "sm38735257",
+      "startTime": 1620986462000,
+      "viewCounter": 1008696
     }
   ],
   "summary": {
-    "totalAnswers": 227,
-    "okAnswers": 134,
-    "ngAnswers": 93,
-    "participatedQuizCount": 33,
-    "winQuizCount": 23,
+    "totalAnswers": 233,
+    "okAnswers": 139,
+    "ngAnswers": 94,
+    "participatedQuizCount": 34,
+    "winQuizCount": 24,
     "loseQuizCount": 0,
     "medianViews": 404121
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "D2",
+      "date": "2026-05-16",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 4,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 11,
+          "contentId": "sm29106841",
+          "title": "えびふらい",
+          "artistList": [
+            "白井クラ子"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29106841/29106841",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ぷれいやあ"
+            }
+          ]
+        },
+        {
+          "order": 13,
+          "contentId": "sm14196898",
+          "title": "マーメイド",
+          "artistList": [
+            "monaca:factory"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14196898/14196898",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "aq瑠璃"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "防虫剤"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぷれいやあ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "つばさ"
+            }
+          ]
+        },
+        {
+          "order": 17,
+          "contentId": "sm46223763",
+          "title": "ウソノウタヒメ",
+          "artistList": [
+            "原口沙輔"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/46223763/46223763.30221157",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ぷれいやあ"
+            }
+          ]
+        },
+        {
+          "order": 24,
+          "contentId": "sm7415020",
+          "title": "moonlit bear",
+          "artistList": [
+            "悪ノP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7415020/7415020",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ぷれいやあ"
+            }
+          ]
+        },
+        {
+          "order": 29,
+          "contentId": "sm21044734",
+          "title": "今ちょっとだけ話題の神様",
+          "artistList": [
+            "HoneyWorks"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21044734/21044734",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ぷれいやあ"
+            }
+          ]
+        },
+        {
+          "order": 32,
+          "contentId": "sm38735257",
+          "title": "我が儘賛歌",
+          "artistList": [
+            "◈*ゆくえわっと"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38735257/38735257.49644752",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "かげひなた"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(4)",
+              "user": "ぷれいやあ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "D1",

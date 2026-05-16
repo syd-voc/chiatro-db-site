@@ -2220,7 +2220,7 @@
       ],
       "startTime": "2012-06-24T23:07:14+09:00",
       "viewCounter": 349521,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm6741102",
@@ -2280,9 +2280,9 @@
     {
       "contentId": "sm42575732",
       "title": "ディスバリズム",
-      "artist": "DARAKU",
+      "artist": "daraku",
       "artistList": [
-        "DARAKU"
+        "daraku"
       ],
       "startTime": "2023-08-05T00:00:00+09:00",
       "viewCounter": 66026,
@@ -3515,6 +3515,39 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm3813866",
+      "title": "世界で一番近くに居るのに",
+      "artist": "samfree",
+      "artistList": [
+        "samfree"
+      ],
+      "startTime": "2008-06-30T07:25:41+09:00",
+      "viewCounter": 314550,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm6398882",
+      "title": "ハイウェイノート",
+      "artist": "ゆうゆ",
+      "artistList": [
+        "ゆうゆ"
+      ],
+      "startTime": "2009-03-11T12:19:12+09:00",
+      "viewCounter": 115742,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm25876181",
+      "title": "おまじない胸算用",
+      "artist": "ゆうゆ",
+      "artistList": [
+        "ゆうゆ"
+      ],
+      "startTime": "2015-03-27T19:59:00+09:00",
+      "viewCounter": 24679,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm34566297",
       "title": "一途",
       "artist": "こめだわら",
@@ -4155,8 +4188,8 @@
     },
     {
       "artist": "samfree",
-      "correctCount": 9,
-      "correctSongCount": 8
+      "correctCount": 10,
+      "correctSongCount": 9
     },
     {
       "artist": "めんでぇP",
@@ -4590,7 +4623,7 @@
     },
     {
       "artist": "seleP",
-      "correctCount": 4,
+      "correctCount": 5,
       "correctSongCount": 3
     },
     {
@@ -4609,7 +4642,7 @@
       "correctSongCount": 2
     },
     {
-      "artist": "DARAKU",
+      "artist": "daraku",
       "correctCount": 1,
       "correctSongCount": 1
     },
@@ -4760,8 +4793,8 @@
     },
     {
       "artist": "ゆうゆ",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "スズム",
@@ -5002,8 +5035,8 @@
   "eraStats": [
     {
       "era": "2007-2008",
-      "correctCount": 65,
-      "correctSongCount": 51
+      "correctCount": 66,
+      "correctSongCount": 52
     },
     {
       "era": "2014",
@@ -5037,13 +5070,13 @@
     },
     {
       "era": "2012",
-      "correctCount": 34,
+      "correctCount": 35,
       "correctSongCount": 28
     },
     {
       "era": "2009",
-      "correctCount": 62,
-      "correctSongCount": 50
+      "correctCount": 63,
+      "correctSongCount": 51
     },
     {
       "era": "2020",
@@ -5052,8 +5085,8 @@
     },
     {
       "era": "2015",
-      "correctCount": 26,
-      "correctSongCount": 23
+      "correctCount": 27,
+      "correctSongCount": 24
     },
     {
       "era": "2017",
@@ -5101,20 +5134,20 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 39,
-      "correctSongCount": 38
+      "correctCount": 40,
+      "correctSongCount": 39
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 135,
-      "correctSongCount": 109
+      "correctCount": 136,
+      "correctSongCount": 110
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 72,
-      "correctSongCount": 59
+      "correctCount": 74,
+      "correctSongCount": 60
     },
     {
       "range": "50-100万",
@@ -7063,6 +7096,24 @@
       "viewCounter": 1843918
     },
     {
+      "title": "世界で一番近くに居るのに",
+      "contentId": "sm3813866",
+      "startTime": 1214778341000,
+      "viewCounter": 314550
+    },
+    {
+      "title": "ハイウェイノート",
+      "contentId": "sm6398882",
+      "startTime": 1236741552000,
+      "viewCounter": 115742
+    },
+    {
+      "title": "おまじない胸算用",
+      "contentId": "sm25876181",
+      "startTime": 1427453940000,
+      "viewCounter": 24679
+    },
+    {
       "title": "一途",
       "contentId": "sm34566297",
       "startTime": 1549101600000,
@@ -7274,15 +7325,151 @@
     }
   ],
   "summary": {
-    "totalAnswers": 464,
-    "okAnswers": 424,
-    "ngAnswers": 40,
-    "participatedQuizCount": 116,
-    "winQuizCount": 78,
+    "totalAnswers": 469,
+    "okAnswers": 428,
+    "ngAnswers": 41,
+    "participatedQuizCount": 117,
+    "winQuizCount": 79,
     "loseQuizCount": 0,
-    "medianViews": 347151
+    "medianViews": 344781
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C1",
+      "date": "2026-05-15",
+      "ok": 4,
+      "ng": 1,
+      "winRank": 9,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 8,
+          "contentId": "sm18185556",
+          "title": "Re;BIRTH",
+          "artistList": [
+            "seleP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18185556/18185556",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "フリスク"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "とりりす。"
+            }
+          ]
+        },
+        {
+          "order": 41,
+          "contentId": "sm28506318",
+          "title": "浮世ぺぺろんちいの",
+          "artistList": [
+            "ねじ。"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28506318/28506318.75913257",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "タルタル素数"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゆーと"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とりりす。"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(4)",
+              "user": "クロ"
+            }
+          ]
+        },
+        {
+          "order": 51,
+          "contentId": "sm3813866",
+          "title": "世界で一番近くに居るのに",
+          "artistList": [
+            "samfree"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/3813866/3813866",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "とりりす。"
+            }
+          ]
+        },
+        {
+          "order": 54,
+          "contentId": "sm6398882",
+          "title": "ハイウェイノート",
+          "artistList": [
+            "ゆうゆ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6398882/6398882",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "とりりす。"
+            }
+          ]
+        },
+        {
+          "order": 61,
+          "contentId": "sm25876181",
+          "title": "おまじない胸算用",
+          "artistList": [
+            "ゆうゆ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25876181/25876181",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とある逢瀬"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(9)",
+              "user": "とりりす。"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 287,
       "group": "B",
@@ -10135,7 +10322,7 @@
           "contentId": "sm42575732",
           "title": "ディスバリズム",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42575732/42575732.5807628",
           "tokens": [

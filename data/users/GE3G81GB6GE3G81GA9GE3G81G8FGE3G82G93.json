@@ -2423,7 +2423,7 @@
       ],
       "startTime": "2022-07-28T18:00:00+09:00",
       "viewCounter": 256067,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm24990461",
@@ -3078,6 +3078,50 @@
       "startTime": "2014-02-07T20:00:00+09:00",
       "viewCounter": 2976845,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm41194918",
+      "title": "知っちゃった",
+      "artist": "椎乃味醂",
+      "artistList": [
+        "椎乃味醂"
+      ],
+      "startTime": "2022-10-08T01:49:03+09:00",
+      "viewCounter": 507808,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm19049030",
+      "title": "ルートスフィア",
+      "artist": "Last Note.",
+      "artistList": [
+        "Last Note."
+      ],
+      "startTime": "2012-10-05T20:02:52+09:00",
+      "viewCounter": 825128,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm27188969",
+      "title": "Contrast",
+      "artist": "nakano4",
+      "artistList": [
+        "nakano4"
+      ],
+      "startTime": "2015-09-19T20:23:00+09:00",
+      "viewCounter": 261434,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm1657814",
+      "title": "ストロボナイツ",
+      "artist": "kz",
+      "artistList": [
+        "kz"
+      ],
+      "startTime": "2007-11-30T18:44:08+09:00",
+      "viewCounter": 1296647,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -3408,8 +3452,8 @@
     },
     {
       "artist": "椎乃味醂",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "柊キライ",
@@ -3453,8 +3497,8 @@
     },
     {
       "artist": "kz",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "しじま",
@@ -3548,7 +3592,7 @@
     },
     {
       "artist": "無色透名祭公式",
-      "correctCount": 6,
+      "correctCount": 7,
       "correctSongCount": 6
     },
     {
@@ -3618,7 +3662,7 @@
     },
     {
       "artist": "青栗鼠",
-      "correctCount": 4,
+      "correctCount": 5,
       "correctSongCount": 3
     },
     {
@@ -3835,6 +3879,16 @@
       "artist": "baker",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "Last Note.",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "nakano4",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -3845,8 +3899,8 @@
     },
     {
       "era": "2022",
-      "correctCount": 33,
-      "correctSongCount": 29
+      "correctCount": 35,
+      "correctSongCount": 30
     },
     {
       "era": "2019",
@@ -3855,8 +3909,8 @@
     },
     {
       "era": "2007-2008",
-      "correctCount": 7,
-      "correctSongCount": 6
+      "correctCount": 8,
+      "correctSongCount": 7
     },
     {
       "era": "2016",
@@ -3895,8 +3949,8 @@
     },
     {
       "era": "2015",
-      "correctCount": 24,
-      "correctSongCount": 20
+      "correctCount": 25,
+      "correctSongCount": 21
     },
     {
       "era": "2018",
@@ -3915,8 +3969,8 @@
     },
     {
       "era": "2012",
-      "correctCount": 5,
-      "correctSongCount": 4
+      "correctCount": 6,
+      "correctSongCount": 5
     },
     {
       "era": "2010",
@@ -3945,8 +3999,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 55,
-      "correctSongCount": 49
+      "correctCount": 57,
+      "correctSongCount": 50
     },
     {
       "range": "30-50万",
@@ -3957,14 +4011,14 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 56,
-      "correctSongCount": 47
+      "correctCount": 58,
+      "correctSongCount": 49
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 67,
-      "correctSongCount": 59
+      "correctCount": 68,
+      "correctSongCount": 60
     },
     {
       "range": "200-300万",
@@ -5659,18 +5713,159 @@
       "contentId": "sm22831329",
       "startTime": 1391770800000,
       "viewCounter": 2976845
+    },
+    {
+      "title": "知っちゃった",
+      "contentId": "sm41194918",
+      "startTime": 1665161343000,
+      "viewCounter": 507808
+    },
+    {
+      "title": "ルートスフィア",
+      "contentId": "sm19049030",
+      "startTime": 1349434972000,
+      "viewCounter": 825128
+    },
+    {
+      "title": "Contrast",
+      "contentId": "sm27188969",
+      "startTime": 1442661780000,
+      "viewCounter": 261434
+    },
+    {
+      "title": "ストロボナイツ",
+      "contentId": "sm1657814",
+      "startTime": 1196415848000,
+      "viewCounter": 1296647
     }
   ],
   "summary": {
-    "totalAnswers": 414,
-    "okAnswers": 317,
-    "ngAnswers": 97,
-    "participatedQuizCount": 69,
-    "winQuizCount": 59,
+    "totalAnswers": 420,
+    "okAnswers": 322,
+    "ngAnswers": 98,
+    "participatedQuizCount": 70,
+    "winQuizCount": 60,
     "loseQuizCount": 0,
     "medianViews": 789421
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C2",
+      "date": "2026-05-16",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 9,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 6,
+          "contentId": "so40799392",
+          "title": "フェイタルエゴ",
+          "artistList": [
+            "青栗鼠",
+            "無色透名祭公式"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40799392/40799392.24000330",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ぶどくん"
+            }
+          ]
+        },
+        {
+          "order": 15,
+          "contentId": "sm2500972",
+          "title": "もっと　伸びろ　ぼくの　動画",
+          "artistList": [
+            "koushirou（卑屈P）"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2500972/2500972",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぶどくん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "稲葉快晴"
+            }
+          ]
+        },
+        {
+          "order": 39,
+          "contentId": "sm41194918",
+          "title": "知っちゃった",
+          "artistList": [
+            "椎乃味醂"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41194918/41194918.15012108",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ぶどくん"
+            }
+          ]
+        },
+        {
+          "order": 52,
+          "contentId": "sm19049030",
+          "title": "ルートスフィア",
+          "artistList": [
+            "Last Note."
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19049030/19049030",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ぶどくん"
+            }
+          ]
+        },
+        {
+          "order": 57,
+          "contentId": "sm27188969",
+          "title": "Contrast",
+          "artistList": [
+            "nakano4"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27188969/27188969",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ぶどくん"
+            }
+          ]
+        },
+        {
+          "order": 58,
+          "contentId": "sm1657814",
+          "title": "ストロボナイツ",
+          "artistList": [
+            "kz"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1657814/1657814",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(9)",
+              "user": "ぶどくん"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "C2",

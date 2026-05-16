@@ -2591,7 +2591,7 @@
       ],
       "startTime": "2018-11-09T18:00:00+09:00",
       "viewCounter": 3425117,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm29822304",
@@ -2877,7 +2877,7 @@
       ],
       "startTime": "2021-12-18T22:20:00+09:00",
       "viewCounter": 450659,
-      "correctCount": 3
+      "correctCount": 4
     },
     {
       "contentId": "sm16481237",
@@ -3738,7 +3738,7 @@
       ],
       "startTime": "2012-06-07T12:01:36+09:00",
       "viewCounter": 254715,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm14712230",
@@ -3914,7 +3914,7 @@
       ],
       "startTime": "2015-11-06T18:00:00+09:00",
       "viewCounter": 1103232,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm22360437",
@@ -4377,7 +4377,7 @@
       ],
       "startTime": "2015-02-02T19:00:00+09:00",
       "viewCounter": 513329,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm1274898",
@@ -6936,7 +6936,7 @@
     },
     {
       "artist": "YASUHIRO(康寛)",
-      "correctCount": 7,
+      "correctCount": 8,
       "correctSongCount": 4
     },
     {
@@ -7186,7 +7186,7 @@
     },
     {
       "artist": "TOKOTOKO（西沢さんP）",
-      "correctCount": 9,
+      "correctCount": 11,
       "correctSongCount": 7
     },
     {
@@ -7436,7 +7436,7 @@
     },
     {
       "artist": "スズム",
-      "correctCount": 3,
+      "correctCount": 4,
       "correctSongCount": 2
     },
     {
@@ -7691,7 +7691,7 @@
     },
     {
       "artist": "ゆう十",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -8093,7 +8093,7 @@
   "eraStats": [
     {
       "era": "2018",
-      "correctCount": 48,
+      "correctCount": 49,
       "correctSongCount": 39
     },
     {
@@ -8103,7 +8103,7 @@
     },
     {
       "era": "2012",
-      "correctCount": 59,
+      "correctCount": 60,
       "correctSongCount": 50
     },
     {
@@ -8133,7 +8133,7 @@
     },
     {
       "era": "2021",
-      "correctCount": 33,
+      "correctCount": 34,
       "correctSongCount": 23
     },
     {
@@ -8143,7 +8143,7 @@
     },
     {
       "era": "2015",
-      "correctCount": 41,
+      "correctCount": 43,
       "correctSongCount": 34
     },
     {
@@ -8198,25 +8198,25 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 135,
+      "correctCount": 136,
       "correctSongCount": 117
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 153,
+      "correctCount": 154,
       "correctSongCount": 118
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 182,
+      "correctCount": 183,
       "correctSongCount": 139
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 103,
+      "correctCount": 104,
       "correctSongCount": 89
     },
     {
@@ -8228,7 +8228,7 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 53,
+      "correctCount": 54,
       "correctSongCount": 42
     },
     {
@@ -11961,15 +11961,174 @@
     }
   ],
   "summary": {
-    "totalAnswers": 1078,
-    "okAnswers": 766,
-    "ngAnswers": 311,
-    "participatedQuizCount": 176,
-    "winQuizCount": 161,
+    "totalAnswers": 1085,
+    "okAnswers": 771,
+    "ngAnswers": 313,
+    "participatedQuizCount": 177,
+    "winQuizCount": 162,
     "loseQuizCount": 1,
     "medianViews": 607883
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "A",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 1,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 5,
+          "contentId": "sm27529228",
+          "title": "君色に染まる",
+          "artistList": [
+            "TOKOTOKO（西沢さんP）"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27529228/27529228",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "眠くない人"
+            }
+          ]
+        },
+        {
+          "order": 9,
+          "contentId": "sm25482576",
+          "title": "革命性:オウサマ伝染病",
+          "artistList": [
+            "スズム"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25482576/25482576",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "眠くない人"
+            }
+          ]
+        },
+        {
+          "order": 10,
+          "contentId": "sm45221323",
+          "title": "光化学スモッグが降る街に",
+          "artistList": [
+            "いち野"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45221323/45221323.59176022",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠くない人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "まつせ"
+            }
+          ]
+        },
+        {
+          "order": 19,
+          "contentId": "sm41952632",
+          "title": "ヒーローだった僕たちへ",
+          "artistList": [
+            "成宮 亮"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41952632/41952632.56406073",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "maruma"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠くない人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "にーも"
+            }
+          ]
+        },
+        {
+          "order": 29,
+          "contentId": "sm34145146",
+          "title": "ねぇ、どろどろさん",
+          "artistList": [
+            "YASUHIRO(康寛)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34145146/34145146",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "眠くない人"
+            }
+          ]
+        },
+        {
+          "order": 30,
+          "contentId": "sm18030194",
+          "title": "トイカケ",
+          "artistList": [
+            "ゆう十"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18030194/18030194",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "にーも"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "眠くない人"
+            }
+          ]
+        },
+        {
+          "order": 31,
+          "contentId": "sm39771984",
+          "title": "ワールドワイドワンダー",
+          "artistList": [
+            "TOKOTOKO（西沢さんP）"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39771984/39771984.9853067",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(1)",
+              "user": "眠くない人"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "A",

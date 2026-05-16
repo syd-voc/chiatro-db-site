@@ -4061,9 +4061,9 @@
     {
       "contentId": "nm15770119",
       "title": "CRYONICS",
-      "artist": "AVTeckNO!",
+      "artist": "AVTechNO!",
       "artistList": [
-        "AVTeckNO!"
+        "AVTechNO!"
       ],
       "startTime": "2011-10-02T06:02:11+09:00",
       "viewCounter": 149378,
@@ -4200,6 +4200,61 @@
       "startTime": "2010-04-20T05:09:24+09:00",
       "viewCounter": 226366,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm3064555",
+      "title": "プラスチック・ガール",
+      "artist": "kiichi",
+      "artistList": [
+        "kiichi"
+      ],
+      "startTime": "2008-04-21T23:20:57+09:00",
+      "viewCounter": 192580,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm33262437",
+      "title": "LUNATIC LOVE",
+      "artist": "Islet",
+      "artistList": [
+        "Islet"
+      ],
+      "startTime": "2018-05-26T19:00:00+09:00",
+      "viewCounter": 26397,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm20645871",
+      "title": "Splatter Party",
+      "artist": "かめりあ",
+      "artistList": [
+        "かめりあ"
+      ],
+      "startTime": "2013-04-19T21:27:19+09:00",
+      "viewCounter": 489597,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm20629168",
+      "title": "Twinkle Days",
+      "artist": "19's Sound Factory",
+      "artistList": [
+        "19's Sound Factory"
+      ],
+      "startTime": "2013-04-17T17:00:00+09:00",
+      "viewCounter": 240533,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm33110082",
+      "title": "ヒラリ",
+      "artist": "オゾン",
+      "artistList": [
+        "オゾン"
+      ],
+      "startTime": "2018-04-28T19:00:00+09:00",
+      "viewCounter": 27272,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4325,8 +4380,8 @@
     },
     {
       "artist": "かめりあ",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "samfree",
@@ -5175,8 +5230,8 @@
     },
     {
       "artist": "AVTechNO!",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "たいたぬ",
@@ -5444,11 +5499,6 @@
       "correctSongCount": 1
     },
     {
-      "artist": "AVTeckNO!",
-      "correctCount": 1,
-      "correctSongCount": 1
-    },
-    {
       "artist": "アボガド6",
       "correctCount": 1,
       "correctSongCount": 1
@@ -5487,6 +5537,26 @@
       "artist": "挫折P",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "kiichi",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "Islet",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "19's Sound Factory",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "オゾン",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -5497,8 +5567,8 @@
     },
     {
       "era": "2007-2008",
-      "correctCount": 28,
-      "correctSongCount": 28
+      "correctCount": 29,
+      "correctSongCount": 29
     },
     {
       "era": "2009",
@@ -5507,8 +5577,8 @@
     },
     {
       "era": "2013",
-      "correctCount": 25,
-      "correctSongCount": 25
+      "correctCount": 27,
+      "correctSongCount": 27
     },
     {
       "era": "2012",
@@ -5552,8 +5622,8 @@
     },
     {
       "era": "2018",
-      "correctCount": 12,
-      "correctSongCount": 12
+      "correctCount": 14,
+      "correctSongCount": 14
     },
     {
       "era": "2024",
@@ -5591,20 +5661,20 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 75,
-      "correctSongCount": 75
+      "correctCount": 77,
+      "correctSongCount": 77
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 131,
-      "correctSongCount": 127
+      "correctCount": 133,
+      "correctSongCount": 129
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 59,
-      "correctSongCount": 56
+      "correctCount": 60,
+      "correctSongCount": 57
     },
     {
       "range": "50-100万",
@@ -7923,18 +7993,301 @@
       "contentId": "sm10447978",
       "startTime": 1271707764000,
       "viewCounter": 226366
+    },
+    {
+      "title": "プラスチック・ガール",
+      "contentId": "sm3064555",
+      "startTime": 1208787657000,
+      "viewCounter": 192580
+    },
+    {
+      "title": "LUNATIC LOVE",
+      "contentId": "sm33262437",
+      "startTime": 1527328800000,
+      "viewCounter": 26397
+    },
+    {
+      "title": "Splatter Party",
+      "contentId": "sm20645871",
+      "startTime": 1366374439000,
+      "viewCounter": 489597
+    },
+    {
+      "title": "Twinkle Days",
+      "contentId": "sm20629168",
+      "startTime": 1366185600000,
+      "viewCounter": 240533
+    },
+    {
+      "title": "ヒラリ",
+      "contentId": "sm33110082",
+      "startTime": 1524909600000,
+      "viewCounter": 27272
     }
   ],
   "summary": {
-    "totalAnswers": 595,
-    "okAnswers": 391,
-    "ngAnswers": 197,
-    "participatedQuizCount": 85,
-    "winQuizCount": 75,
+    "totalAnswers": 603,
+    "okAnswers": 396,
+    "ngAnswers": 200,
+    "participatedQuizCount": 86,
+    "winQuizCount": 76,
     "loseQuizCount": 7,
-    "medianViews": 253155
+    "medianViews": 248470
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "A",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 3,
+      "winRank": 7,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 18,
+          "contentId": "sm3064555",
+          "title": "プラスチック・ガール",
+          "artistList": [
+            "kiichi"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/3064555/3064555",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "まつせ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "スライドポテト"
+            }
+          ]
+        },
+        {
+          "order": 21,
+          "contentId": "sm33262437",
+          "title": "LUNATIC LOVE",
+          "artistList": [
+            "Islet"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33262437/33262437",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゲオス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なごん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "スライドポテト"
+            }
+          ]
+        },
+        {
+          "order": 22,
+          "contentId": "sm35036524",
+          "title": "そらリゼーション",
+          "artistList": [
+            "k_zero+A"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35036524/35036524.39295",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "影山"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "時雨"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "スライドポテト"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 25,
+          "contentId": "sm27418876",
+          "title": "ネクストレイン",
+          "artistList": [
+            "アオトケイ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27418876/27418876",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "スライドポテト"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm15618059",
+          "title": "狐憑き",
+          "artistList": [
+            "しばいぬ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15618059/15618059",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なごん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "スライドポテト"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゲオス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 44,
+          "contentId": "sm20645871",
+          "title": "Splatter Party",
+          "artistList": [
+            "かめりあ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20645871/20645871",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "スライドポテト"
+            }
+          ]
+        },
+        {
+          "order": 60,
+          "contentId": "sm20629168",
+          "title": "Twinkle Days",
+          "artistList": [
+            "19's Sound Factory"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20629168/20629168",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "スライドポテト"
+            }
+          ]
+        },
+        {
+          "order": 61,
+          "contentId": "sm33110082",
+          "title": "ヒラリ",
+          "artistList": [
+            "オゾン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33110082/33110082",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "××",
+              "user": "なごん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(7)",
+              "user": "スライドポテト"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "A",
@@ -8420,7 +8773,7 @@
           "contentId": "nm15770119",
           "title": "CRYONICS",
           "artistList": [
-            "AVTeckNO!"
+            "AVTechNO!"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15770119/15770119",
           "tokens": [

@@ -2956,7 +2956,7 @@
       ],
       "startTime": "2012-03-12T21:21:32+09:00",
       "viewCounter": 1331160,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm25308401",
@@ -2978,6 +2978,28 @@
       ],
       "startTime": "2015-07-02T19:00:00+09:00",
       "viewCounter": 633672,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm3349197",
+      "title": "オールドラジオ",
+      "artist": "うらら(マカーP)",
+      "artistList": [
+        "うらら(マカーP)"
+      ],
+      "startTime": "2008-05-18T08:25:26+09:00",
+      "viewCounter": 160702,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45697129",
+      "title": "にゅー！支配者のキャロル",
+      "artist": "藤原ハガネ",
+      "artistList": [
+        "藤原ハガネ"
+      ],
+      "startTime": "2025-12-05T18:00:00+09:00",
+      "viewCounter": 645922,
       "correctCount": 1
     },
     {
@@ -3183,7 +3205,7 @@
     },
     {
       "artist": "ぺぺろんP",
-      "correctCount": 3,
+      "correctCount": 4,
       "correctSongCount": 3
     },
     {
@@ -3817,6 +3839,16 @@
       "correctSongCount": 1
     },
     {
+      "artist": "うらら(マカーP)",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "藤原ハガネ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
       "artist": "蝶々P",
       "correctCount": 1,
       "correctSongCount": 1
@@ -3855,12 +3887,12 @@
     },
     {
       "era": "2007-2008",
-      "correctCount": 19,
-      "correctSongCount": 17
+      "correctCount": 20,
+      "correctSongCount": 18
     },
     {
       "era": "2012",
-      "correctCount": 34,
+      "correctCount": 35,
       "correctSongCount": 29
     },
     {
@@ -3910,8 +3942,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "era": "2021",
@@ -3935,8 +3967,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 106,
-      "correctSongCount": 95
+      "correctCount": 107,
+      "correctSongCount": 96
     },
     {
       "range": "30-50万",
@@ -3947,13 +3979,13 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 49,
-      "correctSongCount": 46
+      "correctCount": 50,
+      "correctSongCount": 47
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 33,
+      "correctCount": 34,
       "correctSongCount": 29
     },
     {
@@ -5603,6 +5635,18 @@
       "viewCounter": 633672
     },
     {
+      "title": "オールドラジオ",
+      "contentId": "sm3349197",
+      "startTime": 1211066726000,
+      "viewCounter": 160702
+    },
+    {
+      "title": "にゅー！支配者のキャロル",
+      "contentId": "sm45697129",
+      "startTime": 1764925200000,
+      "viewCounter": 645922
+    },
+    {
       "title": "White Prism",
       "contentId": "sm21390666",
       "startTime": 1374232219000,
@@ -5628,15 +5672,144 @@
     }
   ],
   "summary": {
-    "totalAnswers": 358,
-    "okAnswers": 305,
-    "ngAnswers": 53,
-    "participatedQuizCount": 86,
+    "totalAnswers": 362,
+    "okAnswers": 308,
+    "ngAnswers": 54,
+    "participatedQuizCount": 87,
     "winQuizCount": 54,
     "loseQuizCount": 0,
-    "medianViews": 330657
+    "medianViews": 331026
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C1",
+      "date": "2026-05-15",
+      "ok": 3,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 42,
+          "contentId": "sm3349197",
+          "title": "オールドラジオ",
+          "artistList": [
+            "うらら(マカーP)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/3349197/3349197",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぴーなっつ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "HAN"
+            }
+          ]
+        },
+        {
+          "order": 69,
+          "contentId": "sm45697129",
+          "title": "にゅー！支配者のキャロル",
+          "artistList": [
+            "藤原ハガネ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45697129/45697129.18585418",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とある逢瀬"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "そ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あいおい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "HAN"
+            }
+          ]
+        },
+        {
+          "order": 73,
+          "contentId": "sm35005271",
+          "title": "ヴィクター",
+          "artistList": [
+            "めいちゃん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35005271/35005271.4454",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "あいおい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "HAN"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "Ha.Ru."
+            }
+          ]
+        },
+        {
+          "order": 86,
+          "contentId": "sm17232159",
+          "title": "シルバーバレット",
+          "artistList": [
+            "ぺぺろんP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/17232159/17232159",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "HAN"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "C1",

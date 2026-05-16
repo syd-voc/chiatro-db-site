@@ -30,6 +30,19 @@
   },
   "histories": [
     {
+      "date": "2026-05-16",
+      "quizNo": 299,
+      "group": "C2",
+      "order": 48
+    },
+    {
+      "date": "2026-05-15",
+      "quizNo": 299,
+      "group": "C1",
+      "order": 72,
+      "winner": "タルタル素数"
+    },
+    {
       "date": "2025-07-04",
       "quizNo": 257,
       "group": "C",
@@ -90,8 +103,8 @@
       "winner": "まつせ"
     }
   ],
-  "appearanceCount": 9,
-  "correctCount": 7,
-  "accuracy": 78,
+  "appearanceCount": 11,
+  "correctCount": 8,
+  "accuracy": 73,
   "anotherVersions": []
 }

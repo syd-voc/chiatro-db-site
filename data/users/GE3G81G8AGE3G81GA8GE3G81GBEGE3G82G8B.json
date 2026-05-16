@@ -2769,6 +2769,61 @@
       "startTime": "2013-03-10T17:26:53+09:00",
       "viewCounter": 5197072,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm16179659",
+      "title": "月・影・舞・華",
+      "artist": "銀河方面P",
+      "artistList": [
+        "銀河方面P"
+      ],
+      "startTime": "2011-11-15T20:46:22+09:00",
+      "viewCounter": 1191533,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm20973557",
+      "title": "トキヲ・ファンカ",
+      "artist": "takamatt",
+      "artistList": [
+        "takamatt"
+      ],
+      "startTime": "2013-05-27T20:58:24+09:00",
+      "viewCounter": 1118123,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm24056707",
+      "title": "クイーンオブハート",
+      "artist": "奏音69",
+      "artistList": [
+        "奏音69"
+      ],
+      "startTime": "2014-07-21T20:18:28+09:00",
+      "viewCounter": 764214,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm10713103",
+      "title": "seventeen",
+      "artist": "すこっぷ",
+      "artistList": [
+        "すこっぷ"
+      ],
+      "startTime": "2010-05-14T05:55:45+09:00",
+      "viewCounter": 209906,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm42463425",
+      "title": "やめてください",
+      "artist": "柊マグネタイト",
+      "artistList": [
+        "柊マグネタイト"
+      ],
+      "startTime": "2023-07-09T20:00:00+09:00",
+      "viewCounter": 394755,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -3054,8 +3109,8 @@
     },
     {
       "artist": "すこっぷ",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "ギガ",
@@ -3349,8 +3404,8 @@
     },
     {
       "artist": "柊マグネタイト",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "まふまふ",
@@ -3461,6 +3516,21 @@
       "artist": "日向電工",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "銀河方面P",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "takamatt",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "奏音69",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -3476,13 +3546,13 @@
     },
     {
       "era": "2014",
-      "correctCount": 21,
-      "correctSongCount": 18
+      "correctCount": 22,
+      "correctSongCount": 19
     },
     {
       "era": "2011",
-      "correctCount": 25,
-      "correctSongCount": 19
+      "correctCount": 26,
+      "correctSongCount": 20
     },
     {
       "era": "2015",
@@ -3496,8 +3566,8 @@
     },
     {
       "era": "2010",
-      "correctCount": 23,
-      "correctSongCount": 19
+      "correctCount": 24,
+      "correctSongCount": 20
     },
     {
       "era": "2020",
@@ -3516,8 +3586,8 @@
     },
     {
       "era": "2013",
-      "correctCount": 8,
-      "correctSongCount": 8
+      "correctCount": 9,
+      "correctSongCount": 9
     },
     {
       "era": "2007-2008",
@@ -3541,8 +3611,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 23,
-      "correctSongCount": 21
+      "correctCount": 24,
+      "correctSongCount": 22
     },
     {
       "era": "2024",
@@ -3566,26 +3636,26 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 29,
-      "correctSongCount": 27
+      "correctCount": 30,
+      "correctSongCount": 28
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 30,
-      "correctSongCount": 25
+      "correctCount": 31,
+      "correctSongCount": 26
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 50,
-      "correctSongCount": 45
+      "correctCount": 51,
+      "correctSongCount": 46
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 92,
-      "correctSongCount": 81
+      "correctCount": 94,
+      "correctSongCount": 83
     },
     {
       "range": "200-300万",
@@ -5118,18 +5188,242 @@
       "contentId": "sm20296308",
       "startTime": 1362904013000,
       "viewCounter": 5197072
+    },
+    {
+      "title": "月・影・舞・華",
+      "contentId": "sm16179659",
+      "startTime": 1321357582000,
+      "viewCounter": 1191533
+    },
+    {
+      "title": "トキヲ・ファンカ",
+      "contentId": "sm20973557",
+      "startTime": 1369655904000,
+      "viewCounter": 1118123
+    },
+    {
+      "title": "クイーンオブハート",
+      "contentId": "sm24056707",
+      "startTime": 1405941508000,
+      "viewCounter": 764214
+    },
+    {
+      "title": "seventeen",
+      "contentId": "sm10713103",
+      "startTime": 1273784145000,
+      "viewCounter": 209906
+    },
+    {
+      "title": "やめてください",
+      "contentId": "sm42463425",
+      "startTime": 1688900400000,
+      "viewCounter": 394755
     }
   ],
   "summary": {
-    "totalAnswers": 370,
-    "okAnswers": 287,
-    "ngAnswers": 83,
-    "participatedQuizCount": 60,
-    "winQuizCount": 57,
+    "totalAnswers": 377,
+    "okAnswers": 292,
+    "ngAnswers": 85,
+    "participatedQuizCount": 61,
+    "winQuizCount": 58,
     "loseQuizCount": 0,
-    "medianViews": 1294585
+    "medianViews": 1265183
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "D1",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 4,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 13,
+          "contentId": "sm7882150",
+          "title": "孤独の果て",
+          "artistList": [
+            "光収容"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7882150/7882150",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きょうぼく"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "おとまる"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "りつりつ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "惟月"
+            }
+          ]
+        },
+        {
+          "order": 16,
+          "contentId": "sm16844849",
+          "title": "ぼくらのレットイットビー",
+          "artistList": [
+            "はりーP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16844849/16844849",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きょうぼく"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "おとまる"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 27,
+          "contentId": "sm16179659",
+          "title": "月・影・舞・華",
+          "artistList": [
+            "銀河方面P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16179659/16179659",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "おとまる"
+            }
+          ]
+        },
+        {
+          "order": 38,
+          "contentId": "sm20973557",
+          "title": "トキヲ・ファンカ",
+          "artistList": [
+            "takamatt"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20973557/20973557",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "おとまる"
+            }
+          ]
+        },
+        {
+          "order": 58,
+          "contentId": "sm24056707",
+          "title": "クイーンオブハート",
+          "artistList": [
+            "奏音69"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24056707/24056707",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "おとまる"
+            }
+          ]
+        },
+        {
+          "order": 59,
+          "contentId": "sm10713103",
+          "title": "seventeen",
+          "artistList": [
+            "すこっぷ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10713103/10713103",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "おとまる"
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "contentId": "sm42463425",
+          "title": "やめてください",
+          "artistList": [
+            "柊マグネタイト"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42463425/42463425.75916921",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "たいこさん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "おはよう"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "惟月"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(4)",
+              "user": "おとまる"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "C2",

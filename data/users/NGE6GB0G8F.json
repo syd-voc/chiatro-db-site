@@ -2307,7 +2307,7 @@
       ],
       "startTime": "2015-08-29T21:43:00+09:00",
       "viewCounter": 1646379,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm41606052",
@@ -2543,6 +2543,50 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm45977001",
+      "title": "ポルターガイスト",
+      "artist": "Noz.",
+      "artistList": [
+        "Noz."
+      ],
+      "startTime": "2026-02-21T19:00:00+09:00",
+      "viewCounter": 74961,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm37744139",
+      "title": "旧約汎化街",
+      "artist": "柊マグネタイト",
+      "artistList": [
+        "柊マグネタイト"
+      ],
+      "startTime": "2020-10-30T19:00:00+09:00",
+      "viewCounter": 546644,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm22835696",
+      "title": "レッド・パージ！！！",
+      "artist": "P.I.N.A.",
+      "artistList": [
+        "P.I.N.A."
+      ],
+      "startTime": "2014-02-07T22:00:19+09:00",
+      "viewCounter": 1504104,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm33304576",
+      "title": "WAA!!!!",
+      "artist": "Omoi",
+      "artistList": [
+        "Omoi"
+      ],
+      "startTime": "2018-06-02T20:02:16+09:00",
+      "viewCounter": 634803,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm27480641",
       "title": "ミライ",
       "artist": "ATOLS",
@@ -2577,7 +2621,7 @@
     },
     {
       "artist": "Orangestar",
-      "correctCount": 12,
+      "correctCount": 13,
       "correctSongCount": 9
     },
     {
@@ -2847,8 +2891,8 @@
     },
     {
       "artist": "Omoi",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "清水コウ",
@@ -2887,8 +2931,8 @@
     },
     {
       "artist": "柊マグネタイト",
-      "correctCount": 4,
-      "correctSongCount": 3
+      "correctCount": 5,
+      "correctSongCount": 4
     },
     {
       "artist": "れるりり",
@@ -3166,6 +3210,16 @@
       "correctSongCount": 1
     },
     {
+      "artist": "Noz.",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "P.I.N.A.",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
       "artist": "ATOLS",
       "correctCount": 1,
       "correctSongCount": 1
@@ -3174,12 +3228,12 @@
   "eraStats": [
     {
       "era": "2018",
-      "correctCount": 29,
-      "correctSongCount": 21
+      "correctCount": 30,
+      "correctSongCount": 22
     },
     {
       "era": "2015",
-      "correctCount": 34,
+      "correctCount": 35,
       "correctSongCount": 26
     },
     {
@@ -3189,8 +3243,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 22,
-      "correctSongCount": 17
+      "correctCount": 23,
+      "correctSongCount": 18
     },
     {
       "era": "2016",
@@ -3199,8 +3253,8 @@
     },
     {
       "era": "2014",
-      "correctCount": 24,
-      "correctSongCount": 18
+      "correctCount": 25,
+      "correctSongCount": 19
     },
     {
       "era": "2007-2008",
@@ -3256,6 +3310,11 @@
       "era": "2022",
       "correctCount": 2,
       "correctSongCount": 2
+    },
+    {
+      "era": "2025-",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "viewStats": [
@@ -3268,8 +3327,8 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "range": "10-30万",
@@ -3286,14 +3345,14 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 45,
-      "correctSongCount": 32
+      "correctCount": 47,
+      "correctSongCount": 34
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 96,
-      "correctSongCount": 74
+      "correctCount": 98,
+      "correctSongCount": 75
     },
     {
       "range": "200-300万",
@@ -4702,6 +4761,30 @@
       "viewCounter": 526697
     },
     {
+      "title": "ポルターガイスト",
+      "contentId": "sm45977001",
+      "startTime": 1771668000000,
+      "viewCounter": 74961
+    },
+    {
+      "title": "旧約汎化街",
+      "contentId": "sm37744139",
+      "startTime": 1604052000000,
+      "viewCounter": 546644
+    },
+    {
+      "title": "レッド・パージ！！！",
+      "contentId": "sm22835696",
+      "startTime": 1391778019000,
+      "viewCounter": 1504104
+    },
+    {
+      "title": "WAA!!!!",
+      "contentId": "sm33304576",
+      "startTime": 1527937336000,
+      "viewCounter": 634803
+    },
+    {
       "title": "ミライ",
       "contentId": "sm27480641",
       "startTime": 1446204600000,
@@ -4709,15 +4792,182 @@
     }
   ],
   "summary": {
-    "totalAnswers": 398,
-    "okAnswers": 306,
-    "ngAnswers": 92,
-    "participatedQuizCount": 66,
-    "winQuizCount": 55,
+    "totalAnswers": 405,
+    "okAnswers": 311,
+    "ngAnswers": 94,
+    "participatedQuizCount": 67,
+    "winQuizCount": 56,
     "loseQuizCount": 0,
-    "medianViews": 1105845
+    "medianViews": 1104169
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "D1",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 10,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 1,
+          "contentId": "sm45977001",
+          "title": "ポルターガイスト",
+          "artistList": [
+            "Noz."
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45977001/45977001.58048109",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "paradoxes"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きょうぼく"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "N氏"
+            }
+          ]
+        },
+        {
+          "order": 12,
+          "contentId": "sm37744139",
+          "title": "旧約汎化街",
+          "artistList": [
+            "柊マグネタイト"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37744139/37744139.29750177",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "777"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "N氏"
+            }
+          ]
+        },
+        {
+          "order": 15,
+          "contentId": "sm41599620",
+          "title": "宇宙船",
+          "artistList": [
+            "seiza"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41599620/41599620.57427077",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "N氏"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 32,
+          "contentId": "sm22835696",
+          "title": "レッド・パージ！！！",
+          "artistList": [
+            "P.I.N.A."
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22835696/22835696",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "N氏"
+            }
+          ]
+        },
+        {
+          "order": 45,
+          "contentId": "sm9485673",
+          "title": "アルビノ",
+          "artistList": [
+            "buzzG"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9485673/9485673",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "N氏"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "惟月"
+            }
+          ]
+        },
+        {
+          "order": 76,
+          "contentId": "sm33304576",
+          "title": "WAA!!!!",
+          "artistList": [
+            "Omoi"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33304576/33304576",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "N氏"
+            }
+          ]
+        },
+        {
+          "order": 78,
+          "contentId": "sm27042325",
+          "title": "濫觴生命",
+          "artistList": [
+            "Orangestar"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27042325/27042325",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(10)",
+              "user": "N氏"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "D1",

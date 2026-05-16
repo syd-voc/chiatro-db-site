@@ -44,7 +44,7 @@
       ],
       "startTime": "2021-07-25T19:00:00+09:00",
       "viewCounter": 1821926,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm41383081",
@@ -680,13 +680,13 @@
     {
       "contentId": "sm41187136",
       "title": "GEDO",
-      "artist": "DARAKU",
+      "artist": "daraku",
       "artistList": [
-        "DARAKU"
+        "daraku"
       ],
       "startTime": "2022-10-07T19:00:00+09:00",
       "viewCounter": 415775,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm25943367",
@@ -731,6 +731,39 @@
       "startTime": "2019-04-08T20:00:00+09:00",
       "viewCounter": 1247065,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm39105923",
+      "title": "フロムトーキョー",
+      "artist": "夏代孝明",
+      "artistList": [
+        "夏代孝明"
+      ],
+      "startTime": "2021-07-30T19:00:00+09:00",
+      "viewCounter": 793290,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45880142",
+      "title": "たびだちのうた",
+      "artist": "カラスヤサボウ",
+      "artistList": [
+        "カラスヤサボウ"
+      ],
+      "startTime": "2026-01-28T18:39:00+09:00",
+      "viewCounter": 339637,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm42657926",
+      "title": "ブループラネット",
+      "artist": "DECO*27",
+      "artistList": [
+        "DECO*27"
+      ],
+      "startTime": "2023-08-31T00:00:00+09:00",
+      "viewCounter": 527939,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -751,7 +784,7 @@
     },
     {
       "artist": "Kanaria",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -956,8 +989,8 @@
     },
     {
       "artist": "DECO*27",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "buzzG",
@@ -990,8 +1023,8 @@
       "correctSongCount": 1
     },
     {
-      "artist": "DARAKU",
-      "correctCount": 1,
+      "artist": "daraku",
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -1006,6 +1039,16 @@
     },
     {
       "artist": "Noz.",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "夏代孝明",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "カラスヤサボウ",
       "correctCount": 1,
       "correctSongCount": 1
     }
@@ -1023,13 +1066,13 @@
     },
     {
       "era": "2022",
-      "correctCount": 6,
+      "correctCount": 7,
       "correctSongCount": 6
     },
     {
       "era": "2021",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 5,
+      "correctSongCount": 4
     },
     {
       "era": "2019",
@@ -1038,8 +1081,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 4,
-      "correctSongCount": 3
+      "correctCount": 5,
+      "correctSongCount": 4
     },
     {
       "era": "2024",
@@ -1080,6 +1123,11 @@
       "era": "2012",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "era": "2025-",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "viewStats": [
@@ -1104,19 +1152,19 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 13,
-      "correctSongCount": 12
+      "correctCount": 15,
+      "correctSongCount": 13
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 14,
-      "correctSongCount": 13
+      "correctCount": 16,
+      "correctSongCount": 15
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 14,
+      "correctCount": 15,
       "correctSongCount": 12
     },
     {
@@ -1540,18 +1588,127 @@
       "contentId": "sm34932948",
       "startTime": 1554721200000,
       "viewCounter": 1247065
+    },
+    {
+      "title": "フロムトーキョー",
+      "contentId": "sm39105923",
+      "startTime": 1627639200000,
+      "viewCounter": 793290
+    },
+    {
+      "title": "たびだちのうた",
+      "contentId": "sm45880142",
+      "startTime": 1769593140000,
+      "viewCounter": 339637
+    },
+    {
+      "title": "ブループラネット",
+      "contentId": "sm42657926",
+      "startTime": 1693407600000,
+      "viewCounter": 527939
     }
   ],
   "summary": {
-    "totalAnswers": 93,
-    "okAnswers": 70,
+    "totalAnswers": 98,
+    "okAnswers": 75,
     "ngAnswers": 23,
-    "participatedQuizCount": 18,
-    "winQuizCount": 10,
+    "participatedQuizCount": 19,
+    "winQuizCount": 11,
     "loseQuizCount": 0,
-    "medianViews": 599683
+    "medianViews": 591049
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "D2",
+      "date": "2026-05-16",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 11,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 16,
+          "contentId": "sm39105923",
+          "title": "フロムトーキョー",
+          "artistList": [
+            "夏代孝明"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39105923/39105923.71405528",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "上海スベスベ"
+            }
+          ]
+        },
+        {
+          "order": 28,
+          "contentId": "sm45880142",
+          "title": "たびだちのうた",
+          "artistList": [
+            "カラスヤサボウ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45880142/45880142.24157052",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "上海スベスベ"
+            }
+          ]
+        },
+        {
+          "order": 49,
+          "contentId": "sm42657926",
+          "title": "ブループラネット",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42657926/42657926.60210766",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "上海スベスベ"
+            }
+          ]
+        },
+        {
+          "order": 53,
+          "contentId": "sm41187136",
+          "title": "GEDO",
+          "artistList": [
+            "daraku"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41187136/41187136.10455868",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "上海スベスベ"
+            }
+          ]
+        },
+        {
+          "order": 65,
+          "contentId": "sm39083403",
+          "title": "EYE",
+          "artistList": [
+            "Kanaria"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39083403/39083403.56596979",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(11)",
+              "user": "上海スベスベ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 293,
       "group": "D1",
@@ -1766,7 +1923,7 @@
           "contentId": "sm41187136",
           "title": "GEDO",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41187136/41187136.10455868",
           "tokens": [

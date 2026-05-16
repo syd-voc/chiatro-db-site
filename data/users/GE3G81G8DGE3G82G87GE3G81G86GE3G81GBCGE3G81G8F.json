@@ -476,6 +476,61 @@
       "startTime": "2022-03-05T18:00:00+09:00",
       "viewCounter": 3801180,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm8981824",
+      "title": "積み木の人形",
+      "artist": "wowaka",
+      "artistList": [
+        "wowaka"
+      ],
+      "startTime": "2009-12-02T21:03:40+09:00",
+      "viewCounter": 1478410,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm12850213",
+      "title": "むかしむかしのきょうのぼく",
+      "artist": "DECO*27",
+      "artistList": [
+        "DECO*27"
+      ],
+      "startTime": "2010-11-25T03:27:36+09:00",
+      "viewCounter": 3907223,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm22543627",
+      "title": "大掃除",
+      "artist": "DECO*27",
+      "artistList": [
+        "DECO*27"
+      ],
+      "startTime": "2013-12-27T19:00:00+09:00",
+      "viewCounter": 325473,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44678491",
+      "title": "シスターに懺悔を",
+      "artist": "廃原メモリ",
+      "artistList": [
+        "廃原メモリ"
+      ],
+      "startTime": "2025-02-21T19:00:00+09:00",
+      "viewCounter": 509948,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm13136668",
+      "title": "おひめさまになりたいのッ！",
+      "artist": "OSTER project",
+      "artistList": [
+        "OSTER project"
+      ],
+      "startTime": "2010-12-26T19:42:11+09:00",
+      "viewCounter": 709921,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -576,8 +631,8 @@
     },
     {
       "artist": "DECO*27",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "artist": "柊マグネタイト",
@@ -648,13 +703,28 @@
       "artist": "いよわ",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "wowaka",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "廃原メモリ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "OSTER project",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2013",
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "era": "2017",
@@ -668,8 +738,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 7,
-      "correctSongCount": 7
+      "correctCount": 8,
+      "correctSongCount": 8
     },
     {
       "era": "2019",
@@ -688,8 +758,8 @@
     },
     {
       "era": "2009",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "era": "2014",
@@ -720,6 +790,11 @@
       "era": "2022",
       "correctCount": 2,
       "correctSongCount": 2
+    },
+    {
+      "era": "2010",
+      "correctCount": 2,
+      "correctSongCount": 2
     }
   ],
   "viewStats": [
@@ -744,20 +819,20 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 5,
-      "correctSongCount": 5
+      "correctCount": 6,
+      "correctSongCount": 6
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 11,
-      "correctSongCount": 11
+      "correctCount": 13,
+      "correctSongCount": 13
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 8,
-      "correctSongCount": 8
+      "correctCount": 9,
+      "correctSongCount": 9
     },
     {
       "range": "200-300万",
@@ -768,8 +843,8 @@
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 8,
-      "correctSongCount": 8
+      "correctCount": 9,
+      "correctSongCount": 9
     },
     {
       "range": "500-1000万",
@@ -1042,18 +1117,273 @@
       "contentId": "sm40132412",
       "startTime": 1646470800000,
       "viewCounter": 3801180
+    },
+    {
+      "title": "積み木の人形",
+      "contentId": "sm8981824",
+      "startTime": 1259755420000,
+      "viewCounter": 1478410
+    },
+    {
+      "title": "むかしむかしのきょうのぼく",
+      "contentId": "sm12850213",
+      "startTime": 1290623256000,
+      "viewCounter": 3907223
+    },
+    {
+      "title": "大掃除",
+      "contentId": "sm22543627",
+      "startTime": 1388138400000,
+      "viewCounter": 325473
+    },
+    {
+      "title": "シスターに懺悔を",
+      "contentId": "sm44678491",
+      "startTime": 1740132000000,
+      "viewCounter": 509948
+    },
+    {
+      "title": "おひめさまになりたいのッ！",
+      "contentId": "sm13136668",
+      "startTime": 1293360131000,
+      "viewCounter": 709921
     }
   ],
   "summary": {
-    "totalAnswers": 64,
-    "okAnswers": 43,
-    "ngAnswers": 20,
-    "participatedQuizCount": 9,
-    "winQuizCount": 8,
+    "totalAnswers": 73,
+    "okAnswers": 48,
+    "ngAnswers": 24,
+    "participatedQuizCount": 10,
+    "winQuizCount": 9,
     "loseQuizCount": 1,
     "medianViews": 942573
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "D1",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 4,
+      "winRank": 7,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 1,
+          "contentId": "sm45977001",
+          "title": "ポルターガイスト",
+          "artistList": [
+            "Noz."
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45977001/45977001.58048109",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "paradoxes"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きょうぼく"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "N氏"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "contentId": "sm8981824",
+          "title": "積み木の人形",
+          "artistList": [
+            "wowaka"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8981824/8981824",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "きょうぼく"
+            }
+          ]
+        },
+        {
+          "order": 10,
+          "contentId": "sm12850213",
+          "title": "むかしむかしのきょうのぼく",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12850213/12850213",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "きょうぼく"
+            }
+          ]
+        },
+        {
+          "order": 13,
+          "contentId": "sm7882150",
+          "title": "孤独の果て",
+          "artistList": [
+            "光収容"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7882150/7882150",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きょうぼく"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "おとまる"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "りつりつ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "惟月"
+            }
+          ]
+        },
+        {
+          "order": 16,
+          "contentId": "sm16844849",
+          "title": "ぼくらのレットイットビー",
+          "artistList": [
+            "はりーP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16844849/16844849",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きょうぼく"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "おとまる"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 29,
+          "contentId": "sm22543627",
+          "title": "大掃除",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22543627/22543627",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "きょうぼく"
+            }
+          ]
+        },
+        {
+          "order": 51,
+          "contentId": "sm44678491",
+          "title": "シスターに懺悔を",
+          "artistList": [
+            "廃原メモリ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44678491/44678491.24523839",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "きょうぼく"
+            }
+          ]
+        },
+        {
+          "order": 60,
+          "contentId": "sm44565055",
+          "title": "さよならギフテッド",
+          "artistList": [
+            "Ruliea"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44565055/44565055.41495528",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きょうぼく"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 68,
+          "contentId": "sm13136668",
+          "title": "おひめさまになりたいのッ！",
+          "artistList": [
+            "OSTER project"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13136668/13136668",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(7)",
+              "user": "きょうぼく"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "C2",

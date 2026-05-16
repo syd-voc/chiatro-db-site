@@ -2548,7 +2548,7 @@
       ],
       "startTime": "2016-08-31T00:00:00+09:00",
       "viewCounter": 977121,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm33731038",
@@ -2703,6 +2703,39 @@
       "startTime": "2014-06-13T18:30:25+09:00",
       "viewCounter": 1547275,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm15251289",
+      "title": "小夜子",
+      "artist": "みきとP",
+      "artistList": [
+        "みきとP"
+      ],
+      "startTime": "2011-08-08T20:00:19+09:00",
+      "viewCounter": 1034418,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm28051380",
+      "title": "magic city",
+      "artist": "koyori(電ポルP)",
+      "artistList": [
+        "koyori(電ポルP)"
+      ],
+      "startTime": "2016-01-21T20:00:00+09:00",
+      "viewCounter": 642993,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm37429345",
+      "title": "ヒール",
+      "artist": "遼遼",
+      "artistList": [
+        "遼遼"
+      ],
+      "startTime": "2020-08-28T19:00:00+09:00",
+      "viewCounter": 227932,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -2728,8 +2761,8 @@
     },
     {
       "artist": "koyori(電ポルP)",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "ぼーかりおどP",
@@ -2898,8 +2931,8 @@
     },
     {
       "artist": "みきとP",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "40mP",
@@ -3478,7 +3511,7 @@
     },
     {
       "artist": "にとぱん",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -3505,6 +3538,11 @@
       "artist": "タカノン",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "遼遼",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -3520,8 +3558,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 15,
-      "correctSongCount": 15
+      "correctCount": 16,
+      "correctSongCount": 16
     },
     {
       "era": "2014",
@@ -3545,8 +3583,8 @@
     },
     {
       "era": "2016",
-      "correctCount": 13,
-      "correctSongCount": 13
+      "correctCount": 15,
+      "correctSongCount": 14
     },
     {
       "era": "2021",
@@ -3570,8 +3608,8 @@
     },
     {
       "era": "2011",
-      "correctCount": 11,
-      "correctSongCount": 11
+      "correctCount": 12,
+      "correctSongCount": 12
     },
     {
       "era": "2013",
@@ -3615,8 +3653,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 44,
-      "correctSongCount": 43
+      "correctCount": 45,
+      "correctSongCount": 44
     },
     {
       "range": "30-50万",
@@ -3627,14 +3665,14 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 60,
-      "correctSongCount": 59
+      "correctCount": 62,
+      "correctSongCount": 60
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 64,
-      "correctSongCount": 57
+      "correctCount": 65,
+      "correctSongCount": 58
     },
     {
       "range": "200-300万",
@@ -5131,18 +5169,179 @@
       "contentId": "sm23769673",
       "startTime": 1402651825000,
       "viewCounter": 1547275
+    },
+    {
+      "title": "小夜子",
+      "contentId": "sm15251289",
+      "startTime": 1312801219000,
+      "viewCounter": 1034418
+    },
+    {
+      "title": "magic city",
+      "contentId": "sm28051380",
+      "startTime": 1453374000000,
+      "viewCounter": 642993
+    },
+    {
+      "title": "ヒール",
+      "contentId": "sm37429345",
+      "startTime": 1598608800000,
+      "viewCounter": 227932
     }
   ],
   "summary": {
-    "totalAnswers": 394,
-    "okAnswers": 258,
-    "ngAnswers": 131,
-    "participatedQuizCount": 54,
-    "winQuizCount": 48,
+    "totalAnswers": 400,
+    "okAnswers": 262,
+    "ngAnswers": 133,
+    "participatedQuizCount": 55,
+    "winQuizCount": 49,
     "loseQuizCount": 5,
-    "medianViews": 730196
+    "medianViews": 735761
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C1",
+      "date": "2026-05-15",
+      "ok": 4,
+      "ng": 2,
+      "winRank": 12,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 31,
+          "contentId": "sm29554456",
+          "title": "ミクがネギを背負ってやって来る",
+          "artistList": [
+            "にとぱん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29554456/29554456",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "タルタル素数"
+            }
+          ]
+        },
+        {
+          "order": 35,
+          "contentId": "sm20432353",
+          "title": "さかさシンドローム",
+          "artistList": [
+            "19's Sound Factory"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20432353/20432353",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "タルタル素数"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "トラノオ"
+            }
+          ]
+        },
+        {
+          "order": 41,
+          "contentId": "sm28506318",
+          "title": "浮世ぺぺろんちいの",
+          "artistList": [
+            "ねじ。"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28506318/28506318.75913257",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "タルタル素数"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゆーと"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とりりす。"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(4)",
+              "user": "クロ"
+            }
+          ]
+        },
+        {
+          "order": 45,
+          "contentId": "sm15251289",
+          "title": "小夜子",
+          "artistList": [
+            "みきとP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15251289/15251289",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "タルタル素数"
+            }
+          ]
+        },
+        {
+          "order": 53,
+          "contentId": "sm28051380",
+          "title": "magic city",
+          "artistList": [
+            "koyori(電ポルP)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28051380/28051380",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "タルタル素数"
+            }
+          ]
+        },
+        {
+          "order": 72,
+          "contentId": "sm37429345",
+          "title": "ヒール",
+          "artistList": [
+            "遼遼"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37429345/37429345.26031378",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(12)",
+              "user": "タルタル素数"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 296,
       "group": "C1",

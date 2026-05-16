@@ -121,7 +121,7 @@
       ],
       "startTime": "2017-08-31T20:39:00+09:00",
       "viewCounter": 2282986,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm34535947",
@@ -2293,6 +2293,39 @@
       "startTime": "2011-12-13T18:59:24+09:00",
       "viewCounter": 618579,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm35933131",
+      "title": "IMAWANOKIWA",
+      "artist": "いよわ",
+      "artistList": [
+        "いよわ"
+      ],
+      "startTime": "2019-11-10T20:00:00+09:00",
+      "viewCounter": 3326169,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44594923",
+      "title": "HELLO, NEW WORLD!",
+      "artist": "Teary Planet",
+      "artistList": [
+        "Teary Planet"
+      ],
+      "startTime": "2025-01-30T18:00:00+09:00",
+      "viewCounter": 54085,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45040752",
+      "title": "お返事まだカナ💦❓おじさん構文😁❗️",
+      "artist": "吉本おじさん",
+      "artistList": [
+        "吉本おじさん"
+      ],
+      "startTime": "2025-05-31T20:00:05+09:00",
+      "viewCounter": 988851,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -2343,7 +2376,7 @@
     },
     {
       "artist": "ナユタン星人",
-      "correctCount": 5,
+      "correctCount": 6,
       "correctSongCount": 4
     },
     {
@@ -2403,8 +2436,8 @@
     },
     {
       "artist": "いよわ",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "DECO*27",
@@ -2850,6 +2883,16 @@
       "artist": "ろくろ",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "Teary Planet",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "吉本おじさん",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -2865,8 +2908,8 @@
     },
     {
       "era": "2019",
-      "correctCount": 19,
-      "correctSongCount": 15
+      "correctCount": 20,
+      "correctSongCount": 16
     },
     {
       "era": "2015",
@@ -2895,7 +2938,7 @@
     },
     {
       "era": "2017",
-      "correctCount": 12,
+      "correctCount": 13,
       "correctSongCount": 11
     },
     {
@@ -2915,8 +2958,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 39,
-      "correctSongCount": 36
+      "correctCount": 41,
+      "correctSongCount": 38
     },
     {
       "era": "2018",
@@ -2954,8 +2997,8 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 25,
-      "correctSongCount": 25
+      "correctCount": 26,
+      "correctSongCount": 26
     },
     {
       "range": "10-30万",
@@ -2972,8 +3015,8 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 44,
-      "correctSongCount": 34
+      "correctCount": 45,
+      "correctSongCount": 35
     },
     {
       "range": "100-200万",
@@ -2984,14 +3027,14 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 20,
+      "correctCount": 21,
       "correctSongCount": 16
     },
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 28,
-      "correctSongCount": 25
+      "correctCount": 29,
+      "correctSongCount": 26
     },
     {
       "range": "500-1000万",
@@ -4254,18 +4297,111 @@
       "contentId": "sm16417324",
       "startTime": 1323770364000,
       "viewCounter": 618579
+    },
+    {
+      "title": "IMAWANOKIWA",
+      "contentId": "sm35933131",
+      "startTime": 1573383600000,
+      "viewCounter": 3326169
+    },
+    {
+      "title": "HELLO, NEW WORLD!",
+      "contentId": "sm44594923",
+      "startTime": 1738227600000,
+      "viewCounter": 54085
+    },
+    {
+      "title": "お返事まだカナ💦❓おじさん構文😁❗️",
+      "contentId": "sm45040752",
+      "startTime": 1748689205000,
+      "viewCounter": 988851
     }
   ],
   "summary": {
-    "totalAnswers": 279,
-    "okAnswers": 238,
+    "totalAnswers": 283,
+    "okAnswers": 242,
     "ngAnswers": 41,
-    "participatedQuizCount": 49,
-    "winQuizCount": 46,
+    "participatedQuizCount": 50,
+    "winQuizCount": 47,
     "loseQuizCount": 0,
     "medianViews": 941803
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C1",
+      "date": "2026-05-15",
+      "ok": 4,
+      "ng": 0,
+      "winRank": 3,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 11,
+          "contentId": "sm35933131",
+          "title": "IMAWANOKIWA",
+          "artistList": [
+            "いよわ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35933131/35933131.18266417",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "すBAR"
+            }
+          ]
+        },
+        {
+          "order": 22,
+          "contentId": "sm44594923",
+          "title": "HELLO, NEW WORLD!",
+          "artistList": [
+            "Teary Planet"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44594923/44594923.92032480",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "すBAR"
+            }
+          ]
+        },
+        {
+          "order": 32,
+          "contentId": "sm31843582",
+          "title": "リバースユニバース",
+          "artistList": [
+            "ナユタン星人"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31843582/31843582",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "すBAR"
+            }
+          ]
+        },
+        {
+          "order": 38,
+          "contentId": "sm45040752",
+          "title": "お返事まだカナ💦❓おじさん構文😁❗️",
+          "artistList": [
+            "吉本おじさん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45040752/45040752.50136923",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(3)",
+              "user": "すBAR"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "D1",

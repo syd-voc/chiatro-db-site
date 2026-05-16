@@ -2094,7 +2094,7 @@
       ],
       "startTime": "2017-12-29T22:30:00+09:00",
       "viewCounter": 1663544,
-      "correctCount": 2
+      "correctCount": 3
     },
     {
       "contentId": "sm36072685",
@@ -3243,6 +3243,39 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm27480641",
+      "title": "ミライ",
+      "artist": "ATOLS",
+      "artistList": [
+        "ATOLS"
+      ],
+      "startTime": "2015-10-30T20:30:00+09:00",
+      "viewCounter": 274703,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm37507315",
+      "title": "テレキャスタービーボーイ",
+      "artist": "すりぃ",
+      "artistList": [
+        "すりぃ"
+      ],
+      "startTime": "2020-09-12T19:15:00+09:00",
+      "viewCounter": 6283189,
+      "correctCount": 1
+    },
+    {
+      "contentId": "so11251947",
+      "title": "Yellow",
+      "artist": "kz",
+      "artistList": [
+        "kz"
+      ],
+      "startTime": "2010-07-02T18:00:00+09:00",
+      "viewCounter": 954331,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm33704122",
       "title": "ジキル",
       "artist": "ジグ",
@@ -3298,8 +3331,8 @@
     },
     {
       "artist": "ATOLS",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "きさら",
@@ -3913,7 +3946,7 @@
     },
     {
       "artist": "じん",
-      "correctCount": 5,
+      "correctCount": 6,
       "correctSongCount": 4
     },
     {
@@ -4048,8 +4081,8 @@
     },
     {
       "artist": "kz",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "ゆずひこ",
@@ -4172,6 +4205,11 @@
       "correctSongCount": 1
     },
     {
+      "artist": "すりぃ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
       "artist": "ショミ",
       "correctCount": 1,
       "correctSongCount": 1
@@ -4200,13 +4238,13 @@
     },
     {
       "era": "2010",
-      "correctCount": 13,
-      "correctSongCount": 13
+      "correctCount": 14,
+      "correctSongCount": 14
     },
     {
       "era": "2020",
-      "correctCount": 33,
-      "correctSongCount": 33
+      "correctCount": 34,
+      "correctSongCount": 34
     },
     {
       "era": "2016",
@@ -4240,12 +4278,12 @@
     },
     {
       "era": "2015",
-      "correctCount": 20,
-      "correctSongCount": 17
+      "correctCount": 21,
+      "correctSongCount": 18
     },
     {
       "era": "2017",
-      "correctCount": 28,
+      "correctCount": 29,
       "correctSongCount": 24
     },
     {
@@ -4285,8 +4323,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 129,
-      "correctSongCount": 117
+      "correctCount": 130,
+      "correctSongCount": 118
     },
     {
       "range": "30-50万",
@@ -4297,13 +4335,13 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 37,
-      "correctSongCount": 32
+      "correctCount": 38,
+      "correctSongCount": 33
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 23,
+      "correctCount": 24,
       "correctSongCount": 22
     },
     {
@@ -4321,8 +4359,8 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "range": "1000万-",
@@ -6097,6 +6135,24 @@
       "viewCounter": 3877110
     },
     {
+      "title": "ミライ",
+      "contentId": "sm27480641",
+      "startTime": 1446204600000,
+      "viewCounter": 274703
+    },
+    {
+      "title": "テレキャスタービーボーイ",
+      "contentId": "sm37507315",
+      "startTime": 1599905700000,
+      "viewCounter": 6283189
+    },
+    {
+      "title": "Yellow",
+      "contentId": "so11251947",
+      "startTime": 1278061200000,
+      "viewCounter": 954331
+    },
+    {
       "title": "ジキル",
       "contentId": "sm33704122",
       "startTime": 1534590000000,
@@ -6110,15 +6166,115 @@
     }
   ],
   "summary": {
-    "totalAnswers": 400,
-    "okAnswers": 323,
-    "ngAnswers": 77,
-    "participatedQuizCount": 73,
-    "winQuizCount": 68,
+    "totalAnswers": 405,
+    "okAnswers": 327,
+    "ngAnswers": 78,
+    "participatedQuizCount": 74,
+    "winQuizCount": 69,
     "loseQuizCount": 0,
-    "medianViews": 222407
+    "medianViews": 225779
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "B",
+      "date": "2026-05-16",
+      "ok": 4,
+      "ng": 1,
+      "winRank": 17,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 53,
+          "contentId": "sm27480641",
+          "title": "ミライ",
+          "artistList": [
+            "ATOLS"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27480641/27480641",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Lyz"
+            }
+          ]
+        },
+        {
+          "order": 71,
+          "contentId": "sm37507315",
+          "title": "テレキャスタービーボーイ",
+          "artistList": [
+            "すりぃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37507315/37507315.98820178",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "Lyz"
+            }
+          ]
+        },
+        {
+          "order": 73,
+          "contentId": "sm44664829",
+          "title": "アンチユー",
+          "artistList": [
+            "Chinozo"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44664829/44664829.37124701",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Lyz"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "たかそう"
+            }
+          ]
+        },
+        {
+          "order": 79,
+          "contentId": "so11251947",
+          "title": "Yellow",
+          "artistList": [
+            "kz"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/11251947/11251947",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "Lyz"
+            }
+          ]
+        },
+        {
+          "order": 80,
+          "contentId": "sm32499603",
+          "title": "失想ワアド",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32499603/32499603",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(17)",
+              "user": "Lyz"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 297,
       "group": "B",

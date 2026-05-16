@@ -1175,6 +1175,28 @@
       "startTime": "2011-06-18T21:31:11+09:00",
       "viewCounter": 3198301,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm37716686",
+      "title": "ジャックポットサッドガール",
+      "artist": "syudou",
+      "artistList": [
+        "syudou"
+      ],
+      "startTime": "2020-10-24T19:00:00+09:00",
+      "viewCounter": 2255807,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm31840221",
+      "title": "快晴",
+      "artist": "Orangestar",
+      "artistList": [
+        "Orangestar"
+      ],
+      "startTime": "2017-08-31T05:56:07+09:00",
+      "viewCounter": 3692761,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -1572,13 +1594,23 @@
       "artist": "トーマ",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "syudou",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "Orangestar",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2020",
-      "correctCount": 11,
-      "correctSongCount": 8
+      "correctCount": 12,
+      "correctSongCount": 9
     },
     {
       "era": "2016",
@@ -1602,8 +1634,8 @@
     },
     {
       "era": "2017",
-      "correctCount": 9,
-      "correctSongCount": 7
+      "correctCount": 10,
+      "correctSongCount": 8
     },
     {
       "era": "2015",
@@ -1701,14 +1733,14 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 32,
-      "correctSongCount": 21
+      "correctCount": 33,
+      "correctSongCount": 22
     },
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 15,
-      "correctSongCount": 12
+      "correctCount": 16,
+      "correctSongCount": 13
     },
     {
       "range": "500-1000万",
@@ -2359,18 +2391,98 @@
       "contentId": "sm14780909",
       "startTime": 1308400271000,
       "viewCounter": 3198301
+    },
+    {
+      "title": "ジャックポットサッドガール",
+      "contentId": "sm37716686",
+      "startTime": 1603533600000,
+      "viewCounter": 2255807
+    },
+    {
+      "title": "快晴",
+      "contentId": "sm31840221",
+      "startTime": 1504126567000,
+      "viewCounter": 3692761
     }
   ],
   "summary": {
-    "totalAnswers": 181,
-    "okAnswers": 129,
-    "ngAnswers": 52,
-    "participatedQuizCount": 60,
+    "totalAnswers": 184,
+    "okAnswers": 131,
+    "ngAnswers": 53,
+    "participatedQuizCount": 61,
     "winQuizCount": 14,
     "loseQuizCount": 0,
-    "medianViews": 1339384
+    "medianViews": 1393187
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C1",
+      "date": "2026-05-15",
+      "ok": 2,
+      "ng": 1,
+      "winRank": null,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 28,
+          "contentId": "sm12695779",
+          "title": "秘密警察",
+          "artistList": [
+            "ぶりる"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12695779/12695779",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Acro"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "chia*"
+            }
+          ]
+        },
+        {
+          "order": 91,
+          "contentId": "sm37716686",
+          "title": "ジャックポットサッドガール",
+          "artistList": [
+            "syudou"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37716686/37716686.44435585",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Acro"
+            }
+          ]
+        },
+        {
+          "order": 100,
+          "contentId": "sm31840221",
+          "title": "快晴",
+          "artistList": [
+            "Orangestar"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31840221/31840221",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "Acro"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 264,
       "group": "D",
@@ -4869,7 +4981,7 @@
           "contentId": "sm31852362",
           "title": "思ったより酸素がない！",
           "artistList": [
-            "棒人間"
+            "えくしい"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31852362/31852362",
           "tokens": [

@@ -2086,6 +2086,61 @@
       "correctCount": 2
     },
     {
+      "contentId": "sm38226913",
+      "title": "有夜無夜",
+      "artist": "獅子志司",
+      "artistList": [
+        "獅子志司"
+      ],
+      "startTime": "2021-02-05T20:00:00+09:00",
+      "viewCounter": 176731,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm37868545",
+      "title": "mochi-mochi.cat",
+      "artist": "あらたまいこ",
+      "artistList": [
+        "あらたまいこ"
+      ],
+      "startTime": "2020-11-25T19:00:00+09:00",
+      "viewCounter": 111470,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm34963017",
+      "title": "コールボーイ",
+      "artist": "syudou",
+      "artistList": [
+        "syudou"
+      ],
+      "startTime": "2019-04-13T18:08:01+09:00",
+      "viewCounter": 2144119,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm32498233",
+      "title": "くたばろうぜ",
+      "artist": "Neru",
+      "artistList": [
+        "Neru"
+      ],
+      "startTime": "2017-12-29T19:00:00+09:00",
+      "viewCounter": 1514781,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39407059",
+      "title": "デビル",
+      "artist": "てにをは",
+      "artistList": [
+        "てにをは"
+      ],
+      "startTime": "2021-09-29T18:00:00+09:00",
+      "viewCounter": 522831,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm30701132",
       "title": "スーパーマーケット☆フィーバー",
       "artist": "カルロス袴田(サイゼP)",
@@ -3112,8 +3167,8 @@
     },
     {
       "artist": "Neru",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "栗山夕璃(蜂屋ななし)",
@@ -3452,8 +3507,8 @@
     },
     {
       "artist": "syudou",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "koma'n",
@@ -3781,6 +3836,21 @@
       "correctSongCount": 3
     },
     {
+      "artist": "獅子志司",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "あらたまいこ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "てにをは",
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
       "artist": "カルロス袴田(サイゼP)",
       "correctCount": 1,
       "correctSongCount": 1
@@ -3911,11 +3981,6 @@
       "correctSongCount": 1
     },
     {
-      "artist": "てにをは",
-      "correctCount": 1,
-      "correctSongCount": 1
-    },
-    {
       "artist": "はるまきごはん",
       "correctCount": 1,
       "correctSongCount": 1
@@ -4024,13 +4089,13 @@
     },
     {
       "era": "2020",
-      "correctCount": 34,
-      "correctSongCount": 30
+      "correctCount": 35,
+      "correctSongCount": 31
     },
     {
       "era": "2021",
-      "correctCount": 37,
-      "correctSongCount": 37
+      "correctCount": 39,
+      "correctSongCount": 39
     },
     {
       "era": "2016",
@@ -4039,8 +4104,8 @@
     },
     {
       "era": "2019",
-      "correctCount": 22,
-      "correctSongCount": 22
+      "correctCount": 23,
+      "correctSongCount": 23
     },
     {
       "era": "2011",
@@ -4054,8 +4119,8 @@
     },
     {
       "era": "2017",
-      "correctCount": 20,
-      "correctSongCount": 19
+      "correctCount": 21,
+      "correctSongCount": 20
     },
     {
       "era": "2018",
@@ -4119,8 +4184,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 89,
-      "correctSongCount": 87
+      "correctCount": 91,
+      "correctSongCount": 89
     },
     {
       "range": "30-50万",
@@ -4131,20 +4196,20 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 62,
-      "correctSongCount": 57
+      "correctCount": 63,
+      "correctSongCount": 58
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 28,
-      "correctSongCount": 26
+      "correctCount": 29,
+      "correctSongCount": 27
     },
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 20,
-      "correctSongCount": 19
+      "correctCount": 21,
+      "correctSongCount": 20
     },
     {
       "range": "300-500万",
@@ -5301,6 +5366,36 @@
       "viewCounter": 1678833
     },
     {
+      "title": "有夜無夜",
+      "contentId": "sm38226913",
+      "startTime": 1612522800000,
+      "viewCounter": 176731
+    },
+    {
+      "title": "mochi-mochi.cat",
+      "contentId": "sm37868545",
+      "startTime": 1606298400000,
+      "viewCounter": 111470
+    },
+    {
+      "title": "コールボーイ",
+      "contentId": "sm34963017",
+      "startTime": 1555146481000,
+      "viewCounter": 2144119
+    },
+    {
+      "title": "くたばろうぜ",
+      "contentId": "sm32498233",
+      "startTime": 1514541600000,
+      "viewCounter": 1514781
+    },
+    {
+      "title": "デビル",
+      "contentId": "sm39407059",
+      "startTime": 1632906000000,
+      "viewCounter": 522831
+    },
+    {
       "title": "スーパーマーケット☆フィーバー",
       "contentId": "sm30701132",
       "startTime": 1487930400000,
@@ -5848,15 +5943,217 @@
     }
   ],
   "summary": {
-    "totalAnswers": 435,
-    "okAnswers": 296,
-    "ngAnswers": 136,
-    "participatedQuizCount": 73,
-    "winQuizCount": 66,
+    "totalAnswers": 443,
+    "okAnswers": 301,
+    "ngAnswers": 139,
+    "participatedQuizCount": 74,
+    "winQuizCount": 67,
     "loseQuizCount": 3,
     "medianViews": 418796
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "A",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 3,
+      "winRank": 3,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 3,
+          "contentId": "sm38226913",
+          "title": "有夜無夜",
+          "artistList": [
+            "獅子志司"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38226913/38226913.11000440",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "影山"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "maruma"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "contentId": "sm33823390",
+          "title": "Liekki",
+          "artistList": [
+            "yukkedoluce"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33823390/33823390",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "影山"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "maruma"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "なごん"
+            }
+          ]
+        },
+        {
+          "order": 14,
+          "contentId": "sm37868545",
+          "title": "mochi-mochi.cat",
+          "artistList": [
+            "あらたまいこ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37868545/37868545.95702333",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゲオス"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "maruma"
+            }
+          ]
+        },
+        {
+          "order": 15,
+          "contentId": "sm45966930",
+          "title": "チェリーピック",
+          "artistList": [
+            "加賀(ネギシャワーP)"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45966930/45966930.23027040",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "maruma"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "雨嵐"
+            }
+          ]
+        },
+        {
+          "order": 19,
+          "contentId": "sm41952632",
+          "title": "ヒーローだった僕たちへ",
+          "artistList": [
+            "成宮 亮"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41952632/41952632.56406073",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "maruma"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "眠くない人"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "にーも"
+            }
+          ]
+        },
+        {
+          "order": 24,
+          "contentId": "sm34963017",
+          "title": "コールボーイ",
+          "artistList": [
+            "syudou"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34963017/34963017.65786",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "maruma"
+            }
+          ]
+        },
+        {
+          "order": 27,
+          "contentId": "sm32498233",
+          "title": "くたばろうぜ",
+          "artistList": [
+            "Neru"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32498233/32498233",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "maruma"
+            }
+          ]
+        },
+        {
+          "order": 35,
+          "contentId": "sm39407059",
+          "title": "デビル",
+          "artistList": [
+            "てにをは"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39407059/39407059.58223680",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(3)",
+              "user": "maruma"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "A",

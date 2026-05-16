@@ -1472,6 +1472,61 @@
       "startTime": "2020-09-06T19:00:03+09:00",
       "viewCounter": 1717073,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm7550182",
+      "title": "結ンデ開イテ羅刹ト骸",
+      "artist": "ハチ",
+      "artistList": [
+        "ハチ"
+      ],
+      "startTime": "2009-07-06T02:24:11+09:00",
+      "viewCounter": 7439342,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm33854807",
+      "title": "アディショナルメモリー",
+      "artist": "じん",
+      "artistList": [
+        "じん"
+      ],
+      "startTime": "2018-09-14T20:00:00+09:00",
+      "viewCounter": 2849043,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45968663",
+      "title": "再現.leaper",
+      "artist": "奏",
+      "artistList": [
+        "奏"
+      ],
+      "startTime": "2026-02-20T19:00:00+09:00",
+      "viewCounter": 60370,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm10924943",
+      "title": "初音ミクの分裂→破壊",
+      "artist": "cosMo@暴走P",
+      "artistList": [
+        "cosMo@暴走P"
+      ],
+      "startTime": "2010-06-02T05:00:20+09:00",
+      "viewCounter": 1174731,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39550992",
+      "title": "ショウタイム・ルーラー",
+      "artist": "カラスヤサボウ",
+      "artistList": [
+        "カラスヤサボウ"
+      ],
+      "startTime": "2021-10-29T23:35:07+09:00",
+      "viewCounter": 930203,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -1592,8 +1647,8 @@
     },
     {
       "artist": "ハチ",
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "artist": "40mP",
@@ -1727,8 +1782,8 @@
     },
     {
       "artist": "cosMo@暴走P",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "ユジー",
@@ -1979,6 +2034,21 @@
       "artist": "マイキP",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "じん",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "奏",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "カラスヤサボウ",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -1999,13 +2069,13 @@
     },
     {
       "era": "2021",
-      "correctCount": 6,
-      "correctSongCount": 6
+      "correctCount": 7,
+      "correctSongCount": 7
     },
     {
       "era": "2018",
-      "correctCount": 6,
-      "correctSongCount": 6
+      "correctCount": 7,
+      "correctSongCount": 7
     },
     {
       "era": "2020",
@@ -2019,8 +2089,8 @@
     },
     {
       "era": "2025-",
-      "correctCount": 14,
-      "correctSongCount": 13
+      "correctCount": 15,
+      "correctSongCount": 14
     },
     {
       "era": "2011",
@@ -2039,8 +2109,8 @@
     },
     {
       "era": "2009",
-      "correctCount": 6,
-      "correctSongCount": 6
+      "correctCount": 7,
+      "correctSongCount": 7
     },
     {
       "era": "2022",
@@ -2049,8 +2119,8 @@
     },
     {
       "era": "2010",
-      "correctCount": 7,
-      "correctSongCount": 5
+      "correctCount": 8,
+      "correctSongCount": 6
     },
     {
       "era": "2012",
@@ -2083,8 +2153,8 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 3,
-      "correctSongCount": 3
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "range": "10-30万",
@@ -2101,20 +2171,20 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 21,
-      "correctSongCount": 20
+      "correctCount": 22,
+      "correctSongCount": 21
     },
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 25,
-      "correctSongCount": 22
+      "correctCount": 26,
+      "correctSongCount": 23
     },
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 13,
-      "correctSongCount": 12
+      "correctCount": 14,
+      "correctSongCount": 13
     },
     {
       "range": "300-500万",
@@ -2125,8 +2195,8 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 12,
-      "correctSongCount": 11
+      "correctCount": 13,
+      "correctSongCount": 12
     },
     {
       "range": "1000万-",
@@ -2933,18 +3003,181 @@
       "contentId": "sm37478808",
       "startTime": 1599386403000,
       "viewCounter": 1717073
+    },
+    {
+      "title": "結ンデ開イテ羅刹ト骸",
+      "contentId": "sm7550182",
+      "startTime": 1246814651000,
+      "viewCounter": 7439342
+    },
+    {
+      "title": "アディショナルメモリー",
+      "contentId": "sm33854807",
+      "startTime": 1536922800000,
+      "viewCounter": 2849043
+    },
+    {
+      "title": "再現.leaper",
+      "contentId": "sm45968663",
+      "startTime": 1771581600000,
+      "viewCounter": 60370
+    },
+    {
+      "title": "初音ミクの分裂→破壊",
+      "contentId": "sm10924943",
+      "startTime": 1275422420000,
+      "viewCounter": 1174731
+    },
+    {
+      "title": "ショウタイム・ルーラー",
+      "contentId": "sm39550992",
+      "startTime": 1635518107000,
+      "viewCounter": 930203
     }
   ],
   "summary": {
-    "totalAnswers": 168,
-    "okAnswers": 143,
-    "ngAnswers": 25,
-    "participatedQuizCount": 29,
-    "winQuizCount": 28,
+    "totalAnswers": 174,
+    "okAnswers": 148,
+    "ngAnswers": 26,
+    "participatedQuizCount": 30,
+    "winQuizCount": 29,
     "loseQuizCount": 0,
-    "medianViews": 1076581
+    "medianViews": 1096759
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "D2",
+      "date": "2026-05-16",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 3,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 2,
+          "contentId": "sm7550182",
+          "title": "結ンデ開イテ羅刹ト骸",
+          "artistList": [
+            "ハチ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7550182/7550182",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "千夜"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "contentId": "sm33854807",
+          "title": "アディショナルメモリー",
+          "artistList": [
+            "じん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33854807/33854807",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "千夜"
+            }
+          ]
+        },
+        {
+          "order": 18,
+          "contentId": "sm45968663",
+          "title": "再現.leaper",
+          "artistList": [
+            "奏"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45968663/45968663.35804199",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "千夜"
+            }
+          ]
+        },
+        {
+          "order": 20,
+          "contentId": "sm10924943",
+          "title": "初音ミクの分裂→破壊",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10924943/10924943",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "防虫剤"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "千夜"
+            }
+          ]
+        },
+        {
+          "order": 23,
+          "contentId": "sm9024225",
+          "title": "独房ステラシアタ",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9024225/9024225",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "さいわい"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "千夜"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "text",
+              "value": "・スルー"
+            }
+          ]
+        },
+        {
+          "order": 31,
+          "contentId": "sm39550992",
+          "title": "ショウタイム・ルーラー",
+          "artistList": [
+            "カラスヤサボウ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39550992/39550992.80971886",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(3)",
+              "user": "千夜"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "D2",

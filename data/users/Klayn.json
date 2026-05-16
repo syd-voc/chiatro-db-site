@@ -1058,7 +1058,7 @@
       ],
       "startTime": "2018-12-14T19:21:02+09:00",
       "viewCounter": 1715097,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm21445815",
@@ -2914,6 +2914,50 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm30004632",
+      "title": "１６：２０",
+      "artist": "低所得P",
+      "artistList": [
+        "低所得P"
+      ],
+      "startTime": "2016-11-08T16:20:00+09:00",
+      "viewCounter": 161462,
+      "correctCount": 2
+    },
+    {
+      "contentId": "sm12640192",
+      "title": "Blackjack",
+      "artist": "ゆちゃ",
+      "artistList": [
+        "ゆちゃ"
+      ],
+      "startTime": "2010-11-04T01:06:09+09:00",
+      "viewCounter": 2076762,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm26885931",
+      "title": "失敗作少女",
+      "artist": "かいりきベア",
+      "artistList": [
+        "かいりきベア"
+      ],
+      "startTime": "2015-08-08T20:04:17+09:00",
+      "viewCounter": 3567216,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm18198019",
+      "title": "地球最後の告白を",
+      "artist": "kemu",
+      "artistList": [
+        "kemu"
+      ],
+      "startTime": "2012-06-26T19:01:32+09:00",
+      "viewCounter": 5413986,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm20286605",
       "title": "ハウトゥー世界征服",
       "artist": "Neru",
@@ -2967,17 +3011,6 @@
       "startTime": "2016-10-12T20:00:00+09:00",
       "viewCounter": 9191864,
       "correctCount": 2
-    },
-    {
-      "contentId": "sm30004632",
-      "title": "１６：２０",
-      "artist": "低所得P",
-      "artistList": [
-        "低所得P"
-      ],
-      "startTime": "2016-11-08T16:20:00+09:00",
-      "viewCounter": 161462,
-      "correctCount": 1
     },
     {
       "contentId": "sm24691229",
@@ -3743,7 +3776,7 @@
     },
     {
       "artist": "Eve",
-      "correctCount": 7,
+      "correctCount": 8,
       "correctSongCount": 5
     },
     {
@@ -4003,8 +4036,8 @@
     },
     {
       "artist": "かいりきベア",
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 3,
+      "correctSongCount": 3
     },
     {
       "artist": "ヒゲドライバー",
@@ -4413,8 +4446,18 @@
     },
     {
       "artist": "低所得P",
-      "correctCount": 5,
+      "correctCount": 6,
       "correctSongCount": 5
+    },
+    {
+      "artist": "ゆちゃ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "kemu",
+      "correctCount": 1,
+      "correctSongCount": 1
     },
     {
       "artist": "wowaka",
@@ -4525,8 +4568,8 @@
     },
     {
       "era": "2015",
-      "correctCount": 28,
-      "correctSongCount": 21
+      "correctCount": 29,
+      "correctSongCount": 22
     },
     {
       "era": "2011",
@@ -4545,7 +4588,7 @@
     },
     {
       "era": "2018",
-      "correctCount": 46,
+      "correctCount": 47,
       "correctSongCount": 35
     },
     {
@@ -4560,18 +4603,18 @@
     },
     {
       "era": "2016",
-      "correctCount": 33,
+      "correctCount": 34,
       "correctSongCount": 28
     },
     {
       "era": "2010",
-      "correctCount": 19,
-      "correctSongCount": 18
+      "correctCount": 20,
+      "correctSongCount": 19
     },
     {
       "era": "2012",
-      "correctCount": 17,
-      "correctSongCount": 16
+      "correctCount": 18,
+      "correctSongCount": 17
     },
     {
       "era": "2007-2008",
@@ -4620,7 +4663,7 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 63,
+      "correctCount": 64,
       "correctSongCount": 52
     },
     {
@@ -4638,26 +4681,26 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 75,
+      "correctCount": 76,
       "correctSongCount": 61
     },
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 42,
-      "correctSongCount": 34
+      "correctCount": 43,
+      "correctSongCount": 35
     },
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 28,
-      "correctSongCount": 25
+      "correctCount": 29,
+      "correctSongCount": 26
     },
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 22,
-      "correctSongCount": 16
+      "correctCount": 23,
+      "correctSongCount": 17
     },
     {
       "range": "1000万-",
@@ -6252,6 +6295,30 @@
       "viewCounter": 569368
     },
     {
+      "title": "１６：２０",
+      "contentId": "sm30004632",
+      "startTime": 1478589600000,
+      "viewCounter": 161462
+    },
+    {
+      "title": "Blackjack",
+      "contentId": "sm12640192",
+      "startTime": 1288800369000,
+      "viewCounter": 2076762
+    },
+    {
+      "title": "失敗作少女",
+      "contentId": "sm26885931",
+      "startTime": 1439031857000,
+      "viewCounter": 3567216
+    },
+    {
+      "title": "地球最後の告白を",
+      "contentId": "sm18198019",
+      "startTime": 1340704892000,
+      "viewCounter": 5413986
+    },
+    {
       "title": "ハウトゥー世界征服",
       "contentId": "sm20286605",
       "startTime": 1362823241000,
@@ -6280,12 +6347,6 @@
       "contentId": "sm29822304",
       "startTime": 1476270000000,
       "viewCounter": 9191864
-    },
-    {
-      "title": "１６：２０",
-      "contentId": "sm30004632",
-      "startTime": 1478589600000,
-      "viewCounter": 161462
     },
     {
       "title": "tig-hug",
@@ -6655,15 +6716,165 @@
     }
   ],
   "summary": {
-    "totalAnswers": 677,
-    "okAnswers": 402,
-    "ngAnswers": 275,
-    "participatedQuizCount": 132,
-    "winQuizCount": 80,
+    "totalAnswers": 684,
+    "okAnswers": 407,
+    "ngAnswers": 277,
+    "participatedQuizCount": 133,
+    "winQuizCount": 81,
     "loseQuizCount": 0,
-    "medianViews": 646941
+    "medianViews": 651365
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C2",
+      "date": "2026-05-16",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 7,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 8,
+          "contentId": "sm34317927",
+          "title": "ラストダンス",
+          "artistList": [
+            "Eve"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34317927/34317927",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "Klayn"
+            }
+          ]
+        },
+        {
+          "order": 10,
+          "contentId": "sm30004632",
+          "title": "１６：２０",
+          "artistList": [
+            "低所得P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30004632/30004632",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "Klayn"
+            }
+          ]
+        },
+        {
+          "order": 12,
+          "contentId": "sm35340226",
+          "title": "恋の恋による恋のための恋",
+          "artistList": [
+            "ピノキオピー"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35340226/35340226.16122979",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Klayn"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ぽんぬ"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm12640192",
+          "title": "Blackjack",
+          "artistList": [
+            "ゆちゃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12640192/12640192",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "レイ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "Klayn"
+            }
+          ]
+        },
+        {
+          "order": 43,
+          "contentId": "sm26885931",
+          "title": "失敗作少女",
+          "artistList": [
+            "かいりきベア"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26885931/26885931",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "Klayn"
+            }
+          ]
+        },
+        {
+          "order": 47,
+          "contentId": "sm36165193",
+          "title": "エバ",
+          "artistList": [
+            "柊キライ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36165193/36165193.73104810",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "Klayn"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(5)",
+              "user": "稲葉快晴"
+            }
+          ]
+        },
+        {
+          "order": 51,
+          "contentId": "sm18198019",
+          "title": "地球最後の告白を",
+          "artistList": [
+            "kemu"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18198019/18198019",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(7)",
+              "user": "Klayn"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 296,
       "group": "C1",
@@ -18384,7 +18595,7 @@
           "contentId": "sm39904241",
           "title": "シンアイ鳴ル貴方へ",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39904241/39904241.38156702",
           "tokens": [

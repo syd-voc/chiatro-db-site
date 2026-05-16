@@ -1190,7 +1190,7 @@
       ],
       "startTime": "2019-01-27T12:47:00+09:00",
       "viewCounter": 1447307,
-      "correctCount": 1
+      "correctCount": 2
     },
     {
       "contentId": "sm39570961",
@@ -5271,6 +5271,39 @@
       "correctCount": 1
     },
     {
+      "contentId": "sm27042325",
+      "title": "濫觴生命",
+      "artist": "Orangestar",
+      "artistList": [
+        "Orangestar"
+      ],
+      "startTime": "2015-08-29T21:43:00+09:00",
+      "viewCounter": 1646379,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm41295783",
+      "title": "ラヴィ",
+      "artist": "すりぃ",
+      "artistList": [
+        "すりぃ"
+      ],
+      "startTime": "2022-10-29T19:00:00+09:00",
+      "viewCounter": 6352623,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm36499486",
+      "title": "生きるってなんだよ",
+      "artist": "葵木ゴウ",
+      "artistList": [
+        "葵木ゴウ"
+      ],
+      "startTime": "2020-03-12T20:00:00+09:00",
+      "viewCounter": 241409,
+      "correctCount": 1
+    },
+    {
       "contentId": "sm31970404",
       "title": "いえないや",
       "artist": "カルロス袴田(サイゼP)",
@@ -5361,8 +5394,8 @@
     },
     {
       "artist": "すりぃ",
-      "correctCount": 2,
-      "correctSongCount": 1
+      "correctCount": 3,
+      "correctSongCount": 2
     },
     {
       "artist": "shino",
@@ -5526,8 +5559,8 @@
     },
     {
       "artist": "葵木ゴウ",
-      "correctCount": 7,
-      "correctSongCount": 4
+      "correctCount": 8,
+      "correctSongCount": 5
     },
     {
       "artist": "香椎モイミ",
@@ -5596,8 +5629,8 @@
     },
     {
       "artist": "Orangestar",
-      "correctCount": 4,
-      "correctSongCount": 3
+      "correctCount": 5,
+      "correctSongCount": 4
     },
     {
       "artist": "wowaka",
@@ -5701,7 +5734,7 @@
     },
     {
       "artist": "傘村トータ",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -6548,7 +6581,7 @@
   "eraStats": [
     {
       "era": "2019",
-      "correctCount": 49,
+      "correctCount": 50,
       "correctSongCount": 38
     },
     {
@@ -6558,8 +6591,8 @@
     },
     {
       "era": "2020",
-      "correctCount": 105,
-      "correctSongCount": 65
+      "correctCount": 106,
+      "correctSongCount": 66
     },
     {
       "era": "2018",
@@ -6583,8 +6616,8 @@
     },
     {
       "era": "2022",
-      "correctCount": 53,
-      "correctSongCount": 38
+      "correctCount": 54,
+      "correctSongCount": 39
     },
     {
       "era": "2007-2008",
@@ -6613,8 +6646,8 @@
     },
     {
       "era": "2015",
-      "correctCount": 21,
-      "correctSongCount": 20
+      "correctCount": 22,
+      "correctSongCount": 21
     },
     {
       "era": "2009",
@@ -6653,8 +6686,8 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 126,
-      "correctSongCount": 95
+      "correctCount": 127,
+      "correctSongCount": 96
     },
     {
       "range": "30-50万",
@@ -6671,8 +6704,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 124,
-      "correctSongCount": 93
+      "correctCount": 126,
+      "correctSongCount": 94
     },
     {
       "range": "200-300万",
@@ -6689,8 +6722,8 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 36,
-      "correctSongCount": 29
+      "correctCount": 37,
+      "correctSongCount": 30
     },
     {
       "range": "1000万-",
@@ -9569,6 +9602,24 @@
       "viewCounter": 205076
     },
     {
+      "title": "濫觴生命",
+      "contentId": "sm27042325",
+      "startTime": 1440852180000,
+      "viewCounter": 1646379
+    },
+    {
+      "title": "ラヴィ",
+      "contentId": "sm41295783",
+      "startTime": 1667037600000,
+      "viewCounter": 6352623
+    },
+    {
+      "title": "生きるってなんだよ",
+      "contentId": "sm36499486",
+      "startTime": 1584010800000,
+      "viewCounter": 241409
+    },
+    {
       "title": "いえないや",
       "contentId": "sm31970404",
       "startTime": 1506162600000,
@@ -9612,15 +9663,167 @@
     }
   ],
   "summary": {
-    "totalAnswers": 1048,
-    "okAnswers": 651,
-    "ngAnswers": 397,
-    "participatedQuizCount": 175,
-    "winQuizCount": 117,
+    "totalAnswers": 1054,
+    "okAnswers": 655,
+    "ngAnswers": 399,
+    "participatedQuizCount": 176,
+    "winQuizCount": 118,
     "loseQuizCount": 0,
     "medianViews": 654706
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "C1",
+      "date": "2026-05-15",
+      "ok": 4,
+      "ng": 2,
+      "winRank": 13,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 41,
+          "contentId": "sm28506318",
+          "title": "浮世ぺぺろんちいの",
+          "artistList": [
+            "ねじ。"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28506318/28506318.75913257",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "タルタル素数"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゆーと"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "とりりす。"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(4)",
+              "user": "クロ"
+            }
+          ]
+        },
+        {
+          "order": 64,
+          "contentId": "sm27042325",
+          "title": "濫觴生命",
+          "artistList": [
+            "Orangestar"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27042325/27042325",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ゆーと"
+            }
+          ]
+        },
+        {
+          "order": 70,
+          "contentId": "sm22069337",
+          "title": "電脳狂愛ガール",
+          "artistList": [
+            "かいりきベア"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22069337/22069337",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ゆーと"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "クスノキ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "Ha.Ru."
+            }
+          ]
+        },
+        {
+          "order": 76,
+          "contentId": "sm41295783",
+          "title": "ラヴィ",
+          "artistList": [
+            "すりぃ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41295783/41295783.42564450",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ゆーと"
+            }
+          ]
+        },
+        {
+          "order": 77,
+          "contentId": "sm36499486",
+          "title": "生きるってなんだよ",
+          "artistList": [
+            "葵木ゴウ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36499486/36499486.92834129",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ゆーと"
+            }
+          ]
+        },
+        {
+          "order": 80,
+          "contentId": "sm34535947",
+          "title": "あなたの夜が明けるまで",
+          "artistList": [
+            "傘村トータ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34535947/34535947.68322",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(13)",
+              "user": "ゆーと"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "C1",

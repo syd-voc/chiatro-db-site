@@ -4002,6 +4002,61 @@
       "startTime": "2019-09-26T19:00:00+09:00",
       "viewCounter": 131594,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm27188969",
+      "title": "Contrast",
+      "artist": "nakano4",
+      "artistList": [
+        "nakano4"
+      ],
+      "startTime": "2015-09-19T20:23:00+09:00",
+      "viewCounter": 261434,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm40324710",
+      "title": "銀河電燈",
+      "artist": "ナユタン星人",
+      "artistList": [
+        "ナユタン星人"
+      ],
+      "startTime": "2022-04-16T14:09:18+09:00",
+      "viewCounter": 80361,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35014706",
+      "title": "Nightscape",
+      "artist": "R Sound Design",
+      "artistList": [
+        "R Sound Design"
+      ],
+      "startTime": "2019-04-23T20:20:03+09:00",
+      "viewCounter": 251821,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm32970461",
+      "title": "アンダーグラウンドと地生魚",
+      "artist": "シャノン",
+      "artistList": [
+        "シャノン"
+      ],
+      "startTime": "2018-03-30T19:13:00+09:00",
+      "viewCounter": 67141,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm42578988",
+      "title": "ネ　土　会　ェ　貝　南　犬　☆　カ　ゞ　ん　I　よ　″　る　ノ　D　A　!!｡",
+      "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ",
+      "artistList": [
+        "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ"
+      ],
+      "startTime": "2023-08-05T05:25:02+09:00",
+      "viewCounter": 585512,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -4052,8 +4107,8 @@
     },
     {
       "artist": "ナユタン星人",
-      "correctCount": 4,
-      "correctSongCount": 4
+      "correctCount": 5,
+      "correctSongCount": 5
     },
     {
       "artist": "ryo",
@@ -4332,8 +4387,8 @@
     },
     {
       "artist": "シャノン",
-      "correctCount": 4,
-      "correctSongCount": 2
+      "correctCount": 5,
+      "correctSongCount": 3
     },
     {
       "artist": "◈*ゆくえわっと",
@@ -4722,8 +4777,8 @@
     },
     {
       "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "Ayase",
@@ -4872,11 +4927,16 @@
     },
     {
       "artist": "nakano4",
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "artist": "ワンダフル★オポチュニティ！",
       "correctCount": 1,
       "correctSongCount": 1
     },
     {
-      "artist": "ワンダフル★オポチュニティ！",
+      "artist": "R Sound Design",
       "correctCount": 1,
       "correctSongCount": 1
     }
@@ -4884,8 +4944,8 @@
   "eraStats": [
     {
       "era": "2019",
-      "correctCount": 31,
-      "correctSongCount": 25
+      "correctCount": 32,
+      "correctSongCount": 26
     },
     {
       "era": "2016",
@@ -4899,8 +4959,8 @@
     },
     {
       "era": "2018",
-      "correctCount": 32,
-      "correctSongCount": 26
+      "correctCount": 33,
+      "correctSongCount": 27
     },
     {
       "era": "2014",
@@ -4909,8 +4969,8 @@
     },
     {
       "era": "2022",
-      "correctCount": 49,
-      "correctSongCount": 30
+      "correctCount": 50,
+      "correctSongCount": 31
     },
     {
       "era": "2010",
@@ -4924,8 +4984,8 @@
     },
     {
       "era": "2015",
-      "correctCount": 15,
-      "correctSongCount": 13
+      "correctCount": 16,
+      "correctSongCount": 14
     },
     {
       "era": "2007-2008",
@@ -4939,8 +4999,8 @@
     },
     {
       "era": "2023",
-      "correctCount": 58,
-      "correctSongCount": 44
+      "correctCount": 59,
+      "correctSongCount": 45
     },
     {
       "era": "2021",
@@ -4983,14 +5043,14 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 18,
-      "correctSongCount": 18
+      "correctCount": 20,
+      "correctSongCount": 20
     },
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 60,
-      "correctSongCount": 49
+      "correctCount": 62,
+      "correctSongCount": 51
     },
     {
       "range": "30-50万",
@@ -5001,8 +5061,8 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 89,
-      "correctSongCount": 63
+      "correctCount": 90,
+      "correctSongCount": 64
     },
     {
       "range": "100-200万",
@@ -7213,18 +7273,225 @@
       "contentId": "sm35731057",
       "startTime": 1569492000000,
       "viewCounter": 131594
+    },
+    {
+      "title": "Contrast",
+      "contentId": "sm27188969",
+      "startTime": 1442661780000,
+      "viewCounter": 261434
+    },
+    {
+      "title": "銀河電燈",
+      "contentId": "sm40324710",
+      "startTime": 1650085758000,
+      "viewCounter": 80361
+    },
+    {
+      "title": "Nightscape",
+      "contentId": "sm35014706",
+      "startTime": 1556018403000,
+      "viewCounter": 251821
+    },
+    {
+      "title": "アンダーグラウンドと地生魚",
+      "contentId": "sm32970461",
+      "startTime": 1522404780000,
+      "viewCounter": 67141
+    },
+    {
+      "title": "ネ　土　会　ェ　貝　南　犬　☆　カ　ゞ　ん　I　よ　″　る　ノ　D　A　!!｡",
+      "contentId": "sm42578988",
+      "startTime": 1691180702000,
+      "viewCounter": 585512
     }
   ],
   "summary": {
-    "totalAnswers": 719,
-    "okAnswers": 486,
-    "ngAnswers": 226,
-    "participatedQuizCount": 108,
-    "winQuizCount": 95,
+    "totalAnswers": 726,
+    "okAnswers": 491,
+    "ngAnswers": 228,
+    "participatedQuizCount": 109,
+    "winQuizCount": 96,
     "loseQuizCount": 7,
-    "medianViews": 1087102
+    "medianViews": 1061853
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "A",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 4,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 4,
+          "contentId": "sm27188969",
+          "title": "Contrast",
+          "artistList": [
+            "nakano4"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27188969/27188969",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "最強の私"
+            }
+          ]
+        },
+        {
+          "order": 13,
+          "contentId": "sm40324710",
+          "title": "銀河電燈",
+          "artistList": [
+            "ナユタン星人"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40324710/40324710.51963119",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "最強の私"
+            }
+          ]
+        },
+        {
+          "order": 17,
+          "contentId": "sm35014706",
+          "title": "Nightscape",
+          "artistList": [
+            "R Sound Design"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35014706/35014706.35317",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "最強の私"
+            }
+          ]
+        },
+        {
+          "order": 20,
+          "contentId": "sm23242071",
+          "title": "夜の帳が落ちる",
+          "artistList": [
+            "バルーン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23242071/23242071",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "かなくり"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "ぬーん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "最強の私"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "世界のYAMADA"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "RRR"
+            }
+          ]
+        },
+        {
+          "order": 39,
+          "contentId": "sm35665699",
+          "title": "鬼の居ぬ間に",
+          "artistList": [
+            "羽生まゐご"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35665699/35665699.65541457",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "最強の私"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "なごん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "にーも"
+            }
+          ]
+        },
+        {
+          "order": 45,
+          "contentId": "sm32970461",
+          "title": "アンダーグラウンドと地生魚",
+          "artistList": [
+            "シャノン"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32970461/32970461",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "最強の私"
+            }
+          ]
+        },
+        {
+          "order": 47,
+          "contentId": "sm42578988",
+          "title": "ネ　土　会　ェ　貝　南　犬　☆　カ　ゞ　ん　I　よ　″　る　ノ　D　A　!!｡",
+          "artistList": [
+            "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42578988/42578988.40335069",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(4)",
+              "user": "最強の私"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "A",
@@ -8049,7 +8316,7 @@
           "contentId": "sm41952281",
           "title": "tougenkyo",
           "artistList": [
-            "DARAKU"
+            "daraku"
           ],
           "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41952281/41952281.63280390",
           "tokens": [

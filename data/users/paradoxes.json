@@ -3040,6 +3040,61 @@
       "startTime": "2025-08-21T19:00:00+09:00",
       "viewCounter": 166326,
       "correctCount": 1
+    },
+    {
+      "contentId": "sm1937053",
+      "title": "クローバー♣クラブ",
+      "artist": "ゆうゆ",
+      "artistList": [
+        "ゆうゆ"
+      ],
+      "startTime": "2008-01-03T12:54:23+09:00",
+      "viewCounter": 1185058,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm31944900",
+      "title": "深昏睡",
+      "artist": "春野",
+      "artistList": [
+        "春野"
+      ],
+      "startTime": "2017-09-18T19:00:00+09:00",
+      "viewCounter": 496900,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm44044139",
+      "title": "echo",
+      "artist": "higma",
+      "artistList": [
+        "higma"
+      ],
+      "startTime": "2024-08-31T01:39:00+09:00",
+      "viewCounter": 120516,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm41714264",
+      "title": "画脂鏤氷",
+      "artist": "かんてゐく",
+      "artistList": [
+        "かんてゐく"
+      ],
+      "startTime": "2023-01-28T19:10:02+09:00",
+      "viewCounter": 439229,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm20296308",
+      "title": "ブリキノダンス",
+      "artist": "日向電工",
+      "artistList": [
+        "日向電工"
+      ],
+      "startTime": "2013-03-10T17:26:53+09:00",
+      "viewCounter": 5197072,
+      "correctCount": 1
     }
   ],
   "artistStats": [
@@ -3345,8 +3400,8 @@
     },
     {
       "artist": "かんてゐく",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "artist": "GYARI",
@@ -3842,6 +3897,26 @@
       "artist": "いち野",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "ゆうゆ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "春野",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "higma",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "日向電工",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -3862,13 +3937,13 @@
     },
     {
       "era": "2017",
-      "correctCount": 17,
-      "correctSongCount": 14
+      "correctCount": 18,
+      "correctSongCount": 15
     },
     {
       "era": "2023",
-      "correctCount": 37,
-      "correctSongCount": 32
+      "correctCount": 38,
+      "correctSongCount": 33
     },
     {
       "era": "2014",
@@ -3887,8 +3962,8 @@
     },
     {
       "era": "2007-2008",
-      "correctCount": 14,
-      "correctSongCount": 12
+      "correctCount": 15,
+      "correctSongCount": 13
     },
     {
       "era": "2022",
@@ -3902,8 +3977,8 @@
     },
     {
       "era": "2024",
-      "correctCount": 37,
-      "correctSongCount": 32
+      "correctCount": 38,
+      "correctSongCount": 33
     },
     {
       "era": "2011",
@@ -3927,8 +4002,8 @@
     },
     {
       "era": "2013",
-      "correctCount": 12,
-      "correctSongCount": 10
+      "correctCount": 13,
+      "correctSongCount": 11
     },
     {
       "era": "2025-",
@@ -3952,14 +4027,14 @@
     {
       "range": "10-30万",
       "order": 2,
-      "correctCount": 50,
-      "correctSongCount": 47
+      "correctCount": 51,
+      "correctSongCount": 48
     },
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 31,
-      "correctSongCount": 26
+      "correctCount": 33,
+      "correctSongCount": 28
     },
     {
       "range": "50-100万",
@@ -3970,8 +4045,8 @@
     {
       "range": "100-200万",
       "order": 5,
-      "correctCount": 57,
-      "correctSongCount": 51
+      "correctCount": 58,
+      "correctSongCount": 52
     },
     {
       "range": "200-300万",
@@ -3988,8 +4063,8 @@
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 26,
-      "correctSongCount": 17
+      "correctCount": 27,
+      "correctSongCount": 18
     },
     {
       "range": "1000万-",
@@ -5648,18 +5723,207 @@
       "contentId": "sm45315642",
       "startTime": 1755770400000,
       "viewCounter": 166326
+    },
+    {
+      "title": "クローバー♣クラブ",
+      "contentId": "sm1937053",
+      "startTime": 1199332463000,
+      "viewCounter": 1185058
+    },
+    {
+      "title": "深昏睡",
+      "contentId": "sm31944900",
+      "startTime": 1505728800000,
+      "viewCounter": 496900
+    },
+    {
+      "title": "echo",
+      "contentId": "sm44044139",
+      "startTime": 1725035940000,
+      "viewCounter": 120516
+    },
+    {
+      "title": "画脂鏤氷",
+      "contentId": "sm41714264",
+      "startTime": 1674900602000,
+      "viewCounter": 439229
+    },
+    {
+      "title": "ブリキノダンス",
+      "contentId": "sm20296308",
+      "startTime": 1362904013000,
+      "viewCounter": 5197072
     }
   ],
   "summary": {
-    "totalAnswers": 407,
-    "okAnswers": 323,
-    "ngAnswers": 84,
-    "participatedQuizCount": 67,
-    "winQuizCount": 63,
+    "totalAnswers": 414,
+    "okAnswers": 328,
+    "ngAnswers": 86,
+    "participatedQuizCount": 68,
+    "winQuizCount": 64,
     "loseQuizCount": 0,
-    "medianViews": 904106
+    "medianViews": 902626
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 299,
+      "group": "D1",
+      "date": "2026-05-15",
+      "ok": 5,
+      "ng": 2,
+      "winRank": 2,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 1,
+          "contentId": "sm45977001",
+          "title": "ポルターガイスト",
+          "artistList": [
+            "Noz."
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45977001/45977001.58048109",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "paradoxes"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "きょうぼく"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "N氏"
+            }
+          ]
+        },
+        {
+          "order": 11,
+          "contentId": "sm1937053",
+          "title": "クローバー♣クラブ",
+          "artistList": [
+            "ゆうゆ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1937053/1937053",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "paradoxes"
+            }
+          ]
+        },
+        {
+          "order": 17,
+          "contentId": "sm40126515",
+          "title": "ジレンマ",
+          "artistList": [
+            "DECO*27"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40126515/40126515.28165848",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "777"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "paradoxes"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "惟月"
+            }
+          ]
+        },
+        {
+          "order": 36,
+          "contentId": "sm31944900",
+          "title": "深昏睡",
+          "artistList": [
+            "春野"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31944900/31944900",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "paradoxes"
+            }
+          ]
+        },
+        {
+          "order": 43,
+          "contentId": "sm44044139",
+          "title": "echo",
+          "artistList": [
+            "higma"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44044139/44044139.10057329",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "paradoxes"
+            }
+          ]
+        },
+        {
+          "order": 47,
+          "contentId": "sm41714264",
+          "title": "画脂鏤氷",
+          "artistList": [
+            "かんてゐく"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41714264/41714264.25471984",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "paradoxes"
+            }
+          ]
+        },
+        {
+          "order": 48,
+          "contentId": "sm20296308",
+          "title": "ブリキノダンス",
+          "artistList": [
+            "日向電工"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20296308/20296308",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(2)",
+              "user": "paradoxes"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 298,
       "group": "D1",
