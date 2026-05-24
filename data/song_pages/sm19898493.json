@@ -11,7 +11,7 @@
     "startTime": "2013-01-23T19:09:48+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19898493/19898493",
     "userId": 1480332,
-    "viewCounter": 69258,
+    "viewCounter": 69272,
     "artist": [
       "におP"
     ],
@@ -31,14 +31,21 @@
   },
   "histories": [
     {
+      "date": "2026-05-22",
+      "quizNo": 300,
+      "group": "A",
+      "order": 37,
+      "winner": "影山"
+    },
+    {
       "date": "2025-12-27",
       "quizNo": 282,
       "group": "C1",
       "order": 22
     }
   ],
-  "appearanceCount": 1,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 2,
+  "correctCount": 1,
+  "accuracy": 50,
   "anotherVersions": []
 }

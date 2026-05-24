@@ -6,12 +6,12 @@
     "commentCounter": 2094,
     "lengthSeconds": 180,
     "likeCounter": 98,
-    "mylistCounter": 5548,
+    "mylistCounter": 5549,
     "rank": 121,
     "startTime": "2015-01-23T20:57:38+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25409745/25409745",
     "userId": 39264628,
-    "viewCounter": 163582,
+    "viewCounter": 163611,
     "artist": [
       "ムシぴ"
     ],
@@ -34,6 +34,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-22",
+      "quizNo": 300,
+      "group": "A",
+      "order": 60,
+      "winner": "影山"
+    },
     {
       "date": "2026-03-20",
       "quizNo": 291,
@@ -82,8 +89,8 @@
       "winner": "ぬーん"
     }
   ],
-  "appearanceCount": 7,
-  "correctCount": 5,
-  "accuracy": 71,
+  "appearanceCount": 8,
+  "correctCount": 6,
+  "accuracy": 75,
   "anotherVersions": []
 }

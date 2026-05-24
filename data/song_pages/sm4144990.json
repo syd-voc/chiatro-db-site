@@ -6,12 +6,12 @@
     "commentCounter": 7793,
     "lengthSeconds": 252,
     "likeCounter": 115,
-    "mylistCounter": 8005,
+    "mylistCounter": 8006,
     "rank": 201,
     "startTime": "2008-08-01T05:35:06+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/4144990/4144990",
     "userId": 1100938,
-    "viewCounter": 326796,
+    "viewCounter": 326851,
     "artist": [
       "ナタP"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-23",
+      "quizNo": 300,
+      "group": "B",
+      "order": 34,
+      "winner": "しょうま"
+    },
     {
       "date": "2025-06-21",
       "quizNo": 255,
@@ -64,8 +71,8 @@
       "order": 38
     }
   ],
-  "appearanceCount": 5,
-  "correctCount": 2,
-  "accuracy": 40,
+  "appearanceCount": 6,
+  "correctCount": 3,
+  "accuracy": 50,
   "anotherVersions": []
 }

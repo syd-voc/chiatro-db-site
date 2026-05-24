@@ -6,12 +6,12 @@
     "commentCounter": 10121,
     "lengthSeconds": 311,
     "likeCounter": 268,
-    "mylistCounter": 17642,
+    "mylistCounter": 17643,
     "rank": 108,
     "startTime": "2011-08-07T00:25:55+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15234093/15234093",
     "userId": 308936,
-    "viewCounter": 480779,
+    "viewCounter": 480911,
     "artist": [
       "OSTER project"
     ],
@@ -29,6 +29,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-22",
+      "quizNo": 300,
+      "group": "A",
+      "order": 25,
+      "winner": "ゲオス"
+    },
+    {
+      "date": "2026-05-22",
+      "quizNo": 300,
+      "group": "C1",
+      "order": 32,
+      "winner": "きぐな"
+    },
     {
       "date": "2026-01-10",
       "quizNo": 283,
@@ -115,8 +129,8 @@
       "winner": "まつせ"
     }
   ],
-  "appearanceCount": 13,
-  "correctCount": 8,
-  "accuracy": 62,
+  "appearanceCount": 15,
+  "correctCount": 10,
+  "accuracy": 67,
   "anotherVersions": []
 }

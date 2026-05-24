@@ -11,7 +11,7 @@
     "startTime": "2015-06-05T20:30:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26416613/26416613",
     "userId": 2721625,
-    "viewCounter": 82362,
+    "viewCounter": 82403,
     "artist": [
       "ふわりP"
     ],
@@ -32,14 +32,21 @@
   },
   "histories": [
     {
+      "date": "2026-05-22",
+      "quizNo": 300,
+      "group": "C1",
+      "order": 94,
+      "winner": "HAN"
+    },
+    {
       "date": "2025-10-24",
       "quizNo": 273,
       "group": "D",
       "order": 30
     }
   ],
-  "appearanceCount": 1,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 2,
+  "correctCount": 1,
+  "accuracy": 50,
   "anotherVersions": []
 }

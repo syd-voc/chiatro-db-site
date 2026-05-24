@@ -11,7 +11,7 @@
     "startTime": "2022-02-08T00:00:03+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40007153/40007153.94687488",
     "userId": 7435497,
-    "viewCounter": 44199,
+    "viewCounter": 44223,
     "artist": [
       "ぷにまる"
     ],
@@ -32,6 +32,12 @@
   },
   "histories": [
     {
+      "date": "2026-05-22",
+      "quizNo": 300,
+      "group": "D1",
+      "order": 10
+    },
+    {
       "date": "2025-01-31",
       "quizNo": 235,
       "group": "D",
@@ -51,8 +57,8 @@
       "winner": "うつ"
     }
   ],
-  "appearanceCount": 3,
+  "appearanceCount": 4,
   "correctCount": 1,
-  "accuracy": 33,
+  "accuracy": 25,
   "anotherVersions": []
 }

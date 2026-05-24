@@ -6,12 +6,12 @@
     "commentCounter": 3779,
     "lengthSeconds": 244,
     "likeCounter": 113,
-    "mylistCounter": 6279,
+    "mylistCounter": 6278,
     "rank": 339,
     "startTime": "2011-02-01T22:47:24+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13471322/13471322",
     "userId": 1270221,
-    "viewCounter": 142061,
+    "viewCounter": 142090,
     "artist": [
       "もふ@"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-23",
+      "quizNo": 300,
+      "group": "C2",
+      "order": 58,
+      "winner": "あざらし"
+    },
     {
       "date": "2026-05-15",
       "quizNo": 299,
@@ -59,8 +66,8 @@
       "order": 64
     }
   ],
-  "appearanceCount": 4,
-  "correctCount": 3,
-  "accuracy": 75,
+  "appearanceCount": 5,
+  "correctCount": 4,
+  "accuracy": 80,
   "anotherVersions": []
 }

@@ -11,7 +11,7 @@
     "startTime": "2016-04-23T22:19:38+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28696493/28696493",
     "userId": 25646141,
-    "viewCounter": 404513,
+    "viewCounter": 404783,
     "artist": [
       "*Luna"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-22",
+      "quizNo": 300,
+      "group": "C1",
+      "order": 83,
+      "winner": "トラノオ"
+    },
     {
       "date": "2026-04-03",
       "quizNo": 293,
@@ -217,8 +224,8 @@
       "winner": "なごん"
     }
   ],
-  "appearanceCount": 27,
-  "correctCount": 24,
+  "appearanceCount": 28,
+  "correctCount": 25,
   "accuracy": 89,
   "anotherVersions": []
 }

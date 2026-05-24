@@ -6,12 +6,12 @@
     "commentCounter": 971,
     "lengthSeconds": 241,
     "likeCounter": 10,
-    "mylistCounter": 4095,
+    "mylistCounter": 4096,
     "rank": 277,
     "startTime": "2014-04-04T16:52:50+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23252690/23252690",
     "userId": 36719116,
-    "viewCounter": 84623,
+    "viewCounter": 84640,
     "artist": [
       "あばば"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-23",
+      "quizNo": 300,
+      "group": "C2",
+      "order": 15
+    },
     {
       "date": "2026-04-11",
       "quizNo": 294,
@@ -76,8 +82,8 @@
       "order": 93
     }
   ],
-  "appearanceCount": 7,
+  "appearanceCount": 8,
   "correctCount": 2,
-  "accuracy": 29,
+  "accuracy": 25,
   "anotherVersions": []
 }

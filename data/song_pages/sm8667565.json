@@ -6,12 +6,12 @@
     "commentCounter": 3680,
     "lengthSeconds": 155,
     "likeCounter": 303,
-    "mylistCounter": 11630,
+    "mylistCounter": 11632,
     "rank": 153,
     "startTime": "2009-10-31T15:10:02+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8667565/8667565",
     "userId": 14270239,
-    "viewCounter": 372524,
+    "viewCounter": 372639,
     "artist": [
       "くちばしP"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-22",
+      "quizNo": 300,
+      "group": "C1",
+      "order": 52,
+      "winner": "すだち"
+    },
+    {
+      "date": "2026-05-22",
+      "quizNo": 300,
+      "group": "D1",
+      "order": 6
+    },
     {
       "date": "2025-12-06",
       "quizNo": 279,
@@ -58,8 +71,8 @@
       "winner": "フォルテ"
     }
   ],
-  "appearanceCount": 4,
-  "correctCount": 3,
-  "accuracy": 75,
+  "appearanceCount": 6,
+  "correctCount": 4,
+  "accuracy": 67,
   "anotherVersions": []
 }

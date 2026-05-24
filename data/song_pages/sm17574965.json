@@ -6,12 +6,12 @@
     "commentCounter": 790,
     "lengthSeconds": 259,
     "likeCounter": 95,
-    "mylistCounter": 2843,
+    "mylistCounter": 2844,
     "rank": 650,
     "startTime": "2012-04-17T20:03:13+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/17574965/17574965",
     "userId": 4039104,
-    "viewCounter": 71542,
+    "viewCounter": 71548,
     "artist": [
       "U-ske"
     ],
@@ -31,14 +31,21 @@
   },
   "histories": [
     {
+      "date": "2026-05-22",
+      "quizNo": 300,
+      "group": "A",
+      "order": 1,
+      "winner": "ぬーん"
+    },
+    {
       "date": "2023-06-30",
       "quizNo": 165,
       "group": "B",
       "order": 76
     }
   ],
-  "appearanceCount": 1,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 2,
+  "correctCount": 1,
+  "accuracy": 50,
   "anotherVersions": []
 }

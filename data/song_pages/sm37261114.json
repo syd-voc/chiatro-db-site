@@ -11,7 +11,7 @@
     "startTime": "2020-07-28T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37261114/37261114.14786632",
     "userId": 96629223,
-    "viewCounter": 74556,
+    "viewCounter": 74580,
     "artist": [
       "粗品"
     ],
@@ -30,6 +30,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-23",
+      "quizNo": 300,
+      "group": "C2",
+      "order": 18,
+      "winner": "とある逢瀬"
+    },
     {
       "date": "2026-04-11",
       "quizNo": 294,
@@ -86,8 +93,8 @@
       "winner": "あー"
     }
   ],
-  "appearanceCount": 8,
-  "correctCount": 8,
+  "appearanceCount": 9,
+  "correctCount": 9,
   "accuracy": 100,
   "anotherVersions": []
 }

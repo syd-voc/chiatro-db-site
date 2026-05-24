@@ -11,7 +11,7 @@
     "startTime": "2014-07-25T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24085385/24085385",
     "userId": 176618,
-    "viewCounter": 154326,
+    "viewCounter": 154364,
     "artist": [
       "鬱P"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-22",
+      "quizNo": 300,
+      "group": "C1",
+      "order": 26,
+      "winner": "トラノオ"
+    },
     {
       "date": "2025-10-04",
       "quizNo": 270,
@@ -58,8 +65,8 @@
       "winner": "まつせ"
     }
   ],
-  "appearanceCount": 4,
-  "correctCount": 3,
-  "accuracy": 75,
+  "appearanceCount": 5,
+  "correctCount": 4,
+  "accuracy": 80,
   "anotherVersions": []
 }

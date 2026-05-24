@@ -6,12 +6,12 @@
     "commentCounter": 2525,
     "lengthSeconds": 308,
     "likeCounter": 43,
-    "mylistCounter": 4199,
+    "mylistCounter": 4200,
     "rank": 270,
     "startTime": "2014-08-25T21:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24319049/24319049",
     "userId": 3343223,
-    "viewCounter": 114761,
+    "viewCounter": 114790,
     "artist": [
       "40mP"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-23",
+      "quizNo": 300,
+      "group": "B",
+      "order": 13
+    },
     {
       "date": "2025-02-14",
       "quizNo": 237,
@@ -58,8 +64,8 @@
       "winner": "yu-na*"
     }
   ],
-  "appearanceCount": 4,
+  "appearanceCount": 5,
   "correctCount": 3,
-  "accuracy": 75,
+  "accuracy": 60,
   "anotherVersions": []
 }

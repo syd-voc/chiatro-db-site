@@ -11,7 +11,7 @@
     "startTime": "2010-09-29T02:37:51+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12263971/12263971.55016527",
     "userId": 6025804,
-    "viewCounter": 220640,
+    "viewCounter": 220655,
     "artist": [
       "ライブP"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-22",
+      "quizNo": 300,
+      "group": "D1",
+      "order": 48
+    },
     {
       "date": "2026-04-18",
       "quizNo": 295,
@@ -118,8 +124,8 @@
       "winner": "みせいねん"
     }
   ],
-  "appearanceCount": 13,
+  "appearanceCount": 14,
   "correctCount": 11,
-  "accuracy": 85,
+  "accuracy": 79,
   "anotherVersions": []
 }

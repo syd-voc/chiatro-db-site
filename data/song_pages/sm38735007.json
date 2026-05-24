@@ -6,12 +6,12 @@
     "commentCounter": 338,
     "lengthSeconds": 206,
     "likeCounter": 561,
-    "mylistCounter": 435,
+    "mylistCounter": 436,
     "rank": 550,
     "startTime": "2021-05-14T20:05:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38735007/38735007.18578685",
     "userId": 176618,
-    "viewCounter": 44423,
+    "viewCounter": 44475,
     "artist": [
       "鬱P"
     ],
@@ -32,6 +32,13 @@
   },
   "histories": [
     {
+      "date": "2026-05-22",
+      "quizNo": 300,
+      "group": "A",
+      "order": 14,
+      "winner": "と"
+    },
+    {
       "date": "2026-03-21",
       "quizNo": 291,
       "group": "B",
@@ -45,8 +52,8 @@
       "winner": "ハガネ"
     }
   ],
-  "appearanceCount": 2,
-  "correctCount": 1,
-  "accuracy": 50,
+  "appearanceCount": 3,
+  "correctCount": 2,
+  "accuracy": 67,
   "anotherVersions": []
 }

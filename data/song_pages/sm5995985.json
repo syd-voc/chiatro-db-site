@@ -11,7 +11,7 @@
     "startTime": "2009-01-31T03:09:59+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/5995985/5995985",
     "userId": 101303,
-    "viewCounter": 116510,
+    "viewCounter": 116533,
     "artist": [
       "19's Sound Factory"
     ],
@@ -32,6 +32,13 @@
   },
   "histories": [
     {
+      "date": "2026-05-22",
+      "quizNo": 300,
+      "group": "A",
+      "order": 21,
+      "winner": "ゲオス"
+    },
+    {
       "date": "2025-09-06",
       "quizNo": 266,
       "group": "B",
@@ -50,8 +57,8 @@
       "order": 39
     }
   ],
-  "appearanceCount": 3,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 4,
+  "correctCount": 1,
+  "accuracy": 25,
   "anotherVersions": []
 }

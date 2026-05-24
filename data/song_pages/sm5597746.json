@@ -11,7 +11,7 @@
     "startTime": "2008-12-20T00:44:39+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/5597746/5597746",
     "userId": 1075175,
-    "viewCounter": 143408,
+    "viewCounter": 143418,
     "artist": [
       "デッドボールP"
     ],
@@ -32,14 +32,21 @@
   },
   "histories": [
     {
+      "date": "2026-05-22",
+      "quizNo": 300,
+      "group": "A",
+      "order": 38,
+      "winner": "fuji#"
+    },
+    {
       "date": "2025-02-08",
       "quizNo": 236,
       "group": "C",
       "order": 66
     }
   ],
-  "appearanceCount": 1,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 2,
+  "correctCount": 1,
+  "accuracy": 50,
   "anotherVersions": []
 }

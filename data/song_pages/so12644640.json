@@ -6,12 +6,12 @@
     "channelId": 189,
     "commentCounter": 11661,
     "lengthSeconds": 360,
-    "likeCounter": 231,
-    "mylistCounter": 19542,
+    "likeCounter": 232,
+    "mylistCounter": 19541,
     "rank": 93,
     "startTime": "2010-11-04T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12644640/12644640",
-    "viewCounter": 515852,
+    "viewCounter": 515864,
     "artist": [
       "まらしぃ",
       "流星P"
@@ -32,6 +32,13 @@
     "userId": null
   },
   "histories": [
+    {
+      "date": "2026-05-22",
+      "quizNo": 300,
+      "group": "C1",
+      "order": 76,
+      "winner": "ねこたろー"
+    },
     {
       "date": "2026-04-18",
       "quizNo": 295,
@@ -129,8 +136,8 @@
       "order": 26
     }
   ],
-  "appearanceCount": 15,
-  "correctCount": 7,
-  "accuracy": 47,
+  "appearanceCount": 16,
+  "correctCount": 8,
+  "accuracy": 50,
   "anotherVersions": []
 }

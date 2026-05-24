@@ -11,7 +11,7 @@
     "startTime": "2014-06-21T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23826634/23826634",
     "userId": 25761100,
-    "viewCounter": 187240,
+    "viewCounter": 187266,
     "artist": [
       "伊東歌詞太郎"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-23",
+      "quizNo": 300,
+      "group": "C2",
+      "order": 25
+    },
     {
       "date": "2026-01-10",
       "quizNo": 283,
@@ -105,8 +111,8 @@
       "winner": "yu-na*"
     }
   ],
-  "appearanceCount": 11,
+  "appearanceCount": 12,
   "correctCount": 9,
-  "accuracy": 82,
+  "accuracy": 75,
   "anotherVersions": []
 }

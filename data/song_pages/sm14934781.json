@@ -11,7 +11,7 @@
     "startTime": "2011-07-05T19:49:15+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14934781/14934781",
     "userId": 1251631,
-    "viewCounter": 317724,
+    "viewCounter": 317731,
     "artist": [
       "ぼいじゃあ"
     ],
@@ -30,6 +30,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-22",
+      "quizNo": 300,
+      "group": "C1",
+      "order": 11,
+      "winner": "クロ"
+    },
     {
       "date": "2025-08-15",
       "quizNo": 263,
@@ -92,8 +99,8 @@
       "winner": "フォルテ"
     }
   ],
-  "appearanceCount": 9,
-  "correctCount": 8,
-  "accuracy": 89,
+  "appearanceCount": 10,
+  "correctCount": 9,
+  "accuracy": 90,
   "anotherVersions": []
 }
