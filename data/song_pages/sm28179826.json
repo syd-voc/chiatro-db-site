@@ -6,12 +6,12 @@
     "commentCounter": 736,
     "lengthSeconds": 222,
     "likeCounter": 72,
-    "mylistCounter": 1379,
+    "mylistCounter": 1381,
     "rank": 311,
     "startTime": "2016-02-09T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28179826/28179826",
     "userId": 35275687,
-    "viewCounter": 78818,
+    "viewCounter": 78835,
     "artist": [
       "ねじ式"
     ],
@@ -32,6 +32,13 @@
   },
   "histories": [
     {
+      "date": "2026-05-30",
+      "quizNo": 301,
+      "group": "B",
+      "order": 25,
+      "winner": "クロ"
+    },
+    {
       "date": "2026-04-17",
       "quizNo": 295,
       "group": "B",
@@ -51,8 +58,8 @@
       "order": 67
     }
   ],
-  "appearanceCount": 3,
-  "correctCount": 1,
-  "accuracy": 33,
+  "appearanceCount": 4,
+  "correctCount": 2,
+  "accuracy": 50,
   "anotherVersions": []
 }

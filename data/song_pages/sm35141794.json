@@ -11,7 +11,7 @@
     "startTime": "2019-05-19T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35141794/35141794.1669",
     "userId": 45838074,
-    "viewCounter": 95591,
+    "viewCounter": 95606,
     "artist": [
       "Yasuha."
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-29",
+      "quizNo": 301,
+      "group": "A",
+      "order": 52,
+      "winner": "RRR"
+    },
     {
       "date": "2026-04-18",
       "quizNo": 295,
@@ -110,8 +117,8 @@
       "order": 24
     }
   ],
-  "appearanceCount": 12,
-  "correctCount": 8,
-  "accuracy": 67,
+  "appearanceCount": 13,
+  "correctCount": 9,
+  "accuracy": 69,
   "anotherVersions": []
 }

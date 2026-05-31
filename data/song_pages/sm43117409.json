@@ -7,11 +7,11 @@
     "lengthSeconds": 231,
     "likeCounter": 264,
     "mylistCounter": 146,
-    "rank": 2001,
+    "rank": 2000,
     "startTime": "2023-12-08T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43117409/43117409.38844489",
     "userId": 121358486,
-    "viewCounter": 12462,
+    "viewCounter": 12488,
     "artist": [
       "Tama(2021〜)",
       "無色透名祭公式"
@@ -36,13 +36,25 @@
   },
   "histories": [
     {
+      "date": "2026-05-29",
+      "quizNo": 301,
+      "group": "C1",
+      "order": 34
+    },
+    {
+      "date": "2026-05-29",
+      "quizNo": 301,
+      "group": "D1",
+      "order": 35
+    },
+    {
       "date": "2024-06-07",
       "quizNo": 211,
       "group": "B",
       "order": 51
     }
   ],
-  "appearanceCount": 1,
+  "appearanceCount": 3,
   "correctCount": 0,
   "accuracy": 0,
   "anotherVersions": [
@@ -56,8 +68,8 @@
       "channelId": 2648319,
       "commentCounter": 261,
       "lengthSeconds": 230,
-      "likeCounter": 1414,
-      "mylistCounter": 645,
+      "likeCounter": 1415,
+      "mylistCounter": 647,
       "startTime": "2023-11-02T22:00:00+09:00",
       "tags": [
         "音楽",
@@ -74,8 +86,8 @@
       "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42899800/42899800.91065560",
       "title": "ニル / 初音ミク",
       "userId": null,
-      "viewCounter": 32013,
-      "rank": 468
+      "viewCounter": 32037,
+      "rank": 465
     }
   ]
 }

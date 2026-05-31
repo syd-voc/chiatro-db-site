@@ -6,12 +6,12 @@
     "commentCounter": 2942,
     "lengthSeconds": 252,
     "likeCounter": 77,
-    "mylistCounter": 4593,
+    "mylistCounter": 4596,
     "rank": 143,
     "startTime": "2015-05-04T18:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26173354/26173354",
     "userId": 25761100,
-    "viewCounter": 228544,
+    "viewCounter": 228591,
     "artist": [
       "伊東歌詞太郎"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-29",
+      "quizNo": 301,
+      "group": "A",
+      "order": 35,
+      "winner": "眠くない人"
+    },
+    {
+      "date": "2026-05-29",
+      "quizNo": 301,
+      "group": "C1",
+      "order": 70
+    },
     {
       "date": "2025-10-10",
       "quizNo": 271,
@@ -103,8 +116,8 @@
       "winner": "おぷち"
     }
   ],
-  "appearanceCount": 11,
-  "correctCount": 5,
-  "accuracy": 45,
+  "appearanceCount": 13,
+  "correctCount": 6,
+  "accuracy": 46,
   "anotherVersions": []
 }

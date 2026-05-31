@@ -11,7 +11,7 @@
     "startTime": "2018-08-17T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33699631/33699631",
     "userId": 53303332,
-    "viewCounter": 41876,
+    "viewCounter": 41883,
     "artist": [
       "ぷろぺら"
     ],
@@ -29,6 +29,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-29",
+      "quizNo": 301,
+      "group": "D1",
+      "order": 36
+    },
     {
       "date": "2025-05-17",
       "quizNo": 250,
@@ -80,8 +86,8 @@
       "order": 62
     }
   ],
-  "appearanceCount": 8,
+  "appearanceCount": 9,
   "correctCount": 2,
-  "accuracy": 25,
+  "accuracy": 22,
   "anotherVersions": []
 }

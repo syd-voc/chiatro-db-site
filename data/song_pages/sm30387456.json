@@ -6,12 +6,12 @@
     "commentCounter": 304,
     "lengthSeconds": 205,
     "likeCounter": 94,
-    "mylistCounter": 1039,
+    "mylistCounter": 1040,
     "rank": 385,
     "startTime": "2017-01-07T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30387456/30387456",
     "userId": 50630311,
-    "viewCounter": 85173,
+    "viewCounter": 85216,
     "artist": [
       "春野"
     ],
@@ -32,6 +32,13 @@
   },
   "histories": [
     {
+      "date": "2026-05-29",
+      "quizNo": 301,
+      "group": "A",
+      "order": 14,
+      "winner": "と"
+    },
+    {
       "date": "2025-06-13",
       "quizNo": 254,
       "group": "B",
@@ -50,8 +57,8 @@
       "order": 72
     }
   ],
-  "appearanceCount": 3,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 4,
+  "correctCount": 1,
+  "accuracy": 25,
   "anotherVersions": []
 }

@@ -6,12 +6,12 @@
     "commentCounter": 2480,
     "lengthSeconds": 235,
     "likeCounter": 35,
-    "mylistCounter": 5343,
+    "mylistCounter": 5342,
     "rank": 405,
     "startTime": "2011-07-12T18:04:23+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14997001/14997001",
     "userId": 4283869,
-    "viewCounter": 114079,
+    "viewCounter": 114093,
     "artist": [
       "ゆよゆっぺ"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-30",
+      "quizNo": 301,
+      "group": "B",
+      "order": 56,
+      "winner": "クロ"
+    },
     {
       "date": "2024-09-14",
       "quizNo": 217,
@@ -52,8 +59,8 @@
       "winner": "とげ"
     }
   ],
-  "appearanceCount": 3,
-  "correctCount": 2,
-  "accuracy": 67,
+  "appearanceCount": 4,
+  "correctCount": 3,
+  "accuracy": 75,
   "anotherVersions": []
 }

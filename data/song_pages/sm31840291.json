@@ -11,7 +11,7 @@
     "startTime": "2017-08-31T06:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31840291/31840291",
     "userId": 2523470,
-    "viewCounter": 89421,
+    "viewCounter": 89450,
     "artist": [
       "ラマーズP"
     ],
@@ -30,6 +30,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-29",
+      "quizNo": 301,
+      "group": "A",
+      "order": 40,
+      "winner": "スライドポテト"
+    },
     {
       "date": "2025-08-02",
       "quizNo": 261,
@@ -63,8 +70,8 @@
       "winner": "ぴーなっつ"
     }
   ],
-  "appearanceCount": 5,
-  "correctCount": 2,
-  "accuracy": 40,
+  "appearanceCount": 6,
+  "correctCount": 3,
+  "accuracy": 50,
   "anotherVersions": []
 }

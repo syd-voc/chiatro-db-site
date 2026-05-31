@@ -6,12 +6,12 @@
     "commentCounter": 3282,
     "lengthSeconds": 315,
     "likeCounter": 98,
-    "mylistCounter": 3737,
-    "rank": 439,
+    "mylistCounter": 3735,
+    "rank": 441,
     "startTime": "2008-09-18T22:51:25+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/4666590/4666590",
     "userId": 330524,
-    "viewCounter": 133960,
+    "viewCounter": 133975,
     "artist": [
       "yanagi"
     ],
@@ -30,6 +30,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-29",
+      "quizNo": 301,
+      "group": "C1",
+      "order": 1,
+      "winner": "なすの惑星"
+    },
     {
       "date": "2025-11-29",
       "quizNo": 278,
@@ -57,8 +64,8 @@
       "winner": "フォルテ"
     }
   ],
-  "appearanceCount": 4,
-  "correctCount": 2,
-  "accuracy": 50,
+  "appearanceCount": 5,
+  "correctCount": 3,
+  "accuracy": 60,
   "anotherVersions": []
 }

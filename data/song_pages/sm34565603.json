@@ -11,7 +11,7 @@
     "startTime": "2019-02-07T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34565603/34565603.77511",
     "userId": 87208347,
-    "viewCounter": 121926,
+    "viewCounter": 121960,
     "artist": [
       "柊キライ"
     ],
@@ -31,14 +31,21 @@
   },
   "histories": [
     {
+      "date": "2026-05-30",
+      "quizNo": 301,
+      "group": "D2",
+      "order": 8,
+      "winner": "ぷれいやあ"
+    },
+    {
       "date": "2022-12-23",
       "quizNo": 139,
       "group": "A",
       "order": 75
     }
   ],
-  "appearanceCount": 1,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 2,
+  "correctCount": 1,
+  "accuracy": 50,
   "anotherVersions": []
 }

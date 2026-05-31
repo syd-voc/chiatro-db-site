@@ -3,15 +3,15 @@
     "song": "魔法少女とチョコレゐト",
     "contentId": "sm40089113",
     "title": "魔法少女とチョコレゐト / 初音ミク",
-    "commentCounter": 12729,
+    "commentCounter": 12732,
     "lengthSeconds": 187,
-    "likeCounter": 41994,
-    "mylistCounter": 26609,
+    "likeCounter": 42032,
+    "mylistCounter": 26633,
     "rank": 4,
     "startTime": "2022-02-25T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40089113/40089113.40112647",
     "userId": 865591,
-    "viewCounter": 5229739,
+    "viewCounter": 5235232,
     "artist": [
       "ピノキオピー"
     ],
@@ -24,11 +24,19 @@
       "VOCALOID伝説入り",
       "ミクオリジナル曲",
       "「META」収録曲",
-      "VOCALOID魔法少女入り"
+      "VOCALOID魔法少女入り",
+      "バレンタインソング"
     ],
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-30",
+      "quizNo": 301,
+      "group": "B",
+      "order": 9,
+      "winner": "よかずき"
+    },
     {
       "date": "2026-05-16",
       "quizNo": 299,
@@ -254,8 +262,8 @@
       "winner": "Takuan"
     }
   ],
-  "appearanceCount": 32,
-  "correctCount": 32,
+  "appearanceCount": 33,
+  "correctCount": 33,
   "accuracy": 100,
   "anotherVersions": []
 }

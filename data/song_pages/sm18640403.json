@@ -7,11 +7,11 @@
     "lengthSeconds": 322,
     "likeCounter": 23,
     "mylistCounter": 2138,
-    "rank": 805,
+    "rank": 806,
     "startTime": "2012-08-17T18:16:41+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18640403/18640403",
     "userId": 11198293,
-    "viewCounter": 62265,
+    "viewCounter": 62288,
     "artist": [
       "触媒ファントムガール"
     ],
@@ -32,6 +32,13 @@
   },
   "histories": [
     {
+      "date": "2026-05-29",
+      "quizNo": 301,
+      "group": "C1",
+      "order": 11,
+      "winner": "そい"
+    },
+    {
       "date": "2025-09-13",
       "quizNo": 267,
       "group": "B",
@@ -44,8 +51,8 @@
       "order": 54
     }
   ],
-  "appearanceCount": 2,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 3,
+  "correctCount": 1,
+  "accuracy": 33,
   "anotherVersions": []
 }

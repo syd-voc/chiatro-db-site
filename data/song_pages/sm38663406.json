@@ -11,7 +11,7 @@
     "startTime": "2021-05-01T18:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38663406/38663406.88342812",
     "userId": 31764541,
-    "viewCounter": 221919,
+    "viewCounter": 222081,
     "artist": [
       "雄之助"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-30",
+      "quizNo": 301,
+      "group": "C2",
+      "order": 50
+    },
+    {
+      "date": "2026-05-30",
+      "quizNo": 301,
+      "group": "D2",
+      "order": 34,
+      "winner": "F4"
+    },
     {
       "date": "2026-02-07",
       "quizNo": 287,
@@ -134,8 +147,8 @@
       "winner": "ぽんぬ"
     }
   ],
-  "appearanceCount": 15,
-  "correctCount": 12,
-  "accuracy": 80,
+  "appearanceCount": 17,
+  "correctCount": 13,
+  "accuracy": 76,
   "anotherVersions": []
 }

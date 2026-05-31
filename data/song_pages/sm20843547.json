@@ -11,7 +11,7 @@
     "startTime": "2013-05-12T17:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20843547/20843547",
     "userId": 2591026,
-    "viewCounter": 167353,
+    "viewCounter": 167385,
     "artist": [
       "れるりり"
     ],
@@ -30,6 +30,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-30",
+      "quizNo": 301,
+      "group": "B",
+      "order": 23,
+      "winner": "クロ"
+    },
     {
       "date": "2025-08-02",
       "quizNo": 261,
@@ -55,8 +62,8 @@
       "order": 49
     }
   ],
-  "appearanceCount": 4,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 5,
+  "correctCount": 1,
+  "accuracy": 20,
   "anotherVersions": []
 }

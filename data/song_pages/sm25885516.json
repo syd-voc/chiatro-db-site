@@ -6,12 +6,12 @@
     "commentCounter": 179,
     "lengthSeconds": 300,
     "likeCounter": 37,
-    "mylistCounter": 761,
-    "rank": 609,
+    "mylistCounter": 763,
+    "rank": 608,
     "startTime": "2015-03-27T21:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25885516/25885516",
     "userId": 27969322,
-    "viewCounter": 31473,
+    "viewCounter": 31483,
     "artist": [
       "teaeye"
     ],
@@ -32,14 +32,21 @@
   },
   "histories": [
     {
+      "date": "2026-05-29",
+      "quizNo": 301,
+      "group": "A",
+      "order": 33,
+      "winner": "ホワイト"
+    },
+    {
       "date": "2025-04-25",
       "quizNo": 247,
       "group": "B",
       "order": 36
     }
   ],
-  "appearanceCount": 1,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 2,
+  "correctCount": 1,
+  "accuracy": 50,
   "anotherVersions": []
 }

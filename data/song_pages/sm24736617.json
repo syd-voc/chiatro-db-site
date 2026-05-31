@@ -11,7 +11,7 @@
     "startTime": "2014-10-20T23:50:21+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24736617/24736617",
     "userId": 59387,
-    "viewCounter": 373360,
+    "viewCounter": 373390,
     "artist": [
       "HoneyWorks"
     ],
@@ -29,6 +29,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-29",
+      "quizNo": 301,
+      "group": "C1",
+      "order": 26,
+      "winner": "HAN"
+    },
     {
       "date": "2026-02-06",
       "quizNo": 287,
@@ -155,8 +162,8 @@
       "winner": "くらうん"
     }
   ],
-  "appearanceCount": 19,
-  "correctCount": 14,
-  "accuracy": 74,
+  "appearanceCount": 20,
+  "correctCount": 15,
+  "accuracy": 75,
   "anotherVersions": []
 }

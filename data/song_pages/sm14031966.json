@@ -11,7 +11,7 @@
     "startTime": "2011-04-01T19:59:11+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14031966/14031966",
     "userId": 6291284,
-    "viewCounter": 55788,
+    "viewCounter": 55793,
     "artist": [
       "デスおはぎ"
     ],
@@ -29,6 +29,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-29",
+      "quizNo": 301,
+      "group": "A",
+      "order": 54
+    },
     {
       "date": "2025-05-30",
       "quizNo": 252,
@@ -49,8 +55,8 @@
       "order": 25
     }
   ],
-  "appearanceCount": 3,
+  "appearanceCount": 4,
   "correctCount": 1,
-  "accuracy": 33,
+  "accuracy": 25,
   "anotherVersions": []
 }

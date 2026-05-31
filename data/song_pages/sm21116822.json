@@ -11,7 +11,7 @@
     "startTime": "2013-06-15T12:59:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21116822/21116822",
     "userId": 2731414,
-    "viewCounter": 189084,
+    "viewCounter": 189106,
     "artist": [
       "アモン"
     ],
@@ -29,6 +29,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-29",
+      "quizNo": 301,
+      "group": "A",
+      "order": 30,
+      "winner": "眠くない人"
+    },
     {
       "date": "2026-01-23",
       "quizNo": 285,
@@ -83,8 +90,8 @@
       "winner": "しるばー"
     }
   ],
-  "appearanceCount": 8,
-  "correctCount": 6,
-  "accuracy": 75,
+  "appearanceCount": 9,
+  "correctCount": 7,
+  "accuracy": 78,
   "anotherVersions": []
 }

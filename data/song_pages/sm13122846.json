@@ -11,7 +11,7 @@
     "startTime": "2010-12-25T12:01:12+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13122846/13122846",
     "userId": 9450851,
-    "viewCounter": 275224,
+    "viewCounter": 275260,
     "artist": [
       "Treow"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-29",
+      "quizNo": 301,
+      "group": "C1",
+      "order": 8,
+      "winner": "きぐな"
+    },
     {
       "date": "2025-12-06",
       "quizNo": 279,
@@ -82,8 +89,8 @@
       "order": 21
     }
   ],
-  "appearanceCount": 8,
-  "correctCount": 2,
-  "accuracy": 25,
+  "appearanceCount": 9,
+  "correctCount": 3,
+  "accuracy": 33,
   "anotherVersions": []
 }

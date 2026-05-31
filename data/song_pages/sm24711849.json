@@ -11,7 +11,7 @@
     "startTime": "2014-10-17T19:56:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24711849/24711849",
     "userId": 31321523,
-    "viewCounter": 69959,
+    "viewCounter": 69971,
     "artist": [
       "tilt-six"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-29",
+      "quizNo": 301,
+      "group": "C1",
+      "order": 52
+    },
     {
       "date": "2025-12-05",
       "quizNo": 279,
@@ -53,8 +59,8 @@
       "winner": "びほーと"
     }
   ],
-  "appearanceCount": 3,
+  "appearanceCount": 4,
   "correctCount": 3,
-  "accuracy": 100,
+  "accuracy": 75,
   "anotherVersions": []
 }

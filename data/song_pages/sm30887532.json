@@ -11,7 +11,7 @@
     "startTime": "2017-03-24T20:15:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30887532/30887532",
     "userId": 29049122,
-    "viewCounter": 89060,
+    "viewCounter": 89079,
     "artist": [
       "想太"
     ],
@@ -26,6 +26,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-29",
+      "quizNo": 301,
+      "group": "A",
+      "order": 13,
+      "winner": "時雨"
+    },
     {
       "date": "2025-05-03",
       "quizNo": 248,
@@ -45,8 +52,8 @@
       "winner": "とげ"
     }
   ],
-  "appearanceCount": 3,
-  "correctCount": 1,
-  "accuracy": 33,
+  "appearanceCount": 4,
+  "correctCount": 2,
+  "accuracy": 50,
   "anotherVersions": []
 }

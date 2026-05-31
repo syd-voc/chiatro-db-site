@@ -11,7 +11,7 @@
     "startTime": "2010-04-23T21:00:28+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10481957/10481957",
     "userId": 176618,
-    "viewCounter": 416023,
+    "viewCounter": 416082,
     "artist": [
       "鬱P"
     ],
@@ -30,6 +30,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-30",
+      "quizNo": 301,
+      "group": "C2",
+      "order": 29
+    },
     {
       "date": "2025-08-29",
       "quizNo": 265,
@@ -89,8 +95,8 @@
       "order": 82
     }
   ],
-  "appearanceCount": 9,
+  "appearanceCount": 10,
   "correctCount": 5,
-  "accuracy": 56,
+  "accuracy": 50,
   "anotherVersions": []
 }

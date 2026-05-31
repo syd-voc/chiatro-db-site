@@ -11,7 +11,7 @@
     "startTime": "2020-03-09T20:30:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36481815/36481815.47620153",
     "userId": 656109,
-    "viewCounter": 51951,
+    "viewCounter": 51972,
     "artist": [
       "カルロス袴田(サイゼP)"
     ],
@@ -30,6 +30,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-29",
+      "quizNo": 301,
+      "group": "A",
+      "order": 78
+    },
     {
       "date": "2025-11-28",
       "quizNo": 278,
@@ -57,8 +63,8 @@
       "order": 82
     }
   ],
-  "appearanceCount": 4,
+  "appearanceCount": 5,
   "correctCount": 2,
-  "accuracy": 50,
+  "accuracy": 40,
   "anotherVersions": []
 }

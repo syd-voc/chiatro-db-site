@@ -6,12 +6,12 @@
     "commentCounter": 1310,
     "lengthSeconds": 211,
     "likeCounter": 773,
-    "mylistCounter": 4828,
+    "mylistCounter": 4829,
     "rank": 101,
     "startTime": "2016-03-25T18:30:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28493065/28493065",
     "userId": 14277060,
-    "viewCounter": 562607,
+    "viewCounter": 562926,
     "artist": [
       "MI8k"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-29",
+      "quizNo": 301,
+      "group": "D1",
+      "order": 68
+    },
     {
       "date": "2026-05-23",
       "quizNo": 300,
@@ -228,8 +234,8 @@
       "winner": "Abbey"
     }
   ],
-  "appearanceCount": 29,
+  "appearanceCount": 30,
   "correctCount": 26,
-  "accuracy": 90,
+  "accuracy": 87,
   "anotherVersions": []
 }

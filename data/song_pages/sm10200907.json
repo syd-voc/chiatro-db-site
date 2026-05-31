@@ -11,7 +11,7 @@
     "startTime": "2010-03-29T07:23:14+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10200907/10200907",
     "userId": 7098424,
-    "viewCounter": 326901,
+    "viewCounter": 326927,
     "artist": [
       "フェイP"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-29",
+      "quizNo": 301,
+      "group": "A",
+      "order": 60,
+      "winner": "スライドポテト"
+    },
     {
       "date": "2024-11-02",
       "quizNo": 224,
@@ -88,8 +95,8 @@
       "order": 1
     }
   ],
-  "appearanceCount": 9,
-  "correctCount": 3,
-  "accuracy": 33,
+  "appearanceCount": 10,
+  "correctCount": 4,
+  "accuracy": 40,
   "anotherVersions": []
 }

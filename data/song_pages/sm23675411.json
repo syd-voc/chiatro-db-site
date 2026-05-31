@@ -6,12 +6,12 @@
     "commentCounter": 2124,
     "lengthSeconds": 222,
     "likeCounter": 445,
-    "mylistCounter": 7499,
+    "mylistCounter": 7500,
     "rank": 133,
     "startTime": "2014-05-31T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23675411/23675411",
     "userId": 5259112,
-    "viewCounter": 495704,
+    "viewCounter": 495889,
     "artist": [
       "カラスヤサボウ"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-29",
+      "quizNo": 301,
+      "group": "C1",
+      "order": 73,
+      "winner": "やま"
+    },
     {
       "date": "2026-04-04",
       "quizNo": 293,
@@ -128,8 +135,8 @@
       "winner": "しるばー"
     }
   ],
-  "appearanceCount": 14,
-  "correctCount": 13,
+  "appearanceCount": 15,
+  "correctCount": 14,
   "accuracy": 93,
   "anotherVersions": []
 }

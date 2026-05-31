@@ -11,7 +11,7 @@
     "startTime": "2018-11-01T18:22:01+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34108482/34108482",
     "userId": 3489219,
-    "viewCounter": 169033,
+    "viewCounter": 169121,
     "artist": [
       "syudou"
     ],
@@ -30,6 +30,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-05-29",
+      "quizNo": 301,
+      "group": "A",
+      "order": 56,
+      "winner": "Takuan"
+    },
     {
       "date": "2025-08-15",
       "quizNo": 263,
@@ -71,8 +78,8 @@
       "winner": "STN"
     }
   ],
-  "appearanceCount": 6,
-  "correctCount": 6,
+  "appearanceCount": 7,
+  "correctCount": 7,
   "accuracy": 100,
   "anotherVersions": []
 }
