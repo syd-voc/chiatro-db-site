@@ -11,7 +11,7 @@
     "startTime": "2011-03-24T23:02:55+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13951439/13951439",
     "userId": 1251631,
-    "viewCounter": 160649,
+    "viewCounter": 160655,
     "artist": [
       "ぼいじゃあ"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-06",
+      "quizNo": 302,
+      "group": "D1",
+      "order": 6
+    },
     {
       "date": "2024-04-13",
       "quizNo": 205,
@@ -59,8 +65,8 @@
       "winner": "ひーた"
     }
   ],
-  "appearanceCount": 4,
+  "appearanceCount": 5,
   "correctCount": 3,
-  "accuracy": 75,
+  "accuracy": 60,
   "anotherVersions": []
 }

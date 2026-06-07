@@ -8,8 +8,8 @@
     "channelId": 2578628,
     "commentCounter": 999,
     "lengthSeconds": 244,
-    "likeCounter": 2081,
-    "mylistCounter": 957,
+    "likeCounter": 2082,
+    "mylistCounter": 958,
     "startTime": "2025-03-11T18:00:00+09:00",
     "tags": [
       "ガンダム",
@@ -27,10 +27,17 @@
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44750083/44750083.44924826",
     "title": "【GUNDAM×MIKU】アイドル戦士(feat. 初音ミク）/Mitchie M",
     "userId": null,
-    "viewCounter": 64277,
-    "rank": 146
+    "viewCounter": 64429,
+    "rank": 147
   },
   "histories": [
+    {
+      "date": "2026-06-06",
+      "quizNo": 302,
+      "group": "D1",
+      "order": 40,
+      "winner": "あご星人"
+    },
     {
       "date": "2026-03-14",
       "quizNo": 290,
@@ -38,8 +45,8 @@
       "order": 2
     }
   ],
-  "appearanceCount": 1,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 2,
+  "correctCount": 1,
+  "accuracy": 50,
   "anotherVersions": []
 }

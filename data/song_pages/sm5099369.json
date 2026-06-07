@@ -6,12 +6,12 @@
     "commentCounter": 2510,
     "lengthSeconds": 299,
     "likeCounter": 55,
-    "mylistCounter": 5032,
+    "mylistCounter": 5031,
     "rank": 333,
     "startTime": "2008-10-31T01:24:53+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/5099369/5099369",
     "userId": 1676232,
-    "viewCounter": 142784,
+    "viewCounter": 142808,
     "artist": [
       "Hull"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-06",
+      "quizNo": 302,
+      "group": "D1",
+      "order": 21
+    },
     {
       "date": "2024-05-04",
       "quizNo": 208,
@@ -58,8 +64,8 @@
       "order": 3
     }
   ],
-  "appearanceCount": 4,
+  "appearanceCount": 5,
   "correctCount": 2,
-  "accuracy": 50,
+  "accuracy": 40,
   "anotherVersions": []
 }

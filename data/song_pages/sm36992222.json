@@ -11,7 +11,7 @@
     "startTime": "2020-06-07T21:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36992222/36992222.41527223",
     "userId": 25646141,
-    "viewCounter": 154113,
+    "viewCounter": 154225,
     "artist": [
       "*Luna"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-05",
+      "quizNo": 302,
+      "group": "B",
+      "order": 61,
+      "winner": "Takuan"
+    },
     {
       "date": "2025-09-12",
       "quizNo": 267,
@@ -93,8 +100,8 @@
       "winner": "chia*"
     }
   ],
-  "appearanceCount": 9,
-  "correctCount": 7,
-  "accuracy": 78,
+  "appearanceCount": 10,
+  "correctCount": 8,
+  "accuracy": 80,
   "anotherVersions": []
 }

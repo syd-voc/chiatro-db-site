@@ -11,7 +11,7 @@
     "startTime": "2012-09-12T20:01:58+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18865202/18865202",
     "userId": 1137213,
-    "viewCounter": 866161,
+    "viewCounter": 866396,
     "artist": [
       "蝶々P"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-05",
+      "quizNo": 302,
+      "group": "C2",
+      "order": 65,
+      "winner": "Abbey"
+    },
     {
       "date": "2025-12-12",
       "quizNo": 280,
@@ -111,8 +118,8 @@
       "winner": "Abbey"
     }
   ],
-  "appearanceCount": 12,
-  "correctCount": 8,
-  "accuracy": 67,
+  "appearanceCount": 13,
+  "correctCount": 9,
+  "accuracy": 69,
   "anotherVersions": []
 }

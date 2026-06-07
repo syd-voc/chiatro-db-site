@@ -6,12 +6,12 @@
     "commentCounter": 157,
     "lengthSeconds": 247,
     "likeCounter": 108,
-    "mylistCounter": 488,
+    "mylistCounter": 489,
     "rank": 658,
     "startTime": "2017-06-08T19:48:10+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31360580/31360580",
     "userId": 4348530,
-    "viewCounter": 54567,
+    "viewCounter": 54585,
     "artist": [
       "23.exe"
     ],
@@ -31,14 +31,21 @@
   },
   "histories": [
     {
+      "date": "2026-06-06",
+      "quizNo": 302,
+      "group": "A",
+      "order": 1,
+      "winner": "あー"
+    },
+    {
       "date": "2024-04-13",
       "quizNo": 205,
       "group": "C",
       "order": 72
     }
   ],
-  "appearanceCount": 1,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 2,
+  "correctCount": 1,
+  "accuracy": 50,
   "anotherVersions": []
 }

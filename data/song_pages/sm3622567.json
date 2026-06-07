@@ -11,7 +11,7 @@
     "startTime": "2008-06-11T03:41:29+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/3622567/3622567",
     "userId": 478339,
-    "viewCounter": 366079,
+    "viewCounter": 366120,
     "artist": [
       "若干P"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-05",
+      "quizNo": 302,
+      "group": "C2",
+      "order": 70,
+      "winner": "HAN"
+    },
     {
       "date": "2026-05-22",
       "quizNo": 300,
@@ -74,8 +81,8 @@
       "winner": "アイス"
     }
   ],
-  "appearanceCount": 6,
-  "correctCount": 6,
+  "appearanceCount": 7,
+  "correctCount": 7,
   "accuracy": 100,
   "anotherVersions": []
 }

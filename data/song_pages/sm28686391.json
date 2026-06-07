@@ -11,7 +11,7 @@
     "startTime": "2016-04-22T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28686391/28686391",
     "userId": 8851187,
-    "viewCounter": 48179,
+    "viewCounter": 48188,
     "artist": [
       "buzzG"
     ],
@@ -29,6 +29,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-05",
+      "quizNo": 302,
+      "group": "B",
+      "order": 59,
+      "winner": "クロ"
+    },
     {
       "date": "2024-09-06",
       "quizNo": 216,
@@ -49,8 +56,8 @@
       "order": 58
     }
   ],
-  "appearanceCount": 3,
-  "correctCount": 1,
-  "accuracy": 33,
+  "appearanceCount": 4,
+  "correctCount": 2,
+  "accuracy": 50,
   "anotherVersions": []
 }

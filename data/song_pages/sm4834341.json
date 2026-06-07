@@ -11,7 +11,7 @@
     "startTime": "2008-10-05T12:18:09+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/4834341/4834341",
     "userId": 947596,
-    "viewCounter": 59132,
+    "viewCounter": 59137,
     "artist": [
       "京極抹茶"
     ],
@@ -31,6 +31,12 @@
   },
   "histories": [
     {
+      "date": "2026-06-06",
+      "quizNo": 302,
+      "group": "C1",
+      "order": 10
+    },
+    {
       "date": "2022-06-24",
       "quizNo": 113,
       "group": "A",
@@ -38,8 +44,8 @@
       "winner": "とりりす。"
     }
   ],
-  "appearanceCount": 1,
+  "appearanceCount": 2,
   "correctCount": 1,
-  "accuracy": 100,
+  "accuracy": 50,
   "anotherVersions": []
 }

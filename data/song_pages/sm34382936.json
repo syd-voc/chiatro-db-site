@@ -11,7 +11,7 @@
     "startTime": "2018-12-28T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34382936/34382936.47914",
     "userId": 1136553,
-    "viewCounter": 62659,
+    "viewCounter": 62684,
     "artist": [
       "のぼる↑"
     ],
@@ -30,6 +30,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-05",
+      "quizNo": 302,
+      "group": "B",
+      "order": 53,
+      "winner": "クロ"
+    },
     {
       "date": "2023-12-15",
       "quizNo": 189,
@@ -66,8 +73,8 @@
       "winner": "とげ"
     }
   ],
-  "appearanceCount": 5,
-  "correctCount": 5,
+  "appearanceCount": 6,
+  "correctCount": 6,
   "accuracy": 100,
   "anotherVersions": []
 }

@@ -11,7 +11,7 @@
     "startTime": "2017-08-31T15:09:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31840736/31840736",
     "userId": 276638,
-    "viewCounter": 89442,
+    "viewCounter": 89499,
     "artist": [
       "みきとP"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-05",
+      "quizNo": 302,
+      "group": "C2",
+      "order": 15,
+      "winner": "HAN"
+    },
     {
       "date": "2025-10-31",
       "quizNo": 274,
@@ -58,8 +65,8 @@
       "winner": "あー"
     }
   ],
-  "appearanceCount": 4,
-  "correctCount": 2,
-  "accuracy": 50,
+  "appearanceCount": 5,
+  "correctCount": 3,
+  "accuracy": 60,
   "anotherVersions": []
 }

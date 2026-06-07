@@ -11,7 +11,7 @@
     "startTime": "2020-12-11T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37937383/37937383.69480748",
     "userId": 57395379,
-    "viewCounter": 560480,
+    "viewCounter": 560795,
     "artist": [
       "R Sound Design"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-06",
+      "quizNo": 302,
+      "group": "C1",
+      "order": 26,
+      "winner": "とある逢瀬"
+    },
     {
       "date": "2026-04-10",
       "quizNo": 294,
@@ -282,8 +289,8 @@
       "winner": "ぽわ。"
     }
   ],
-  "appearanceCount": 36,
-  "correctCount": 35,
+  "appearanceCount": 37,
+  "correctCount": 36,
   "accuracy": 97,
   "anotherVersions": []
 }

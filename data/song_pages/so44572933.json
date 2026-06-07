@@ -6,12 +6,12 @@
     "channelId": 2646600,
     "commentCounter": 578,
     "lengthSeconds": 256,
-    "likeCounter": 3900,
-    "mylistCounter": 2988,
+    "likeCounter": 3906,
+    "mylistCounter": 2990,
     "rank": 21,
     "startTime": "2025-01-24T12:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44572933/44572933.20320200",
-    "viewCounter": 407262,
+    "viewCounter": 408693,
     "artist": [
       "40mP",
       "sasakure.UK"
@@ -32,6 +32,13 @@
     "userId": null
   },
   "histories": [
+    {
+      "date": "2026-06-06",
+      "quizNo": 302,
+      "group": "A",
+      "order": 30,
+      "winner": "影山"
+    },
     {
       "date": "2026-05-01",
       "quizNo": 297,
@@ -81,9 +88,9 @@
       "order": 49
     }
   ],
-  "appearanceCount": 7,
-  "correctCount": 6,
-  "accuracy": 86,
+  "appearanceCount": 8,
+  "correctCount": 7,
+  "accuracy": 88,
   "anotherVersions": [
     {
       "original": "so44572933",
@@ -95,8 +102,8 @@
       "channelId": null,
       "commentCounter": 229,
       "lengthSeconds": 260,
-      "likeCounter": 1589,
-      "mylistCounter": 809,
+      "likeCounter": 1593,
+      "mylistCounter": 807,
       "startTime": "2025-01-28T18:00:00+09:00",
       "tags": [
         "VOCALOID",
@@ -113,8 +120,8 @@
       "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44588461/44588461.67729820",
       "title": "&quot;はじまりの未来(Ergo ver)&quot; feat.初音ミク/40mP×sasakure.‌UK",
       "userId": 461870,
-      "viewCounter": 71719,
-      "rank": 192
+      "viewCounter": 71940,
+      "rank": 193
     }
   ]
 }

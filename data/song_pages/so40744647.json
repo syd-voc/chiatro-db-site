@@ -7,11 +7,11 @@
     "commentCounter": 749,
     "lengthSeconds": 65,
     "likeCounter": 1649,
-    "mylistCounter": 354,
+    "mylistCounter": 355,
     "rank": 945,
     "startTime": "2022-07-28T18:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40744647/40744647.63409511",
-    "viewCounter": 28205,
+    "viewCounter": 28217,
     "artist": [
       "ニコサイ",
       "無色透名祭公式"
@@ -31,14 +31,21 @@
   },
   "histories": [
     {
+      "date": "2026-06-05",
+      "quizNo": 302,
+      "group": "B",
+      "order": 27,
+      "winner": "とちこ"
+    },
+    {
       "date": "2025-09-05",
       "quizNo": 266,
       "group": "A",
       "order": 73
     }
   ],
-  "appearanceCount": 1,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 2,
+  "correctCount": 1,
+  "accuracy": 50,
   "anotherVersions": []
 }

@@ -9,7 +9,7 @@
     "commentCounter": 890,
     "lengthSeconds": 217,
     "likeCounter": 1743,
-    "mylistCounter": 856,
+    "mylistCounter": 855,
     "startTime": "2024-02-23T00:00:00+09:00",
     "tags": [
       "VOCALOID",
@@ -27,10 +27,17 @@
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43401964/43401964.92503641",
     "title": "迎合オーケストラ　feat.初音ミク",
     "userId": 16809442,
-    "viewCounter": 58502,
-    "rank": 240
+    "viewCounter": 58537,
+    "rank": 239
   },
   "histories": [
+    {
+      "date": "2026-06-05",
+      "quizNo": 302,
+      "group": "B",
+      "order": 34,
+      "winner": "にーも"
+    },
     {
       "date": "2026-05-02",
       "quizNo": 297,
@@ -38,8 +45,8 @@
       "order": 72
     }
   ],
-  "appearanceCount": 1,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 2,
+  "correctCount": 1,
+  "accuracy": 50,
   "anotherVersions": []
 }

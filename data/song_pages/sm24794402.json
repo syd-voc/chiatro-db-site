@@ -6,12 +6,12 @@
     "commentCounter": 3805,
     "lengthSeconds": 246,
     "likeCounter": 57,
-    "mylistCounter": 6300,
+    "mylistCounter": 6304,
     "rank": 176,
     "startTime": "2014-10-29T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24794402/24794402",
     "userId": 3343223,
-    "viewCounter": 182938,
+    "viewCounter": 182954,
     "artist": [
       "40mP"
     ],
@@ -30,6 +30,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-05",
+      "quizNo": 302,
+      "group": "B",
+      "order": 33,
+      "winner": "手下"
+    },
     {
       "date": "2025-10-31",
       "quizNo": 274,
@@ -63,8 +70,8 @@
       "order": 56
     }
   ],
-  "appearanceCount": 5,
-  "correctCount": 3,
-  "accuracy": 60,
+  "appearanceCount": 6,
+  "correctCount": 4,
+  "accuracy": 67,
   "anotherVersions": []
 }

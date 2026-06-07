@@ -11,7 +11,7 @@
     "startTime": "2018-09-14T17:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33834511/33834511",
     "userId": 4908176,
-    "viewCounter": 52611,
+    "viewCounter": 52641,
     "artist": [
       "田中B"
     ],
@@ -30,6 +30,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-06",
+      "quizNo": 302,
+      "group": "D1",
+      "order": 19
+    },
     {
       "date": "2025-12-05",
       "quizNo": 279,
@@ -52,8 +58,8 @@
       "winner": "しるばー"
     }
   ],
-  "appearanceCount": 3,
+  "appearanceCount": 4,
   "correctCount": 3,
-  "accuracy": 100,
+  "accuracy": 75,
   "anotherVersions": []
 }

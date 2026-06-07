@@ -11,7 +11,7 @@
     "startTime": "2020-05-03T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36787316/36787316.69293451",
     "userId": 96629223,
-    "viewCounter": 332754,
+    "viewCounter": 332817,
     "artist": [
       "粗品"
     ],
@@ -30,6 +30,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-05",
+      "quizNo": 302,
+      "group": "D2",
+      "order": 69,
+      "winner": "間宵"
+    },
     {
       "date": "2026-04-17",
       "quizNo": 295,
@@ -282,8 +289,8 @@
       "winner": "STN"
     }
   ],
-  "appearanceCount": 36,
-  "correctCount": 35,
+  "appearanceCount": 37,
+  "correctCount": 36,
   "accuracy": 97,
   "anotherVersions": []
 }

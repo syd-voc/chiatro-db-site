@@ -11,7 +11,7 @@
     "startTime": "2021-06-19T20:10:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38907521/38907521.12805522",
     "userId": 276638,
-    "viewCounter": 52800,
+    "viewCounter": 52838,
     "artist": [
       "みきとP"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-05",
+      "quizNo": 302,
+      "group": "C2",
+      "order": 90
+    },
     {
       "date": "2024-08-24",
       "quizNo": 214,
@@ -52,8 +58,8 @@
       "winner": "rina"
     }
   ],
-  "appearanceCount": 3,
+  "appearanceCount": 4,
   "correctCount": 3,
-  "accuracy": 100,
+  "accuracy": 75,
   "anotherVersions": []
 }

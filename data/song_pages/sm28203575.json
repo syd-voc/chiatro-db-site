@@ -6,12 +6,12 @@
     "commentCounter": 6436,
     "lengthSeconds": 300,
     "likeCounter": 426,
-    "mylistCounter": 3947,
+    "mylistCounter": 3946,
     "rank": 117,
     "startTime": "2016-02-12T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28203575/28203575",
     "userId": 1101042,
-    "viewCounter": 296733,
+    "viewCounter": 296802,
     "artist": [
       "halyosy"
     ],
@@ -28,6 +28,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-05",
+      "quizNo": 302,
+      "group": "C2",
+      "order": 16,
+      "winner": "HAN"
+    },
     {
       "date": "2026-05-15",
       "quizNo": 299,
@@ -121,8 +128,8 @@
       "winner": "STN"
     }
   ],
-  "appearanceCount": 14,
-  "correctCount": 9,
-  "accuracy": 64,
+  "appearanceCount": 15,
+  "correctCount": 10,
+  "accuracy": 67,
   "anotherVersions": []
 }

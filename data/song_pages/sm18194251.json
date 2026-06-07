@@ -11,7 +11,7 @@
     "startTime": "2012-06-26T01:01:57+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18194251/18194251",
     "userId": 15446335,
-    "viewCounter": 72549,
+    "viewCounter": 72567,
     "artist": [
       "蜻蛉"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-05",
+      "quizNo": 302,
+      "group": "B",
+      "order": 24
+    },
     {
       "date": "2025-10-11",
       "quizNo": 271,
@@ -62,8 +68,8 @@
       "order": 64
     }
   ],
-  "appearanceCount": 5,
+  "appearanceCount": 6,
   "correctCount": 1,
-  "accuracy": 20,
+  "accuracy": 17,
   "anotherVersions": []
 }

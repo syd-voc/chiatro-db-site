@@ -11,7 +11,7 @@
     "startTime": "2018-12-26T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34377097/34377097.89288",
     "userId": 3747896,
-    "viewCounter": 116862,
+    "viewCounter": 116873,
     "artist": [
       "たてごと♪（カラダに優しいP）"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-06",
+      "quizNo": 302,
+      "group": "C1",
+      "order": 3
+    },
     {
       "date": "2026-05-22",
       "quizNo": 300,
@@ -58,8 +64,8 @@
       "order": 21
     }
   ],
-  "appearanceCount": 4,
+  "appearanceCount": 5,
   "correctCount": 2,
-  "accuracy": 50,
+  "accuracy": 40,
   "anotherVersions": []
 }
