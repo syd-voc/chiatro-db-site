@@ -11,7 +11,7 @@
     "startTime": "2008-09-08T23:36:40+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/4564561/4564561",
     "userId": 22751,
-    "viewCounter": 234326,
+    "viewCounter": 234335,
     "artist": [
       "nagi-P"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-12",
+      "quizNo": 303,
+      "group": "C2",
+      "order": 35
+    },
     {
       "date": "2025-07-11",
       "quizNo": 258,
@@ -76,8 +82,8 @@
       "order": 73
     }
   ],
-  "appearanceCount": 7,
+  "appearanceCount": 8,
   "correctCount": 2,
-  "accuracy": 29,
+  "accuracy": 25,
   "anotherVersions": []
 }

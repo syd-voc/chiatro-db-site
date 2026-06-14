@@ -1,9 +1,9 @@
 from pathlib import Path
 from collections import defaultdict
-import csv
+import json
 
 # ===== 設定 =====
-TSV_FILE = Path("chiatro_setlist_merged.tsv")
+QUIZ_DIR = Path("data/quizzes")
 
 PHASES = [
     {
@@ -39,29 +39,32 @@ PHASES = [
 ]
 
 CHECK_START = 21
-CHECK_END = 283
+CHECK_END = 302
 
-ROUND_COL = 8
-GROUP_COL = 9
+OUT_FILE = Path(f"chiatro_round_group_check_{CHECK_START}_{CHECK_END}.txt")
 
-OUT_FILE =  Path(f"chiatro_round_group_check_{CHECK_START}_{CHECK_END}.txt")
-
-# ===== TSV 読み込み =====
+# ===== JSON 読み込み =====
 existing = defaultdict(set)
 
-with TSV_FILE.open(encoding="utf-8") as f:
-    reader = csv.reader(f, delimiter="\t")
-    for row in reader:
-        if len(row) <= max(ROUND_COL, GROUP_COL):
-            continue
-        try:
-            round_no = int(row[ROUND_COL])
-        except ValueError:
+for json_file in QUIZ_DIR.glob("quiz_*.json"):
+    try:
+        with open(json_file, encoding="utf-8") as f:
+            data = json.load(f)
+
+        round_no = data.get("quiz_no")
+        if round_no is None:
             continue
 
-        group = row[GROUP_COL].strip()
-        group = group if group != "" else None
+        group = data.get("group")
+        group = group.strip() if isinstance(group, str) else group
+
+        if group == "":
+            group = None
+
         existing[round_no].add(group)
+
+    except Exception as e:
+        print(f"Error: {json_file} -> {e}")
 
 # ===== チェック & ログ生成 =====
 lines = []
@@ -96,9 +99,11 @@ for phase in PHASES:
         if expected_groups is None:
             if None not in found:
                 missing.append(f"round {r} (groupなし)")
+
             for g in found:
                 if g is not None:
                     unexpected.append(f"round {r} group={g}")
+
             continue
 
         # group あり phase
@@ -146,7 +151,7 @@ print(f"不足: {total_missing} 件")
 print(f"想定外: {total_unexpected} 件")
 
 # ===== txt 出力 =====
-with OUT_FILE.open("w", encoding="utf-8") as f:
+with open(OUT_FILE, "w", encoding="utf-8") as f:
     f.write("\n".join(lines))
 
 print(f"\n📄 結果を書き出しました: {OUT_FILE}")

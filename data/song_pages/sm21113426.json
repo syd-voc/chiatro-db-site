@@ -6,12 +6,12 @@
     "commentCounter": 15518,
     "lengthSeconds": 235,
     "likeCounter": 675,
-    "mylistCounter": 23424,
+    "mylistCounter": 23426,
     "rank": 54,
     "startTime": "2013-06-14T20:02:34+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21113426/21113426",
     "userId": 8785358,
-    "viewCounter": 957769,
+    "viewCounter": 957995,
     "artist": [
       "すこっぷ"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-12",
+      "quizNo": 303,
+      "group": "C2",
+      "order": 72,
+      "winner": "そ"
+    },
     {
       "date": "2026-05-15",
       "quizNo": 299,
@@ -210,8 +217,8 @@
       "winner": "Takuan"
     }
   ],
-  "appearanceCount": 26,
-  "correctCount": 25,
+  "appearanceCount": 27,
+  "correctCount": 26,
   "accuracy": 96,
   "anotherVersions": []
 }

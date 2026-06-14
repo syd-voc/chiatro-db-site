@@ -5,13 +5,13 @@
     "title": "aimai ／ 初音ミク",
     "commentCounter": 1148,
     "lengthSeconds": 203,
-    "likeCounter": 618,
-    "mylistCounter": 5499,
-    "rank": 123,
+    "likeCounter": 620,
+    "mylistCounter": 5497,
+    "rank": 124,
     "startTime": "2015-06-26T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26573347/26573347",
     "userId": 26688082,
-    "viewCounter": 319725,
+    "viewCounter": 319856,
     "artist": [
       "瀬名航"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-12",
+      "quizNo": 303,
+      "group": "B",
+      "order": 43,
+      "winner": "RRR"
+    },
     {
       "date": "2026-03-06",
       "quizNo": 289,
@@ -147,8 +154,41 @@
       "winner": "まつせ"
     }
   ],
-  "appearanceCount": 17,
-  "correctCount": 16,
+  "appearanceCount": 18,
+  "correctCount": 17,
   "accuracy": 94,
-  "anotherVersions": []
+  "anotherVersions": [
+    {
+      "original": "sm26573347",
+      "contentId": "sm44879737",
+      "song": "aimai(2025ver)",
+      "artist": [
+        "瀬名航"
+      ],
+      "channelId": null,
+      "commentCounter": 107,
+      "lengthSeconds": 204,
+      "likeCounter": 695,
+      "mylistCounter": 388,
+      "startTime": "2025-04-17T19:05:00+09:00",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "音楽",
+        "ミクオリジナル曲",
+        "瀬名航",
+        "aimai(2025ver)",
+        "ゆの",
+        "ヨワネヒトリ",
+        "歌踊コレok",
+        "セルフアレンジ",
+        "VOCALOIDアレンジ曲"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44879737/44879737.83828531",
+      "title": "aimai(2025ver) / 瀬名航 feat.初音ミク",
+      "userId": 26688082,
+      "viewCounter": 24477,
+      "rank": 531
+    }
+  ]
 }

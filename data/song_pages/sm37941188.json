@@ -11,7 +11,7 @@
     "startTime": "2020-12-11T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37941188/37941188.50240550",
     "userId": 52158359,
-    "viewCounter": 189666,
+    "viewCounter": 189768,
     "artist": [
       "傘村トータ"
     ],
@@ -30,6 +30,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-13",
+      "quizNo": 303,
+      "group": "D1",
+      "order": 25
+    },
     {
       "date": "2026-03-20",
       "quizNo": 291,
@@ -116,8 +122,8 @@
       "winner": "chia*"
     }
   ],
-  "appearanceCount": 13,
+  "appearanceCount": 14,
   "correctCount": 12,
-  "accuracy": 92,
+  "accuracy": 86,
   "anotherVersions": []
 }

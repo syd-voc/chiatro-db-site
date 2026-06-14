@@ -11,7 +11,7 @@
     "startTime": "2014-07-04T19:30:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23926064/23926064",
     "userId": 10019421,
-    "viewCounter": 142238,
+    "viewCounter": 142251,
     "artist": [
       "ぷす"
     ],
@@ -30,6 +30,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-12",
+      "quizNo": 303,
+      "group": "C2",
+      "order": 69
+    },
     {
       "date": "2026-05-23",
       "quizNo": 300,
@@ -76,8 +82,8 @@
       "order": 71
     }
   ],
-  "appearanceCount": 7,
+  "appearanceCount": 8,
   "correctCount": 3,
-  "accuracy": 43,
+  "accuracy": 38,
   "anotherVersions": []
 }

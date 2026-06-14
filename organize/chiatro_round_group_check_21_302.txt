@@ -1,0 +1,34 @@
+チェック範囲: round_no 21–302
+
+=== Phase0_no_groups (21–94) ===
+OK
+
+=== Phase1_A-B (95–161) ===
+OK
+
+=== Phase2_A-D (162–209) ===
+[MISSING] 1 件
+  round 162 group=D
+
+=== Phase3_A-F (210–274) ===
+[MISSING] 6 件
+  round 211 group=A
+  round 211 group=C
+  round 211 group=E
+  round 230 group=F
+  round 265 group=A
+  round 265 group=C
+
+=== Phase3_split (275–302) ===
+[MISSING] 7 件
+  round 281 group=B
+  round 281 group=C2
+  round 281 group=D2
+  round 288 group=A
+  round 288 group=C1
+  round 288 group=D1
+  round 296 group=D2
+
+====================
+不足: 14 件
+想定外: 0 件

@@ -10,7 +10,7 @@
         "Gohgo"
       ],
       "startTime": "2024-08-05T19:00:00+09:00",
-      "viewCounter": 108174,
+      "viewCounter": 108249,
       "correctCount": 1
     },
     {
@@ -21,7 +21,7 @@
         "koyori(電ポルP)"
       ],
       "startTime": "2014-08-14T20:01:00+09:00",
-      "viewCounter": 2081441,
+      "viewCounter": 2082686,
       "correctCount": 1
     },
     {
@@ -32,7 +32,7 @@
         "Guiano"
       ],
       "startTime": "2025-06-11T19:00:00+09:00",
-      "viewCounter": 160157,
+      "viewCounter": 161335,
       "correctCount": 1
     },
     {
@@ -43,7 +43,7 @@
         "ジグ"
       ],
       "startTime": "2019-01-07T20:00:00+09:00",
-      "viewCounter": 226111,
+      "viewCounter": 226193,
       "correctCount": 1
     },
     {
@@ -54,7 +54,7 @@
         "OSTER project"
       ],
       "startTime": "2008-06-20T04:46:11+09:00",
-      "viewCounter": 352519,
+      "viewCounter": 352570,
       "correctCount": 1
     },
     {
@@ -65,7 +65,7 @@
         "youまん"
       ],
       "startTime": "2024-02-23T00:00:00+09:00",
-      "viewCounter": 552782,
+      "viewCounter": 553730,
       "correctCount": 1
     },
     {
@@ -76,7 +76,7 @@
         "keeno"
       ],
       "startTime": "2012-07-16T21:02:09+09:00",
-      "viewCounter": 991332,
+      "viewCounter": 991471,
       "correctCount": 1
     },
     {
@@ -87,7 +87,7 @@
         "ラヴリーP"
       ],
       "startTime": "2008-08-13T02:13:11+09:00",
-      "viewCounter": 1461579,
+      "viewCounter": 1462925,
       "correctCount": 1
     },
     {
@@ -98,7 +98,62 @@
         "はろける"
       ],
       "startTime": "2024-12-27T14:15:03+09:00",
-      "viewCounter": 1581523,
+      "viewCounter": 1585364,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm42743030",
+      "title": "BLINDNESS",
+      "artist": "john",
+      "artistList": [
+        "john"
+      ],
+      "startTime": "2023-09-10T21:00:00+09:00",
+      "viewCounter": 371288,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm35258454",
+      "title": "帝王教育",
+      "artist": "Omoi",
+      "artistList": [
+        "Omoi"
+      ],
+      "startTime": "2019-06-13T19:20:47+09:00",
+      "viewCounter": 827471,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm21113426",
+      "title": "東京レトロ",
+      "artist": "すこっぷ",
+      "artistList": [
+        "すこっぷ"
+      ],
+      "startTime": "2013-06-14T20:02:34+09:00",
+      "viewCounter": 957995,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm22633711",
+      "title": "Our Song",
+      "artist": "Wonder-K",
+      "artistList": [
+        "Wonder-K"
+      ],
+      "startTime": "2014-01-09T21:18:46+09:00",
+      "viewCounter": 41253,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm19361252",
+      "title": "林檎売りの泡沫少女",
+      "artist": "yukkedoluce",
+      "artistList": [
+        "yukkedoluce"
+      ],
+      "startTime": "2012-11-15T21:02:17+09:00",
+      "viewCounter": 2166765,
       "correctCount": 1
     }
   ],
@@ -147,6 +202,31 @@
       "artist": "はろける",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "john",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "Omoi",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "すこっぷ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "Wonder-K",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "yukkedoluce",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
@@ -157,8 +237,8 @@
     },
     {
       "era": "2014",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "era": "2025-",
@@ -167,8 +247,8 @@
     },
     {
       "era": "2019",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "era": "2007-2008",
@@ -177,6 +257,16 @@
     },
     {
       "era": "2012",
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "era": "2023",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2013",
       "correctCount": 1,
       "correctSongCount": 1
     }
@@ -191,8 +281,8 @@
     {
       "range": "1-10万",
       "order": 1,
-      "correctCount": 0,
-      "correctSongCount": 0
+      "correctCount": 1,
+      "correctSongCount": 1
     },
     {
       "range": "10-30万",
@@ -203,14 +293,14 @@
     {
       "range": "30-50万",
       "order": 3,
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 2,
-      "correctSongCount": 2
+      "correctCount": 4,
+      "correctSongCount": 4
     },
     {
       "range": "100-200万",
@@ -221,8 +311,8 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "range": "300-500万",
@@ -248,67 +338,213 @@
       "title": "オシャンティ・マイティガール",
       "contentId": "sm43895983",
       "startTime": 1722852000000,
-      "viewCounter": 108174
+      "viewCounter": 108249
     },
     {
       "title": "曖昧劣情Lover",
       "contentId": "sm24237168",
       "startTime": 1408014060000,
-      "viewCounter": 2081441
+      "viewCounter": 2082686
     },
     {
       "title": "光線歌",
       "contentId": "sm45077666",
       "startTime": 1749636000000,
-      "viewCounter": 160157
+      "viewCounter": 161335
     },
     {
       "title": "シンデレラ",
       "contentId": "sm34434886",
       "startTime": 1546858800000,
-      "viewCounter": 226111
+      "viewCounter": 226193
     },
     {
       "title": "つきうさぎ",
       "contentId": "sm3707903",
       "startTime": 1213904771000,
-      "viewCounter": 352519
+      "viewCounter": 352570
     },
     {
       "title": "ワーストリグレット",
       "contentId": "sm43435072",
       "startTime": 1708614000000,
-      "viewCounter": 552782
+      "viewCounter": 553730
     },
     {
       "title": "bitter",
       "contentId": "sm18367834",
       "startTime": 1342440129000,
-      "viewCounter": 991332
+      "viewCounter": 991471
     },
     {
       "title": "VOiCE",
       "contentId": "sm4271779",
       "startTime": 1218561191000,
-      "viewCounter": 1461579
+      "viewCounter": 1462925
     },
     {
       "title": "キャンディークッキーチョコレート",
       "contentId": "sm44469704",
       "startTime": 1735276503000,
-      "viewCounter": 1581523
+      "viewCounter": 1585364
+    },
+    {
+      "title": "BLINDNESS",
+      "contentId": "sm42743030",
+      "startTime": 1694347200000,
+      "viewCounter": 371288
+    },
+    {
+      "title": "帝王教育",
+      "contentId": "sm35258454",
+      "startTime": 1560421247000,
+      "viewCounter": 827471
+    },
+    {
+      "title": "東京レトロ",
+      "contentId": "sm21113426",
+      "startTime": 1371207754000,
+      "viewCounter": 957995
+    },
+    {
+      "title": "Our Song",
+      "contentId": "sm22633711",
+      "startTime": 1389269926000,
+      "viewCounter": 41253
+    },
+    {
+      "title": "林檎売りの泡沫少女",
+      "contentId": "sm19361252",
+      "startTime": 1352980937000,
+      "viewCounter": 2166765
     }
   ],
   "summary": {
-    "totalAnswers": 14,
-    "okAnswers": 9,
-    "ngAnswers": 5,
-    "participatedQuizCount": 2,
-    "winQuizCount": 2,
+    "totalAnswers": 20,
+    "okAnswers": 14,
+    "ngAnswers": 6,
+    "participatedQuizCount": 3,
+    "winQuizCount": 3,
     "loseQuizCount": 0,
-    "medianViews": 552782
+    "medianViews": 553730
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 303,
+      "group": "C2",
+      "date": "2026-06-12",
+      "ok": 5,
+      "ng": 1,
+      "winRank": 11,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 6,
+          "contentId": "sm44953291",
+          "title": "虚無さん",
+          "artistList": [
+            "¿?shimon"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44953291/44953291.29458941",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "そ"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "すぼ"
+            }
+          ]
+        },
+        {
+          "order": 48,
+          "contentId": "sm42743030",
+          "title": "BLINDNESS",
+          "artistList": [
+            "john"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42743030/42743030.63305628",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "そ"
+            }
+          ]
+        },
+        {
+          "order": 71,
+          "contentId": "sm35258454",
+          "title": "帝王教育",
+          "artistList": [
+            "Omoi"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35258454/35258454.43880374",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "そ"
+            }
+          ]
+        },
+        {
+          "order": 72,
+          "contentId": "sm21113426",
+          "title": "東京レトロ",
+          "artistList": [
+            "すこっぷ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21113426/21113426",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "そ"
+            }
+          ]
+        },
+        {
+          "order": 73,
+          "contentId": "sm22633711",
+          "title": "Our Song",
+          "artistList": [
+            "Wonder-K"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22633711/22633711",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "そ"
+            }
+          ]
+        },
+        {
+          "order": 76,
+          "contentId": "sm19361252",
+          "title": "林檎売りの泡沫少女",
+          "artistList": [
+            "yukkedoluce"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19361252/19361252",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(11)",
+              "user": "そ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 299,
       "group": "C1",

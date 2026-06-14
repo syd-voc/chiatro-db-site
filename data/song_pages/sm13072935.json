@@ -6,12 +6,12 @@
     "commentCounter": 5302,
     "lengthSeconds": 278,
     "likeCounter": 26,
-    "mylistCounter": 7124,
+    "mylistCounter": 7123,
     "rank": 300,
     "startTime": "2010-12-20T00:18:39+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13072935/13072935",
     "userId": 1714113,
-    "viewCounter": 216444,
+    "viewCounter": 216449,
     "artist": [
       "FAULHEIT"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-12",
+      "quizNo": 303,
+      "group": "B",
+      "order": 69,
+      "winner": "クロ"
+    },
     {
       "date": "2025-08-29",
       "quizNo": 265,
@@ -58,8 +65,8 @@
       "winner": "HAN"
     }
   ],
-  "appearanceCount": 4,
-  "correctCount": 2,
-  "accuracy": 50,
+  "appearanceCount": 5,
+  "correctCount": 3,
+  "accuracy": 60,
   "anotherVersions": []
 }

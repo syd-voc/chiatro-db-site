@@ -11,7 +11,7 @@
     "startTime": "2009-10-05T05:38:03+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8425509/8425509",
     "userId": 1924139,
-    "viewCounter": 195629,
+    "viewCounter": 195636,
     "artist": [
       "アヒル軍曹P"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-12",
+      "quizNo": 303,
+      "group": "B",
+      "order": 77
+    },
     {
       "date": "2024-10-12",
       "quizNo": 221,
@@ -59,8 +65,8 @@
       "winner": "みせいねん"
     }
   ],
-  "appearanceCount": 4,
+  "appearanceCount": 5,
   "correctCount": 3,
-  "accuracy": 75,
+  "accuracy": 60,
   "anotherVersions": []
 }

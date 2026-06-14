@@ -6,12 +6,12 @@
     "commentCounter": 23073,
     "lengthSeconds": 269,
     "likeCounter": 356,
-    "mylistCounter": 14500,
+    "mylistCounter": 14503,
     "rank": 64,
     "startTime": "2014-02-21T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22937799/22937799",
     "userId": 595445,
-    "viewCounter": 780490,
+    "viewCounter": 780621,
     "artist": [
       "Last Note."
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-13",
+      "quizNo": 303,
+      "group": "C1",
+      "order": 20,
+      "winner": "Abbey"
+    },
     {
       "date": "2026-05-02",
       "quizNo": 297,
@@ -181,8 +188,8 @@
       "winner": "すべから"
     }
   ],
-  "appearanceCount": 22,
-  "correctCount": 18,
-  "accuracy": 82,
+  "appearanceCount": 23,
+  "correctCount": 19,
+  "accuracy": 83,
   "anotherVersions": []
 }

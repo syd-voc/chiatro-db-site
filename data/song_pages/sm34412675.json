@@ -6,12 +6,12 @@
     "commentCounter": 2249,
     "lengthSeconds": 201,
     "likeCounter": 1367,
-    "mylistCounter": 5309,
+    "mylistCounter": 5311,
     "rank": 64,
     "startTime": "2019-01-01T21:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34412675/34412675.31493",
     "userId": 83706458,
-    "viewCounter": 758429,
+    "viewCounter": 758726,
     "artist": [
       "Aqu3ra"
     ],
@@ -30,6 +30,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-12",
+      "quizNo": 303,
+      "group": "B",
+      "order": 64,
+      "winner": "雨嵐"
+    },
     {
       "date": "2026-06-05",
       "quizNo": 302,
@@ -210,8 +217,8 @@
       "winner": "yu-na*"
     }
   ],
-  "appearanceCount": 26,
-  "correctCount": 25,
+  "appearanceCount": 27,
+  "correctCount": 26,
   "accuracy": 96,
   "anotherVersions": []
 }

@@ -5,13 +5,13 @@
     "title": "モノクロセンス / 初音ミク",
     "commentCounter": 435,
     "lengthSeconds": 223,
-    "likeCounter": 977,
-    "mylistCounter": 1224,
+    "likeCounter": 979,
+    "mylistCounter": 1225,
     "rank": 301,
     "startTime": "2018-08-24T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/33734988/33734988",
     "userId": 79470667,
-    "viewCounter": 202525,
+    "viewCounter": 202843,
     "artist": [
       "r-906"
     ],
@@ -30,6 +30,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-12",
+      "quizNo": 303,
+      "group": "B",
+      "order": 86,
+      "winner": "尾白もち"
+    },
     {
       "date": "2025-09-12",
       "quizNo": 267,
@@ -57,8 +64,41 @@
       "winner": "RRR"
     }
   ],
-  "appearanceCount": 4,
-  "correctCount": 4,
+  "appearanceCount": 5,
+  "correctCount": 5,
   "accuracy": 100,
-  "anotherVersions": []
+  "anotherVersions": [
+    {
+      "original": "sm33734988",
+      "contentId": "sm38645424",
+      "song": "モノクロセンス 2021",
+      "artist": [
+        "r-906"
+      ],
+      "channelId": null,
+      "commentCounter": 327,
+      "lengthSeconds": 233,
+      "likeCounter": 1002,
+      "mylistCounter": 624,
+      "startTime": "2021-04-27T19:00:00+09:00",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "モノクロセンス",
+        "r-906",
+        "in_my_hands",
+        "音楽",
+        "セルフカバー",
+        "VOCALOIDアレンジ曲",
+        "サクヤ(絵師)",
+        "のいず",
+        "VOCALOID殿堂入り"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38645424/38645424.5463004",
+      "title": "モノクロセンス 2021 / 初音ミク",
+      "userId": 79470667,
+      "viewCounter": 108851,
+      "rank": 412
+    }
+  ]
 }

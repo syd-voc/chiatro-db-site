@@ -11,7 +11,7 @@
     "startTime": "2019-04-30T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35051796/35051796.63614",
     "userId": 10019421,
-    "viewCounter": 321618,
+    "viewCounter": 321667,
     "artist": [
       "ぷす"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-12",
+      "quizNo": 303,
+      "group": "C2",
+      "order": 67,
+      "winner": "777"
+    },
     {
       "date": "2026-02-07",
       "quizNo": 287,
@@ -172,8 +179,8 @@
       "winner": "ぺとぉせり"
     }
   ],
-  "appearanceCount": 20,
-  "correctCount": 20,
+  "appearanceCount": 21,
+  "correctCount": 21,
   "accuracy": 100,
   "anotherVersions": []
 }

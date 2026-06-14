@@ -1,19 +1,37 @@
 import csv
+import json
 import re
 from collections import defaultdict
 from pathlib import Path
+import os
 
-QUIZ_TSV = Path("chiatro_setlist_merged.tsv")
-RATE_TSV = Path("chiatro_rate_refine.tsv")
-OUTPUT_TXT = Path("chiatro_check_participants.txt")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+RATE_TSV = os.path.join(BASE_DIR, "chiatro_rate_refine.tsv")
+QUIZ_DIR = Path("data/quizzes")
+OUTPUT_TXT = os.path.join(BASE_DIR, "chiatro_check_participants.txt")
+
+NAME_MAP = {
+    "かがみん": "かがみおん",
+    "おはげ": "はげお",
+    "特攻隊長": "隊長",
+    "祝(公式)": "祝公式",
+    "ヌュラ": "ぬゅら",
+    "うなぷれこ": "くらこ",
+    "ﾏ゛ｯｯｯ": "ﾏﾞｯｯｯ",
+    "suumo": "スーモ",
+    "ばさ氏": "ばさし",
+    "いみな": "汐波諱",
+    "くすのき": "クスノキ",
+    "らーくす": "ラークス",
+    
+    "SPEED STAR": "SPEED_STAR",
+    "定禅寺 透": "定禅寺透",
+    "汐波 諱": "汐波諱",
+    "雪にゃ～": "雪にゃ〜",
+    "がお～": "がお〜",
+}
 
 def split_rate_col(value: str):
-    """
-    rate.tsv 用
-    "274A"   -> (274, "A")
-    "274"    -> (274, None)
-    "278D2"  -> (278, "D2")
-    """
     m = re.fullmatch(r"(\d+)([A-Za-z0-9]*)", value.strip())
     if not m:
         return None, None
@@ -28,7 +46,7 @@ def split_rate_col(value: str):
 # ==================================
 expected = defaultdict(set)
 
-with RATE_TSV.open(encoding="utf-8") as f:
+with open(RATE_TSV, encoding="utf-8") as f:
     reader = csv.reader(f, delimiter="\t")
     header = next(reader)
 
@@ -36,54 +54,48 @@ with RATE_TSV.open(encoding="utf-8") as f:
 
     for row in reader:
         name = row[0].strip()
+        
+        name = NAME_MAP.get(name, name)
+
         for (r, g), value in zip(parsed_cols, row[2:]):
             if r is None:
                 continue
+
             if value and value != "--":
                 expected[(r, g)].add(name)
 
 # ==================================
-# ② quiz.tsv（★修正点）
+# ② quiz_*.json
 # ==================================
 actual = defaultdict(set)
 
-with QUIZ_TSV.open(encoding="utf-8") as f:
-    reader = csv.reader(f, delimiter="\t")
-    for row in reader:
-        if not row or not row[8]:
+for json_file in QUIZ_DIR.glob("quiz_*.json"):
+    try:
+        with open(json_file, encoding="utf-8") as f:
+            data = json.load(f)
+
+        r = data.get("quiz_no")
+        if r is None:
             continue
 
-        try:
-            r = int(row[8])
-        except ValueError:
-            continue
+        g = data.get("group")
+        if g == "":
+            g = None
 
-        g = row[9].strip() if len(row) > 9 and row[9].strip() else None
+        participants = data.get("participants", [])
 
-        for i in range(11, len(row), 2):
-            name = row[i].strip()
+        for name in participants:
+            name = str(name).strip()
             if name:
                 actual[(r, g)].add(name)
 
-# ==================================
-# ③ デバッグ print
-# ==================================
-# print("===== DEBUG: participants per round =====")
-# for (r, g) in sorted(actual, key=lambda x: (x[0], x[1] or "")):
-#     label = f"{r}{g or ''}"
-
-#     exp = sorted(expected.get((r, g), set()))
-#     act = sorted(actual.get((r, g), set()))
-
-#     print(f"[DEBUG] Round {label}")
-#     print("  rate.tsv :", ", ".join(exp) if exp else "(なし)")
-#     print("  quiz.tsv :", ", ".join(act) if act else "(なし)")
-# print("========================================")
+    except Exception as e:
+        print(f"Error: {json_file} -> {e}")
 
 # ==================================
-# ④ quiz.tsv にある回のみチェック
+# ③ quiz に存在する回のみチェック
 # ==================================
-with OUTPUT_TXT.open("w", encoding="utf-8") as out:
+with open(OUTPUT_TXT, "w", encoding="utf-8") as out:
     for (r, g) in sorted(actual, key=lambda x: (x[0], x[1] or "")):
         exp = expected.get((r, g), set())
         act = actual[(r, g)]
@@ -98,13 +110,18 @@ with OUTPUT_TXT.open("w", encoding="utf-8") as out:
         out.write(f"=== Round {label} ===\n")
 
         if missing:
-            out.write("[レート表にいるが結果TSVにいない]\n")
+            out.write("[レート表にいるがJSONにいない]\n")
             for name in missing:
                 out.write(f"{name}\n")
 
         if extra:
-            out.write("[結果TSVにいるがレート表にいない]\n")
+            out.write("[JSONにいるがレート表にいない]\n")
             for name in extra:
                 out.write(f"{name}\n")
 
         out.write("\n")
+
+print(f"出力完了: {OUTPUT_TXT}")
+print("expected rounds:", len(expected))
+print("actual rounds:", len(actual))
+print("JSON files:", len(list(QUIZ_DIR.glob("quiz_*.json"))))
