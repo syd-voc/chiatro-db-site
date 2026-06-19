@@ -609,7 +609,7 @@
     "totalAnswers": 31,
     "okAnswers": 22,
     "ngAnswers": 9,
-    "participatedQuizCount": 6,
+    "participatedQuizCount": 7,
     "winQuizCount": 4,
     "loseQuizCount": 0,
     "medianViews": 608784
@@ -941,6 +941,16 @@
           ]
         }
       ]
+    },
+    {
+      "quiz_no": 175,
+      "group": "B",
+      "date": "2023-09-08",
+      "ok": 0,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": []
     },
     {
       "quiz_no": 165,

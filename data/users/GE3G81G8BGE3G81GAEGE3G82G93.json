@@ -119,12 +119,22 @@
     "totalAnswers": 3,
     "okAnswers": 2,
     "ngAnswers": 1,
-    "participatedQuizCount": 1,
+    "participatedQuizCount": 2,
     "winQuizCount": 0,
     "loseQuizCount": 0,
     "medianViews": 542634
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 168,
+      "group": "D",
+      "date": "2023-07-21",
+      "ok": 0,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": []
+    },
     {
       "quiz_no": 163,
       "group": "D",

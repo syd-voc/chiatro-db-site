@@ -7306,7 +7306,7 @@
     "totalAnswers": 494,
     "okAnswers": 416,
     "ngAnswers": 78,
-    "participatedQuizCount": 91,
+    "participatedQuizCount": 92,
     "winQuizCount": 80,
     "loseQuizCount": 0,
     "medianViews": 1256656
@@ -18236,6 +18236,16 @@
           ]
         }
       ]
+    },
+    {
+      "quiz_no": 131,
+      "group": "B",
+      "date": "2022-10-29",
+      "ok": 0,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": []
     }
   ]
 }

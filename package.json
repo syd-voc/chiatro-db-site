@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
-    "prebuild": "node scripts/build-artists.js && node scripts/build-index-stats.js && node scripts/build-quiz-pages.js && node scripts/build-range-stats.js && node scripts/build-search-index.js && node scripts/build-song-pages.js && node scripts/build-users.js && node scripts/write-deployed-at.js",
+    "prebuild": "node scripts/build-artists.js && node scripts/build-index-stats.js && node scripts/build-quiz-pages.js && node scripts/build-range-stats.js && node scripts/build-song-pages.js && node scripts/build-users.js && node scripts/build-search-index.js && node scripts/write-deployed-at.js",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"

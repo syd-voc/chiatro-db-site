@@ -102,12 +102,22 @@
     "totalAnswers": 1,
     "okAnswers": 1,
     "ngAnswers": 0,
-    "participatedQuizCount": 1,
+    "participatedQuizCount": 2,
     "winQuizCount": 0,
     "loseQuizCount": 0,
     "medianViews": 216172
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 242,
+      "group": "C",
+      "date": "2025-03-21",
+      "ok": 0,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": []
+    },
     {
       "quiz_no": 21,
       "group": "",

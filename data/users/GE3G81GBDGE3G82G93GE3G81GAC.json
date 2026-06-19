@@ -7918,7 +7918,7 @@
     "totalAnswers": 510,
     "okAnswers": 459,
     "ngAnswers": 51,
-    "participatedQuizCount": 128,
+    "participatedQuizCount": 131,
     "winQuizCount": 84,
     "loseQuizCount": 0,
     "medianViews": 382570
@@ -12251,6 +12251,16 @@
           ]
         }
       ]
+    },
+    {
+      "quiz_no": 207,
+      "group": "B",
+      "date": "2024-04-26",
+      "ok": 0,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": []
     },
     {
       "quiz_no": 205,
@@ -16816,6 +16826,16 @@
       ]
     },
     {
+      "quiz_no": 119,
+      "group": "B",
+      "date": "2022-08-06",
+      "ok": 0,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": []
+    },
+    {
       "quiz_no": 118,
       "group": "A",
       "date": "2022-07-29",
@@ -17813,6 +17833,16 @@
           ]
         }
       ]
+    },
+    {
+      "quiz_no": 106,
+      "group": "B",
+      "date": "2022-05-07",
+      "ok": 0,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": []
     },
     {
       "quiz_no": 104,

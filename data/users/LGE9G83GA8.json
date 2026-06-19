@@ -1170,7 +1170,7 @@
     "totalAnswers": 55,
     "okAnswers": 51,
     "ngAnswers": 4,
-    "participatedQuizCount": 11,
+    "participatedQuizCount": 12,
     "winQuizCount": 9,
     "loseQuizCount": 0,
     "medianViews": 729551
@@ -1439,6 +1439,16 @@
           ]
         }
       ]
+    },
+    {
+      "quiz_no": 243,
+      "group": "E",
+      "date": "2025-03-29",
+      "ok": 0,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": []
     },
     {
       "quiz_no": 241,

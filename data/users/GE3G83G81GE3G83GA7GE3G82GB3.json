@@ -2952,7 +2952,7 @@
     "totalAnswers": 169,
     "okAnswers": 139,
     "ngAnswers": 30,
-    "participatedQuizCount": 42,
+    "participatedQuizCount": 43,
     "winQuizCount": 19,
     "loseQuizCount": 0,
     "medianViews": 459474
@@ -4542,6 +4542,16 @@
           ]
         }
       ]
+    },
+    {
+      "quiz_no": 207,
+      "group": "B",
+      "date": "2024-04-26",
+      "ok": 0,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": []
     },
     {
       "quiz_no": 206,

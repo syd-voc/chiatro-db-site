@@ -5443,7 +5443,7 @@
     "totalAnswers": 560,
     "okAnswers": 283,
     "ngAnswers": 274,
-    "participatedQuizCount": 100,
+    "participatedQuizCount": 102,
     "winQuizCount": 37,
     "loseQuizCount": 3,
     "medianViews": 897236
@@ -19539,6 +19539,16 @@
       ]
     },
     {
+      "quiz_no": 131,
+      "group": "A",
+      "date": "2022-10-28",
+      "ok": 0,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": []
+    },
+    {
       "quiz_no": 130,
       "group": "A",
       "date": "2022-10-21",
@@ -20926,6 +20936,16 @@
           ]
         }
       ]
+    },
+    {
+      "quiz_no": 109,
+      "group": "A",
+      "date": "2022-05-27",
+      "ok": 0,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": []
     },
     {
       "quiz_no": 107,

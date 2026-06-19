@@ -151,12 +151,22 @@
     "totalAnswers": 8,
     "okAnswers": 3,
     "ngAnswers": 5,
-    "participatedQuizCount": 3,
+    "participatedQuizCount": 4,
     "winQuizCount": 0,
     "loseQuizCount": 0,
     "medianViews": 734958
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 224,
+      "group": "F",
+      "date": "2024-11-01",
+      "ok": 0,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": []
+    },
     {
       "quiz_no": 211,
       "group": "F",

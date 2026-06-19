@@ -98,6 +98,9 @@ const quizzes = fs
 const userSet = new Set();
 
 quizzes.forEach((quiz) => {
+    // participants も追加
+    (quiz.participants ?? []).forEach((p) => userSet.add(p));
+
     quiz.songs.forEach((qs) => {
         qs.answers.forEach((a) => userSet.add(a.user));
     });
@@ -136,7 +139,12 @@ for (const user of users) {
 
     /* ---------- joined quizzes (page-ready) ---------- */
 
-    const joinedQuizzes = quizzes.filter((quiz) => quiz.songs.some((qs) => qs.answers.some((a) => a.user === user)));
+    const joinedQuizzes = quizzes.filter((quiz) =>
+        (quiz.participants ?? []).includes(user) ||
+        quiz.songs.some((qs) =>
+            qs.answers.some((a) => a.user === user)
+        )
+    );
 
     function circle(num) {
         return String.fromCharCode(9311 + num);
@@ -199,11 +207,14 @@ for (const user of users) {
 
     const joinedQuizBlocks = quizzes
         .map((quiz) => {
+            const participated =
+                (quiz.participants ?? []).includes(user);
+
             const hitSongs = quiz.songs.filter((qs) =>
                 qs.answers.some((a) => a.user === user)
             );
 
-            if (!hitSongs.length) return null;
+            if (!participated && !hitSongs.length) return null;
 
             const songs = hitSongs.map((qs) => {
                 const song = songMap.get(qs.contentId);

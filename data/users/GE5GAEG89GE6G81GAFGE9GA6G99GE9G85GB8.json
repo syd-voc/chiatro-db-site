@@ -1,6 +1,6 @@
 {
-  "user": "スル",
-  "slug": "GE3G82GB9GE3G83GAB",
+  "user": "安息香酸",
+  "slug": "GE5GAEG89GE6G81GAFGE9GA6G99GE9G85GB8",
   "correctSongs": [],
   "artistStats": [],
   "eraStats": [],
@@ -68,59 +68,24 @@
   ],
   "scatter": [],
   "summary": {
-    "totalAnswers": 1,
+    "totalAnswers": 0,
     "okAnswers": 0,
-    "ngAnswers": 1,
-    "participatedQuizCount": 2,
+    "ngAnswers": 0,
+    "participatedQuizCount": 1,
     "winQuizCount": 0,
     "loseQuizCount": 0,
     "medianViews": null
   },
   "joinedQuizzes": [
     {
-      "quiz_no": 194,
-      "group": "C",
-      "date": "2024-01-27",
+      "quiz_no": 131,
+      "group": "B",
+      "date": "2022-10-29",
       "ok": 0,
       "ng": 0,
       "winRank": null,
       "hasLose": false,
       "songs": []
-    },
-    {
-      "quiz_no": 161,
-      "group": "A",
-      "date": "2023-06-02",
-      "ok": 0,
-      "ng": 1,
-      "winRank": null,
-      "hasLose": false,
-      "songs": [
-        {
-          "order": 100,
-          "contentId": "sm26064731",
-          "title": "あいのうた",
-          "artistList": [
-            "ササノマリイ"
-          ],
-          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26064731/26064731",
-          "tokens": [
-            {
-              "type": "user",
-              "prefix": "×",
-              "user": "スル"
-            },
-            {
-              "type": "text",
-              "value": "→"
-            },
-            {
-              "type": "text",
-              "value": "・スルー"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

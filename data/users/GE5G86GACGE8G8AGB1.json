@@ -570,7 +570,7 @@
     "totalAnswers": 44,
     "okAnswers": 20,
     "ngAnswers": 24,
-    "participatedQuizCount": 9,
+    "participatedQuizCount": 10,
     "winQuizCount": 2,
     "loseQuizCount": 0,
     "medianViews": 1164203
@@ -1537,6 +1537,16 @@
           ]
         }
       ]
+    },
+    {
+      "quiz_no": 167,
+      "group": "D",
+      "date": "2023-07-14",
+      "ok": 0,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": []
     },
     {
       "quiz_no": 163,

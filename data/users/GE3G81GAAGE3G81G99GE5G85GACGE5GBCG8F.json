@@ -858,12 +858,22 @@
     "totalAnswers": 48,
     "okAnswers": 39,
     "ngAnswers": 9,
-    "participatedQuizCount": 16,
+    "participatedQuizCount": 17,
     "winQuizCount": 4,
     "loseQuizCount": 0,
     "medianViews": 567292
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 181,
+      "group": "B",
+      "date": "2023-10-20",
+      "ok": 0,
+      "ng": 0,
+      "winRank": null,
+      "hasLose": false,
+      "songs": []
+    },
     {
       "quiz_no": 180,
       "group": "B",
