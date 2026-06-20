@@ -11,7 +11,7 @@
     "startTime": "2020-02-22T22:22:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36405170/36405170.61960152",
     "userId": 16785147,
-    "viewCounter": 57340,
+    "viewCounter": 57354,
     "artist": [
       "ねこむら"
     ],
@@ -30,6 +30,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-20",
+      "quizNo": 304,
+      "group": "D1",
+      "order": 4
+    },
     {
       "date": "2026-06-05",
       "quizNo": 302,
@@ -85,8 +91,8 @@
       "winner": "STN"
     }
   ],
-  "appearanceCount": 8,
+  "appearanceCount": 9,
   "correctCount": 6,
-  "accuracy": 75,
+  "accuracy": 67,
   "anotherVersions": []
 }

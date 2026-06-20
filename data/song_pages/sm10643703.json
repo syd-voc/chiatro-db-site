@@ -6,12 +6,12 @@
     "commentCounter": 1348,
     "lengthSeconds": 237,
     "likeCounter": 22,
-    "mylistCounter": 3310,
+    "mylistCounter": 3311,
     "rank": 580,
     "startTime": "2010-05-07T23:12:17+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10643703/10643703",
     "userId": 11701964,
-    "viewCounter": 86982,
+    "viewCounter": 86989,
     "artist": [
       "無力P"
     ],
@@ -32,6 +32,13 @@
   },
   "histories": [
     {
+      "date": "2026-06-20",
+      "quizNo": 304,
+      "group": "B",
+      "order": 11,
+      "winner": "Lyz"
+    },
+    {
       "date": "2023-05-05",
       "quizNo": 157,
       "group": "A",
@@ -50,8 +57,8 @@
       "order": 47
     }
   ],
-  "appearanceCount": 3,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 4,
+  "correctCount": 1,
+  "accuracy": 25,
   "anotherVersions": []
 }

@@ -6,12 +6,12 @@
     "channelId": 171,
     "commentCounter": 13335,
     "lengthSeconds": 221,
-    "likeCounter": 988,
-    "mylistCounter": 27213,
+    "likeCounter": 992,
+    "mylistCounter": 27217,
     "rank": 76,
     "startTime": "2012-01-12T23:30:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/16679019/16679019",
-    "viewCounter": 896134,
+    "viewCounter": 896610,
     "artist": [
       "DECO*27"
     ],
@@ -31,6 +31,13 @@
     "userId": null
   },
   "histories": [
+    {
+      "date": "2026-06-19",
+      "quizNo": 304,
+      "group": "C2",
+      "order": 76,
+      "winner": "ぷれいやあ"
+    },
     {
       "date": "2026-05-29",
       "quizNo": 301,
@@ -156,8 +163,8 @@
       "winner": "ねこたろー"
     }
   ],
-  "appearanceCount": 18,
-  "correctCount": 16,
+  "appearanceCount": 19,
+  "correctCount": 17,
   "accuracy": 89,
   "anotherVersions": []
 }

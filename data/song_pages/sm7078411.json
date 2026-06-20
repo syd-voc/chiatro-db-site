@@ -3,17 +3,20 @@
     "song": "1",
     "contentId": "sm7078411",
     "title": "「　１　」/初音ミク",
-    "commentCounter": 3902,
+    "commentCounter": 3903,
     "lengthSeconds": 113,
-    "likeCounter": 197,
-    "mylistCounter": 7504,
+    "likeCounter": 198,
+    "mylistCounter": 7503,
     "rank": 246,
     "startTime": "2009-05-18T03:39:55+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7078411/7078411",
     "userId": 2523470,
-    "viewCounter": 314163,
+    "viewCounter": 314199,
     "artist": [
       "ラマーズP"
+    ],
+    "sub_song": [
+      "「1」"
     ],
     "tags": [
       "音楽",
@@ -31,6 +34,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-20",
+      "quizNo": 304,
+      "group": "D1",
+      "order": 21
+    },
     {
       "date": "2025-03-28",
       "quizNo": 243,
@@ -58,8 +67,8 @@
       "winner": "きぐな"
     }
   ],
-  "appearanceCount": 4,
+  "appearanceCount": 5,
   "correctCount": 3,
-  "accuracy": 75,
+  "accuracy": 60,
   "anotherVersions": []
 }

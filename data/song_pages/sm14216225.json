@@ -11,7 +11,7 @@
     "startTime": "2011-04-20T23:59:31+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14216225/14216225",
     "userId": 865371,
-    "viewCounter": 245113,
+    "viewCounter": 245204,
     "artist": [
       "koyori(電ポルP)"
     ],
@@ -29,6 +29,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-20",
+      "quizNo": 304,
+      "group": "D1",
+      "order": 19
+    },
     {
       "date": "2026-06-05",
       "quizNo": 302,
@@ -90,8 +96,8 @@
       "winner": "HAN"
     }
   ],
-  "appearanceCount": 9,
+  "appearanceCount": 10,
   "correctCount": 6,
-  "accuracy": 67,
+  "accuracy": 60,
   "anotherVersions": []
 }

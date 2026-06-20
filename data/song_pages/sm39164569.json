@@ -11,7 +11,7 @@
     "startTime": "2021-08-11T19:08:02+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39164569/39164569.79370631",
     "userId": 5272155,
-    "viewCounter": 134594,
+    "viewCounter": 134650,
     "artist": [
       "てにをは"
     ],
@@ -28,6 +28,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-20",
+      "quizNo": 304,
+      "group": "C1",
+      "order": 29,
+      "winner": "Abbey"
+    },
     {
       "date": "2026-04-04",
       "quizNo": 293,
@@ -78,8 +85,8 @@
       "winner": "ふむじま"
     }
   ],
-  "appearanceCount": 7,
-  "correctCount": 7,
+  "appearanceCount": 8,
+  "correctCount": 8,
   "accuracy": 100,
   "anotherVersions": []
 }

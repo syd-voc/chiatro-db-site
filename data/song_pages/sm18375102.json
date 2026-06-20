@@ -11,7 +11,7 @@
     "startTime": "2012-07-17T19:58:06+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18375102/18375102",
     "userId": 2566558,
-    "viewCounter": 355614,
+    "viewCounter": 355677,
     "artist": [
       "otetsu"
     ],
@@ -30,6 +30,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-20",
+      "quizNo": 304,
+      "group": "C1",
+      "order": 59
+    },
     {
       "date": "2026-04-17",
       "quizNo": 295,
@@ -89,8 +95,8 @@
       "winner": "ちみ"
     }
   ],
-  "appearanceCount": 9,
+  "appearanceCount": 10,
   "correctCount": 5,
-  "accuracy": 56,
+  "accuracy": 50,
   "anotherVersions": []
 }

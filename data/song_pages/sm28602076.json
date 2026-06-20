@@ -11,7 +11,7 @@
     "startTime": "2016-04-09T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28602076/28602076",
     "userId": 334765,
-    "viewCounter": 88528,
+    "viewCounter": 88551,
     "artist": [
       "ハヤシケイ"
     ],
@@ -29,6 +29,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-19",
+      "quizNo": 304,
+      "group": "C2",
+      "order": 44
+    },
     {
       "date": "2026-03-20",
       "quizNo": 291,
@@ -96,8 +102,8 @@
       "winner": "ぴよ"
     }
   ],
-  "appearanceCount": 10,
+  "appearanceCount": 11,
   "correctCount": 7,
-  "accuracy": 70,
+  "accuracy": 64,
   "anotherVersions": []
 }

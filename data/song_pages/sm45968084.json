@@ -8,7 +8,7 @@
     "channelId": null,
     "commentCounter": 151,
     "lengthSeconds": 90,
-    "likeCounter": 951,
+    "likeCounter": 955,
     "mylistCounter": 488,
     "startTime": "2026-02-21T00:00:00+09:00",
     "tags": [
@@ -27,10 +27,17 @@
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45968084/45968084.73300460",
     "title": "誤ッ謬 / 初音ミク・雨衣 - カイネ",
     "userId": 130123952,
-    "viewCounter": 13524,
-    "rank": 125
+    "viewCounter": 13746,
+    "rank": 127
   },
   "histories": [
+    {
+      "date": "2026-06-19",
+      "quizNo": 304,
+      "group": "C2",
+      "order": 52,
+      "winner": "かがみおん"
+    },
     {
       "date": "2026-05-23",
       "quizNo": 300,
@@ -38,8 +45,8 @@
       "order": 4
     }
   ],
-  "appearanceCount": 1,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 2,
+  "correctCount": 1,
+  "accuracy": 50,
   "anotherVersions": []
 }

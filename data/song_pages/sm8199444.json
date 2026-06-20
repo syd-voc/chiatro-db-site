@@ -11,7 +11,7 @@
     "startTime": "2009-09-11T21:46:45+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8199444/8199444",
     "userId": 2591026,
-    "viewCounter": 363919,
+    "viewCounter": 363956,
     "artist": [
       "れるりり"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-20",
+      "quizNo": 304,
+      "group": "C1",
+      "order": 57
+    },
     {
       "date": "2026-01-23",
       "quizNo": 285,
@@ -138,8 +144,39 @@
       "winner": "フォルテ"
     }
   ],
-  "appearanceCount": 16,
+  "appearanceCount": 17,
   "correctCount": 10,
-  "accuracy": 63,
-  "anotherVersions": []
+  "accuracy": 59,
+  "anotherVersions": [
+    {
+      "original": "sm8199444",
+      "contentId": "sm21912617",
+      "song": "いつもより泣き虫な空（リアレンジver）",
+      "artist": [
+        "れるりり"
+      ],
+      "channelId": null,
+      "commentCounter": 1840,
+      "lengthSeconds": 241,
+      "likeCounter": 58,
+      "mylistCounter": 5457,
+      "startTime": "2013-09-26T20:00:00+09:00",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "VOCALOID3",
+        "れるりり",
+        "いつもより泣き虫な空",
+        "市ノ瀬雪乃",
+        "ミクオリジナル曲",
+        "セルフアレンジ",
+        "VOCALOID殿堂入り"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21912617/21912617",
+      "title": "【初音ミクV3】いつもより泣き虫な空【リアレンジver】",
+      "userId": 2591026,
+      "viewCounter": 114854,
+      "rank": 332
+    }
+  ]
 }

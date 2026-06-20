@@ -11,7 +11,7 @@
     "startTime": "2019-11-24T22:57:02+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35999496/35999496.26647665",
     "userId": 92378453,
-    "viewCounter": 301638,
+    "viewCounter": 301846,
     "artist": [
       "あじみ"
     ],
@@ -31,6 +31,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-20",
+      "quizNo": 304,
+      "group": "B",
+      "order": 10,
+      "winner": "世界のYAMADA"
+    },
+    {
+      "date": "2026-06-19",
+      "quizNo": 304,
+      "group": "C2",
+      "order": 45,
+      "winner": "きゅーいちさん"
+    },
     {
       "date": "2026-05-15",
       "quizNo": 299,
@@ -259,8 +273,8 @@
       "winner": "とげ"
     }
   ],
-  "appearanceCount": 33,
-  "correctCount": 31,
+  "appearanceCount": 35,
+  "correctCount": 33,
   "accuracy": 94,
   "anotherVersions": []
 }

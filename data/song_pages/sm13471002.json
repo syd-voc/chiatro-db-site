@@ -6,12 +6,12 @@
     "commentCounter": 2580,
     "lengthSeconds": 279,
     "likeCounter": 43,
-    "mylistCounter": 5641,
+    "mylistCounter": 5640,
     "rank": 387,
     "startTime": "2011-02-01T22:16:45+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13471002/13471002",
     "userId": 7550057,
-    "viewCounter": 136872,
+    "viewCounter": 136879,
     "artist": [
       "KulfiQ"
     ],
@@ -30,6 +30,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-20",
+      "quizNo": 304,
+      "group": "C1",
+      "order": 35
+    },
     {
       "date": "2025-04-11",
       "quizNo": 245,
@@ -57,8 +63,8 @@
       "order": 25
     }
   ],
-  "appearanceCount": 4,
+  "appearanceCount": 5,
   "correctCount": 2,
-  "accuracy": 50,
+  "accuracy": 40,
   "anotherVersions": []
 }

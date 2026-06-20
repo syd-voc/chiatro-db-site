@@ -11,7 +11,7 @@
     "startTime": "2015-05-23T17:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26316369/26316369",
     "userId": 13497494,
-    "viewCounter": 346177,
+    "viewCounter": 346204,
     "artist": [
       "いーらん"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-20",
+      "quizNo": 304,
+      "group": "C1",
+      "order": 13
+    },
     {
       "date": "2025-09-27",
       "quizNo": 269,
@@ -158,8 +164,8 @@
       "winner": "あざばて。"
     }
   ],
-  "appearanceCount": 19,
+  "appearanceCount": 20,
   "correctCount": 14,
-  "accuracy": 74,
+  "accuracy": 70,
   "anotherVersions": []
 }

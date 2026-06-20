@@ -11,7 +11,7 @@
     "startTime": "2011-09-29T16:59:53+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15744975/15744975",
     "userId": 3967970,
-    "viewCounter": 87264,
+    "viewCounter": 87273,
     "artist": [
       "emon(Tes.)"
     ],
@@ -32,6 +32,12 @@
   },
   "histories": [
     {
+      "date": "2026-06-20",
+      "quizNo": 304,
+      "group": "C1",
+      "order": 9
+    },
+    {
       "date": "2026-06-06",
       "quizNo": 302,
       "group": "A",
@@ -45,8 +51,8 @@
       "order": 53
     }
   ],
-  "appearanceCount": 2,
+  "appearanceCount": 3,
   "correctCount": 1,
-  "accuracy": 50,
+  "accuracy": 33,
   "anotherVersions": []
 }

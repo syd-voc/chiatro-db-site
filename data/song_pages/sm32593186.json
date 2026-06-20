@@ -11,7 +11,7 @@
     "startTime": "2018-01-17T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32593186/32593186",
     "userId": 34535560,
-    "viewCounter": 149129,
+    "viewCounter": 149155,
     "artist": [
       "NONEMU"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-20",
+      "quizNo": 304,
+      "group": "D1",
+      "order": 16
+    },
     {
       "date": "2026-03-07",
       "quizNo": 289,
@@ -119,8 +125,8 @@
       "winner": "ホワイト"
     }
   ],
-  "appearanceCount": 13,
+  "appearanceCount": 14,
   "correctCount": 10,
-  "accuracy": 77,
+  "accuracy": 71,
   "anotherVersions": []
 }
