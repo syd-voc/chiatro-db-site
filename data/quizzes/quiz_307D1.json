@@ -1,0 +1,973 @@
+{
+  "quiz_no": 307,
+  "group": "D1",
+  "date": "2026-07-10",
+  "songs": [
+    {
+      "order": 1,
+      "contentId": "sm43766827",
+      "answers": [
+        {
+          "user": "なすの惑星",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "contentId": "sm6928368",
+      "answers": [
+        {
+          "user": "777",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "contentId": "sm15450802",
+      "answers": [
+        {
+          "user": "きょうぼく",
+          "result": "NG"
+        },
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "contentId": "sm24598974",
+      "answers": [
+        {
+          "user": "ひーた",
+          "result": "NG"
+        },
+        {
+          "user": "ぷれいやあ",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "contentId": "sm30978393",
+      "answers": [
+        {
+          "user": "777",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "contentId": "so45125163",
+      "answers": [
+        {
+          "user": "きょうぼく",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "contentId": "sm19964004",
+      "answers": [
+        {
+          "user": "きょうぼく",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "contentId": "sm5666270",
+      "answers": [
+        {
+          "user": "777",
+          "result": "NG"
+        },
+        {
+          "user": "あご星人",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "contentId": "sm16238717",
+      "answers": [
+        {
+          "user": "なすの惑星",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "contentId": "sm44685716",
+      "answers": [
+        {
+          "user": "きょうぼく",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "contentId": "sm44677571",
+      "answers": [
+        {
+          "user": "きょうぼく",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "contentId": "sm12640192",
+      "answers": [
+        {
+          "user": "なすの惑星",
+          "result": "NG"
+        },
+        {
+          "user": "HAN",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "contentId": "sm33016008",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "contentId": "sm27505459",
+      "answers": [
+        {
+          "user": "HAN",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "contentId": "sm1984267",
+      "answers": [
+        {
+          "user": "なすの惑星",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "contentId": "sm42881822",
+      "answers": [
+        {
+          "user": "なすの惑星",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "contentId": "sm37092723",
+      "answers": [
+        {
+          "user": "きょうぼく",
+          "result": "WIN1"
+        }
+      ]
+    },
+    {
+      "order": 18,
+      "contentId": "sm34594493",
+      "answers": [
+        {
+          "user": "777",
+          "result": "NG"
+        },
+        {
+          "user": "りつりつ",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 19,
+      "contentId": "sm28930143",
+      "answers": [
+        {
+          "user": "N氏",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 20,
+      "contentId": "sm32479585",
+      "answers": [
+        {
+          "user": "ぷれいやあ",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 21,
+      "contentId": "sm37098542",
+      "answers": [
+        {
+          "user": "ひーた",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 22,
+      "contentId": "sm7781905",
+      "answers": [
+        {
+          "user": "防虫剤",
+          "result": "NG"
+        },
+        {
+          "user": "777",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 23,
+      "contentId": "sm23229863",
+      "answers": [
+        {
+          "user": "おぷち",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 24,
+      "contentId": "sm23047228",
+      "answers": [
+        {
+          "user": "間宵",
+          "result": "NG"
+        },
+        {
+          "user": "おぷち",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 25,
+      "contentId": "sm24189059",
+      "answers": [
+        {
+          "user": "あご星人",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 26,
+      "contentId": "sm33260180",
+      "answers": [
+        {
+          "user": "おぷち",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 27,
+      "contentId": "sm28039151",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 28,
+      "contentId": "sm27414630",
+      "answers": [
+        {
+          "user": "ぷれいやあ",
+          "result": "NG"
+        },
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 29,
+      "contentId": "sm37812606",
+      "answers": [
+        {
+          "user": "777",
+          "result": "NG"
+        },
+        {
+          "user": "ひーた",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 30,
+      "contentId": "sm37511248",
+      "answers": [
+        {
+          "user": "間宵",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 31,
+      "contentId": "sm26261134",
+      "answers": [
+        {
+          "user": "ひーた",
+          "result": "NG"
+        },
+        {
+          "user": "しがない炭酸飲料",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 32,
+      "contentId": "sm43869395",
+      "answers": [
+        {
+          "user": "りつりつ",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 33,
+      "contentId": "sm41188413",
+      "answers": [
+        {
+          "user": "たいこさん",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 34,
+      "contentId": "sm42565742",
+      "answers": [
+        {
+          "user": "りつりつ",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 35,
+      "contentId": "sm39082658",
+      "answers": [
+        {
+          "user": "間宵",
+          "result": "NG"
+        },
+        {
+          "user": "なすの惑星",
+          "result": "WIN2"
+        }
+      ]
+    },
+    {
+      "order": 36,
+      "contentId": "sm41895546",
+      "answers": [
+        {
+          "user": "777",
+          "result": "NG"
+        },
+        {
+          "user": "ひーた",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 37,
+      "contentId": "sm18100389",
+      "answers": [
+        {
+          "user": "りつりつ",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 38,
+      "contentId": "sm40352398",
+      "answers": [
+        {
+          "user": "おはよう",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 39,
+      "contentId": "sm42848749",
+      "answers": [
+        {
+          "user": "りつりつ",
+          "result": "WIN3"
+        }
+      ]
+    },
+    {
+      "order": 40,
+      "contentId": "so32698016",
+      "answers": [
+        {
+          "user": "ぷれいやあ",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 41,
+      "contentId": "sm36453788",
+      "answers": [
+        {
+          "user": "ぷれいやあ",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 42,
+      "contentId": "sm19028880",
+      "answers": [
+        {
+          "user": "終了",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 43,
+      "contentId": "sm19550230",
+      "answers": [
+        {
+          "user": "あご星人",
+          "result": "NG"
+        },
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 44,
+      "contentId": "sm36706483",
+      "answers": [
+        {
+          "user": "777",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 45,
+      "contentId": "sm31712335",
+      "answers": [
+        {
+          "user": "しがない炭酸飲料",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 46,
+      "contentId": "sm45162338",
+      "answers": [
+        {
+          "user": "777",
+          "result": "WIN4"
+        }
+      ]
+    },
+    {
+      "order": 47,
+      "contentId": "sm29711193",
+      "answers": [
+        {
+          "user": "ひーた",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 48,
+      "contentId": "sm33409541",
+      "answers": [
+        {
+          "user": "防虫剤",
+          "result": "OK1"
+        }
+      ]
+    },
+    {
+      "order": 49,
+      "contentId": "sm42224358",
+      "answers": [
+        {
+          "user": "防虫剤",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 50,
+      "contentId": "sm44444542",
+      "answers": [
+        {
+          "user": "間宵",
+          "result": "NG"
+        },
+        {
+          "user": "あご星人",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 51,
+      "contentId": "sm41944776",
+      "answers": [
+        {
+          "user": "ひーた",
+          "result": "WIN5"
+        }
+      ]
+    },
+    {
+      "order": 52,
+      "contentId": "sm44677004",
+      "answers": [
+        {
+          "user": "おはよう",
+          "result": "NG"
+        },
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 53,
+      "contentId": "sm19053765",
+      "answers": [
+        {
+          "user": "終了",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 54,
+      "contentId": "sm2573003",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 55,
+      "contentId": "so43388810",
+      "answers": [
+        {
+          "user": "おはよう",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 56,
+      "contentId": "sm12689129",
+      "answers": [
+        {
+          "user": "間宵",
+          "result": "NG"
+        },
+        {
+          "user": "ぷれいやあ",
+          "result": "NG"
+        },
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 57,
+      "contentId": "sm27017220",
+      "answers": [
+        {
+          "user": "あご星人",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 58,
+      "contentId": "sm45966776",
+      "answers": [
+        {
+          "user": "おはよう",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 59,
+      "contentId": "sm43431255",
+      "answers": [
+        {
+          "user": "ぷれいやあ",
+          "result": "WIN6"
+        }
+      ]
+    },
+    {
+      "order": 60,
+      "contentId": "sm14332782",
+      "answers": [
+        {
+          "user": "しがない炭酸飲料",
+          "result": "NG"
+        },
+        {
+          "user": "HAN",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 61,
+      "contentId": "sm9205429",
+      "answers": [
+        {
+          "user": "N氏",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 62,
+      "contentId": "sm46121265",
+      "answers": [
+        {
+          "user": "間宵",
+          "result": "OK2"
+        }
+      ]
+    },
+    {
+      "order": 63,
+      "contentId": "sm45324010",
+      "answers": [
+        {
+          "user": "しがない炭酸飲料",
+          "result": "NG"
+        },
+        {
+          "user": "おはよう",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 64,
+      "contentId": "sm45305917",
+      "answers": [
+        {
+          "user": "間宵",
+          "result": "NG"
+        },
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 65,
+      "contentId": "sm4794708",
+      "answers": [
+        {
+          "user": "HAN",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 66,
+      "contentId": "sm34247312",
+      "answers": [
+        {
+          "user": "N氏",
+          "result": "NG"
+        },
+        {
+          "user": "防虫剤",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 67,
+      "contentId": "sm16742993",
+      "answers": [
+        {
+          "user": "防虫剤",
+          "result": "NG"
+        },
+        {
+          "user": "HAN",
+          "result": "WIN7"
+        }
+      ]
+    },
+    {
+      "order": 68,
+      "contentId": "sm32149780",
+      "answers": [
+        {
+          "user": "しがない炭酸飲料",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 69,
+      "contentId": "sm14835645",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 70,
+      "contentId": "sm40090304",
+      "answers": [
+        {
+          "user": "おぷち",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 71,
+      "contentId": "sm27042325",
+      "answers": [
+        {
+          "user": "N氏",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 72,
+      "contentId": "sm8139134",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 73,
+      "contentId": "sm19473241",
+      "answers": [
+        {
+          "user": "おぷち",
+          "result": "NG"
+        },
+        {
+          "user": "あご星人",
+          "result": "WIN8"
+        }
+      ]
+    },
+    {
+      "order": 74,
+      "contentId": "sm44747244",
+      "answers": [
+        {
+          "user": "終了",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 75,
+      "contentId": "sm44667258",
+      "answers": [
+        {
+          "user": "間宵",
+          "result": "OK3"
+        }
+      ]
+    },
+    {
+      "order": 76,
+      "contentId": "sm38269004",
+      "answers": [
+        {
+          "user": "しがない炭酸飲料",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 77,
+      "contentId": "sm1050729",
+      "answers": [
+        {
+          "user": "終了",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 78,
+      "contentId": "sm19133907",
+      "answers": [
+        {
+          "user": "防虫剤",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 79,
+      "contentId": "sm42335988",
+      "answers": [
+        {
+          "user": "おはよう",
+          "result": "WIN9"
+        }
+      ]
+    },
+    {
+      "order": 80,
+      "contentId": "sm16591615",
+      "answers": [
+        {
+          "user": "N氏",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 81,
+      "contentId": "sm36142547",
+      "answers": [
+        {
+          "user": "N氏",
+          "result": "WIN10"
+        }
+      ]
+    },
+    {
+      "order": 82,
+      "contentId": "sm34470195",
+      "answers": [
+        {
+          "user": "防虫剤",
+          "result": "WIN11"
+        }
+      ]
+    },
+    {
+      "order": 83,
+      "contentId": "sm24276234",
+      "answers": [
+        {
+          "user": "おぷち",
+          "result": "WIN12"
+        }
+      ]
+    },
+    {
+      "order": 84,
+      "contentId": "sm23750267",
+      "answers": [
+        {
+          "user": "間宵",
+          "result": "OK4"
+        }
+      ]
+    },
+    {
+      "order": 85,
+      "contentId": "sm9092949",
+      "answers": [
+        {
+          "user": "",
+          "result": "SKIP"
+        }
+      ]
+    },
+    {
+      "order": 86,
+      "contentId": "sm35451691",
+      "answers": [
+        {
+          "user": "しがない炭酸飲料",
+          "result": "WIN13"
+        }
+      ]
+    },
+    {
+      "order": 87,
+      "contentId": "sm12223686",
+      "answers": [
+        {
+          "user": "間宵",
+          "result": "LOSE"
+        },
+        {
+          "user": "終了",
+          "result": "WIN14"
+        }
+      ]
+    }
+  ]
+}
