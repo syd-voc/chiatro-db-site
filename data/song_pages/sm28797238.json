@@ -3,15 +3,15 @@
     "song": "花降らし",
     "contentId": "sm28797238",
     "title": "花降らし / 初音ミクオリジナル",
-    "commentCounter": 5962,
+    "commentCounter": 5964,
     "lengthSeconds": 294,
-    "likeCounter": 2647,
-    "mylistCounter": 11757,
+    "likeCounter": 2684,
+    "mylistCounter": 11778,
     "rank": 46,
     "startTime": "2016-05-07T19:00:41+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28797238/28797238",
     "userId": 26225387,
-    "viewCounter": 1681631,
+    "viewCounter": 1686005,
     "artist": [
       "n-buna"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-08-14",
+      "quizNo": 312,
+      "group": "B",
+      "order": 32,
+      "winner": "最強の私"
+    },
+    {
+      "date": "2026-06-27",
+      "quizNo": 305,
+      "group": "D1",
+      "order": 72
+    },
     {
       "date": "2026-05-08",
       "quizNo": 298,
@@ -191,8 +204,8 @@
       "winner": "しみら"
     }
   ],
-  "appearanceCount": 23,
-  "correctCount": 23,
-  "accuracy": 100,
+  "appearanceCount": 25,
+  "correctCount": 24,
+  "accuracy": 96,
   "anotherVersions": []
 }

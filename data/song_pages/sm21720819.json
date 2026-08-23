@@ -3,15 +3,15 @@
     "song": "アウターサイエンス",
     "contentId": "sm21720819",
     "title": "【IA】アウターサイエンス【オリジナルMV】",
-    "commentCounter": 138807,
+    "commentCounter": 138984,
     "lengthSeconds": 216,
-    "likeCounter": 4265,
-    "mylistCounter": 65702,
+    "likeCounter": 4450,
+    "mylistCounter": 65806,
     "rank": 10,
     "startTime": "2013-08-31T17:00:06+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21720819/21720819",
     "userId": 15872264,
-    "viewCounter": 4792012,
+    "viewCounter": 4811835,
     "artist": [
       "じん"
     ],
@@ -26,11 +26,45 @@
       "カゲロウプロジェクト",
       "ダークなぼかうた",
       "VOCALOID伝説入り",
-      "IA名曲リンク"
+      "ボカムンベース"
     ],
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-08-08",
+      "quizNo": 311,
+      "group": "D1",
+      "order": 67,
+      "winner": "水筒"
+    },
+    {
+      "date": "2026-08-01",
+      "quizNo": 310,
+      "group": "D2",
+      "order": 52,
+      "winner": "終了"
+    },
+    {
+      "date": "2026-07-25",
+      "quizNo": 309,
+      "group": "B",
+      "order": 82,
+      "winner": "しゃい"
+    },
+    {
+      "date": "2026-07-17",
+      "quizNo": 308,
+      "group": "A",
+      "order": 56
+    },
+    {
+      "date": "2026-07-03",
+      "quizNo": 306,
+      "group": "D1",
+      "order": 74,
+      "winner": "終了"
+    },
     {
       "date": "2026-06-05",
       "quizNo": 302,
@@ -298,8 +332,41 @@
       "winner": "ちみ"
     }
   ],
-  "appearanceCount": 39,
-  "correctCount": 35,
-  "accuracy": 90,
-  "anotherVersions": []
+  "appearanceCount": 44,
+  "correctCount": 39,
+  "accuracy": 89,
+  "anotherVersions": [
+    {
+      "original": "sm21720819",
+      "contentId": "sm25894162",
+      "song": "アウターサイエンス (ONE ver.)",
+      "artist": [
+        "じん"
+      ],
+      "channelId": null,
+      "commentCounter": 13480,
+      "lengthSeconds": 294,
+      "likeCounter": 382,
+      "mylistCounter": 4484,
+      "startTime": "2015-03-28T20:00:00+09:00",
+      "tags": [
+        "音楽",
+        "じん",
+        "TeddyLoid",
+        "ONE_-ARIA_ON_THE_PLANETES-",
+        "アウターサイエンス",
+        "VOCALOID",
+        "CeVIO",
+        "じん(自然の敵P)",
+        "カゲロウプロジェクト",
+        "メカクシティアクターズ",
+        "CeVIO殿堂入り"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25894162/25894162",
+      "title": "【AMV】アウターサイエンス/じん ft. ONE",
+      "userId": 15872264,
+      "viewCounter": 346159,
+      "rank": 148
+    }
+  ]
 }

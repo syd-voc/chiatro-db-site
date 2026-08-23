@@ -3,15 +3,15 @@
     "song": "メルト",
     "contentId": "sm1715919",
     "title": "初音ミク　が　オリジナル曲を歌ってくれたよ「メルト」",
-    "commentCounter": 1060642,
+    "commentCounter": 1062864,
     "lengthSeconds": 256,
-    "likeCounter": 37104,
-    "mylistCounter": 310830,
+    "likeCounter": 37864,
+    "mylistCounter": 311046,
     "rank": 1,
     "startTime": "2007-12-07T20:46:02+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1715919/1715919",
     "userId": 317063,
-    "viewCounter": 17079825,
+    "viewCounter": 17136506,
     "artist": [
       "ryo"
     ],
@@ -31,6 +31,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-08-14",
+      "quizNo": 312,
+      "group": "D2",
+      "order": 14,
+      "winner": "777"
+    },
+    {
+      "date": "2026-07-17",
+      "quizNo": 308,
+      "group": "D1",
+      "order": 42,
+      "winner": "パム"
+    },
     {
       "date": "2026-05-30",
       "quizNo": 301,
@@ -207,8 +221,41 @@
       "winner": "セレスト"
     }
   ],
-  "appearanceCount": 25,
-  "correctCount": 25,
+  "appearanceCount": 27,
+  "correctCount": 27,
   "accuracy": 100,
-  "anotherVersions": []
+  "anotherVersions": [
+    {
+      "original": "sm1715919",
+      "contentId": "sm45865042",
+      "song": "メルト CPK! Remix",
+      "artist": [
+        "ryo"
+      ],
+      "channelId": null,
+      "commentCounter": 12170,
+      "lengthSeconds": 279,
+      "likeCounter": 9467,
+      "mylistCounter": 2607,
+      "startTime": "2026-01-22T21:00:00+09:00",
+      "tags": [
+        "supercell",
+        "ryo",
+        "初音ミク",
+        "メルト",
+        "VOCALOID",
+        "超かぐや姫！",
+        "ryo(supercell)",
+        "VOCALOID殿堂入り",
+        "王の帰還",
+        "メルト_CPK!_Remix",
+        "㍍⊃"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45865042/45865042.38214304",
+      "title": "ryo (supercell) / メルト CPK! Remix (初音ミク ver.)",
+      "userId": 317063,
+      "viewCounter": 303123,
+      "rank": 4
+    }
+  ]
 }

@@ -3,15 +3,15 @@
     "song": "ひまわり",
     "contentId": "sm45320978",
     "title": "ひまわり / IA",
-    "commentCounter": 1144,
+    "commentCounter": 1147,
     "lengthSeconds": 237,
-    "likeCounter": 1285,
-    "mylistCounter": 656,
-    "rank": 260,
+    "likeCounter": 1317,
+    "mylistCounter": 672,
+    "rank": 261,
     "startTime": "2025-08-23T00:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45320978/45320978.2867375",
     "userId": 123688006,
-    "viewCounter": 61301,
+    "viewCounter": 64445,
     "artist": [
       "Project Lumina"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-08-14",
+      "quizNo": 312,
+      "group": "C2",
+      "order": 70,
+      "winner": "すぼ"
+    },
+    {
+      "date": "2026-07-17",
+      "quizNo": 308,
+      "group": "C1",
+      "order": 8
+    },
     {
       "date": "2026-06-05",
       "quizNo": 302,
@@ -71,8 +84,8 @@
       "order": 59
     }
   ],
-  "appearanceCount": 6,
-  "correctCount": 3,
+  "appearanceCount": 8,
+  "correctCount": 4,
   "accuracy": 50,
   "anotherVersions": []
 }

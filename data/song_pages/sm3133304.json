@@ -3,15 +3,15 @@
     "song": "悪ノ召使",
     "contentId": "sm3133304",
     "title": "【鏡音レン】悪ノ召使【中世物語風オリジナル】",
-    "commentCounter": 263692,
+    "commentCounter": 263738,
     "lengthSeconds": 310,
-    "likeCounter": 7175,
-    "mylistCounter": 99972,
+    "likeCounter": 7331,
+    "mylistCounter": 100039,
     "rank": 8,
     "startTime": "2008-04-29T01:43:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/3133304/3133304",
     "userId": 907343,
-    "viewCounter": 5184579,
+    "viewCounter": 5196131,
     "artist": [
       "悪ノP"
     ],
@@ -31,6 +31,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-08-21",
+      "quizNo": 313,
+      "group": "C2",
+      "order": 47,
+      "winner": "すぼ"
+    },
+    {
+      "date": "2026-08-14",
+      "quizNo": 312,
+      "group": "B",
+      "order": 61,
+      "winner": "八神猪熊"
+    },
     {
       "date": "2026-06-20",
       "quizNo": 304,
@@ -291,8 +305,70 @@
       "winner": "とりりす。"
     }
   ],
-  "appearanceCount": 37,
-  "correctCount": 37,
+  "appearanceCount": 39,
+  "correctCount": 39,
   "accuracy": 100,
-  "anotherVersions": []
+  "anotherVersions": [
+    {
+      "original": "sm3133304",
+      "contentId": "sm4119128",
+      "song": "悪ノ召使 (再・修正版)",
+      "artist": [
+        "悪ノP"
+      ],
+      "channelId": null,
+      "commentCounter": 9333,
+      "lengthSeconds": 310,
+      "likeCounter": 179,
+      "mylistCounter": 6044,
+      "startTime": "2008-07-29T20:30:56+09:00",
+      "tags": [
+        "VOCALOID",
+        "鏡音レン",
+        "レンオリジナル曲",
+        "悪ノP",
+        "目からブリオッシュ",
+        "鏡音三大悲劇",
+        "悪ノ召使",
+        "VOCALOID殿堂入り",
+        "悪ノ派生リンク"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/4119128/4119128",
+      "title": "【鏡音レンACT2】悪ノ召使【中世物語風オリジナル(再・修正版)】",
+      "userId": 907343,
+      "viewCounter": 346370,
+      "rank": 279
+    },
+    {
+      "original": "sm3133304",
+      "contentId": "sm9212993",
+      "song": "悪ノ召使〜velvet mix〜",
+      "artist": [
+        "悪ノP"
+      ],
+      "channelId": null,
+      "commentCounter": 11625,
+      "lengthSeconds": 306,
+      "likeCounter": 155,
+      "mylistCounter": 6714,
+      "startTime": "2009-12-27T15:17:47+09:00",
+      "tags": [
+        "VOCALOID",
+        "鏡音レン",
+        "レンオリジナル曲",
+        "悪ノＰ",
+        "悪ノ召使",
+        "鏡音誕生祭2009",
+        "鏡音リン・レン誕生祭記念動画",
+        "VOCALOID殿堂入り",
+        "目からブリオッシュ",
+        "悪ノ派生リンク"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9212993/9212993",
+      "title": "【鏡音レン】悪ノ召使～velvet mix～【鏡音誕生祭記念】",
+      "userId": 907343,
+      "viewCounter": 321120,
+      "rank": 273
+    }
+  ]
 }

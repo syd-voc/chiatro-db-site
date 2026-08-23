@@ -6,12 +6,12 @@
     "channelId": 171,
     "commentCounter": 15396,
     "lengthSeconds": 318,
-    "likeCounter": 292,
-    "mylistCounter": 26262,
+    "likeCounter": 298,
+    "mylistCounter": 26265,
     "rank": 63,
     "startTime": "2011-05-13T17:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14436608/14436608",
-    "viewCounter": 799009,
+    "viewCounter": 799832,
     "artist": [
       "sasakure.UK"
     ],
@@ -31,6 +31,13 @@
     "userId": null
   },
   "histories": [
+    {
+      "date": "2026-08-01",
+      "quizNo": 310,
+      "group": "C2",
+      "order": 52,
+      "winner": "デ派"
+    },
     {
       "date": "2025-09-20",
       "quizNo": 268,
@@ -85,8 +92,8 @@
       "winner": "きぐな"
     }
   ],
-  "appearanceCount": 8,
-  "correctCount": 6,
-  "accuracy": 75,
+  "appearanceCount": 9,
+  "correctCount": 7,
+  "accuracy": 78,
   "anotherVersions": []
 }

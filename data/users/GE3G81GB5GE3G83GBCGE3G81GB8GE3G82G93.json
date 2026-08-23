@@ -10,8 +10,8 @@
         "夏代孝明"
       ],
       "startTime": "2021-07-30T19:00:00+09:00",
-      "viewCounter": 797292,
-      "correctCount": 1
+      "viewCounter": 803575,
+      "correctCount": 2
     },
     {
       "contentId": "sm12825985",
@@ -21,7 +21,7 @@
         "EasyPop"
       ],
       "startTime": "2010-11-22T20:10:37+09:00",
-      "viewCounter": 8054618,
+      "viewCounter": 8084770,
       "correctCount": 1
     },
     {
@@ -32,7 +32,7 @@
         "かいりきベア"
       ],
       "startTime": "2018-08-02T20:00:00+09:00",
-      "viewCounter": 10890369,
+      "viewCounter": 10942071,
       "correctCount": 1
     },
     {
@@ -43,7 +43,7 @@
         "てにをは"
       ],
       "startTime": "2020-02-07T20:10:02+09:00",
-      "viewCounter": 4721051,
+      "viewCounter": 4753731,
       "correctCount": 1
     },
     {
@@ -54,14 +54,58 @@
         "きくお"
       ],
       "startTime": "2013-03-23T11:11:08+09:00",
-      "viewCounter": 1633577,
+      "viewCounter": 1646412,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm20286605",
+      "title": "ハウトゥー世界征服",
+      "artist": "Neru",
+      "artistList": [
+        "Neru"
+      ],
+      "startTime": "2013-03-09T19:00:41+09:00",
+      "viewCounter": 4330246,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm32769089",
+      "title": "明星ギャラクティカ",
+      "artist": "ナユタン星人",
+      "artistList": [
+        "ナユタン星人"
+      ],
+      "startTime": "2018-02-20T20:27:40+09:00",
+      "viewCounter": 2281373,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm24276234",
+      "title": "アスノヨゾラ哨戒班",
+      "artist": "Orangestar",
+      "artistList": [
+        "Orangestar"
+      ],
+      "startTime": "2014-08-19T20:37:55+09:00",
+      "viewCounter": 13093391,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm28576299",
+      "title": "エイリアンエイリアン",
+      "artist": "ナユタン星人",
+      "artistList": [
+        "ナユタン星人"
+      ],
+      "startTime": "2016-04-05T19:06:00+09:00",
+      "viewCounter": 9230067,
       "correctCount": 1
     }
   ],
   "artistStats": [
     {
       "artist": "夏代孝明",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -83,12 +127,27 @@
       "artist": "きくお",
       "correctCount": 1,
       "correctSongCount": 1
+    },
+    {
+      "artist": "Neru",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ナユタン星人",
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "artist": "Orangestar",
+      "correctCount": 1,
+      "correctSongCount": 1
     }
   ],
   "eraStats": [
     {
       "era": "2021",
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -98,8 +157,8 @@
     },
     {
       "era": "2018",
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "era": "2020",
@@ -108,6 +167,16 @@
     },
     {
       "era": "2013",
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "era": "2014",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2016",
       "correctCount": 1,
       "correctSongCount": 1
     }
@@ -140,7 +209,7 @@
     {
       "range": "50-100万",
       "order": 4,
-      "correctCount": 1,
+      "correctCount": 2,
       "correctSongCount": 1
     },
     {
@@ -152,26 +221,26 @@
     {
       "range": "200-300万",
       "order": 6,
-      "correctCount": 0,
-      "correctSongCount": 0
+      "correctCount": 1,
+      "correctSongCount": 1
     },
     {
       "range": "300-500万",
       "order": 7,
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "range": "500-1000万",
       "order": 8,
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     },
     {
       "range": "1000万-",
       "order": 9,
-      "correctCount": 1,
-      "correctSongCount": 1
+      "correctCount": 2,
+      "correctSongCount": 2
     }
   ],
   "scatter": [
@@ -179,43 +248,158 @@
       "title": "フロムトーキョー",
       "contentId": "sm39105923",
       "startTime": 1627639200000,
-      "viewCounter": 797292
+      "viewCounter": 803575
     },
     {
       "title": "ハッピーシンセサイザ",
       "contentId": "sm12825985",
       "startTime": 1290424237000,
-      "viewCounter": 8054618
+      "viewCounter": 8084770
     },
     {
       "title": "ベノム",
       "contentId": "sm33624822",
       "startTime": 1533207600000,
-      "viewCounter": 10890369
+      "viewCounter": 10942071
     },
     {
       "title": "ヴィラン",
       "contentId": "sm36332327",
       "startTime": 1581073802000,
-      "viewCounter": 4721051
+      "viewCounter": 4753731
     },
     {
       "title": "君はできない子",
       "contentId": "sm20410104",
       "startTime": 1364004668000,
-      "viewCounter": 1633577
+      "viewCounter": 1646412
+    },
+    {
+      "title": "ハウトゥー世界征服",
+      "contentId": "sm20286605",
+      "startTime": 1362823241000,
+      "viewCounter": 4330246
+    },
+    {
+      "title": "明星ギャラクティカ",
+      "contentId": "sm32769089",
+      "startTime": 1519126060000,
+      "viewCounter": 2281373
+    },
+    {
+      "title": "アスノヨゾラ哨戒班",
+      "contentId": "sm24276234",
+      "startTime": 1408448275000,
+      "viewCounter": 13093391
+    },
+    {
+      "title": "エイリアンエイリアン",
+      "contentId": "sm28576299",
+      "startTime": 1459850760000,
+      "viewCounter": 9230067
     }
   ],
   "summary": {
-    "totalAnswers": 7,
-    "okAnswers": 5,
+    "totalAnswers": 12,
+    "okAnswers": 10,
     "ngAnswers": 2,
-    "participatedQuizCount": 1,
-    "winQuizCount": 1,
+    "participatedQuizCount": 2,
+    "winQuizCount": 2,
     "loseQuizCount": 0,
-    "medianViews": 6387835
+    "medianViews": 6419251
   },
   "joinedQuizzes": [
+    {
+      "quiz_no": 312,
+      "group": "D1",
+      "date": "2026-08-15",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 6,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 56,
+          "contentId": "sm20286605",
+          "title": "ハウトゥー世界征服",
+          "artistList": [
+            "Neru"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20286605/20286605",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "ふーへん"
+            }
+          ]
+        },
+        {
+          "order": 58,
+          "contentId": "sm32769089",
+          "title": "明星ギャラクティカ",
+          "artistList": [
+            "ナユタン星人"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32769089/32769089",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "ふーへん"
+            }
+          ]
+        },
+        {
+          "order": 61,
+          "contentId": "sm24276234",
+          "title": "アスノヨゾラ哨戒班",
+          "artistList": [
+            "Orangestar"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24276234/24276234",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "ふーへん"
+            }
+          ]
+        },
+        {
+          "order": 62,
+          "contentId": "sm28576299",
+          "title": "エイリアンエイリアン",
+          "artistList": [
+            "ナユタン星人"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28576299/28576299.67529574",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "ふーへん"
+            }
+          ]
+        },
+        {
+          "order": 64,
+          "contentId": "sm39105923",
+          "title": "フロムトーキョー",
+          "artistList": [
+            "夏代孝明"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39105923/39105923.71405528",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(6)",
+              "user": "ふーへん"
+            }
+          ]
+        }
+      ]
+    },
     {
       "quiz_no": 291,
       "group": "D2",

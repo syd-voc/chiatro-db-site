@@ -3,15 +3,15 @@
     "song": "転生林檎",
     "contentId": "sm40554570",
     "title": "転生林檎 / 初音ミク",
-    "commentCounter": 8567,
+    "commentCounter": 8604,
     "lengthSeconds": 218,
-    "likeCounter": 44659,
-    "mylistCounter": 25585,
+    "likeCounter": 44962,
+    "mylistCounter": 25707,
     "rank": 5,
     "startTime": "2022-06-03T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40554570/40554570.11898029",
     "userId": 865591,
-    "viewCounter": 4915897,
+    "viewCounter": 4949718,
     "artist": [
       "ピノキオピー"
     ],
@@ -31,6 +31,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-07-31",
+      "quizNo": 310,
+      "group": "C1",
+      "order": 66,
+      "winner": "きょうぼく"
+    },
+    {
+      "date": "2026-07-17",
+      "quizNo": 308,
+      "group": "D1",
+      "order": 24,
+      "winner": "すBAR"
+    },
     {
       "date": "2026-05-16",
       "quizNo": 299,
@@ -242,8 +256,8 @@
       "winner": "うつぼっち"
     }
   ],
-  "appearanceCount": 30,
-  "correctCount": 30,
+  "appearanceCount": 32,
+  "correctCount": 32,
   "accuracy": 100,
   "anotherVersions": []
 }

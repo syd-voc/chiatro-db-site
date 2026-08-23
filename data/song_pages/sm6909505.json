@@ -3,15 +3,15 @@
     "song": "magnet",
     "contentId": "sm6909505",
     "title": "magnet【初音ミク・巡音ルカオリジナル】",
-    "commentCounter": 60318,
+    "commentCounter": 60397,
     "lengthSeconds": 239,
-    "likeCounter": 9767,
-    "mylistCounter": 86388,
+    "likeCounter": 10020,
+    "mylistCounter": 86494,
     "rank": 11,
     "startTime": "2009-05-01T13:08:50+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/6909505/6909505",
     "userId": 912063,
-    "viewCounter": 4233781,
+    "viewCounter": 4255529,
     "artist": [
       "流星P"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-07-04",
+      "quizNo": 306,
+      "group": "B",
+      "order": 59,
+      "winner": "ばさし"
+    },
     {
       "date": "2026-04-03",
       "quizNo": 293,
@@ -303,8 +310,41 @@
       "winner": "きぐな"
     }
   ],
-  "appearanceCount": 39,
-  "correctCount": 37,
+  "appearanceCount": 40,
+  "correctCount": 38,
   "accuracy": 95,
-  "anotherVersions": []
+  "anotherVersions": [
+    {
+      "original": "sm6909505",
+      "contentId": "sm46253942",
+      "song": "magnet -recall-",
+      "artist": [
+        "流星P"
+      ],
+      "channelId": null,
+      "commentCounter": 894,
+      "lengthSeconds": 244,
+      "likeCounter": 3120,
+      "mylistCounter": 975,
+      "startTime": "2026-05-01T21:00:00+09:00",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "巡音ルカ",
+        "magnet",
+        "流星P",
+        "vocaloidオリジナル曲",
+        "magnet_-recall-",
+        "ミク&ルカリンク",
+        "ミクオリジナル曲",
+        "ルカオリジナル曲",
+        "セルフカバー"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/46253942/46253942.70089796",
+      "title": "magnet -recall- / 初音ミク、巡音ルカ",
+      "userId": 912063,
+      "viewCounter": 77941,
+      "rank": 44
+    }
+  ]
 }

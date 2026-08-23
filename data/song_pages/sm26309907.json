@@ -6,12 +6,12 @@
     "commentCounter": 1002,
     "lengthSeconds": 309,
     "likeCounter": 57,
-    "mylistCounter": 971,
-    "rank": 518,
+    "mylistCounter": 973,
+    "rank": 516,
     "startTime": "2015-05-22T21:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26309907/26309907",
     "userId": 16809442,
-    "viewCounter": 42819,
+    "viewCounter": 42880,
     "artist": [
       "きむた"
     ],
@@ -31,6 +31,13 @@
   },
   "histories": [
     {
+      "date": "2026-08-22",
+      "quizNo": 313,
+      "group": "A",
+      "order": 18,
+      "winner": "あー"
+    },
+    {
       "date": "2025-04-05",
       "quizNo": 244,
       "group": "D",
@@ -42,8 +49,8 @@
       "order": 72
     }
   ],
-  "appearanceCount": 2,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 3,
+  "correctCount": 1,
+  "accuracy": 33,
   "anotherVersions": []
 }

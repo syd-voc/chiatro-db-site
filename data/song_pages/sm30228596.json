@@ -3,15 +3,15 @@
     "song": "キレキャリオン",
     "contentId": "sm30228596",
     "title": "キレキャリオン / 初音ミク",
-    "commentCounter": 7841,
+    "commentCounter": 7845,
     "lengthSeconds": 178,
-    "likeCounter": 3026,
-    "mylistCounter": 27232,
+    "likeCounter": 3069,
+    "mylistCounter": 27257,
     "rank": 22,
     "startTime": "2016-12-15T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30228596/30228596.76990824",
     "userId": 49132820,
-    "viewCounter": 3539275,
+    "viewCounter": 3547412,
     "artist": [
       "ポリスピカデリー"
     ],
@@ -31,6 +31,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-08-15",
+      "quizNo": 312,
+      "group": "D1",
+      "order": 31,
+      "winner": "しがない炭酸飲料"
+    },
+    {
+      "date": "2026-08-14",
+      "quizNo": 312,
+      "group": "C2",
+      "order": 12,
+      "winner": "Klayn"
+    },
     {
       "date": "2026-05-15",
       "quizNo": 299,
@@ -252,8 +266,8 @@
       "winner": "とげ"
     }
   ],
-  "appearanceCount": 32,
-  "correctCount": 31,
+  "appearanceCount": 34,
+  "correctCount": 33,
   "accuracy": 97,
   "anotherVersions": []
 }

@@ -3,15 +3,15 @@
     "song": "Caged Flower",
     "contentId": "sm20092909",
     "title": "【KAITO V3オリジナル】Caged Flower",
-    "commentCounter": 3582,
+    "commentCounter": 3585,
     "lengthSeconds": 281,
-    "likeCounter": 617,
-    "mylistCounter": 10318,
+    "likeCounter": 626,
+    "mylistCounter": 10325,
     "rank": 160,
     "startTime": "2013-02-15T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20092909/20092909",
     "userId": 1264536,
-    "viewCounter": 379364,
+    "viewCounter": 380767,
     "artist": [
       "Re:nG"
     ],
@@ -31,6 +31,26 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-07-25",
+      "quizNo": 309,
+      "group": "D2",
+      "order": 31,
+      "winner": "あさぼらけ"
+    },
+    {
+      "date": "2026-07-24",
+      "quizNo": 309,
+      "group": "A",
+      "order": 25,
+      "winner": "にーも"
+    },
+    {
+      "date": "2026-07-03",
+      "quizNo": 306,
+      "group": "C1",
+      "order": 32
+    },
     {
       "date": "2025-06-21",
       "quizNo": 255,
@@ -79,8 +99,8 @@
       "winner": "fuji#"
     }
   ],
-  "appearanceCount": 7,
-  "correctCount": 7,
-  "accuracy": 100,
+  "appearanceCount": 10,
+  "correctCount": 9,
+  "accuracy": 90,
   "anotherVersions": []
 }

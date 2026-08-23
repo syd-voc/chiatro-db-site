@@ -6,12 +6,12 @@
     "commentCounter": 2492,
     "lengthSeconds": 258,
     "likeCounter": 63,
-    "mylistCounter": 4823,
+    "mylistCounter": 4820,
     "rank": 243,
     "startTime": "2014-04-17T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23346876/23346876",
     "userId": 3343223,
-    "viewCounter": 138133,
+    "viewCounter": 138203,
     "artist": [
       "40mP"
     ],
@@ -31,6 +31,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-07-03",
+      "quizNo": 306,
+      "group": "D1",
+      "order": 37
+    },
     {
       "date": "2025-05-10",
       "quizNo": 249,
@@ -58,8 +64,8 @@
       "order": 50
     }
   ],
-  "appearanceCount": 4,
+  "appearanceCount": 5,
   "correctCount": 3,
-  "accuracy": 75,
+  "accuracy": 60,
   "anotherVersions": []
 }

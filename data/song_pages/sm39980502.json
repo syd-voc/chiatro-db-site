@@ -1,17 +1,17 @@
 {
   "song": {
-    "song": "レイン",
+    "song": "スノウリフレイン",
     "contentId": "sm39980502",
     "title": "スノウリフレイン / 鏡音リン - ごめんなさいが言えなくて",
-    "commentCounter": 282,
+    "commentCounter": 288,
     "lengthSeconds": 216,
-    "likeCounter": 913,
-    "mylistCounter": 653,
-    "rank": 545,
+    "likeCounter": 921,
+    "mylistCounter": 658,
+    "rank": 543,
     "startTime": "2022-02-02T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39980502/39980502.65166546",
     "userId": 70130106,
-    "viewCounter": 93514,
+    "viewCounter": 94666,
     "artist": [
       "ごめんなさいが言えなくて"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-08-14",
+      "quizNo": 312,
+      "group": "B",
+      "order": 17,
+      "winner": "たかそう"
+    },
     {
       "date": "2026-05-23",
       "quizNo": 300,
@@ -58,8 +65,8 @@
       "winner": "STN"
     }
   ],
-  "appearanceCount": 4,
-  "correctCount": 2,
-  "accuracy": 50,
+  "appearanceCount": 5,
+  "correctCount": 3,
+  "accuracy": 60,
   "anotherVersions": []
 }

@@ -1,0 +1,306 @@
+{
+  "user": "みん",
+  "slug": "GE3G81GBFGE3G82G93",
+  "correctSongs": [
+    {
+      "contentId": "sm41164831",
+      "title": "ウニクラゲ",
+      "artist": "なみぐる",
+      "artistList": [
+        "なみぐる"
+      ],
+      "startTime": "2022-10-07T19:00:00+09:00",
+      "viewCounter": 237402,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm38814259",
+      "title": "ナンセコンナセンス",
+      "artist": "あまね",
+      "artistList": [
+        "あまね"
+      ],
+      "startTime": "2021-05-30T19:53:02+09:00",
+      "viewCounter": 264233,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39171468",
+      "title": "カレシのジュード",
+      "artist": "syudou",
+      "artistList": [
+        "syudou"
+      ],
+      "startTime": "2021-08-14T18:05:00+09:00",
+      "viewCounter": 2466915,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm19577010",
+      "title": "アイドルを咲かせ",
+      "artist": "Mitchie M",
+      "artistList": [
+        "Mitchie M"
+      ],
+      "startTime": "2012-12-14T17:03:01+09:00",
+      "viewCounter": 1341463,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm1647289",
+      "title": "永久に続く五線譜",
+      "artist": "デッドボールP",
+      "artistList": [
+        "デッドボールP"
+      ],
+      "startTime": "2007-11-29T07:48:30+09:00",
+      "viewCounter": 923546,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "なみぐる",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "あまね",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "syudou",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "Mitchie M",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "デッドボールP",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2022",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2021",
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "era": "2012",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2007-2008",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "ウニクラゲ",
+      "contentId": "sm41164831",
+      "startTime": 1665136800000,
+      "viewCounter": 237402
+    },
+    {
+      "title": "ナンセコンナセンス",
+      "contentId": "sm38814259",
+      "startTime": 1622371982000,
+      "viewCounter": 264233
+    },
+    {
+      "title": "カレシのジュード",
+      "contentId": "sm39171468",
+      "startTime": 1628931900000,
+      "viewCounter": 2466915
+    },
+    {
+      "title": "アイドルを咲かせ",
+      "contentId": "sm19577010",
+      "startTime": 1355472181000,
+      "viewCounter": 1341463
+    },
+    {
+      "title": "永久に続く五線譜",
+      "contentId": "sm1647289",
+      "startTime": 1196290110000,
+      "viewCounter": 923546
+    }
+  ],
+  "summary": {
+    "totalAnswers": 5,
+    "okAnswers": 5,
+    "ngAnswers": 0,
+    "participatedQuizCount": 1,
+    "winQuizCount": 1,
+    "loseQuizCount": 0,
+    "medianViews": 802848
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 308,
+      "group": "D1",
+      "date": "2026-07-17",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 5,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 20,
+          "contentId": "sm41164831",
+          "title": "ウニクラゲ",
+          "artistList": [
+            "なみぐる"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41164831/41164831.36367117",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "みん"
+            }
+          ]
+        },
+        {
+          "order": 22,
+          "contentId": "sm38814259",
+          "title": "ナンセコンナセンス",
+          "artistList": [
+            "あまね"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38814259/38814259.13425253",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "みん"
+            }
+          ]
+        },
+        {
+          "order": 32,
+          "contentId": "sm39171468",
+          "title": "カレシのジュード",
+          "artistList": [
+            "syudou"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39171468/39171468.21875392",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "みん"
+            }
+          ]
+        },
+        {
+          "order": 49,
+          "contentId": "sm19577010",
+          "title": "アイドルを咲かせ",
+          "artistList": [
+            "Mitchie M"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/19577010/19577010.49790626",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "みん"
+            }
+          ]
+        },
+        {
+          "order": 52,
+          "contentId": "sm1647289",
+          "title": "永久に続く五線譜",
+          "artistList": [
+            "デッドボールP"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1647289/1647289",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(5)",
+              "user": "みん"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

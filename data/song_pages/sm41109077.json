@@ -3,15 +3,15 @@
     "song": "Journey",
     "contentId": "sm41109077",
     "title": "DECO*27 - Journey feat. 初音ミク",
-    "commentCounter": 2227,
+    "commentCounter": 2230,
     "lengthSeconds": 167,
-    "likeCounter": 8373,
-    "mylistCounter": 5870,
-    "rank": 47,
+    "likeCounter": 8437,
+    "mylistCounter": 5882,
+    "rank": 48,
     "startTime": "2022-09-30T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41109077/41109077.79340230",
     "userId": 811012,
-    "viewCounter": 968638,
+    "viewCounter": 979032,
     "artist": [
       "DECO*27"
     ],
@@ -31,6 +31,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-08-01",
+      "quizNo": 310,
+      "group": "B",
+      "order": 2,
+      "winner": "くちば"
+    },
+    {
+      "date": "2026-07-04",
+      "quizNo": 306,
+      "group": "C2",
+      "order": 42,
+      "winner": "あいおい"
+    },
     {
       "date": "2026-06-12",
       "quizNo": 303,
@@ -248,8 +262,8 @@
       "winner": "Takuan"
     }
   ],
-  "appearanceCount": 31,
-  "correctCount": 30,
+  "appearanceCount": 33,
+  "correctCount": 32,
   "accuracy": 97,
   "anotherVersions": []
 }

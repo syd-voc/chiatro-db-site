@@ -7,11 +7,11 @@
     "lengthSeconds": 263,
     "likeCounter": 9,
     "mylistCounter": 2319,
-    "rank": 755,
+    "rank": 756,
     "startTime": "2011-06-10T20:05:44+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14704133/14704133",
     "userId": 2141182,
-    "viewCounter": 39446,
+    "viewCounter": 39470,
     "artist": [
       "danierukunP"
     ],
@@ -32,14 +32,21 @@
   },
   "histories": [
     {
+      "date": "2026-07-11",
+      "quizNo": 307,
+      "group": "B",
+      "order": 33,
+      "winner": "スライドポテト"
+    },
+    {
       "date": "2024-10-05",
       "quizNo": 220,
       "group": "A",
       "order": 2
     }
   ],
-  "appearanceCount": 1,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 2,
+  "correctCount": 1,
+  "accuracy": 50,
   "anotherVersions": []
 }

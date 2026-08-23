@@ -3,15 +3,15 @@
     "song": "Endroll A",
     "contentId": "sm15079249",
     "title": "【鏡音リン】 Endroll A 【オリジナル】",
-    "commentCounter": 5089,
+    "commentCounter": 5090,
     "lengthSeconds": 191,
-    "likeCounter": 104,
-    "mylistCounter": 9854,
+    "likeCounter": 109,
+    "mylistCounter": 9857,
     "rank": 220,
     "startTime": "2011-07-21T21:22:58+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15079249/15079249",
     "userId": 325945,
-    "viewCounter": 244379,
+    "viewCounter": 244658,
     "artist": [
       "ゆうゆ"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-08-22",
+      "quizNo": 313,
+      "group": "C1",
+      "order": 14,
+      "winner": "ねこたろー"
+    },
+    {
+      "date": "2026-08-15",
+      "quizNo": 312,
+      "group": "D1",
+      "order": 9
+    },
     {
       "date": "2025-10-31",
       "quizNo": 274,
@@ -96,8 +109,8 @@
       "winner": "ろあ"
     }
   ],
-  "appearanceCount": 10,
-  "correctCount": 5,
+  "appearanceCount": 12,
+  "correctCount": 6,
   "accuracy": 50,
   "anotherVersions": []
 }

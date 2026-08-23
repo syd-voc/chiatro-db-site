@@ -3,15 +3,15 @@
     "song": "チルドレンレコード",
     "contentId": "sm18406343",
     "title": "【IA】チルドレンレコード【オリジナルPV】",
-    "commentCounter": 328685,
+    "commentCounter": 329311,
     "lengthSeconds": 185,
-    "likeCounter": 9424,
-    "mylistCounter": 134117,
+    "likeCounter": 9739,
+    "mylistCounter": 134281,
     "rank": 5,
     "startTime": "2012-07-21T17:01:56+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18406343/18406343",
     "userId": 15872264,
-    "viewCounter": 7938574,
+    "viewCounter": 7964298,
     "artist": [
       "じん"
     ],
@@ -31,6 +31,34 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-08-14",
+      "quizNo": 312,
+      "group": "D2",
+      "order": 91,
+      "winner": "8610"
+    },
+    {
+      "date": "2026-07-25",
+      "quizNo": 309,
+      "group": "D2",
+      "order": 19,
+      "winner": "aq瑠璃"
+    },
+    {
+      "date": "2026-07-04",
+      "quizNo": 306,
+      "group": "D2",
+      "order": 23,
+      "winner": "すBAR"
+    },
+    {
+      "date": "2026-06-27",
+      "quizNo": 305,
+      "group": "A",
+      "order": 42,
+      "winner": "なごん"
+    },
     {
       "date": "2026-03-13",
       "quizNo": 290,
@@ -239,8 +267,41 @@
       "winner": "ちみ"
     }
   ],
-  "appearanceCount": 30,
-  "correctCount": 30,
+  "appearanceCount": 34,
+  "correctCount": 34,
   "accuracy": 100,
-  "anotherVersions": []
+  "anotherVersions": [
+    {
+      "original": "sm18406343",
+      "contentId": "sm38519067",
+      "song": "チルドレンレコード(Re:boot)",
+      "artist": [
+        "じん"
+      ],
+      "channelId": null,
+      "commentCounter": 7623,
+      "lengthSeconds": 188,
+      "likeCounter": 6831,
+      "mylistCounter": 3980,
+      "startTime": "2021-04-01T18:00:00+09:00",
+      "tags": [
+        "VOCALOID",
+        "カゲロウプロジェクト",
+        "じん（自然の敵P）",
+        "沙雪",
+        "INPINE",
+        "初音ミク",
+        "ミクオリジナル曲",
+        "チルドレンレコード",
+        "チルドレンレコード（Re:boot）",
+        "VOCALOIDアレンジ曲",
+        "VOCALOID殿堂入り"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38519067/38519067.6755519",
+      "title": "【MV】チルドレンレコード【Re:boot】",
+      "userId": 15872264,
+      "viewCounter": 707001,
+      "rank": 64
+    }
+  ]
 }

@@ -3,15 +3,15 @@
     "song": "私vs世界",
     "contentId": "sm45324010",
     "title": "私vs世界 / 初音ミク",
-    "commentCounter": 909,
+    "commentCounter": 911,
     "lengthSeconds": 168,
-    "likeCounter": 2761,
-    "mylistCounter": 1026,
-    "rank": 133,
+    "likeCounter": 2781,
+    "mylistCounter": 1036,
+    "rank": 136,
     "startTime": "2025-08-23T00:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45324010/45324010.9987994",
     "userId": 33110496,
-    "viewCounter": 62901,
+    "viewCounter": 65201,
     "artist": [
       "Omoi"
     ],
@@ -22,13 +22,27 @@
       "Omoi",
       "私vs世界",
       "ミクオリジナル曲",
-      "VOCALOID新曲リンク",
       "VOCAROCK",
-      "爽やかなミクうた"
+      "爽やかなミクうた",
+      "まころん"
     ],
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-07-17",
+      "quizNo": 308,
+      "group": "C1",
+      "order": 94,
+      "winner": "paradoxes"
+    },
+    {
+      "date": "2026-07-10",
+      "quizNo": 307,
+      "group": "D1",
+      "order": 63,
+      "winner": "おはよう"
+    },
     {
       "date": "2026-05-29",
       "quizNo": 301,
@@ -49,8 +63,8 @@
       "winner": "トラノオ"
     }
   ],
-  "appearanceCount": 3,
-  "correctCount": 1,
-  "accuracy": 33,
+  "appearanceCount": 5,
+  "correctCount": 3,
+  "accuracy": 60,
   "anotherVersions": []
 }

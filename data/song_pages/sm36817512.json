@@ -7,11 +7,11 @@
     "lengthSeconds": 186,
     "likeCounter": 203,
     "mylistCounter": 609,
-    "rank": 487,
+    "rank": 490,
     "startTime": "2020-05-07T15:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36817512/36817512.78665380",
     "userId": 53184770,
-    "viewCounter": 55014,
+    "viewCounter": 55177,
     "artist": [
       "霧島"
     ],
@@ -29,13 +29,20 @@
   },
   "histories": [
     {
+      "date": "2026-08-08",
+      "quizNo": 311,
+      "group": "A",
+      "order": 24,
+      "winner": "ホワイト"
+    },
+    {
       "date": "2021-09-19",
       "quizNo": 74,
       "order": 8
     }
   ],
-  "appearanceCount": 1,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 2,
+  "correctCount": 1,
+  "accuracy": 50,
   "anotherVersions": []
 }

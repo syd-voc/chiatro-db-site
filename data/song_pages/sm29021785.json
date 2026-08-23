@@ -3,15 +3,15 @@
     "song": "罪の名前",
     "contentId": "sm29021785",
     "title": "【初音ミク】 罪の名前",
-    "commentCounter": 75381,
+    "commentCounter": 75387,
     "lengthSeconds": 388,
-    "likeCounter": 2839,
-    "mylistCounter": 36317,
+    "likeCounter": 2877,
+    "mylistCounter": 36345,
     "rank": 12,
     "startTime": "2016-06-10T21:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29021785/29021785",
     "userId": 317063,
-    "viewCounter": 2419994,
+    "viewCounter": 2424712,
     "artist": [
       "ryo"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-08-15",
+      "quizNo": 312,
+      "group": "D1",
+      "order": 57
+    },
+    {
+      "date": "2026-06-26",
+      "quizNo": 305,
+      "group": "D2",
+      "order": 72,
+      "winner": "三黒ナノ"
+    },
     {
       "date": "2026-01-24",
       "quizNo": 285,
@@ -260,8 +273,8 @@
       "winner": "ろあ"
     }
   ],
-  "appearanceCount": 33,
-  "correctCount": 32,
-  "accuracy": 97,
+  "appearanceCount": 35,
+  "correctCount": 33,
+  "accuracy": 94,
   "anotherVersions": []
 }

@@ -2,16 +2,16 @@
   "song": {
     "song": "ロウワー",
     "contentId": "sm39608927",
-    "title": "ロウワー / Flower",
-    "commentCounter": 15370,
+    "title": "ロウワー / Flower - ぬゆり",
+    "commentCounter": 15408,
     "lengthSeconds": 230,
-    "likeCounter": 63706,
-    "mylistCounter": 40532,
+    "likeCounter": 64331,
+    "mylistCounter": 40800,
     "rank": 4,
     "startTime": "2021-11-11T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39608927/39608927.7527358",
     "userId": 10917285,
-    "viewCounter": 9154059,
+    "viewCounter": 9248993,
     "artist": [
       "ぬゆり"
     ],
@@ -24,13 +24,20 @@
       "v_flower",
       "v_flowerオリジナル曲",
       "VOCALOID百合曲",
-      "VOCALOID小説派生曲",
       "VOCALOID伝説入り",
-      "VOCALOID神話入り直前"
+      "VOCALOID神話入り直前",
+      "v_flower名曲リンク"
     ],
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-26",
+      "quizNo": 305,
+      "group": "D2",
+      "order": 43,
+      "winner": "水筒"
+    },
     {
       "date": "2026-06-12",
       "quizNo": 303,
@@ -333,8 +340,8 @@
       "winner": "なごん"
     }
   ],
-  "appearanceCount": 43,
-  "correctCount": 43,
+  "appearanceCount": 44,
+  "correctCount": 44,
   "accuracy": 100,
   "anotherVersions": []
 }

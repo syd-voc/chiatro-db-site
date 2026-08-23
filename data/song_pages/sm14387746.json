@@ -3,15 +3,15 @@
     "song": "戯言スピーカー",
     "contentId": "sm14387746",
     "title": "【初音ミク】戯言スピーカー【オリジナル曲】",
-    "commentCounter": 18270,
+    "commentCounter": 18273,
     "lengthSeconds": 253,
-    "likeCounter": 2382,
-    "mylistCounter": 29183,
+    "likeCounter": 2409,
+    "mylistCounter": 29213,
     "rank": 56,
     "startTime": "2011-05-07T23:27:19+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/14387746/14387746",
     "userId": 111429,
-    "viewCounter": 1690711,
+    "viewCounter": 1695579,
     "artist": [
       "ササノマリイ"
     ],
@@ -29,6 +29,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-06-27",
+      "quizNo": 305,
+      "group": "C1",
+      "order": 81
+    },
+    {
+      "date": "2026-06-26",
+      "quizNo": 305,
+      "group": "B",
+      "order": 80,
+      "winner": "雨嵐"
+    },
     {
       "date": "2026-01-24",
       "quizNo": 285,
@@ -242,8 +255,8 @@
       "winner": "Abbey"
     }
   ],
-  "appearanceCount": 31,
-  "correctCount": 28,
-  "accuracy": 90,
+  "appearanceCount": 33,
+  "correctCount": 29,
+  "accuracy": 88,
   "anotherVersions": []
 }

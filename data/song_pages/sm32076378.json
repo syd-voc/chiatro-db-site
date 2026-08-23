@@ -3,15 +3,15 @@
     "song": "ドラマツルギー",
     "contentId": "sm32076378",
     "title": "ドラマツルギー / 初音ミク",
-    "commentCounter": 17853,
+    "commentCounter": 17863,
     "lengthSeconds": 245,
-    "likeCounter": 12416,
-    "mylistCounter": 43364,
+    "likeCounter": 12599,
+    "mylistCounter": 43448,
     "rank": 9,
     "startTime": "2017-10-10T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32076378/32076378",
     "userId": 10103681,
-    "viewCounter": 5739126,
+    "viewCounter": 5765932,
     "artist": [
       "Eve"
     ],
@@ -31,6 +31,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-07-04",
+      "quizNo": 306,
+      "group": "C2",
+      "order": 28,
+      "winner": "くちば"
+    },
+    {
+      "date": "2026-06-27",
+      "quizNo": 305,
+      "group": "D1",
+      "order": 19,
+      "winner": "つばさ"
+    },
     {
       "date": "2026-05-22",
       "quizNo": 300,
@@ -295,8 +309,8 @@
       "winner": "尾白もち"
     }
   ],
-  "appearanceCount": 38,
-  "correctCount": 38,
+  "appearanceCount": 40,
+  "correctCount": 40,
   "accuracy": 100,
   "anotherVersions": []
 }

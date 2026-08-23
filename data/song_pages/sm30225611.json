@@ -3,15 +3,15 @@
     "song": "メーベル",
     "contentId": "sm30225611",
     "title": "メーベル／flower",
-    "commentCounter": 5562,
+    "commentCounter": 5564,
     "lengthSeconds": 192,
-    "likeCounter": 3081,
-    "mylistCounter": 16972,
-    "rank": 35,
+    "likeCounter": 3135,
+    "mylistCounter": 16996,
+    "rank": 34,
     "startTime": "2016-12-14T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/30225611/30225611",
     "userId": 14203891,
-    "viewCounter": 2625701,
+    "viewCounter": 2636904,
     "artist": [
       "バルーン"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-08-22",
+      "quizNo": 313,
+      "group": "C1",
+      "order": 44,
+      "winner": "祝公式"
+    },
+    {
+      "date": "2026-07-04",
+      "quizNo": 306,
+      "group": "B",
+      "order": 94
+    },
     {
       "date": "2025-09-20",
       "quizNo": 268,
@@ -244,8 +257,8 @@
       "winner": "尾白もち"
     }
   ],
-  "appearanceCount": 31,
-  "correctCount": 31,
-  "accuracy": 100,
+  "appearanceCount": 33,
+  "correctCount": 32,
+  "accuracy": 97,
   "anotherVersions": []
 }

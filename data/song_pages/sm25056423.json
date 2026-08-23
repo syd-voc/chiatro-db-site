@@ -3,15 +3,15 @@
     "song": "Connecting",
     "contentId": "sm25056423",
     "title": "【ニコニコラボ】Connecting【Vocaloid】",
-    "commentCounter": 10032,
+    "commentCounter": 10041,
     "lengthSeconds": 300,
-    "likeCounter": 1846,
-    "mylistCounter": 15060,
+    "likeCounter": 1886,
+    "mylistCounter": 15086,
     "rank": 60,
     "startTime": "2014-12-05T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25056423/25056423",
     "userId": 1101042,
-    "viewCounter": 944112,
+    "viewCounter": 948507,
     "artist": [
       "halyosy"
     ],
@@ -31,6 +31,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-07-31",
+      "quizNo": 310,
+      "group": "A",
+      "order": 24,
+      "winner": "Takuan"
+    },
+    {
+      "date": "2026-07-17",
+      "quizNo": 308,
+      "group": "A",
+      "order": 93,
+      "winner": "Takuan"
+    },
     {
       "date": "2026-01-10",
       "quizNo": 283,
@@ -191,8 +205,8 @@
       "winner": "すべから"
     }
   ],
-  "appearanceCount": 23,
-  "correctCount": 22,
+  "appearanceCount": 25,
+  "correctCount": 24,
   "accuracy": 96,
   "anotherVersions": []
 }

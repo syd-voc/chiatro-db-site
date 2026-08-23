@@ -5,13 +5,13 @@
     "title": "【初音ミク】カシオペア【オリジナル曲PV】",
     "commentCounter": 340,
     "lengthSeconds": 196,
-    "likeCounter": 56,
-    "mylistCounter": 967,
+    "likeCounter": 60,
+    "mylistCounter": 969,
     "rank": 827,
     "startTime": "2014-08-04T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24149828/24149828",
     "userId": 12775027,
-    "viewCounter": 40949,
+    "viewCounter": 41057,
     "artist": [
       "5u5h1"
     ],
@@ -31,6 +31,12 @@
   },
   "histories": [
     {
+      "date": "2026-07-10",
+      "quizNo": 307,
+      "group": "C1",
+      "order": 26
+    },
+    {
       "date": "2025-09-05",
       "quizNo": 266,
       "group": "A",
@@ -38,8 +44,39 @@
       "winner": "あー"
     }
   ],
-  "appearanceCount": 1,
+  "appearanceCount": 2,
   "correctCount": 1,
-  "accuracy": 100,
-  "anotherVersions": []
+  "accuracy": 50,
+  "anotherVersions": [
+    {
+      "original": "sm24149828",
+      "contentId": "sm27211379",
+      "song": "カシオペア (Spacefaring Mix)",
+      "artist": [
+        "5u5h1"
+      ],
+      "channelId": null,
+      "commentCounter": 297,
+      "lengthSeconds": 228,
+      "likeCounter": 50,
+      "mylistCounter": 518,
+      "startTime": "2015-09-22T19:30:00+09:00",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "ミクオリジナル曲",
+        "すしP",
+        "ミクノポップ",
+        "星のうた",
+        "VOCALOIDアレンジ曲",
+        "Dubsteloid",
+        "カシオペア（すしP）"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27211379/27211379",
+      "title": "【初音ミク】カシオペア (Spacefaring Mix)【Re:オリジナル曲】",
+      "userId": 12775027,
+      "viewCounter": 25110,
+      "rank": 777
+    }
+  ]
 }

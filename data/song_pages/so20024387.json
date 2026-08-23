@@ -6,15 +6,18 @@
     "channelId": 1255,
     "commentCounter": 4721,
     "lengthSeconds": 273,
-    "likeCounter": 196,
-    "mylistCounter": 12919,
+    "likeCounter": 202,
+    "mylistCounter": 12921,
     "rank": 117,
     "startTime": "2013-02-07T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/20024387/20024387",
-    "viewCounter": 367017,
+    "viewCounter": 367422,
     "artist": [
       "田中隼人",
       "Jane Su"
+    ],
+    "sub_artist": [
+      "神無月P"
     ],
     "tags": [
       "VOCALOID",
@@ -32,6 +35,13 @@
     "userId": null
   },
   "histories": [
+    {
+      "date": "2026-07-03",
+      "quizNo": 306,
+      "group": "D1",
+      "order": 42,
+      "winner": "ぷれいやあ"
+    },
     {
       "date": "2026-04-18",
       "quizNo": 295,
@@ -117,8 +127,8 @@
       "winner": "まつせ"
     }
   ],
-  "appearanceCount": 13,
-  "correctCount": 7,
-  "accuracy": 54,
+  "appearanceCount": 14,
+  "correctCount": 8,
+  "accuracy": 57,
   "anotherVersions": []
 }

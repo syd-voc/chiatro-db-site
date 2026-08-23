@@ -3,15 +3,15 @@
     "song": "Starduster",
     "contentId": "sm8541371",
     "title": "初音ミクオリジナル曲 「Starduster」",
-    "commentCounter": 22266,
+    "commentCounter": 22270,
     "lengthSeconds": 300,
-    "likeCounter": 1713,
+    "likeCounter": 1739,
     "mylistCounter": 31844,
     "rank": 53,
     "startTime": "2009-10-17T22:55:34+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/8541371/8541371",
     "userId": 7032706,
-    "viewCounter": 1154832,
+    "viewCounter": 1158128,
     "artist": [
       "ジミーサムP"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-08-14",
+      "quizNo": 312,
+      "group": "C2",
+      "order": 21,
+      "winner": "あいおい"
+    },
+    {
+      "date": "2026-06-27",
+      "quizNo": 305,
+      "group": "D1",
+      "order": 41
+    },
     {
       "date": "2026-05-09",
       "quizNo": 298,
@@ -168,8 +181,8 @@
       "winner": "あざばて。"
     }
   ],
-  "appearanceCount": 20,
-  "correctCount": 18,
-  "accuracy": 90,
+  "appearanceCount": 22,
+  "correctCount": 19,
+  "accuracy": 86,
   "anotherVersions": []
 }

@@ -3,15 +3,15 @@
     "song": "すろぉもぉしょん",
     "contentId": "sm23648996",
     "title": "すろぉもぉしょん / 初音ミク",
-    "commentCounter": 57754,
+    "commentCounter": 57763,
     "lengthSeconds": 310,
-    "likeCounter": 7693,
-    "mylistCounter": 64528,
+    "likeCounter": 7809,
+    "mylistCounter": 64582,
     "rank": 7,
     "startTime": "2014-05-27T18:56:16+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23648996/23648996",
     "userId": 865591,
-    "viewCounter": 5060218,
+    "viewCounter": 5076520,
     "artist": [
       "ピノキオピー"
     ],
@@ -31,6 +31,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-08-22",
+      "quizNo": 313,
+      "group": "C1",
+      "order": 47,
+      "winner": "こたつ"
+    },
+    {
+      "date": "2026-08-07",
+      "quizNo": 311,
+      "group": "D2",
+      "order": 19,
+      "winner": "終了"
+    },
     {
       "date": "2026-05-01",
       "quizNo": 297,
@@ -247,8 +261,8 @@
       "winner": "すべから"
     }
   ],
-  "appearanceCount": 31,
-  "correctCount": 31,
+  "appearanceCount": 33,
+  "correctCount": 33,
   "accuracy": 100,
   "anotherVersions": []
 }

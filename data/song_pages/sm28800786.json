@@ -5,13 +5,13 @@
     "title": "私雨 / 初音ミク",
     "commentCounter": 345,
     "lengthSeconds": 321,
-    "likeCounter": 25,
-    "mylistCounter": 651,
+    "likeCounter": 29,
+    "mylistCounter": 652,
     "rank": 529,
     "startTime": "2016-05-08T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28800786/28800786",
     "userId": 8957480,
-    "viewCounter": 32853,
+    "viewCounter": 32926,
     "artist": [
       "risou"
     ],
@@ -32,6 +32,13 @@
   },
   "histories": [
     {
+      "date": "2026-07-10",
+      "quizNo": 307,
+      "group": "A",
+      "order": 70,
+      "winner": "シーラ"
+    },
+    {
       "date": "2023-08-12",
       "quizNo": 171,
       "group": "C",
@@ -49,8 +56,8 @@
       "order": 42
     }
   ],
-  "appearanceCount": 3,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 4,
+  "correctCount": 1,
+  "accuracy": 25,
   "anotherVersions": []
 }

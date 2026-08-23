@@ -6,14 +6,18 @@
     "commentCounter": 2815,
     "lengthSeconds": 285,
     "likeCounter": 151,
-    "mylistCounter": 6862,
-    "rank": 311,
+    "mylistCounter": 6863,
+    "rank": 312,
     "startTime": "2011-01-15T02:20:21+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/13309167/13309167",
     "userId": 1131559,
-    "viewCounter": 167002,
+    "viewCounter": 167233,
     "artist": [
       "FLEET"
+    ],
+    "sub_artist": [
+      "fhána",
+      "yuxuki waga"
     ],
     "tags": [
       "VOCALOID",
@@ -31,6 +35,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-07-31",
+      "quizNo": 310,
+      "group": "D1",
+      "order": 5
+    },
     {
       "date": "2025-05-31",
       "quizNo": 252,
@@ -57,8 +67,8 @@
       "order": 73
     }
   ],
-  "appearanceCount": 4,
+  "appearanceCount": 5,
   "correctCount": 1,
-  "accuracy": 25,
+  "accuracy": 20,
   "anotherVersions": []
 }

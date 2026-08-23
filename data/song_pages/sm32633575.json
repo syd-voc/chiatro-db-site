@@ -3,15 +3,15 @@
     "song": "邪魔",
     "contentId": "sm32633575",
     "title": "【初音ミク】邪魔【syudou】",
-    "commentCounter": 2884,
+    "commentCounter": 2888,
     "lengthSeconds": 209,
-    "likeCounter": 3931,
-    "mylistCounter": 9189,
-    "rank": 57,
+    "likeCounter": 3977,
+    "mylistCounter": 9210,
+    "rank": 56,
     "startTime": "2018-01-24T19:06:17+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32633575/32633575",
     "userId": 3489219,
-    "viewCounter": 1875221,
+    "viewCounter": 1885123,
     "artist": [
       "syudou"
     ],
@@ -29,6 +29,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-08-22",
+      "quizNo": 313,
+      "group": "D1",
+      "order": 9,
+      "winner": "水筒"
+    },
+    {
+      "date": "2026-08-21",
+      "quizNo": 313,
+      "group": "D2",
+      "order": 72
+    },
     {
       "date": "2025-12-27",
       "quizNo": 282,
@@ -191,8 +204,8 @@
       "winner": "fuji#"
     }
   ],
-  "appearanceCount": 23,
-  "correctCount": 23,
-  "accuracy": 100,
+  "appearanceCount": 25,
+  "correctCount": 24,
+  "accuracy": 96,
   "anotherVersions": []
 }

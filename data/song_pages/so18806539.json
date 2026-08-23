@@ -6,12 +6,12 @@
     "channelId": 190,
     "commentCounter": 8928,
     "lengthSeconds": 273,
-    "likeCounter": 64,
-    "mylistCounter": 8454,
+    "likeCounter": 65,
+    "mylistCounter": 8456,
     "rank": 283,
     "startTime": "2012-09-06T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/18806539/18806539",
-    "viewCounter": 260827,
+    "viewCounter": 260871,
     "artist": [
       "ひとしずく",
       "やま△"
@@ -23,14 +23,21 @@
       "神威がくぽ",
       "迷走ラプソディ",
       "鈴ノ助",
-      "TSO(とさお)",
-      "VAVA(ヴァヴァ)",
       "VOCALOIDオリジナル曲",
-      "VOCALOID殿堂入り"
+      "VOCALOID殿堂入り",
+      "GUMIオリジナル曲",
+      "がくぽオリジナル曲",
+      "Lilyオリジナル曲"
     ],
     "userId": null
   },
   "histories": [
+    {
+      "date": "2026-07-18",
+      "quizNo": 308,
+      "group": "D2",
+      "order": 3
+    },
     {
       "date": "2025-08-01",
       "quizNo": 261,
@@ -57,8 +64,8 @@
       "order": 13
     }
   ],
-  "appearanceCount": 4,
+  "appearanceCount": 5,
   "correctCount": 1,
-  "accuracy": 25,
+  "accuracy": 20,
   "anotherVersions": []
 }

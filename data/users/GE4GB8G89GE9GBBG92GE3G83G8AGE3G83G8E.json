@@ -1,0 +1,311 @@
+{
+  "user": "三黒ナノ",
+  "slug": "GE4GB8G89GE9GBBG92GE3G83G8AGE3G83G8E",
+  "correctSongs": [
+    {
+      "contentId": "sm45795157",
+      "title": "トリックハート",
+      "artist": "MIMI",
+      "artistList": [
+        "MIMI"
+      ],
+      "startTime": "2026-01-02T19:00:00+09:00",
+      "viewCounter": 363221,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm17754841",
+      "title": "マダラカルト",
+      "artist": "トーマ",
+      "artistList": [
+        "トーマ"
+      ],
+      "startTime": "2012-05-06T20:42:33+09:00",
+      "viewCounter": 2112652,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm27399621",
+      "title": "Paintër",
+      "artist": "halyosy",
+      "artistList": [
+        "halyosy"
+      ],
+      "startTime": "2015-10-18T21:04:34+09:00",
+      "viewCounter": 618426,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm12589203",
+      "title": "繰り返し一粒",
+      "artist": "猫虫",
+      "artistList": [
+        "猫虫"
+      ],
+      "startTime": "2010-10-30T10:00:06+09:00",
+      "viewCounter": 1768805,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm29021785",
+      "title": "罪の名前",
+      "artist": "ryo",
+      "artistList": [
+        "ryo"
+      ],
+      "startTime": "2016-06-10T21:00:00+09:00",
+      "viewCounter": 2424712,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "MIMI",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "トーマ",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "halyosy",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "猫虫",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ryo",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2025-",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2012",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2015",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2010",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2016",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "トリックハート",
+      "contentId": "sm45795157",
+      "startTime": 1767348000000,
+      "viewCounter": 363221
+    },
+    {
+      "title": "マダラカルト",
+      "contentId": "sm17754841",
+      "startTime": 1336304553000,
+      "viewCounter": 2112652
+    },
+    {
+      "title": "Paintër",
+      "contentId": "sm27399621",
+      "startTime": 1445169874000,
+      "viewCounter": 618426
+    },
+    {
+      "title": "繰り返し一粒",
+      "contentId": "sm12589203",
+      "startTime": 1288400406000,
+      "viewCounter": 1768805
+    },
+    {
+      "title": "罪の名前",
+      "contentId": "sm29021785",
+      "startTime": 1465560000000,
+      "viewCounter": 2424712
+    }
+  ],
+  "summary": {
+    "totalAnswers": 5,
+    "okAnswers": 5,
+    "ngAnswers": 0,
+    "participatedQuizCount": 1,
+    "winQuizCount": 1,
+    "loseQuizCount": 0,
+    "medianViews": 1193616
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 305,
+      "group": "D2",
+      "date": "2026-06-26",
+      "ok": 5,
+      "ng": 0,
+      "winRank": 13,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 50,
+          "contentId": "sm45795157",
+          "title": "トリックハート",
+          "artistList": [
+            "MIMI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45795157/45795157.13282674",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "三黒ナノ"
+            }
+          ]
+        },
+        {
+          "order": 53,
+          "contentId": "sm17754841",
+          "title": "マダラカルト",
+          "artistList": [
+            "トーマ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/17754841/17754841",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "三黒ナノ"
+            }
+          ]
+        },
+        {
+          "order": 62,
+          "contentId": "sm27399621",
+          "title": "Paintër",
+          "artistList": [
+            "halyosy"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/27399621/27399621",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "三黒ナノ"
+            }
+          ]
+        },
+        {
+          "order": 68,
+          "contentId": "sm12589203",
+          "title": "繰り返し一粒",
+          "artistList": [
+            "猫虫"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/12589203/12589203",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "三黒ナノ"
+            }
+          ]
+        },
+        {
+          "order": 72,
+          "contentId": "sm29021785",
+          "title": "罪の名前",
+          "artistList": [
+            "ryo"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/29021785/29021785",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(13)",
+              "user": "三黒ナノ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,15 +3,15 @@
     "song": "チェリーポップ",
     "contentId": "sm45176104",
     "title": "DECO*27 - チェリーポップ feat. 初音ミク",
-    "commentCounter": 8234,
+    "commentCounter": 8293,
     "lengthSeconds": 142,
-    "likeCounter": 10023,
-    "mylistCounter": 4618,
+    "likeCounter": 10382,
+    "mylistCounter": 4729,
     "rank": 7,
     "startTime": "2025-07-25T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45176104/45176104.72860636",
     "userId": 811012,
-    "viewCounter": 1187397,
+    "viewCounter": 1255976,
     "artist": [
       "DECO*27"
     ],
@@ -22,13 +22,34 @@
       "しぐれうい",
       "ミクオリジナル曲",
       "チェリーポップ(DECO*27)",
-      "夢の共演",
       "かわいいミクうた",
-      "VOCALOID伝説入り"
+      "VOCALOID伝説入り",
+      "DECO*27×しぐれうい",
+      "Hayato_Yamamoto"
     ],
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-08-01",
+      "quizNo": 310,
+      "group": "C2",
+      "order": 22,
+      "winner": "フリスク"
+    },
+    {
+      "date": "2026-07-18",
+      "quizNo": 308,
+      "group": "D2",
+      "order": 42
+    },
+    {
+      "date": "2026-07-17",
+      "quizNo": 308,
+      "group": "C1",
+      "order": 66,
+      "winner": "ぬゅら"
+    },
     {
       "date": "2026-06-12",
       "quizNo": 303,
@@ -92,8 +113,8 @@
       "winner": "フリスク"
     }
   ],
-  "appearanceCount": 9,
-  "correctCount": 8,
-  "accuracy": 89,
+  "appearanceCount": 12,
+  "correctCount": 10,
+  "accuracy": 83,
   "anotherVersions": []
 }
