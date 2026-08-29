@@ -98,7 +98,8 @@ SPECIAL_ARTIST_GROUPS = {
     "CIRCRUSH": ["Crusher", "CircusP"],
     "minato396": ["mikuru396", "流星P"],
     "ヴァイスショコラーデ": ["regulus", "ですとろい"],
-    "桑爺": ["クワガタP", "buzzG"]
+    "桑爺": ["クワガタP", "buzzG"],
+    "ZLMS": ["ジグ", "遼遼", "はるまきごはん", "雄之助"]
 }
 
 ANSWER_START_PATTERN = re.compile(
