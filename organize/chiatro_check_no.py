@@ -39,7 +39,7 @@ PHASES = [
 ]
 
 CHECK_START = 21
-CHECK_END = 302
+CHECK_END = 320
 
 OUT_FILE = Path(f"chiatro_round_group_check_{CHECK_START}_{CHECK_END}.txt")
 
