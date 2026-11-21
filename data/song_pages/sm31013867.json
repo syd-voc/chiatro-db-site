@@ -5,13 +5,13 @@
     "title": "ぬいぐるみのうた / 初音ミク",
     "commentCounter": 422,
     "lengthSeconds": 228,
-    "likeCounter": 68,
-    "mylistCounter": 982,
-    "rank": 397,
+    "likeCounter": 72,
+    "mylistCounter": 990,
+    "rank": 398,
     "startTime": "2017-04-12T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/31013867/31013867",
     "userId": 334765,
-    "viewCounter": 43497,
+    "viewCounter": 43671,
     "artist": [
       "ハヤシケイ"
     ],
@@ -29,6 +29,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-11-06",
+      "quizNo": 324,
+      "group": "A",
+      "order": 64,
+      "winner": "Takuan"
+    },
+    {
+      "date": "2026-10-03",
+      "quizNo": 319,
+      "group": "A",
+      "order": 60,
+      "winner": "テフミネ"
+    },
     {
       "date": "2024-11-16",
       "quizNo": 226,
@@ -53,8 +67,8 @@
       "order": 74
     }
   ],
-  "appearanceCount": 4,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 6,
+  "correctCount": 2,
+  "accuracy": 33,
   "anotherVersions": []
 }

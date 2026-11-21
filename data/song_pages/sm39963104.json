@@ -3,15 +3,15 @@
     "song": "さよならプリンセス",
     "contentId": "sm39963104",
     "title": "さよならプリンセス / 初音ミク",
-    "commentCounter": 960,
+    "commentCounter": 970,
     "lengthSeconds": 126,
-    "likeCounter": 12206,
-    "mylistCounter": 7090,
+    "likeCounter": 12381,
+    "mylistCounter": 7116,
     "rank": 34,
     "startTime": "2022-01-29T19:05:02+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39963104/39963104.77012946",
     "userId": 120671524,
-    "viewCounter": 1588632,
+    "viewCounter": 1616840,
     "artist": [
       "Kai"
     ],
@@ -31,6 +31,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-09-26",
+      "quizNo": 318,
+      "group": "B",
+      "order": 31,
+      "winner": "くちば"
+    },
+    {
+      "date": "2026-09-25",
+      "quizNo": 318,
+      "group": "C1",
+      "order": 69,
+      "winner": "レイ"
+    },
     {
       "date": "2026-06-19",
       "quizNo": 304,
@@ -312,8 +326,8 @@
       "winner": "ベガ"
     }
   ],
-  "appearanceCount": 40,
-  "correctCount": 40,
+  "appearanceCount": 42,
+  "correctCount": 42,
   "accuracy": 100,
   "anotherVersions": []
 }

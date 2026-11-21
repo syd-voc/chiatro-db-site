@@ -5,13 +5,13 @@
     "title": "【初音ミク】BRIGHT RAiN【オリジナル】",
     "commentCounter": 5163,
     "lengthSeconds": 278,
-    "likeCounter": 155,
+    "likeCounter": 159,
     "mylistCounter": 6229,
     "rank": 272,
     "startTime": "2008-09-13T04:20:36+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/4605293/4605293",
     "userId": 1508346,
-    "viewCounter": 238367,
+    "viewCounter": 238687,
     "artist": [
       "ラヴリーP"
     ],
@@ -30,6 +30,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-10-30",
+      "quizNo": 323,
+      "group": "B",
+      "order": 63,
+      "winner": "Lyz"
+    },
+    {
+      "date": "2026-10-17",
+      "quizNo": 321,
+      "group": "C1",
+      "order": 37
+    },
     {
       "date": "2026-03-20",
       "quizNo": 291,
@@ -103,8 +116,41 @@
       "winner": "きぐな"
     }
   ],
-  "appearanceCount": 11,
-  "correctCount": 6,
-  "accuracy": 55,
-  "anotherVersions": []
+  "appearanceCount": 13,
+  "correctCount": 7,
+  "accuracy": 54,
+  "anotherVersions": [
+    {
+      "original": "nm4605293",
+      "contentId": "sm15212185",
+      "song": "BRIGHT RAiN -Another mix-",
+      "artist": [
+        "ラヴリーP"
+      ],
+      "channelId": null,
+      "commentCounter": 10049,
+      "lengthSeconds": 298,
+      "likeCounter": 199,
+      "mylistCounter": 12525,
+      "startTime": "2011-08-04T20:22:28+09:00",
+      "tags": [
+        "VOCALOID",
+        "ニョホホ",
+        "BRIGHT_RAiN",
+        "ラヴリーP",
+        "VOCALOID-PV殿堂入り",
+        "涙腺崩壊",
+        "初音ミク",
+        "ミクオリジナル曲",
+        "ココアシガレット",
+        "初音ミク名曲リンク",
+        "SLT"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15212185/15212185",
+      "title": "【初音ミク】BRIGHT RAiN -Another mix.-【3DPV】",
+      "userId": 1508346,
+      "viewCounter": 241395,
+      "rank": 169
+    }
+  ]
 }

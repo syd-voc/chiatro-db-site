@@ -3,15 +3,15 @@
     "song": "メーデー",
     "contentId": "sm35212320",
     "title": "メーデー / flower",
-    "commentCounter": 2224,
+    "commentCounter": 2225,
     "lengthSeconds": 218,
-    "likeCounter": 985,
-    "mylistCounter": 4119,
+    "likeCounter": 996,
+    "mylistCounter": 4131,
     "rank": 94,
     "startTime": "2019-06-02T23:24:02+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35212320/35212320.76678068",
     "userId": 83706458,
-    "viewCounter": 587727,
+    "viewCounter": 590404,
     "artist": [
       "Aqu3ra"
     ],
@@ -23,11 +23,26 @@
       "Aqu3ra",
       "VOCALOID殿堂入り",
       "メーデー(Aqu3ra)",
-      "v_flower名曲リンク"
+      "v_flower名曲リンク",
+      "VOCALOID水槽入り"
     ],
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-10-10",
+      "quizNo": 320,
+      "group": "C1",
+      "order": 75,
+      "winner": "眠い人"
+    },
+    {
+      "date": "2026-08-29",
+      "quizNo": 314,
+      "group": "A",
+      "order": 26,
+      "winner": "眠くない人"
+    },
     {
       "date": "2026-07-25",
       "quizNo": 309,
@@ -165,8 +180,8 @@
       "winner": "ホワイト"
     }
   ],
-  "appearanceCount": 20,
-  "correctCount": 20,
+  "appearanceCount": 22,
+  "correctCount": 22,
   "accuracy": 100,
   "anotherVersions": []
 }

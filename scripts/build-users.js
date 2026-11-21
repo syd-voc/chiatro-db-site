@@ -44,7 +44,7 @@ function getEra(startTime) {
     const year = new Date(startTime).getFullYear();
 
     if (year <= 2008) return "2007-2008";
-    if (year >= 2025) return "2025-";
+    if (year >= 2026) return "2026-";
     return String(year);
 }
 

@@ -6,12 +6,12 @@
     "channelId": 2648319,
     "commentCounter": 274,
     "lengthSeconds": 171,
-    "likeCounter": 1660,
-    "mylistCounter": 642,
-    "rank": 280,
+    "likeCounter": 1674,
+    "mylistCounter": 633,
+    "rank": 298,
     "startTime": "2025-11-21T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45515711/45515711.99749567",
-    "viewCounter": 35558,
+    "viewCounter": 36943,
     "artist": [
       "ヤマギシコージ",
       "無色透名祭公式"
@@ -33,6 +33,19 @@
   },
   "histories": [
     {
+      "date": "2026-10-23",
+      "quizNo": 322,
+      "group": "C2",
+      "order": 74
+    },
+    {
+      "date": "2026-08-29",
+      "quizNo": 314,
+      "group": "A",
+      "order": 11,
+      "winner": "影山"
+    },
+    {
       "date": "2026-05-29",
       "quizNo": 301,
       "group": "A",
@@ -47,8 +60,8 @@
       "winner": "RRR"
     }
   ],
-  "appearanceCount": 2,
-  "correctCount": 2,
-  "accuracy": 100,
+  "appearanceCount": 4,
+  "correctCount": 3,
+  "accuracy": 75,
   "anotherVersions": []
 }

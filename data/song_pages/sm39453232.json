@@ -6,12 +6,12 @@
     "commentCounter": 226,
     "lengthSeconds": 180,
     "likeCounter": 755,
-    "mylistCounter": 504,
+    "mylistCounter": 507,
     "rank": 499,
     "startTime": "2021-10-14T00:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39453232/39453232.84098013",
     "userId": 2665365,
-    "viewCounter": 64095,
+    "viewCounter": 64383,
     "artist": [
       "mawari"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-10-10",
+      "quizNo": 320,
+      "group": "A",
+      "order": 15,
+      "winner": "スライドポテト"
+    },
     {
       "date": "2025-05-17",
       "quizNo": 250,
@@ -59,8 +66,8 @@
       "winner": "ぺとぉせり"
     }
   ],
-  "appearanceCount": 4,
-  "correctCount": 3,
-  "accuracy": 75,
+  "appearanceCount": 5,
+  "correctCount": 4,
+  "accuracy": 80,
   "anotherVersions": []
 }

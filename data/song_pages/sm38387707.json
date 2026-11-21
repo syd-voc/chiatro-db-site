@@ -3,15 +3,15 @@
     "song": "ヴァンパイア",
     "contentId": "sm38387707",
     "title": "DECO*27 - ヴァンパイア feat. 初音ミク",
-    "commentCounter": 23131,
+    "commentCounter": 23198,
     "lengthSeconds": 180,
-    "likeCounter": 44287,
-    "mylistCounter": 38981,
+    "likeCounter": 44751,
+    "mylistCounter": 39301,
     "rank": 5,
     "startTime": "2021-03-09T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38387707/38387707.62141938",
     "userId": 811012,
-    "viewCounter": 7506745,
+    "viewCounter": 7571474,
     "artist": [
       "DECO*27"
     ],
@@ -24,13 +24,27 @@
       "ミクオリジナル曲",
       "DAM&JOY配信中",
       "ヴァンパイア(DECO*27)",
-      "Rockwell",
       "八三",
-      "ラーメンタイマー"
+      "ラーメンタイマー",
+      "マジカルミライ10th_anniversary"
     ],
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-11-20",
+      "quizNo": 326,
+      "group": "A",
+      "order": 38,
+      "winner": "かなくり"
+    },
+    {
+      "date": "2026-10-30",
+      "quizNo": 323,
+      "group": "B",
+      "order": 86,
+      "winner": "がんこー"
+    },
     {
       "date": "2026-07-03",
       "quizNo": 306,
@@ -228,8 +242,8 @@
       "winner": "ゆーと"
     }
   ],
-  "appearanceCount": 28,
-  "correctCount": 28,
+  "appearanceCount": 30,
+  "correctCount": 30,
   "accuracy": 100,
   "anotherVersions": []
 }

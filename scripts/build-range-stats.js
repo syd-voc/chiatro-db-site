@@ -23,7 +23,8 @@ const RANGES = [
     { key: "2022", from: 2022, to: 2022 },
     { key: "2023", from: 2023, to: 2023 },
     { key: "2024", from: 2024, to: 2024 },
-    { key: "2025-", from: 2025, to: 3000 },
+    { key: "2025", from: 2025, to: 2025 },
+    { key: "2026-", from: 2026, to: 3000 },
 ];
 
 await fs.mkdir(OUT_DIR, { recursive: true });

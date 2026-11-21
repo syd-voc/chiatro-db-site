@@ -8,8 +8,8 @@
     "channelId": null,
     "commentCounter": 879,
     "lengthSeconds": 226,
-    "likeCounter": 30,
-    "mylistCounter": 2897,
+    "likeCounter": 31,
+    "mylistCounter": 2895,
     "startTime": "2013-07-08T19:44:53+09:00",
     "tags": [
       "VOCALOID",
@@ -27,10 +27,22 @@
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/21308402/21308402",
     "title": "【巡音ルカ】 birth 【オリジナル】",
     "userId": 2566558,
-    "viewCounter": 69968,
-    "rank": 541
+    "viewCounter": 70139,
+    "rank": 543
   },
   "histories": [
+    {
+      "date": "2026-11-21",
+      "quizNo": 326,
+      "group": "B",
+      "order": 38
+    },
+    {
+      "date": "2026-11-20",
+      "quizNo": 326,
+      "group": "C1",
+      "order": 53
+    },
     {
       "date": "2026-05-23",
       "quizNo": 300,
@@ -39,8 +51,8 @@
       "winner": "すべから"
     }
   ],
-  "appearanceCount": 1,
+  "appearanceCount": 3,
   "correctCount": 1,
-  "accuracy": 100,
+  "accuracy": 33,
   "anotherVersions": []
 }

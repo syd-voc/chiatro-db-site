@@ -3,15 +3,15 @@
     "song": "しう",
     "contentId": "sm35928733",
     "title": "【初音ミク】　しう　【オリジナル】",
-    "commentCounter": 18611,
+    "commentCounter": 18898,
     "lengthSeconds": 278,
-    "likeCounter": 9912,
-    "mylistCounter": 8975,
-    "rank": 33,
+    "likeCounter": 10285,
+    "mylistCounter": 9068,
+    "rank": 32,
     "startTime": "2019-11-09T19:50:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35928733/35928733.88918426",
     "userId": 15918028,
-    "viewCounter": 1869672,
+    "viewCounter": 1911158,
     "artist": [
       "MARETU"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-10-31",
+      "quizNo": 323,
+      "group": "C1",
+      "order": 35,
+      "winner": "paradoxes"
+    },
+    {
+      "date": "2026-10-09",
+      "quizNo": 320,
+      "group": "C2",
+      "order": 72
+    },
     {
       "date": "2026-07-31",
       "quizNo": 310,
@@ -240,8 +253,8 @@
       "winner": "尾白もち"
     }
   ],
-  "appearanceCount": 30,
-  "correctCount": 30,
-  "accuracy": 100,
+  "appearanceCount": 32,
+  "correctCount": 31,
+  "accuracy": 97,
   "anotherVersions": []
 }

@@ -11,7 +11,7 @@
     "startTime": "2015-03-05T18:30:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/25715181/25715181",
     "userId": 38366207,
-    "viewCounter": 70386,
+    "viewCounter": 70465,
     "artist": [
       "n.k"
     ],
@@ -29,6 +29,12 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-10-17",
+      "quizNo": 321,
+      "group": "C1",
+      "order": 32
+    },
     {
       "date": "2025-12-05",
       "quizNo": 279,
@@ -56,8 +62,8 @@
       "order": 54
     }
   ],
-  "appearanceCount": 4,
+  "appearanceCount": 5,
   "correctCount": 2,
-  "accuracy": 50,
+  "accuracy": 40,
   "anotherVersions": []
 }

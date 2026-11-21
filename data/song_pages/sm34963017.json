@@ -3,15 +3,15 @@
     "song": "コールボーイ",
     "contentId": "sm34963017",
     "title": "【初音ミク】コールボーイ【syudou】",
-    "commentCounter": 3123,
+    "commentCounter": 3126,
     "lengthSeconds": 208,
-    "likeCounter": 4676,
-    "mylistCounter": 11133,
+    "likeCounter": 4795,
+    "mylistCounter": 11192,
     "rank": 24,
     "startTime": "2019-04-13T18:08:01+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34963017/34963017.65786",
     "userId": 3489219,
-    "viewCounter": 2164944,
+    "viewCounter": 2183627,
     "artist": [
       "syudou"
     ],
@@ -31,6 +31,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-10-31",
+      "quizNo": 323,
+      "group": "D1",
+      "order": 31,
+      "winner": "ふーへん"
+    },
+    {
+      "date": "2026-10-30",
+      "quizNo": 323,
+      "group": "D2",
+      "order": 11,
+      "winner": "ひーた"
+    },
     {
       "date": "2026-06-19",
       "quizNo": 304,
@@ -251,8 +265,8 @@
       "winner": "STN"
     }
   ],
-  "appearanceCount": 32,
-  "correctCount": 31,
+  "appearanceCount": 34,
+  "correctCount": 33,
   "accuracy": 97,
   "anotherVersions": []
 }

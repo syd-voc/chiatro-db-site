@@ -1,0 +1,393 @@
+{
+  "user": "りのん",
+  "slug": "GE3G82G8AGE3G81GAEGE3G82G93",
+  "correctSongs": [
+    {
+      "contentId": "sm9797269",
+      "title": "白い雪のプリンセスは",
+      "artist": "のぼる↑",
+      "artistList": [
+        "のぼる↑"
+      ],
+      "startTime": "2010-02-22T05:09:08+09:00",
+      "viewCounter": 3778651,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm34873394",
+      "title": "奇跡さえも",
+      "artist": "Omoi",
+      "artistList": [
+        "Omoi"
+      ],
+      "startTime": "2019-03-29T20:29:02+09:00",
+      "viewCounter": 613224,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm23862638",
+      "title": "Desperate",
+      "artist": "鼻そうめんP, ざにお",
+      "artistList": [
+        "鼻そうめんP",
+        "ざにお"
+      ],
+      "startTime": "2014-06-26T01:39:54+09:00",
+      "viewCounter": 221716,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm45316610",
+      "title": "マジック・メイド",
+      "artist": "MIMI",
+      "artistList": [
+        "MIMI"
+      ],
+      "startTime": "2025-08-23T00:00:00+09:00",
+      "viewCounter": 849730,
+      "correctCount": 1
+    },
+    {
+      "contentId": "sm39267476",
+      "title": "ラストスコア",
+      "artist": "せきこみごはん",
+      "artistList": [
+        "せきこみごはん"
+      ],
+      "startTime": "2021-08-31T19:00:00+09:00",
+      "viewCounter": 1024930,
+      "correctCount": 1
+    }
+  ],
+  "artistStats": [
+    {
+      "artist": "のぼる↑",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "Omoi",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "鼻そうめんP",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "ざにお",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "MIMI",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "artist": "せきこみごはん",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "eraStats": [
+    {
+      "era": "2010",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2019",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2014",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2025",
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "era": "2021",
+      "correctCount": 1,
+      "correctSongCount": 1
+    }
+  ],
+  "viewStats": [
+    {
+      "range": "-1万",
+      "order": 0,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1-10万",
+      "order": 1,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "10-30万",
+      "order": 2,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "30-50万",
+      "order": 3,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "50-100万",
+      "order": 4,
+      "correctCount": 2,
+      "correctSongCount": 2
+    },
+    {
+      "range": "100-200万",
+      "order": 5,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "200-300万",
+      "order": 6,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "300-500万",
+      "order": 7,
+      "correctCount": 1,
+      "correctSongCount": 1
+    },
+    {
+      "range": "500-1000万",
+      "order": 8,
+      "correctCount": 0,
+      "correctSongCount": 0
+    },
+    {
+      "range": "1000万-",
+      "order": 9,
+      "correctCount": 0,
+      "correctSongCount": 0
+    }
+  ],
+  "scatter": [
+    {
+      "title": "白い雪のプリンセスは",
+      "contentId": "sm9797269",
+      "startTime": 1266782948000,
+      "viewCounter": 3778651
+    },
+    {
+      "title": "奇跡さえも",
+      "contentId": "sm34873394",
+      "startTime": 1553858942000,
+      "viewCounter": 613224
+    },
+    {
+      "title": "Desperate",
+      "contentId": "sm23862638",
+      "startTime": 1403714394000,
+      "viewCounter": 221716
+    },
+    {
+      "title": "マジック・メイド",
+      "contentId": "sm45316610",
+      "startTime": 1755874800000,
+      "viewCounter": 849730
+    },
+    {
+      "title": "ラストスコア",
+      "contentId": "sm39267476",
+      "startTime": 1630404000000,
+      "viewCounter": 1024930
+    }
+  ],
+  "summary": {
+    "totalAnswers": 8,
+    "okAnswers": 5,
+    "ngAnswers": 3,
+    "participatedQuizCount": 1,
+    "winQuizCount": 1,
+    "loseQuizCount": 0,
+    "medianViews": 731477
+  },
+  "joinedQuizzes": [
+    {
+      "quiz_no": 319,
+      "group": "D1",
+      "date": "2026-10-03",
+      "ok": 5,
+      "ng": 3,
+      "winRank": 5,
+      "hasLose": false,
+      "songs": [
+        {
+          "order": 1,
+          "contentId": "sm26813372",
+          "title": "リアル初音ミクの消失",
+          "artistList": [
+            "cosMo@暴走P"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/26813372/26813372",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "りのん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "つばさ"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "contentId": "sm9797269",
+          "title": "白い雪のプリンセスは",
+          "artistList": [
+            "のぼる↑"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/9797269/9797269.74835",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "①",
+              "user": "りのん"
+            }
+          ]
+        },
+        {
+          "order": 18,
+          "contentId": "sm22587884",
+          "title": "ELECT",
+          "artistList": [
+            "niki"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22587884/22587884",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "りのん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "★(1)",
+              "user": "ひーた"
+            }
+          ]
+        },
+        {
+          "order": 21,
+          "contentId": "sm34873394",
+          "title": "奇跡さえも",
+          "artistList": [
+            "Omoi"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/34873394/34873394.21091",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "②",
+              "user": "りのん"
+            }
+          ]
+        },
+        {
+          "order": 27,
+          "contentId": "sm23862638",
+          "title": "Desperate",
+          "artistList": [
+            "鼻そうめんP",
+            "ざにお"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/23862638/23862638",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "③",
+              "user": "りのん"
+            }
+          ]
+        },
+        {
+          "order": 32,
+          "contentId": "sm45316610",
+          "title": "マジック・メイド",
+          "artistList": [
+            "MIMI"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45316610/45316610.49946557",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "りのん"
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "contentId": "sm44397533",
+          "title": "み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ",
+          "artistList": [
+            "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/44397533/44397533.98839564",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "×",
+              "user": "りのん"
+            },
+            {
+              "type": "text",
+              "value": "→"
+            },
+            {
+              "type": "user",
+              "prefix": "④",
+              "user": "上海スベスベ"
+            }
+          ]
+        },
+        {
+          "order": 46,
+          "contentId": "sm39267476",
+          "title": "ラストスコア",
+          "artistList": [
+            "せきこみごはん"
+          ],
+          "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39267476/39267476.48548912",
+          "tokens": [
+            {
+              "type": "user",
+              "prefix": "★(5)",
+              "user": "りのん"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

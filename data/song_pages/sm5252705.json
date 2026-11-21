@@ -3,15 +3,15 @@
     "song": "Closed Blue",
     "contentId": "sm5252705",
     "title": "【初音ミク(40㍍)】Closed Blue【オリジナル】",
-    "commentCounter": 3144,
+    "commentCounter": 3145,
     "lengthSeconds": 302,
-    "likeCounter": 69,
+    "likeCounter": 70,
     "mylistCounter": 5381,
     "rank": 312,
     "startTime": "2008-11-15T18:23:50+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/5252705/5252705",
     "userId": 3343223,
-    "viewCounter": 221791,
+    "viewCounter": 222062,
     "artist": [
       "40mP"
     ],
@@ -29,6 +29,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-10-16",
+      "quizNo": 321,
+      "group": "B",
+      "order": 21,
+      "winner": "スライドポテト"
+    },
+    {
+      "date": "2026-10-03",
+      "quizNo": 319,
+      "group": "A",
+      "order": 46,
+      "winner": "と"
+    },
     {
       "date": "2026-03-07",
       "quizNo": 289,
@@ -54,8 +68,8 @@
       "order": 68
     }
   ],
-  "appearanceCount": 4,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 6,
+  "correctCount": 2,
+  "accuracy": 33,
   "anotherVersions": []
 }

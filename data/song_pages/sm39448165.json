@@ -5,13 +5,13 @@
     "title": "弱者 / 初音ミク",
     "commentCounter": 130,
     "lengthSeconds": 209,
-    "likeCounter": 494,
+    "likeCounter": 496,
     "mylistCounter": 379,
-    "rank": 623,
+    "rank": 628,
     "startTime": "2021-10-08T15:47:02+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39448165/39448165.82053819",
     "userId": 88786564,
-    "viewCounter": 59834,
+    "viewCounter": 60736,
     "artist": [
       "john"
     ],
@@ -27,14 +27,21 @@
   },
   "histories": [
     {
+      "date": "2026-11-06",
+      "quizNo": 324,
+      "group": "A",
+      "order": 18,
+      "winner": "手下"
+    },
+    {
       "date": "2025-03-15",
       "quizNo": 241,
       "group": "C",
       "order": 3
     }
   ],
-  "appearanceCount": 1,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 2,
+  "correctCount": 1,
+  "accuracy": 50,
   "anotherVersions": []
 }

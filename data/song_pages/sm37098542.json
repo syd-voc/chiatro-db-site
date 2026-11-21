@@ -3,15 +3,15 @@
     "song": "ド変",
     "contentId": "sm37098542",
     "title": "ド変 / 初音ミク",
-    "commentCounter": 1797,
+    "commentCounter": 1800,
     "lengthSeconds": 165,
-    "likeCounter": 716,
-    "mylistCounter": 1614,
-    "rank": 191,
+    "likeCounter": 719,
+    "mylistCounter": 1611,
+    "rank": 193,
     "startTime": "2020-06-27T17:30:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/37098542/37098542.71791012",
     "userId": 25068192,
-    "viewCounter": 96099,
+    "viewCounter": 96597,
     "artist": [
       "Inagi"
     ],
@@ -25,12 +25,24 @@
       "謎の中毒性",
       "ド変",
       "爆音推奨",
-      "がなり声",
       "VOCALOID殿堂入り直前"
     ],
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-10-10",
+      "quizNo": 320,
+      "group": "C1",
+      "order": 6,
+      "winner": "稲葉快晴"
+    },
+    {
+      "date": "2026-09-19",
+      "quizNo": 317,
+      "group": "C2",
+      "order": 60
+    },
     {
       "date": "2026-07-10",
       "quizNo": 307,
@@ -129,8 +141,8 @@
       "winner": "rina"
     }
   ],
-  "appearanceCount": 14,
-  "correctCount": 14,
-  "accuracy": 100,
+  "appearanceCount": 16,
+  "correctCount": 15,
+  "accuracy": 94,
   "anotherVersions": []
 }

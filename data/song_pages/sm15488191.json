@@ -3,15 +3,15 @@
     "song": "Hello, Worker",
     "contentId": "sm15488191",
     "title": "「Hello, Worker」 - KEI feat.巡音ルカ",
-    "commentCounter": 17626,
+    "commentCounter": 17645,
     "lengthSeconds": 236,
-    "likeCounter": 2794,
-    "mylistCounter": 48322,
+    "likeCounter": 2880,
+    "mylistCounter": 48376,
     "rank": 29,
     "startTime": "2011-09-02T05:00:03+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/15488191/15488191",
     "userId": 334765,
-    "viewCounter": 1979930,
+    "viewCounter": 1988925,
     "artist": [
       "ハヤシケイ"
     ],
@@ -29,6 +29,26 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-11-21",
+      "quizNo": 326,
+      "group": "B",
+      "order": 31,
+      "winner": "よかずき"
+    },
+    {
+      "date": "2026-10-31",
+      "quizNo": 323,
+      "group": "C1",
+      "order": 50,
+      "winner": "ゆーと"
+    },
+    {
+      "date": "2026-09-11",
+      "quizNo": 316,
+      "group": "C1",
+      "order": 56
+    },
     {
       "date": "2026-05-30",
       "quizNo": 301,
@@ -195,8 +215,8 @@
       "winner": "しるばー"
     }
   ],
-  "appearanceCount": 24,
-  "correctCount": 24,
-  "accuracy": 100,
+  "appearanceCount": 27,
+  "correctCount": 26,
+  "accuracy": 96,
   "anotherVersions": []
 }

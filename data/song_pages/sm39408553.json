@@ -3,15 +3,15 @@
     "song": "再生",
     "contentId": "sm39408553",
     "title": "再生 ft.初音ミク",
-    "commentCounter": 1112,
+    "commentCounter": 1119,
     "lengthSeconds": 265,
-    "likeCounter": 3969,
-    "mylistCounter": 3525,
+    "likeCounter": 4006,
+    "mylistCounter": 3547,
     "rank": 71,
     "startTime": "2021-09-29T22:20:02+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/39408553/39408553.15746790",
     "userId": 2786131,
-    "viewCounter": 665998,
+    "viewCounter": 673570,
     "artist": [
       "ピコン"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-11-20",
+      "quizNo": 326,
+      "group": "D1",
+      "order": 22,
+      "winner": "りつりつ"
+    },
+    {
+      "date": "2026-10-30",
+      "quizNo": 323,
+      "group": "C2",
+      "order": 63
+    },
     {
       "date": "2026-08-07",
       "quizNo": 311,
@@ -171,8 +184,8 @@
       "winner": "Abbey"
     }
   ],
-  "appearanceCount": 20,
-  "correctCount": 20,
-  "accuracy": 100,
+  "appearanceCount": 22,
+  "correctCount": 21,
+  "accuracy": 95,
   "anotherVersions": []
 }

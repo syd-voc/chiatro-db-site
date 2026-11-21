@@ -6,10 +6,10 @@
       "まかろり"
     ],
     "channelId": null,
-    "commentCounter": 745,
+    "commentCounter": 780,
     "lengthSeconds": 223,
-    "likeCounter": 2572,
-    "mylistCounter": 1215,
+    "likeCounter": 2681,
+    "mylistCounter": 1216,
     "startTime": "2026-02-20T19:00:00+09:00",
     "tags": [
       "VOCALOID",
@@ -26,10 +26,23 @@
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45968014/45968014.59498230",
     "title": "ひかりのあつめかた/初音ミク",
     "userId": 129898857,
-    "viewCounter": 53496,
-    "rank": 31
+    "viewCounter": 62973,
+    "rank": 54
   },
   "histories": [
+    {
+      "date": "2026-10-23",
+      "quizNo": 322,
+      "group": "D2",
+      "order": 70
+    },
+    {
+      "date": "2026-09-04",
+      "quizNo": 315,
+      "group": "D1",
+      "order": 70,
+      "winner": "おはよう"
+    },
     {
       "date": "2026-06-06",
       "quizNo": 302,
@@ -43,8 +56,8 @@
       "order": 77
     }
   ],
-  "appearanceCount": 2,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 4,
+  "correctCount": 1,
+  "accuracy": 25,
   "anotherVersions": []
 }

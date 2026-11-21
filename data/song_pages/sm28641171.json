@@ -6,12 +6,12 @@
     "commentCounter": 1020,
     "lengthSeconds": 186,
     "likeCounter": 47,
-    "mylistCounter": 2084,
+    "mylistCounter": 2091,
     "rank": 205,
     "startTime": "2016-04-15T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28641171/28641171",
     "userId": 3343223,
-    "viewCounter": 168317,
+    "viewCounter": 168495,
     "artist": [
       "40mP"
     ],
@@ -28,6 +28,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-11-06",
+      "quizNo": 324,
+      "group": "A",
+      "order": 90,
+      "winner": "テフミネ"
+    },
+    {
+      "date": "2026-10-17",
+      "quizNo": 321,
+      "group": "C1",
+      "order": 55
+    },
     {
       "date": "2026-03-14",
       "quizNo": 290,
@@ -89,8 +102,8 @@
       "winner": "RRR"
     }
   ],
-  "appearanceCount": 9,
-  "correctCount": 6,
-  "accuracy": 67,
+  "appearanceCount": 11,
+  "correctCount": 7,
+  "accuracy": 64,
   "anotherVersions": []
 }

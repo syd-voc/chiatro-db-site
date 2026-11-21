@@ -11,7 +11,7 @@
     "startTime": "2016-04-03T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28562822/28562822",
     "userId": 3343223,
-    "viewCounter": 169245,
+    "viewCounter": 169483,
     "artist": [
       "40mP"
     ],
@@ -30,6 +30,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-09-26",
+      "quizNo": 318,
+      "group": "B",
+      "order": 95,
+      "winner": "世界のYAMADA"
+    },
     {
       "date": "2026-07-31",
       "quizNo": 310,
@@ -139,8 +146,8 @@
       "winner": "ホワイトホールヶ丘商店街"
     }
   ],
-  "appearanceCount": 16,
-  "correctCount": 14,
+  "appearanceCount": 17,
+  "correctCount": 15,
   "accuracy": 88,
   "anotherVersions": []
 }

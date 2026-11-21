@@ -3,15 +3,15 @@
     "song": "ミュージックミュージック",
     "contentId": "sm24333080",
     "title": "ミュージックミュージック / とあ feat. 初音ミク",
-    "commentCounter": 10452,
+    "commentCounter": 10453,
     "lengthSeconds": 229,
-    "likeCounter": 1253,
-    "mylistCounter": 20219,
+    "likeCounter": 1274,
+    "mylistCounter": 20217,
     "rank": 42,
     "startTime": "2014-08-27T20:03:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/24333080/24333080",
     "userId": 32047444,
-    "viewCounter": 1614291,
+    "viewCounter": 1619329,
     "artist": [
       "とあ"
     ],
@@ -30,6 +30,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-11-07",
+      "quizNo": 324,
+      "group": "B",
+      "order": 42,
+      "winner": "しゃい"
+    },
+    {
+      "date": "2026-10-03",
+      "quizNo": 319,
+      "group": "C1",
+      "order": 3,
+      "winner": "うつぼっち"
+    },
     {
       "date": "2026-05-16",
       "quizNo": 299,
@@ -246,8 +260,8 @@
       "winner": "まつせ"
     }
   ],
-  "appearanceCount": 31,
-  "correctCount": 31,
+  "appearanceCount": 33,
+  "correctCount": 33,
   "accuracy": 100,
   "anotherVersions": []
 }

@@ -3,15 +3,15 @@
     "song": "スノウドライヴ(01.23)",
     "contentId": "sm22730034",
     "title": "『スノウドライヴ(01.23)』 / 初音ミク - Omoi",
-    "commentCounter": 1404,
+    "commentCounter": 1418,
     "lengthSeconds": 267,
-    "likeCounter": 279,
-    "mylistCounter": 3990,
+    "likeCounter": 290,
+    "mylistCounter": 3993,
     "rank": 284,
     "startTime": "2014-01-23T18:58:20+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/22730034/22730034",
     "userId": 33110496,
-    "viewCounter": 290318,
+    "viewCounter": 291131,
     "artist": [
       "Omoi"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-10-09",
+      "quizNo": 320,
+      "group": "C2",
+      "order": 52
+    },
+    {
+      "date": "2026-10-02",
+      "quizNo": 319,
+      "group": "C2",
+      "order": 11,
+      "winner": "すBAR"
+    },
     {
       "date": "2026-01-24",
       "quizNo": 285,
@@ -66,8 +79,8 @@
       "winner": "とげ"
     }
   ],
-  "appearanceCount": 5,
-  "correctCount": 5,
-  "accuracy": 100,
+  "appearanceCount": 7,
+  "correctCount": 6,
+  "accuracy": 86,
   "anotherVersions": []
 }

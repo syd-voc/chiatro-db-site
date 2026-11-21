@@ -3,15 +3,15 @@
     "song": "はやぶさ",
     "contentId": "sm10187442",
     "title": "【初音ミク】 はやぶさ 【オリジナル曲】",
-    "commentCounter": 125747,
+    "commentCounter": 125767,
     "lengthSeconds": 431,
-    "likeCounter": 973,
-    "mylistCounter": 36435,
+    "likeCounter": 1005,
+    "mylistCounter": 36440,
     "rank": 42,
     "startTime": "2010-03-28T04:33:24+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10187442/10187442",
     "userId": 896838,
-    "viewCounter": 1251776,
+    "viewCounter": 1253949,
     "artist": [
       "キセノンP"
     ],
@@ -31,6 +31,27 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-10-10",
+      "quizNo": 320,
+      "group": "C1",
+      "order": 71,
+      "winner": "すもも"
+    },
+    {
+      "date": "2026-09-26",
+      "quizNo": 318,
+      "group": "B",
+      "order": 86,
+      "winner": "にーも"
+    },
+    {
+      "date": "2026-08-29",
+      "quizNo": 314,
+      "group": "D1",
+      "order": 7,
+      "winner": "おとまる"
+    },
     {
       "date": "2026-05-16",
       "quizNo": 299,
@@ -203,8 +224,41 @@
       "winner": "けんくろ"
     }
   ],
-  "appearanceCount": 25,
-  "correctCount": 23,
-  "accuracy": 92,
-  "anotherVersions": []
+  "appearanceCount": 28,
+  "correctCount": 26,
+  "accuracy": 93,
+  "anotherVersions": [
+    {
+      "original": "sm10187442",
+      "contentId": "sm11050741",
+      "song": "はやぶさ-Welcome Back Version-",
+      "artist": [
+        "キセノンP"
+      ],
+      "channelId": null,
+      "commentCounter": 13661,
+      "lengthSeconds": 379,
+      "likeCounter": 71,
+      "mylistCounter": 7827,
+      "startTime": "2010-06-13T16:29:46+09:00",
+      "tags": [
+        "VOCALOID",
+        "探査機「はやぶさ」",
+        "SHO(キセノンP)",
+        "目からキセノンガス",
+        "おつかいできた！",
+        "神ならぬ身にて天上の星に辿り着くもの",
+        "次はsm25044396で",
+        "魂実装済み",
+        "VOCALOID殿堂入り",
+        "ボカロバラード",
+        "重金属英雄シリーズ"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/11050741/11050741",
+      "title": "【初音ミク】 はやぶさ -Welcome Back Version- 【バラードアレンジ】",
+      "userId": 4587283,
+      "viewCounter": 204462,
+      "rank": 270
+    }
+  ]
 }

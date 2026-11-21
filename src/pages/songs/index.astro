@@ -19,7 +19,8 @@ const ranges = [
     { key: "2022", label: "2022" },
     { key: "2023", label: "2023" },
     { key: "2024", label: "2024" },
-    { key: "2025-", label: "2025–" },
+    { key: "2025", label: "2025" },
+    { key: "2026-", label: "2026–" },
 ];
 ---
 
@@ -27,12 +28,10 @@ const ranges = [
     <h1>楽曲一覧</h1>
 
     <ul>
-        {
-            ranges.map((r) => (
-                <li>
-                    <a href={`/songs/${r.key}`}>{r.label}</a>
-                </li>
-            ))
-        }
+        {ranges.map((r) => (
+            <li>
+                <a href={`/songs/${r.key}`}>{r.label}</a>
+            </li>
+        ))}
     </ul>
 </BaseLayout>

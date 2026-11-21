@@ -3,15 +3,15 @@
     "song": "ヒガン",
     "contentId": "sm36902997",
     "title": "ヒガン / 初音ミク",
-    "commentCounter": 1594,
+    "commentCounter": 1600,
     "lengthSeconds": 214,
-    "likeCounter": 5323,
-    "mylistCounter": 6989,
+    "likeCounter": 5437,
+    "mylistCounter": 7054,
     "rank": 36,
     "startTime": "2020-05-22T19:00:02+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/36902997/36902997.91411899",
     "userId": 88786564,
-    "viewCounter": 1993707,
+    "viewCounter": 2020150,
     "artist": [
       "john"
     ],
@@ -30,6 +30,25 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-10-02",
+      "quizNo": 319,
+      "group": "C2",
+      "order": 82
+    },
+    {
+      "date": "2026-09-26",
+      "quizNo": 318,
+      "group": "D2",
+      "order": 94
+    },
+    {
+      "date": "2026-09-05",
+      "quizNo": 315,
+      "group": "D2",
+      "order": 50,
+      "winner": "水筒"
+    },
     {
       "date": "2026-08-08",
       "quizNo": 311,
@@ -220,8 +239,8 @@
       "winner": "尾白もち"
     }
   ],
-  "appearanceCount": 28,
-  "correctCount": 26,
-  "accuracy": 93,
+  "appearanceCount": 31,
+  "correctCount": 27,
+  "accuracy": 87,
   "anotherVersions": []
 }

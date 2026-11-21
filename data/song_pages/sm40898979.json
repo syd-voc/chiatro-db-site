@@ -3,15 +3,15 @@
     "song": "カレラ",
     "contentId": "sm40898979",
     "title": "カレラ / 初音ミク+Sohbana",
-    "commentCounter": 152,
+    "commentCounter": 158,
     "lengthSeconds": 203,
-    "likeCounter": 807,
-    "mylistCounter": 480,
-    "rank": 719,
+    "likeCounter": 830,
+    "mylistCounter": 491,
+    "rank": 710,
     "startTime": "2022-08-12T18:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40898979/40898979.48279522",
     "userId": 75236176,
-    "viewCounter": 79863,
+    "viewCounter": 81834,
     "artist": [
       "Sohbana",
       "無色透名祭公式"
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-10-03",
+      "quizNo": 319,
+      "group": "A",
+      "order": 32,
+      "winner": "ゲオス"
+    },
     {
       "date": "2025-02-21",
       "quizNo": 238,
@@ -72,9 +79,9 @@
       "winner": "おぷち"
     }
   ],
-  "appearanceCount": 6,
-  "correctCount": 4,
-  "accuracy": 67,
+  "appearanceCount": 7,
+  "correctCount": 5,
+  "accuracy": 71,
   "anotherVersions": [
     {
       "original": "sm40898979",
@@ -86,8 +93,8 @@
       "channelId": 2648319,
       "commentCounter": 275,
       "lengthSeconds": 201,
-      "likeCounter": 1175,
-      "mylistCounter": 649,
+      "likeCounter": 1179,
+      "mylistCounter": 650,
       "startTime": "2022-07-28T18:00:00+09:00",
       "tags": [
         "VOCALOID",
@@ -103,8 +110,8 @@
       "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/40819975/40819975.4897679",
       "title": "カレラ / 初音ミク",
       "userId": null,
-      "viewCounter": 46132,
-      "rank": 550
+      "viewCounter": 46708,
+      "rank": 561
     }
   ]
 }

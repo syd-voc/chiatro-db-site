@@ -9,7 +9,7 @@
     "commentCounter": 943,
     "lengthSeconds": 331,
     "likeCounter": 26,
-    "mylistCounter": 1449,
+    "mylistCounter": 1448,
     "startTime": "2010-03-25T22:34:34+09:00",
     "tags": [
       "VOCALOID",
@@ -26,10 +26,17 @@
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/10159484/10159484",
     "title": "初音ミクオリジナル曲 『angel cry』",
     "userId": 1166507,
-    "viewCounter": 46342,
-    "rank": 1099
+    "viewCounter": 46422,
+    "rank": 1100
   },
   "histories": [
+    {
+      "date": "2026-11-06",
+      "quizNo": 324,
+      "group": "A",
+      "order": 10,
+      "winner": "ホワイト"
+    },
     {
       "date": "2026-07-31",
       "quizNo": 310,
@@ -37,8 +44,8 @@
       "order": 2
     }
   ],
-  "appearanceCount": 1,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 2,
+  "correctCount": 1,
+  "accuracy": 50,
   "anotherVersions": []
 }

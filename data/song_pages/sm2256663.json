@@ -6,12 +6,12 @@
     "commentCounter": 3438,
     "lengthSeconds": 210,
     "likeCounter": 53,
-    "mylistCounter": 4082,
+    "mylistCounter": 4087,
     "rank": 404,
     "startTime": "2008-02-07T22:04:38+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2256663/2256663",
     "userId": 351409,
-    "viewCounter": 137377,
+    "viewCounter": 137475,
     "artist": [
       "iroha"
     ],
@@ -32,14 +32,21 @@
   },
   "histories": [
     {
+      "date": "2026-10-02",
+      "quizNo": 319,
+      "group": "B",
+      "order": 56,
+      "winner": "Lyz"
+    },
+    {
       "date": "2024-12-20",
       "quizNo": 231,
       "group": "B",
       "order": 23
     }
   ],
-  "appearanceCount": 1,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 2,
+  "correctCount": 1,
+  "accuracy": 50,
   "anotherVersions": []
 }

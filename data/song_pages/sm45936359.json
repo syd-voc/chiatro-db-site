@@ -6,10 +6,10 @@
       "Kai"
     ],
     "channelId": null,
-    "commentCounter": 483,
+    "commentCounter": 493,
     "lengthSeconds": 130,
-    "likeCounter": 1797,
-    "mylistCounter": 729,
+    "likeCounter": 1851,
+    "mylistCounter": 733,
     "startTime": "2026-02-19T18:00:00+09:00",
     "tags": [
       "VOCALOID",
@@ -25,10 +25,24 @@
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45936359/45936359.98489542",
     "title": "シュレディンガール / 初音ミク",
     "userId": 120671524,
-    "viewCounter": 65549,
-    "rank": 76
+    "viewCounter": 75760,
+    "rank": 123
   },
   "histories": [
+    {
+      "date": "2026-11-13",
+      "quizNo": 325,
+      "group": "A",
+      "order": 53,
+      "winner": "ぬーん"
+    },
+    {
+      "date": "2026-10-02",
+      "quizNo": 319,
+      "group": "C2",
+      "order": 27,
+      "winner": "すBAR"
+    },
     {
       "date": "2026-07-03",
       "quizNo": 306,
@@ -36,8 +50,8 @@
       "order": 17
     }
   ],
-  "appearanceCount": 1,
-  "correctCount": 0,
-  "accuracy": 0,
+  "appearanceCount": 3,
+  "correctCount": 2,
+  "accuracy": 67,
   "anotherVersions": []
 }

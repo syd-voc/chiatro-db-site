@@ -3,15 +3,15 @@
     "song": "いますぐ輪廻",
     "contentId": "sm45241713",
     "title": "いますぐ輪廻 / 初音ミク",
-    "commentCounter": 9718,
+    "commentCounter": 10226,
     "lengthSeconds": 122,
-    "likeCounter": 20005,
-    "mylistCounter": 7786,
+    "likeCounter": 20979,
+    "mylistCounter": 8117,
     "rank": 3,
     "startTime": "2025-08-01T19:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/45241713/45241713.81772729",
     "userId": 53610183,
-    "viewCounter": 2549671,
+    "viewCounter": 2719648,
     "artist": [
       "なきそ"
     ],
@@ -24,13 +24,41 @@
       "ミクオリジナル曲",
       "VOCALOID魔法少女入り",
       "VOCALOIDゲーム入り",
-      "ヤンデロイド",
       "VOCALOID伝説入り",
-      "ダークなぼかうた"
+      "vocaloidオリジナル曲",
+      "VOCALOID学生化計画"
     ],
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-11-06",
+      "quizNo": 324,
+      "group": "C1",
+      "order": 59,
+      "winner": "すBAR"
+    },
+    {
+      "date": "2026-10-23",
+      "quizNo": 322,
+      "group": "C2",
+      "order": 69,
+      "winner": "paradoxes"
+    },
+    {
+      "date": "2026-09-19",
+      "quizNo": 317,
+      "group": "B",
+      "order": 6,
+      "winner": "とつは"
+    },
+    {
+      "date": "2026-09-04",
+      "quizNo": 315,
+      "group": "D1",
+      "order": 4,
+      "winner": "千夜"
+    },
     {
       "date": "2026-06-26",
       "quizNo": 305,
@@ -130,8 +158,8 @@
       "winner": "Moai太郎"
     }
   ],
-  "appearanceCount": 14,
-  "correctCount": 14,
+  "appearanceCount": 18,
+  "correctCount": 18,
   "accuracy": 100,
   "anotherVersions": []
 }

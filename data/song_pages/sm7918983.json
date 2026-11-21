@@ -3,15 +3,15 @@
     "song": "天樂",
     "contentId": "sm7918983",
     "title": "【鏡音リン】 天樂 【オリジナル】",
-    "commentCounter": 22416,
+    "commentCounter": 22422,
     "lengthSeconds": 275,
-    "likeCounter": 3532,
-    "mylistCounter": 66796,
+    "likeCounter": 3654,
+    "mylistCounter": 66907,
     "rank": 20,
     "startTime": "2009-08-12T23:59:17+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/7918983/7918983.63901958",
     "userId": 325945,
-    "viewCounter": 2957798,
+    "viewCounter": 2972089,
     "artist": [
       "ゆうゆ"
     ],
@@ -31,6 +31,27 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-10-31",
+      "quizNo": 323,
+      "group": "A",
+      "order": 5,
+      "winner": "フォルテ"
+    },
+    {
+      "date": "2026-10-03",
+      "quizNo": 319,
+      "group": "C1",
+      "order": 53,
+      "winner": "フリスク"
+    },
+    {
+      "date": "2026-10-02",
+      "quizNo": 319,
+      "group": "B",
+      "order": 46,
+      "winner": "Lyz"
+    },
     {
       "date": "2026-05-02",
       "quizNo": 297,
@@ -233,8 +254,41 @@
       "winner": "かりゅうど"
     }
   ],
-  "appearanceCount": 29,
-  "correctCount": 28,
+  "appearanceCount": 32,
+  "correctCount": 31,
   "accuracy": 97,
-  "anotherVersions": []
+  "anotherVersions": [
+    {
+      "original": "sm7918983",
+      "contentId": "sm42131913",
+      "song": "天樂-双響-",
+      "artist": [
+        "ゆうゆ"
+      ],
+      "channelId": null,
+      "commentCounter": 521,
+      "lengthSeconds": 284,
+      "likeCounter": 1726,
+      "mylistCounter": 1308,
+      "startTime": "2023-04-29T20:00:00+09:00",
+      "tags": [
+        "VOCALOID",
+        "ゆうゆP",
+        "n!ka",
+        "天樂-双響-",
+        "鏡音リン・レン",
+        "鏡音オリジナル曲",
+        "天樂",
+        "VOCAROCK",
+        "VOCALOIDアレンジ曲",
+        "歌踊コレok",
+        "マジカルミライ2026"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42131913/42131913.41095093",
+      "title": "天樂 -双響- / ゆうゆ feat.鏡音リン,鏡音レン",
+      "userId": 325945,
+      "viewCounter": 88364,
+      "rank": 214
+    }
+  ]
 }

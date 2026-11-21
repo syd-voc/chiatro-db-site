@@ -3,15 +3,15 @@
     "song": "エイプリルスター",
     "contentId": "sm42016196",
     "title": "エイプリルスター　feat. 重音テトSV",
-    "commentCounter": 1542,
+    "commentCounter": 1546,
     "lengthSeconds": 232,
-    "likeCounter": 3565,
-    "mylistCounter": 1568,
+    "likeCounter": 3578,
+    "mylistCounter": 1569,
     "rank": 178,
     "startTime": "2023-04-03T12:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42016196/42016196.38298275",
     "userId": 122439384,
-    "viewCounter": 139390,
+    "viewCounter": 140695,
     "artist": [
       "OSTER project"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-11-13",
+      "quizNo": 325,
+      "group": "C1",
+      "order": 61,
+      "winner": "稲葉快晴"
+    },
     {
       "date": "2026-08-07",
       "quizNo": 311,
@@ -130,8 +137,41 @@
       "winner": "Cumber"
     }
   ],
-  "appearanceCount": 14,
-  "correctCount": 14,
+  "appearanceCount": 15,
+  "correctCount": 15,
   "accuracy": 100,
-  "anotherVersions": []
+  "anotherVersions": [
+    {
+      "original": "sm42016196",
+      "contentId": "sm43601116",
+      "song": "エイプリルスター rearranged",
+      "artist": [
+        "OSTER project"
+      ],
+      "channelId": null,
+      "commentCounter": 326,
+      "lengthSeconds": 318,
+      "likeCounter": 858,
+      "mylistCounter": 340,
+      "startTime": "2024-04-01T00:10:00+09:00",
+      "tags": [
+        "OSTER_project",
+        "VOCALOID",
+        "重音テトsv",
+        "エイプリルスター",
+        "重音テト",
+        "重音テト誕生祭2024",
+        "ボカロピアノ",
+        "セルフカバー",
+        "VOCALOIDアレンジ曲",
+        "synthesizervオリジナル曲",
+        "テトオリジナル曲"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43601116/43601116.77670267",
+      "title": "エイプリルスター rearranged feat. 重音テト SV",
+      "userId": 308936,
+      "viewCounter": 32534,
+      "rank": 591
+    }
+  ]
 }

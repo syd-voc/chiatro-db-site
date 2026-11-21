@@ -3,15 +3,15 @@
     "song": "魔法少女ラジカルペイント",
     "contentId": "sm2677711",
     "title": "初音ミクオリジナ曲　「魔法少女ラジカルペイント（LONG VERSION）」",
-    "commentCounter": 15631,
+    "commentCounter": 15632,
     "lengthSeconds": 228,
-    "likeCounter": 226,
-    "mylistCounter": 7175,
+    "likeCounter": 234,
+    "mylistCounter": 7171,
     "rank": 230,
     "startTime": "2008-03-17T03:56:13+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2677711/2677711",
     "userId": 1091989,
-    "viewCounter": 369216,
+    "viewCounter": 369833,
     "artist": [
       "cosMo@暴走P"
     ],
@@ -31,6 +31,13 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-10-16",
+      "quizNo": 321,
+      "group": "B",
+      "order": 69,
+      "winner": "Lyz"
+    },
     {
       "date": "2026-06-12",
       "quizNo": 303,
@@ -80,8 +87,49 @@
       "winner": "きぐな"
     }
   ],
-  "appearanceCount": 7,
-  "correctCount": 6,
-  "accuracy": 86,
-  "anotherVersions": []
+  "appearanceCount": 8,
+  "correctCount": 7,
+  "accuracy": 88,
+  "anotherVersions": [
+    {
+      "original": "sm2677711",
+      "contentId": "sm1999863",
+      "song": "魔法少女ラジカルペイント",
+      "artist": [
+        "cosMo@暴走P"
+      ],
+      "channelId": null,
+      "commentCounter": 2490,
+      "lengthSeconds": 97,
+      "likeCounter": 83,
+      "mylistCounter": 1507,
+      "startTime": "2008-01-10T23:22:10+09:00",
+      "tags": [
+        "音楽",
+        "ミクオリジナル曲",
+        "ラジカルペイント",
+        "cosMo(暴走P)",
+        "コスモ（魔法少女P）",
+        "フル→sm2677711",
+        "VOCALOID殿堂入り",
+        "初音ミク",
+        "VOCALOID",
+        "VOCALOID電波ソング",
+        "VOCALOID魔法少女入り"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1999863/1999863",
+      "title": "ボーカロイドにオリ曲を喋ってもらった３　「ラジカルペイント」",
+      "userId": 1091989,
+      "viewCounter": 116296,
+      "rank": 969
+    },
+    {
+      "original": "sm2677711",
+      "contentId": "sm3874763",
+      "song": "魔法少女ラジカルペイント (鏡音レン版)",
+      "artist": [
+        "cosMo@暴走P"
+      ]
+    }
+  ]
 }

@@ -3,15 +3,15 @@
     "song": "ジェラシス",
     "contentId": "sm38447989",
     "title": "Chinozo 「ジェラシス」 feat.KAFU",
-    "commentCounter": 2908,
+    "commentCounter": 2931,
     "lengthSeconds": 211,
-    "likeCounter": 3082,
-    "mylistCounter": 2834,
+    "likeCounter": 3119,
+    "mylistCounter": 2848,
     "rank": 97,
     "startTime": "2021-03-20T18:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38447989/38447989.5159011",
     "userId": 55005244,
-    "viewCounter": 452725,
+    "viewCounter": 457547,
     "artist": [
       "Chinozo"
     ],
@@ -24,13 +24,26 @@
       "cevioオリジナル曲",
       "CeVIO殿堂入り",
       "引きこもりp",
-      "VOCALOIDデモソング",
-      "アルセチカ",
-      "ジェラシス"
+      "ジェラシス(chinozo)",
+      "アルセチカ"
     ],
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-11-14",
+      "quizNo": 325,
+      "group": "D2",
+      "order": 2,
+      "winner": "あさぼらけ"
+    },
+    {
+      "date": "2026-10-17",
+      "quizNo": 321,
+      "group": "A",
+      "order": 43,
+      "winner": "手下"
+    },
     {
       "date": "2026-07-31",
       "quizNo": 310,
@@ -205,8 +218,8 @@
       "winner": "RRR"
     }
   ],
-  "appearanceCount": 25,
-  "correctCount": 25,
+  "appearanceCount": 27,
+  "correctCount": 27,
   "accuracy": 100,
   "anotherVersions": []
 }

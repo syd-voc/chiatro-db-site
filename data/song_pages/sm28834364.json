@@ -3,15 +3,15 @@
     "song": "Blue Star",
     "contentId": "sm28834364",
     "title": "【初音ミク】Blue Star【オリジナル曲+PV】",
-    "commentCounter": 1409,
+    "commentCounter": 1412,
     "lengthSeconds": 222,
-    "likeCounter": 564,
-    "mylistCounter": 3904,
+    "likeCounter": 581,
+    "mylistCounter": 3925,
     "rank": 118,
     "startTime": "2016-05-13T18:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28834364/28834364",
     "userId": 15104449,
-    "viewCounter": 242603,
+    "viewCounter": 244416,
     "artist": [
       "八王子P"
     ],
@@ -31,6 +31,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-11-20",
+      "quizNo": 326,
+      "group": "C1",
+      "order": 54,
+      "winner": "すBAR"
+    },
+    {
+      "date": "2026-09-11",
+      "quizNo": 316,
+      "group": "D1",
+      "order": 55,
+      "winner": "HAN"
+    },
     {
       "date": "2026-05-22",
       "quizNo": 300,
@@ -174,8 +188,41 @@
       "winner": "ろあ"
     }
   ],
-  "appearanceCount": 21,
-  "correctCount": 19,
-  "accuracy": 90,
-  "anotherVersions": []
+  "appearanceCount": 23,
+  "correctCount": 21,
+  "accuracy": 91,
+  "anotherVersions": [
+    {
+      "original": "sm28834364",
+      "contentId": "so28226811",
+      "song": "Blue Star (MIKU EXPO ver.)",
+      "artist": [
+        "八王子P"
+      ],
+      "channelId": 2578628,
+      "commentCounter": 1881,
+      "lengthSeconds": 222,
+      "likeCounter": 206,
+      "mylistCounter": 2538,
+      "startTime": "2016-02-16T09:55:00+09:00",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "八王子P",
+        "望月けい",
+        "Blue_Star",
+        "ミクオリジナル曲",
+        "ミクノポップ",
+        "お菊",
+        "MIKU_EXPO",
+        "VOCALOIDイメージソング",
+        "VOCALOID殿堂入り"
+      ],
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/28226811/28226811",
+      "title": "【初音ミク】Blue Star feat. 初音ミク (MIKU EXPO ver.)【MIKU EXPO 2016】",
+      "userId": null,
+      "viewCounter": 101301,
+      "rank": 169
+    }
+  ]
 }

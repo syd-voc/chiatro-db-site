@@ -1,15 +1,15 @@
 {
   "song": {
-    "song": "さよなら",
     "contentId": "sm1502190",
+    "song": "さよなら",
     "artist": [
       "林檎"
     ],
     "channelId": null,
     "commentCounter": 2011,
     "lengthSeconds": 169,
-    "likeCounter": 46,
-    "mylistCounter": 2773,
+    "likeCounter": 51,
+    "mylistCounter": 2776,
     "startTime": "2007-11-11T08:27:37+09:00",
     "tags": [
       "BAR初音",
@@ -27,10 +27,16 @@
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/1502190/1502190",
     "title": "初音ミクオリジナル〝さよなら〟",
     "userId": 756057,
-    "viewCounter": 107841,
-    "rank": 587
+    "viewCounter": 107938,
+    "rank": 586
   },
   "histories": [
+    {
+      "date": "2026-09-18",
+      "quizNo": 317,
+      "group": "A",
+      "order": 50
+    },
     {
       "date": "2024-08-16",
       "quizNo": 213,
@@ -51,8 +57,8 @@
       "winner": "ぽんぬ"
     }
   ],
-  "appearanceCount": 3,
+  "appearanceCount": 4,
   "correctCount": 1,
-  "accuracy": 33,
+  "accuracy": 25,
   "anotherVersions": []
 }

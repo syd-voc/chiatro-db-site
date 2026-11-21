@@ -3,15 +3,15 @@
     "song": "0001",
     "contentId": "sm43432665",
     "title": "0001/レイとミク",
-    "commentCounter": 3381,
+    "commentCounter": 3401,
     "lengthSeconds": 253,
-    "likeCounter": 5760,
-    "mylistCounter": 2282,
-    "rank": 67,
+    "likeCounter": 5810,
+    "mylistCounter": 2308,
+    "rank": 68,
     "startTime": "2024-02-23T00:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/43432665/43432665.986164",
     "userId": 91010630,
-    "viewCounter": 440500,
+    "viewCounter": 446067,
     "artist": [
       "とりぴよ"
     ],
@@ -25,12 +25,33 @@
       "とりぴよ(ボカロP)",
       "VOCALOID殿堂入り",
       "0001(とりぴよ)",
-      "初音ミクオリジナル曲",
-      "ききいるぼかうた"
+      "VOCALOIDイメージソング",
+      "足立レイオリジナル曲"
     ],
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-11-13",
+      "quizNo": 325,
+      "group": "C1",
+      "order": 5,
+      "winner": "paradoxes"
+    },
+    {
+      "date": "2026-10-03",
+      "quizNo": 319,
+      "group": "A",
+      "order": 51,
+      "winner": "とちこ"
+    },
+    {
+      "date": "2026-09-19",
+      "quizNo": 317,
+      "group": "D2",
+      "order": 23,
+      "winner": "そい"
+    },
     {
       "date": "2026-08-01",
       "quizNo": 310,
@@ -164,8 +185,8 @@
       "winner": "わいえい"
     }
   ],
-  "appearanceCount": 19,
-  "correctCount": 18,
+  "appearanceCount": 22,
+  "correctCount": 21,
   "accuracy": 95,
   "anotherVersions": []
 }

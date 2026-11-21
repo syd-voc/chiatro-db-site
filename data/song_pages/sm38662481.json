@@ -3,15 +3,15 @@
     "song": "「１」",
     "contentId": "sm38662481",
     "title": "「１」／164 feat.巡音ルカ",
-    "commentCounter": 859,
+    "commentCounter": 862,
     "lengthSeconds": 210,
-    "likeCounter": 1978,
-    "mylistCounter": 2380,
+    "likeCounter": 2002,
+    "mylistCounter": 2409,
     "rank": 126,
     "startTime": "2021-04-30T20:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/38662481/38662481.17565180",
     "userId": 582229,
-    "viewCounter": 382341,
+    "viewCounter": 385887,
     "artist": [
       "164"
     ],
@@ -31,6 +31,19 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-11-07",
+      "quizNo": 324,
+      "group": "C2",
+      "order": 85
+    },
+    {
+      "date": "2026-10-17",
+      "quizNo": 321,
+      "group": "D1",
+      "order": 26,
+      "winner": "ふーへん"
+    },
     {
       "date": "2026-07-11",
       "quizNo": 307,
@@ -191,8 +204,8 @@
       "winner": "rina"
     }
   ],
-  "appearanceCount": 23,
-  "correctCount": 23,
-  "accuracy": 100,
+  "appearanceCount": 25,
+  "correctCount": 24,
+  "accuracy": 96,
   "anotherVersions": []
 }

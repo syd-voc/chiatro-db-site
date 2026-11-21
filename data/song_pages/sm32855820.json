@@ -3,15 +3,15 @@
     "song": "ヨヒラ",
     "contentId": "sm32855820",
     "title": "ヨヒラ / 初音ミク",
-    "commentCounter": 5770,
+    "commentCounter": 5772,
     "lengthSeconds": 193,
-    "likeCounter": 1277,
-    "mylistCounter": 18519,
+    "likeCounter": 1322,
+    "mylistCounter": 18537,
     "rank": 22,
     "startTime": "2018-03-09T18:00:00+09:00",
     "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/32855820/32855820",
     "userId": 26225387,
-    "viewCounter": 1179838,
+    "viewCounter": 1186038,
     "artist": [
       "n-buna"
     ],
@@ -31,6 +31,20 @@
     "channelId": null
   },
   "histories": [
+    {
+      "date": "2026-10-24",
+      "quizNo": 322,
+      "group": "C1",
+      "order": 9,
+      "winner": "ニナ"
+    },
+    {
+      "date": "2026-09-26",
+      "quizNo": 318,
+      "group": "D2",
+      "order": 30,
+      "winner": "かげひなた"
+    },
     {
       "date": "2026-05-16",
       "quizNo": 299,
@@ -255,8 +269,8 @@
       "winner": "ぽっくる"
     }
   ],
-  "appearanceCount": 33,
-  "correctCount": 30,
+  "appearanceCount": 35,
+  "correctCount": 32,
   "accuracy": 91,
   "anotherVersions": []
 }
